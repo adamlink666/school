@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:scte214="urn:scte:dash:scte214-extensions" profiles="urn:mpeg:dash:profile:isoff-on-demand:2011" type="static" mediaPresentationDuration="PT1H44M16.66708333S" minBufferTime="PT2S">
   <Period id="1" duration="PT4.004S" start="PT0S">
-    <BaseURL>https://gcp.amer-free.prd.media.max.com/amer/4120cf32-0ecd-4bb4-8060-0932d4e5e1bd/</BaseURL>
+    <BaseURL>https://gcp.prd.media.h264.io/309d18b9-4fa5-42f3-9604-36e8c0d3994e/</BaseURL>
     <AdaptationSet subsegmentAlignment="true" subsegmentStartsWithSAP="1" id="1" lang="en-US" contentType="audio">
       <Representation mimeType="audio/mp4" audioSamplingRate="48000" bandwidth="63647" codecs="mp4a.40.5" id="a1">
         <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
