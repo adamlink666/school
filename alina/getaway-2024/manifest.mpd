@@ -480,51 +480,8 @@
         bandwidth="128000">
       </Representation>
     </AdaptationSet>
-    <AdaptationSet
-      id="2"
-      group="3"
-      contentType="text"
-      lang="zh"
-      mimeType="application/mp4"
-      codecs="wvtt"
-      startWithSAP="1">
-      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
-      <SegmentTemplate
-        timescale="1000"
-        initialization="1754372458870-output_cenc_dash-$RepresentationID$.dash"
-        media="1754372458870-output_cenc_dash-$RepresentationID$-$Time$.dash">
-        <SegmentTimeline>
-          <S t="0" d="6000" r="806" />
-          <S d="2209" />
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation
-        id="textstream_chi=1000"
-        bandwidth="1000">
-      </Representation>
-    </AdaptationSet>
-    <AdaptationSet
-      id="3"
-      group="3"
-      contentType="text"
-      lang="en"
-      mimeType="application/mp4"
-      codecs="wvtt"
-      startWithSAP="1">
-      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
-      <SegmentTemplate
-        timescale="1000"
-        initialization="1754372458870-output_cenc_dash-$RepresentationID$.dash"
-        media="1754372458870-output_cenc_dash-$RepresentationID$-$Time$.dash">
-        <SegmentTimeline>
-          <S t="0" d="6000" r="788" />
-          <S d="5876" />
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation
-        id="textstream_eng=1000"
-        bandwidth="1000">
-      </Representation>
+
+
     </AdaptationSet>
     <AdaptationSet
       id="4"
