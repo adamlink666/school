@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created with Unified Streaming Platform  (version=1.12.9-29135) -->
+<MPD
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="urn:mpeg:dash:schema:mpd:2011"
+  xmlns:cenc="urn:mpeg:cenc:2013"
+  xmlns:mspr="urn:microsoft:playready"
+  xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd"
+  type="static"
+  mediaPresentationDuration="PT1H21M18.760S"
+  maxSegmentDuration="PT8S"
+  minBufferTime="PT10S"
+  profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264">
+  <Period
+    id="1"
+    duration="PT1H21M18.760S">
+    <BaseURL>https://unifi-vod.secureswiftcontent.com/content/pubcontent/vol/116E27BF-48E8-4E58-8D87-EC6E7447BDBC/1754372458870-output_cenc_dash.ism/</BaseURL>
+    <AdaptationSet
+      id="1"
+      group="1"
+      contentType="audio"
+      lang="en"
+      minBandwidth="64000"
+      maxBandwidth="128000"
+      segmentAlignment="true"
+      audioSamplingRate="48000"
+      mimeType="audio/mp4"
+      codecs="mp4a.40.2"
+      startWithSAP="1">
+      <AudioChannelConfiguration
+        schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011"
+        value="2" />
+      <!-- Common Encryption -->
+      <ContentProtection
+        schemeIdUri="urn:mpeg:dash:mp4protection:2011"
+        value="cenc"
+        cenc:default_KID="116E27BF-48E8-4E58-8D87-EC6E7447BDBC">
+      </ContentProtection>
+      <!-- PlayReady -->
+      <ContentProtection
+        schemeIdUri="urn:uuid:9A04F079-9840-4286-AB92-E65BE0885F95"
+        value="MSPR 2.0">
+        <cenc:pssh>AAACJnBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAgYGAgAAAQABAPwBPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgB2AHkAZAB1AEUAZQBoAEkAVwBFADYATgBoACsAeAB1AGQARQBlADkAdgBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEMAaQBDADkAMwB4ADAAYwBTAHcAOAA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</cenc:pssh>
+        <mspr:IsEncrypted>1</mspr:IsEncrypted>
+        <mspr:IV_Size>8</mspr:IV_Size>
+        <mspr:kid>vyduEehIWE6Nh+xudEe9vA==</mspr:kid>
+        <mspr:pro>BgIAAAEAAQD8ATwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AdgB5AGQAdQBFAGUAaABJAFcARQA2AE4AaAArAHgAdQBkAEUAZQA5AHYAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBDAGkAQwA5ADMAeAAwAGMAUwB3ADgAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</mspr:pro>
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection
+        schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+        <cenc:pssh>AAAAXHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADwIARIQEW4nv0joTliNh+xudEe9vBoIdXNwLWNlbmMiGEVXNG52MGpvVGxpTmgreHVkRWU5dkE9PSoAMgA=</cenc:pssh>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate
+        timescale="48000"
+        initialization="1754372458870-output_cenc_dash-$RepresentationID$.dash"
+        media="1754372458870-output_cenc_dash-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <S t="0" d="381952" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="2" />
+          <S d="288768" />
+          <S d="287744" r="1" />
+          <S d="227328" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation
+        id="audio_eng=64000"
+        bandwidth="64000">
+      </Representation>
+      <Representation
+        id="audio_eng=96000"
+        bandwidth="96000">
+      </Representation>
+      <Representation
+        id="audio_eng=128000"
+        bandwidth="128000">
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet
+      id="4"
+      group="2"
+      contentType="video"
+      par="16:9"
+      minBandwidth="149350"
+      maxBandwidth="2073465"
+      maxWidth="1920"
+      maxHeight="1080"
+      segmentAlignment="true"
+      sar="1:1"
+      frameRate="25"
+      mimeType="video/mp4"
+      startWithSAP="1">
+      <!-- Common Encryption -->
+      <ContentProtection
+        schemeIdUri="urn:mpeg:dash:mp4protection:2011"
+        value="cenc"
+        cenc:default_KID="116E27BF-48E8-4E58-8D87-EC6E7447BDBC">
+      </ContentProtection>
+      <!-- PlayReady -->
+      <ContentProtection
+        schemeIdUri="urn:uuid:9A04F079-9840-4286-AB92-E65BE0885F95"
+        value="MSPR 2.0">
+        <cenc:pssh>AAACJnBzc2gAAAAAmgTweZhAQoarkuZb4IhflQAAAgYGAgAAAQABAPwBPABXAFIATQBIAEUAQQBEAEUAUgAgAHgAbQBsAG4AcwA9ACIAaAB0AHQAcAA6AC8ALwBzAGMAaABlAG0AYQBzAC4AbQBpAGMAcgBvAHMAbwBmAHQALgBjAG8AbQAvAEQAUgBNAC8AMgAwADAANwAvADAAMwAvAFAAbABhAHkAUgBlAGEAZAB5AEgAZQBhAGQAZQByACIAIAB2AGUAcgBzAGkAbwBuAD0AIgA0AC4AMAAuADAALgAwACIAPgA8AEQAQQBUAEEAPgA8AFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBFAFkATABFAE4APgAxADYAPAAvAEsARQBZAEwARQBOAD4APABBAEwARwBJAEQAPgBBAEUAUwBDAFQAUgA8AC8AQQBMAEcASQBEAD4APAAvAFAAUgBPAFQARQBDAFQASQBOAEYATwA+ADwASwBJAEQAPgB2AHkAZAB1AEUAZQBoAEkAVwBFADYATgBoACsAeAB1AGQARQBlADkAdgBBAD0APQA8AC8ASwBJAEQAPgA8AEMASABFAEMASwBTAFUATQA+AEMAaQBDADkAMwB4ADAAYwBTAHcAOAA9ADwALwBDAEgARQBDAEsAUwBVAE0APgA8AC8ARABBAFQAQQA+ADwALwBXAFIATQBIAEUAQQBEAEUAUgA+AA==</cenc:pssh>
+        <mspr:IsEncrypted>1</mspr:IsEncrypted>
+        <mspr:IV_Size>8</mspr:IV_Size>
+        <mspr:kid>vyduEehIWE6Nh+xudEe9vA==</mspr:kid>
+        <mspr:pro>BgIAAAEAAQD8ATwAVwBSAE0ASABFAEEARABFAFIAIAB4AG0AbABuAHMAPQAiAGgAdAB0AHAAOgAvAC8AcwBjAGgAZQBtAGEAcwAuAG0AaQBjAHIAbwBzAG8AZgB0AC4AYwBvAG0ALwBEAFIATQAvADIAMAAwADcALwAwADMALwBQAGwAYQB5AFIAZQBhAGQAeQBIAGUAYQBkAGUAcgAiACAAdgBlAHIAcwBpAG8AbgA9ACIANAAuADAALgAwAC4AMAAiAD4APABEAEEAVABBAD4APABQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsARQBZAEwARQBOAD4AMQA2ADwALwBLAEUAWQBMAEUATgA+ADwAQQBMAEcASQBEAD4AQQBFAFMAQwBUAFIAPAAvAEEATABHAEkARAA+ADwALwBQAFIATwBUAEUAQwBUAEkATgBGAE8APgA8AEsASQBEAD4AdgB5AGQAdQBFAGUAaABJAFcARQA2AE4AaAArAHgAdQBkAEUAZQA5AHYAQQA9AD0APAAvAEsASQBEAD4APABDAEgARQBDAEsAUwBVAE0APgBDAGkAQwA5ADMAeAAwAGMAUwB3ADgAPQA8AC8AQwBIAEUAQwBLAFMAVQBNAD4APAAvAEQAQQBUAEEAPgA8AC8AVwBSAE0ASABFAEEARABFAFIAPgA=</mspr:pro>
+      </ContentProtection>
+      <!-- Widevine -->
+      <ContentProtection
+        schemeIdUri="urn:uuid:EDEF8BA9-79D6-4ACE-A3C8-27DCD51D21ED">
+        <cenc:pssh>AAAAXHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAADwIARIQEW4nv0joTliNh+xudEe9vBoIdXNwLWNlbmMiGEVXNG52MGpvVGxpTmgreHVkRWU5dkE9PSoAMgA=</cenc:pssh>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main" />
+      <SegmentTemplate
+        timescale="600"
+        initialization="1754372458870-output_cenc_dash-$RepresentationID$.dash"
+        media="1754372458870-output_cenc_dash-$RepresentationID$-$Time$.dash">
+        <SegmentTimeline>
+          <S t="0" d="3600" r="812" />
+          <S d="456" />
+        </SegmentTimeline>
+      </SegmentTemplate>
+      <Representation
+        id="video=149350"
+        bandwidth="149350"
+        width="480"
+        height="270"
+        codecs="avc1.640015"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=218229"
+        bandwidth="218229"
+        width="640"
+        height="360"
+        codecs="avc1.64001E"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=251276"
+        bandwidth="251276"
+        width="640"
+        height="360"
+        codecs="avc1.64001E"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=440705"
+        bandwidth="440705"
+        width="864"
+        height="486"
+        codecs="avc1.64001F"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=763766"
+        bandwidth="763766"
+        width="1280"
+        height="720"
+        codecs="avc1.64001F"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=1545455"
+        bandwidth="1545455"
+        width="1920"
+        height="1080"
+        codecs="avc1.640028"
+        scanType="progressive">
+      </Representation>
+      <Representation
+        id="video=2073465"
+        bandwidth="2073465"
+        width="1920"
+        height="1080"
+        codecs="avc1.640028"
+        scanType="progressive">
+      </Representation>
+    </AdaptationSet>
+
+<!-- Subtitles AdaptationSet for Malay -->
+<AdaptationSet
+    contentType="text"
+    lang="ms"
+    label="Bahasa Melayu"
+    mimeType="text/vtt">
+    
+    <Representation id="textstream_ms_1" bandwidth="0">
+        <BaseURL>https://adamlink666.github.io/school/alina/getaway-2024/</BaseURL>
+        <SegmentList>
+            <SegmentURL media="subtitles_msa.vtt"/>
+        </SegmentList>
+    </Representation>
+</AdaptationSet>
+
+<!-- Subtitles AdaptationSet for English -->
+<AdaptationSet
+    contentType="text"
+    lang="en"
+    label="English"
+    mimeType="text/vtt">
+    
+    <Representation id="textstream_en_1" bandwidth="0">
+        <BaseURL>https://adamlink666.github.io/school/alina/getaway-2024/</BaseURL>
+        <SegmentList>
+            <SegmentURL media="subtitles_eng.vtt"/>
+        </SegmentList>
+    </Representation>
+</AdaptationSet>
+
+<!-- Subtitles AdaptationSet for Chinese -->
+<AdaptationSet
+    contentType="text"
+    lang="zh"
+    label="Chinese"
+    mimeType="text/vtt">
+    
+    <Representation id="textstream_zh_1" bandwidth="0">
+        <BaseURL>https://adamlink666.github.io/school/alina/getaway-2024/</BaseURL>
+        <SegmentList>
+            <SegmentURL media="subtitles_chi.vtt"/>
+        </SegmentList>
+    </Representation>
+</AdaptationSet>
+
+
+  </Period>
+</MPD>
