@@ -68,6 +68,30 @@
     </Representation>
 </AdaptationSet>
 
+<AdaptationSet mimeType="audio/mp4" segmentAlignment="true" lang="zh-mandarin">
+      <Label>mandarin</Label>
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" xmlns:cenc="urn:mpeg:cenc:2013" cenc:default_KID="712242b8-2844-5fdc-94f8-24aaae8a62d2" value="cenc"/>
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAhHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGQSEHEiQrgoRF/clPgkqq6KYtIaJGY2YTc0MzFmLTlmYTYtNDJiZi1hNjEyLWRmNjZlOTNhNTA3NCIkNzEyMjQyYjgtMjg0NC01ZmRjLTk0ZjgtMjRhYWFlOGE2MmQySOPclZsG</cenc:pssh>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="dub"/>
+      <Representation id="6b10df68-30f1-45af-99f5-19004158665c" bandwidth="128000" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <SegmentTemplate media="audio/zh-mandarin_1/widevine/segment_$Number$.m4s" startNumber="0" timescale="48000" duration="192000" initialization="audio/zh-mandarin_1/widevine/init.mp4"/>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet mimeType="audio/mp4" segmentAlignment="true" lang="zh-cantonese">
+      <Label>cantonese</Label>
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" xmlns:cenc="urn:mpeg:cenc:2013" cenc:default_KID="712242b8-2844-5fdc-94f8-24aaae8a62d2" value="cenc"/>
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAhHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGQSEHEiQrgoRF/clPgkqq6KYtIaJGY2YTc0MzFmLTlmYTYtNDJiZi1hNjEyLWRmNjZlOTNhNTA3NCIkNzEyMjQyYjgtMjg0NC01ZmRjLTk0ZjgtMjRhYWFlOGE2MmQySOPclZsG</cenc:pssh>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <Representation id="3d86d849-495c-4488-9f49-a918194cdce0" bandwidth="128000" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <SegmentTemplate media="audio/zh-cantonese_0/widevine/segment_$Number$.m4s" startNumber="0" timescale="48000" duration="192000" initialization="audio/zh-cantonese_0/widevine/init.mp4"/>
+      </Representation>
+</AdaptationSet>
 
   </Period>
 </MPD>
