@@ -1,0 +1,776 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="en-US" ttp:frameRate="25" ttp:frameRateMultiplier="1 1" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <metadata>
+      <ttm:title>ENG-CE-Kung Fu Hustle_Uncut_4T_LowRes_25F-TMP-Terry-QC1-Tenne-QC1-Sora</ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:fontFamily="default" tts:fontSize="100%" tts:fontStyle="normal" tts:fontWeight="normal" tts:color="white" />
+    </styling>
+    <layout>
+      <region xml:id="bottomCenter" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="after" tts:textAlign="center" />
+      <region xml:id="topCenter" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="before" tts:textAlign="center" />
+    </layout>
+  </head>
+  <body>
+    <div xml:id="d1" style="s1" xml:lang="en-US">
+      <p xml:id="p1" begin="00:00:51.040" end="00:00:53.720" region="bottomCenter">"Inspector Chan"</p>
+      <p xml:id="p2" begin="00:01:25.200" end="00:01:28.960" region="bottomCenter">"Super Crime Fighters"</p>
+      <p xml:id="p3" begin="00:01:39.280" end="00:01:40.760" region="bottomCenter">Who else?</p>
+      <p xml:id="p4" begin="00:01:48.720" end="00:01:50.920" region="bottomCenter">You arrested</p>
+      <p xml:id="p5" begin="00:01:51.280" end="00:01:54.840" region="bottomCenter">a beautiful woman like her</p>
+      <p xml:id="p6" begin="00:01:54.960" end="00:01:57.240" region="bottomCenter">just for spitting?</p>
+      <p xml:id="p7" begin="00:01:58.360" end="00:02:00.880" region="bottomCenter">Is there no justice?</p>
+      <p xml:id="p8" begin="00:02:01.920" end="00:02:03.840" region="bottomCenter">Is there no law?</p>
+      <p xml:id="p9" begin="00:02:05.080" end="00:02:08.000" region="bottomCenter">Your boss wouldn't<br/>bemake Commissioner,</p>
+      <p xml:id="p10" begin="00:02:08.120" end="00:02:10.440" region="bottomCenter">if he hadn't paid respect<br/>to the Crocodile Gang.</p>
+      <p xml:id="p11" begin="00:02:11.120" end="00:02:12.880" region="bottomCenter">And you don't freaking know me?</p>
+      <p xml:id="p12" begin="00:02:13.880" end="00:02:16.920" region="bottomCenter">Sorry, I didn't know<br/>she's your wife.</p>
+      <p xml:id="p13" begin="00:02:19.400" end="00:02:20.360" region="bottomCenter">Ugly coward, stop dodging!</p>
+      <p xml:id="p14" begin="00:02:22.920" end="00:02:23.880" region="bottomCenter">Let's go!</p>
+      <p xml:id="p15" begin="00:02:30.840" end="00:02:32.040" region="bottomCenter">What are you looking at?</p>
+      <p xml:id="p16" begin="00:02:32.160" end="00:02:33.360" region="bottomCenter">Never seen such<br/>a handsome gang boss before?</p>
+      <p xml:id="p17" begin="00:02:40.600" end="00:02:42.640" region="bottomCenter">Any business but the film business!</p>
+      <p xml:id="p18" begin="00:02:43.120" end="00:02:45.480" region="bottomCenter">There is not a single person<br/>in the theater on Sunday.</p>
+      <p xml:id="p19" begin="00:02:46.280" end="00:02:47.320" region="bottomCenter">Where's the car?</p>
+      <p xml:id="p20" begin="00:02:58.800" end="00:02:59.640" region="bottomCenter">Let's go back in!</p>
+      <p xml:id="p21" begin="00:03:20.720" end="00:03:21.680" region="bottomCenter">Call for help!</p>
+      <p xml:id="p22" begin="00:03:24.640" end="00:03:26.920" region="bottomCenter">No need for that, Northerner.</p>
+      <p xml:id="p23" begin="00:03:27.040" end="00:03:28.840" region="bottomCenter">While you were messing<br/>with hitting the cop,</p>
+      <p xml:id="p24" begin="00:03:28.960" end="00:03:32.200" region="bottomCenter">your men signed up with us.</p>
+      <p xml:id="p25" begin="00:03:33.560" end="00:03:36.560" region="bottomCenter">I'll kill all you Axe Gang!</p>
+      <p xml:id="p26" begin="00:04:08.560" end="00:04:09.720" region="bottomCenter">Hold on it!</p>
+      <p xml:id="p27" begin="00:04:10.200" end="00:04:11.960" region="bottomCenter">You forgotten that time<br/>I had treated you to dinner.</p>
+      <p xml:id="p28" begin="00:04:23.080" end="00:04:24.120" region="bottomCenter">Brother Sum.</p>
+      <p xml:id="p29" begin="00:04:31.600" end="00:04:32.640" region="bottomCenter">Please...</p>
+      <p xml:id="p30" begin="00:04:34.560" end="00:04:35.840" region="bottomCenter">Please spare me.</p>
+      <p xml:id="p31" begin="00:04:36.840" end="00:04:38.200" region="bottomCenter">Don't worry.</p>
+      <p xml:id="p32" begin="00:04:39.000" end="00:04:42.440" region="bottomCenter">I don't kill women. You can go!</p>
+      <p xml:id="p33" begin="00:04:43.280" end="00:04:44.560" region="bottomCenter">Thank you, Big Brother.</p>
+      <p xml:id="p34" begin="00:04:58.280" end="00:05:00.480" region="bottomCenter">The cops!<br/>Come out and clean up the mess!</p>
+      <p xml:id="p35" begin="00:06:15.760" end="00:06:18.960" region="bottomCenter">"The Axe Gang"</p>
+      <p xml:id="p36" begin="00:06:36.560" end="00:06:38.960" region="bottomCenter">"Cage Walled City"</p>
+      <p xml:id="p37" begin="00:06:53.160" end="00:06:55.080" region="bottomCenter">- Why butting?<br/>- I'm in a hurry.</p>
+      <p xml:id="p38" begin="00:06:55.200" end="00:06:57.160" region="bottomCenter">Get to the end of the line!</p>
+      <p xml:id="p39" begin="00:06:57.360" end="00:06:59.200" region="bottomCenter">(One, two, three!)</p>
+      <p xml:id="p40" begin="00:07:00.560" end="00:07:01.760" region="bottomCenter">That OK, Coollie?</p>
+      <p xml:id="p41" begin="00:07:01.880" end="00:07:02.720" region="bottomCenter">No problem!</p>
+      <p xml:id="p42" begin="00:07:19.720" end="00:07:22.120" region="bottomCenter">"Tailor Shop"</p>
+      <p xml:id="p43" begin="00:07:24.360" end="00:07:26.720" region="bottomCenter">"Noodles and Congee"</p>
+      <p xml:id="p44" begin="00:07:46.760" end="00:07:48.800" region="bottomCenter">Check please, Donut.</p>
+      <p xml:id="p45" begin="00:07:51.320" end="00:07:52.320" region="bottomCenter">How much?</p>
+      <p xml:id="p46" begin="00:07:52.880" end="00:07:54.000" region="bottomCenter">It's on the house!</p>
+      <p xml:id="p47" begin="00:07:54.120" end="00:07:55.120" region="bottomCenter">I like you!</p>
+      <p xml:id="p48" begin="00:07:55.920" end="00:07:57.840" region="bottomCenter">- Donut.<br/>- It's nothing...</p>
+      <p xml:id="p49" begin="00:07:58.200" end="00:07:59.160" region="bottomCenter">I go back.</p>
+      <p xml:id="p50" begin="00:07:59.280" end="00:08:01.440" region="bottomCenter">I'll talk to the wife<br/>about lowering your rent.</p>
+      <p xml:id="p51" begin="00:08:01.880" end="00:08:02.760" region="bottomCenter">Thank you!</p>
+      <p xml:id="p52" begin="00:08:03.400" end="00:08:04.360" region="bottomCenter">Mornin' landlord!</p>
+      <p xml:id="p53" begin="00:08:06.640" end="00:08:07.760" region="bottomCenter">Landlord!</p>
+      <p xml:id="p54" begin="00:08:08.200" end="00:08:09.680" region="bottomCenter">Jill, how you haved grown!</p>
+      <p xml:id="p55" begin="00:08:09.800" end="00:08:11.360" region="bottomCenter">Come over and let me examine you!</p>
+      <p xml:id="p56" begin="00:08:24.080" end="00:08:26.360" region="bottomCenter">Landlord, good to see you!</p>
+      <p xml:id="p57" begin="00:08:26.800" end="00:08:27.920" region="bottomCenter">What so good about it?</p>
+      <p xml:id="p58" begin="00:08:28.040" end="00:08:29.000" region="bottomCenter">Don't...</p>
+      <p xml:id="p59" begin="00:08:34.720" end="00:08:39.920" region="bottomCenter">Mr. Tailor,<br/>can you raise the skirt's slit?</p>
+      <p xml:id="p60" begin="00:08:40.160" end="00:08:41.800" region="bottomCenter">Sure!</p>
+      <p xml:id="p61" begin="00:08:42.040" end="00:08:43.680" region="bottomCenter">Look, comet!</p>
+      <p xml:id="p62" begin="00:08:47.040" end="00:08:48.360" region="bottomCenter">Jane, you naughty girl!</p>
+      <p xml:id="p63" begin="00:08:48.480" end="00:08:51.920" region="bottomCenter">Hey, Landlord! You're such a scamp!</p>
+      <p xml:id="p64" begin="00:08:54.920" end="00:09:00.040" region="bottomCenter">Don't go, Jane!<br/>Come have a chat!</p>
+      <p xml:id="p65" begin="00:09:00.320" end="00:09:02.200" region="bottomCenter">Don't take it seriously.</p>
+      <p xml:id="p66" begin="00:09:03.200" end="00:09:04.200" region="bottomCenter">Jane!</p>
+      <p xml:id="p67" begin="00:09:21.840" end="00:09:23.040" region="bottomCenter">Landlady!</p>
+      <p xml:id="p68" begin="00:09:24.000" end="00:09:25.320" region="bottomCenter">Landlady!</p>
+      <p xml:id="p69" begin="00:09:28.240" end="00:09:30.840" region="bottomCenter">What happened? There's no water?</p>
+      <p xml:id="p70" begin="00:09:44.440" end="00:09:46.960" region="bottomCenter">Water ain't free!</p>
+      <p xml:id="p71" begin="00:09:47.080" end="00:09:49.880" region="bottomCenter">You're talking too much<br/>for someone who won't pay his rent.</p>
+      <p xml:id="p72" begin="00:09:50.000" end="00:09:52.040" region="bottomCenter">But I'm in the middle of a shampoo.</p>
+      <p xml:id="p73" begin="00:09:52.360" end="00:09:53.800" region="bottomCenter">You shouldn't close the tap!</p>
+      <p xml:id="p74" begin="00:09:53.920" end="00:09:55.440" region="bottomCenter">That's only the start<br/>of your problems.</p>
+      <p xml:id="p75" begin="00:09:55.560" end="00:09:58.160" region="bottomCenter">From now on, no water on Mondays,<br/>Wednesdays and Fridays!</p>
+      <p xml:id="p76" begin="00:09:58.280" end="00:10:01.040" region="bottomCenter">Water ration on Tuesdays,<br/>Thursdays and Saturdays!</p>
+      <p xml:id="p77" begin="00:10:01.160" end="00:10:03.800" region="bottomCenter">I just love hearing<br/>you fools complain!</p>
+      <p xml:id="p78" begin="00:10:03.920" end="00:10:05.960" region="bottomCenter">Arse-holes!</p>
+      <p xml:id="p79" begin="00:10:06.160" end="00:10:07.400" region="bottomCenter">Good Morning, Landlady!</p>
+      <p xml:id="p80" begin="00:10:07.520" end="00:10:08.680" region="bottomCenter">What so good about it?</p>
+      <p xml:id="p81" begin="00:10:08.800" end="00:10:09.920" region="bottomCenter">Just pay your rent!</p>
+      <p xml:id="p82" begin="00:10:10.040" end="00:10:11.200" region="bottomCenter">I will burn your store.</p>
+      <p xml:id="p83" begin="00:10:12.240" end="00:10:13.480" region="bottomCenter">What so funny?</p>
+      <p xml:id="p84" begin="00:10:13.600" end="00:10:15.360" region="bottomCenter">So funny<br/>and you don't have to pay rent?</p>
+      <p xml:id="p85" begin="00:10:17.800" end="00:10:21.120" region="bottomCenter">Serves you right to be a coolie!</p>
+      <p xml:id="p86" begin="00:10:21.240" end="00:10:22.360" region="bottomCenter">Months late on your rent</p>
+      <p xml:id="p87" begin="00:10:22.480" end="00:10:24.320" region="bottomCenter">and you won't even<br/>say "Good Morning".</p>
+      <p xml:id="p88" begin="00:10:24.440" end="00:10:25.600" region="bottomCenter">You'll be a coolie for life.</p>
+      <p xml:id="p89" begin="00:10:31.800" end="00:10:33.720" region="bottomCenter">There you go, handsome!</p>
+      <p xml:id="p90" begin="00:10:38.400" end="00:10:39.720" region="bottomCenter">You! What took you so long<br/>with the congee?</p>
+      <p xml:id="p91" begin="00:10:39.840" end="00:10:40.840" region="bottomCenter">I am back.</p>
+      <p xml:id="p92" begin="00:10:40.960" end="00:10:42.840" region="bottomCenter">I stopped to help an old lady<br/>cross the street.</p>
+      <p xml:id="p93" begin="00:10:42.960" end="00:10:43.880" region="bottomCenter">Then what're you doing here?</p>
+      <p xml:id="p94" begin="00:10:44.000" end="00:10:45.640" region="bottomCenter">Checking if there're peeping toms.</p>
+      <p xml:id="p95" begin="00:10:45.760" end="00:10:47.640" region="bottomCenter">Auntie Six, did someone just spy<br/>on you peep when you bathed?</p>
+      <p xml:id="p96" begin="00:10:48.560" end="00:10:51.040" region="bottomCenter">Don't shoot your mouth off<br/>without proof.</p>
+      <p xml:id="p97" begin="00:10:54.600" end="00:10:57.240" region="bottomCenter">She's crazy.</p>
+      <p xml:id="p98" begin="00:11:28.600" end="00:11:30.040" region="bottomCenter">Go away!</p>
+      <p xml:id="p99" begin="00:11:47.560" end="00:11:50.400" region="bottomCenter">Sir Uncle, can you please teach us?</p>
+      <p xml:id="p100" begin="00:11:50.520" end="00:11:51.960" region="bottomCenter">No more soccer!</p>
+      <p xml:id="p101" begin="00:12:26.560" end="00:12:27.520" region="bottomCenter">Who wants the cut?</p>
+      <p xml:id="p102" begin="00:12:27.640" end="00:12:28.520" region="bottomCenter">My boss.</p>
+      <p xml:id="p103" begin="00:12:31.520" end="00:12:32.440" region="bottomCenter">Have a seat.</p>
+      <p xml:id="p104" begin="00:12:42.760" end="00:12:44.880" region="bottomCenter">Done! 50 cents please.</p>
+      <p xml:id="p105" begin="00:12:46.640" end="00:12:47.720" region="bottomCenter">Isn't it great?</p>
+      <p xml:id="p106" begin="00:12:48.320" end="00:12:49.640" region="bottomCenter">It's too good!</p>
+      <p xml:id="p107" begin="00:12:50.800" end="00:12:52.440" region="bottomCenter">Why make him look so good?</p>
+      <p xml:id="p108" begin="00:12:53.520" end="00:12:54.360" region="bottomCenter">Why?</p>
+      <p xml:id="p109" begin="00:13:01.880" end="00:13:03.160" region="bottomCenter">Don't get mad, Boss.</p>
+      <p xml:id="p110" begin="00:13:03.280" end="00:13:04.760" region="bottomCenter">This is my longtime buddy.<br/>I'll handle this.</p>
+      <p xml:id="p111" begin="00:13:07.400" end="00:13:08.280" region="bottomCenter">He's the Boss of the Axe Gang.</p>
+      <p xml:id="p112" begin="00:13:08.400" end="00:13:10.000" region="bottomCenter">Don't you see those two axes?</p>
+      <p xml:id="p113" begin="00:13:10.120" end="00:13:10.960" region="bottomCenter">We are bad guys.</p>
+      <p xml:id="p114" begin="00:13:11.080" end="00:13:12.880" region="bottomCenter">Making him look so good<br/>is really bad!</p>
+      <p xml:id="p115" begin="00:13:13.000" end="00:13:14.560" region="bottomCenter">- Don't you know?<br/>- I did not know.</p>
+      <p xml:id="p116" begin="00:13:14.680" end="00:13:16.080" region="bottomCenter">You're a numb skull!</p>
+      <p xml:id="p117" begin="00:13:16.560" end="00:13:18.640" region="bottomCenter">But I like you,<br/>so why don't you just pay me,</p>
+      <p xml:id="p118" begin="00:13:18.760" end="00:13:19.840" region="bottomCenter">and I'll take care of it.</p>
+      <p xml:id="p119" begin="00:13:19.960" end="00:13:20.840" region="bottomCenter">No way!</p>
+      <p xml:id="p120" begin="00:13:23.160" end="00:13:25.520" region="bottomCenter">Don't use that axes just yet, Boss.</p>
+      <p xml:id="p121" begin="00:13:25.640" end="00:13:26.480" region="bottomCenter">Let me talk to him.</p>
+      <p xml:id="p122" begin="00:13:29.040" end="00:13:29.960" region="bottomCenter">I really care for you.</p>
+      <p xml:id="p123" begin="00:13:30.080" end="00:13:32.080" region="bottomCenter">You saw it with your own eyes.<br/>I ain't lying.</p>
+      <p xml:id="p124" begin="00:13:32.200" end="00:13:33.640" region="bottomCenter">Why don't you pay up?</p>
+      <p xml:id="p125" begin="00:13:33.760" end="00:13:36.360" region="bottomCenter">Just a little. For make-up drinks.</p>
+      <p xml:id="p126" begin="00:13:36.520" end="00:13:38.720" region="bottomCenter">So you're blackmailing me!</p>
+      <p xml:id="p127" begin="00:13:40.440" end="00:13:41.320" region="bottomCenter">Boss!</p>
+      <p xml:id="p128" begin="00:13:42.520" end="00:13:44.480" region="bottomCenter">Boss...</p>
+      <p xml:id="p129" begin="00:13:47.360" end="00:13:50.280" region="bottomCenter">You're dead now!</p>
+      <p xml:id="p130" begin="00:13:51.320" end="00:13:52.760" region="bottomCenter">Looks like he's waking up soon!</p>
+      <p xml:id="p131" begin="00:13:53.080" end="00:13:56.880" region="bottomCenter">I'm not afraid. You can kill me,</p>
+      <p xml:id="p132" begin="00:13:57.000" end="00:13:59.320" region="bottomCenter">but there'll be<br/>thousands more of me!</p>
+      <p xml:id="p133" begin="00:14:03.280" end="00:14:04.280" region="bottomCenter">You wanna play rough?</p>
+      <p xml:id="p134" begin="00:14:04.480" end="00:14:06.280" region="bottomCenter">This is the Axe Gang Boss,<br/>taking a nap inside.</p>
+      <p xml:id="p135" begin="00:14:06.400" end="00:14:07.840" region="bottomCenter">Whoever wants to die?<br/>Please step forward.</p>
+      <p xml:id="p136" begin="00:14:11.520" end="00:14:12.760" region="bottomCenter">So you wanna rough house play?</p>
+      <p xml:id="p137" begin="00:14:12.880" end="00:14:15.720" region="bottomCenter">Great! We'll go one-on-one.</p>
+      <p xml:id="p138" begin="00:14:15.840" end="00:14:18.280" region="bottomCenter">Don't even think about cheating!</p>
+      <p xml:id="p139" begin="00:14:19.360" end="00:14:20.760" region="bottomCenter">The old woman with the onion.</p>
+      <p xml:id="p140" begin="00:14:23.120" end="00:14:24.440" region="bottomCenter">You look so tough.</p>
+      <p xml:id="p141" begin="00:14:24.560" end="00:14:25.720" region="bottomCenter">You wanna try me?</p>
+      <p xml:id="p142" begin="00:14:25.840" end="00:14:28.000" region="bottomCenter">I'll let you hit me first!</p>
+      <p xml:id="p143" begin="00:14:32.680" end="00:14:33.960" region="bottomCenter">What do you do?</p>
+      <p xml:id="p144" begin="00:14:34.280" end="00:14:35.840" region="bottomCenter">I'm a farmer.</p>
+      <p xml:id="p145" begin="00:14:36.040" end="00:14:37.760" region="bottomCenter">You're a farmer.<br/>You shouldn't fight.</p>
+      <p xml:id="p146" begin="00:14:37.880" end="00:14:39.040" region="bottomCenter">Why don't you scram!</p>
+      <p xml:id="p147" begin="00:14:39.760" end="00:14:40.960" region="bottomCenter">He's crazy!</p>
+      <p xml:id="p148" begin="00:14:41.080" end="00:14:42.640" region="bottomCenter">Calling me names?</p>
+      <p xml:id="p149" begin="00:14:42.760" end="00:14:44.600" region="bottomCenter">You're lucky that you're a woman!</p>
+      <p xml:id="p150" begin="00:14:46.400" end="00:14:47.360" region="bottomCenter">You, shortie!</p>
+      <p xml:id="p151" begin="00:14:47.480" end="00:14:49.040" region="bottomCenter">Yeah, you!</p>
+      <p xml:id="p152" begin="00:14:49.160" end="00:14:51.400" region="bottomCenter">If you're short,<br/>you must not retort!</p>
+      <p xml:id="p153" begin="00:14:55.360" end="00:14:57.960" region="bottomCenter">Hey, I don't like cheaters.</p>
+      <p xml:id="p154" begin="00:14:58.080" end="00:14:58.920" region="bottomCenter">Sit back down!</p>
+      <p xml:id="p155" begin="00:15:02.080" end="00:15:04.520" region="bottomCenter">You, the uncle with glasses,<br/>you look so mean.</p>
+      <p xml:id="p156" begin="00:15:07.600" end="00:15:11.080" region="bottomCenter">No, not you, I mean...</p>
+      <p xml:id="p157" begin="00:15:11.200" end="00:15:12.120" region="bottomCenter">You!</p>
+      <p xml:id="p158" begin="00:15:12.240" end="00:15:14.400" region="bottomCenter">Hey kid, let's rumble!</p>
+      <p xml:id="p159" begin="00:15:16.720" end="00:15:18.600" region="bottomCenter">Alright!</p>
+      <p xml:id="p160" begin="00:15:18.720" end="00:15:22.360" region="bottomCenter">So we won't have<br/>any one-on-ones today.</p>
+      <p xml:id="p161" begin="00:15:22.480" end="00:15:23.840" region="bottomCenter">You people are such wimps!</p>
+      <p xml:id="p162" begin="00:15:27.040" end="00:15:28.920" region="bottomCenter">He blackmailed me.</p>
+      <p xml:id="p163" begin="00:15:29.640" end="00:15:32.600" region="bottomCenter">Fat woman,<br/>you're in charge here, right?</p>
+      <p xml:id="p164" begin="00:15:32.840" end="00:15:34.200" region="bottomCenter">Fat woman my arse!</p>
+      <p xml:id="p165" begin="00:15:34.680" end="00:15:36.080" region="bottomCenter">I'm with the Axe Gang!</p>
+      <p xml:id="p166" begin="00:15:36.440" end="00:15:37.560" region="bottomCenter">Axe Gang my arse!</p>
+      <p xml:id="p167" begin="00:15:37.680" end="00:15:39.760" region="bottomCenter">- Boss!<br/>- Boss my arse!</p>
+      <p xml:id="p168" begin="00:15:40.800" end="00:15:41.640" region="bottomCenter">You have to pay for<br/>our medical bills!</p>
+      <p xml:id="p169" begin="00:15:41.760" end="00:15:43.200" region="bottomCenter">- Medical bills my arse!<br/>- Hey, we're on the same side!</p>
+      <p xml:id="p170" begin="00:15:43.320" end="00:15:44.440" region="bottomCenter">Same side my arse!</p>
+      <p xml:id="p171" begin="00:15:45.720" end="00:15:46.560" region="bottomCenter">Stop!</p>
+      <p xml:id="p172" begin="00:15:48.640" end="00:15:50.440" region="bottomCenter">Think you're so tough?<br/>I'll call back up!</p>
+      <p xml:id="p173" begin="00:15:51.240" end="00:15:54.080" region="bottomCenter">You nitwit!</p>
+      <p xml:id="p174" begin="00:15:54.200" end="00:15:55.360" region="bottomCenter">Let's see how you call back up!</p>
+      <p xml:id="p175" begin="00:15:56.960" end="00:15:59.800" region="bottomCenter">You don't know<br/>what kinda backing I have.</p>
+      <p xml:id="p176" begin="00:16:01.760" end="00:16:04.000" region="bottomCenter">Don't you go away!</p>
+      <p xml:id="p177" begin="00:16:04.120" end="00:16:05.840" region="bottomCenter">Go ahead and put a down payment<br/>on your coffin!</p>
+      <p xml:id="p178" begin="00:16:19.360" end="00:16:20.480" region="bottomCenter">Who threw the firecracker?</p>
+      <p xml:id="p179" begin="00:16:26.560" end="00:16:27.880" region="bottomCenter">I'm one of you, Brother.</p>
+      <p xml:id="p180" begin="00:16:49.520" end="00:16:51.120" region="bottomCenter">Don't be nosy!</p>
+      <p xml:id="p181" begin="00:16:51.240" end="00:16:53.960" region="bottomCenter">It's raining.<br/>Go, bring your laundry!</p>
+      <p xml:id="p182" begin="00:16:54.720" end="00:16:55.640" region="bottomCenter">Fat woman!</p>
+      <p xml:id="p183" begin="00:17:08.520" end="00:17:10.720" region="bottomCenter">You're blackmailing me too?</p>
+      <p xml:id="p184" begin="00:17:11.640" end="00:17:12.880" region="bottomCenter">I ain't afraid.</p>
+      <p xml:id="p185" begin="00:17:28.120" end="00:17:29.040" region="bottomCenter">I...</p>
+      <p xml:id="p186" begin="00:17:47.960" end="00:17:50.280" region="bottomCenter">Did anyone see what happened?</p>
+      <p xml:id="p187" begin="00:17:51.800" end="00:17:52.840" region="bottomCenter">Don't!</p>
+      <p xml:id="p188" begin="00:17:53.240" end="00:17:54.360" region="bottomCenter">My back is broken!</p>
+      <p xml:id="p189" begin="00:17:55.360" end="00:17:57.680" region="bottomCenter">Call for help!</p>
+      <p xml:id="p190" begin="00:18:43.680" end="00:18:44.520" region="bottomCenter">Move!</p>
+      <p xml:id="p191" begin="00:18:49.120" end="00:18:50.720" region="bottomCenter">Hold on, don't get mad.</p>
+      <p xml:id="p192" begin="00:18:50.840" end="00:18:52.480" region="bottomCenter">You hungry? I have...</p>
+      <p xml:id="p193" begin="00:19:16.400" end="00:19:17.240" region="bottomCenter">Shut up!</p>
+      <p xml:id="p194" begin="00:19:18.400" end="00:19:19.320" region="bottomCenter">Don't move,<br/>or I'll chop you to death!</p>
+      <p xml:id="p195" begin="00:19:56.560" end="00:19:57.840" region="bottomCenter">Who's responsible?</p>
+      <p xml:id="p196" begin="00:20:01.960" end="00:20:03.040" region="bottomCenter">I'll count to three.</p>
+      <p xml:id="p197" begin="00:20:06.280" end="00:20:07.200" region="bottomCenter">One...</p>
+      <p xml:id="p198" begin="00:20:10.760" end="00:20:13.160" region="bottomCenter">Two...</p>
+      <p xml:id="p199" begin="00:20:23.640" end="00:20:24.680" region="bottomCenter">I did it!</p>
+      <p xml:id="p200" begin="00:21:37.880" end="00:21:39.080" region="bottomCenter">Help!</p>
+      <p xml:id="p201" begin="00:23:34.520" end="00:23:36.000" region="bottomCenter">Brother Sum, are the goods OK?</p>
+      <p xml:id="p202" begin="00:23:37.920" end="00:23:39.000" region="bottomCenter">Sorry!</p>
+      <p xml:id="p203" begin="00:23:42.640" end="00:23:43.880" region="bottomCenter">Don't look, kid. Turn away.</p>
+      <p xml:id="p204" begin="00:23:48.360" end="00:23:49.280" region="bottomCenter">Take that away!</p>
+      <p xml:id="p205" begin="00:23:51.160" end="00:23:53.280" region="bottomCenter">We're the bad guys!</p>
+      <p xml:id="p206" begin="00:23:53.400" end="00:23:54.720" region="bottomCenter">Not the other way round!</p>
+      <p xml:id="p207" begin="00:23:56.120" end="00:23:57.840" region="bottomCenter">We got our arses kicked today.</p>
+      <p xml:id="p208" begin="00:23:58.360" end="00:24:01.000" region="bottomCenter">All because these two morons<br/>called themselves Axes!</p>
+      <p xml:id="p209" begin="00:24:01.960" end="00:24:04.680" region="bottomCenter">Don't bother with this,<br/>Brother Sum.</p>
+      <p xml:id="p210" begin="00:24:04.800" end="00:24:07.440" region="bottomCenter">You're in no shape mood for this!</p>
+      <p xml:id="p211" begin="00:24:07.560" end="00:24:08.760" region="bottomCenter">You, take care of it!</p>
+      <p xml:id="p212" begin="00:24:24.000" end="00:24:26.200" region="bottomCenter">Hey, he can really pick locks.</p>
+      <p xml:id="p213" begin="00:24:26.760" end="00:24:28.280" region="bottomCenter">Just making a living.<br/>Give me a chance.</p>
+      <p xml:id="p214" begin="00:24:28.400" end="00:24:30.720" region="bottomCenter">If you're so good,<br/>why don't you pick that one too!</p>
+      <p xml:id="p215" begin="00:24:30.920" end="00:24:31.840" region="bottomCenter">Get ready.</p>
+      <p xml:id="p216" begin="00:24:33.640" end="00:24:35.040" region="bottomCenter">I'll count to three.</p>
+      <p xml:id="p217" begin="00:24:36.240" end="00:24:37.160" region="bottomCenter">Hurry!</p>
+      <p xml:id="p218" begin="00:24:38.520" end="00:24:40.280" region="bottomCenter">Ready? Three...</p>
+      <p xml:id="p219" begin="00:24:50.160" end="00:24:51.880" region="bottomCenter">He is quick!</p>
+      <p xml:id="p220" begin="00:24:53.120" end="00:24:55.840" region="bottomCenter">Brother Sum,<br/>I really want to be an Axe.</p>
+      <p xml:id="p221" begin="00:24:55.960" end="00:24:57.160" region="bottomCenter">That's why I did what I did.</p>
+      <p xml:id="p222" begin="00:24:57.280" end="00:24:58.680" region="bottomCenter">Give me a chance.</p>
+      <p xml:id="p223" begin="00:24:58.880" end="00:25:00.320" region="bottomCenter">You killed anyone before?</p>
+      <p xml:id="p224" begin="00:25:00.440" end="00:25:02.720" region="bottomCenter">I've always thought about<br/>killing people.</p>
+      <p xml:id="p225" begin="00:25:03.000" end="00:25:04.360" region="bottomCenter">Then kill someone!</p>
+      <p xml:id="p226" begin="00:25:04.480" end="00:25:06.400" region="bottomCenter">I will!</p>
+      <p xml:id="p227" begin="00:25:07.720" end="00:25:08.760" region="bottomCenter">Go on!</p>
+      <p xml:id="p228" begin="00:25:09.200" end="00:25:10.240" region="bottomCenter">Thank you, Brother Sum!</p>
+      <p xml:id="p229" begin="00:25:21.480" end="00:25:24.520" region="bottomCenter">We can always find<br/>a use for his kind.</p>
+      <p xml:id="p230" begin="00:25:28.320" end="00:25:31.160" region="bottomCenter">I told you before,<br/>you must look tough!</p>
+      <p xml:id="p231" begin="00:25:31.280" end="00:25:32.360" region="bottomCenter">Tougher!</p>
+      <p xml:id="p232" begin="00:25:33.800" end="00:25:35.360" region="bottomCenter">Tougher!</p>
+      <p xml:id="p233" begin="00:25:37.520" end="00:25:40.760" region="bottomCenter">How could you fall asleep?<br/>Unprofessional!</p>
+      <p xml:id="p234" begin="00:25:40.920" end="00:25:42.080" region="bottomCenter">It's tiring to be tough.</p>
+      <p xml:id="p235" begin="00:25:42.200" end="00:25:44.800" region="bottomCenter">Tiring? We're making a living!</p>
+      <p xml:id="p236" begin="00:25:46.600" end="00:25:50.320" region="bottomCenter">In this world, the streets<br/>are filled with money and women.</p>
+      <p xml:id="p237" begin="00:25:50.440" end="00:25:52.640" region="bottomCenter">Whoever has the will<br/>and determination will triumph.</p>
+      <p xml:id="p238" begin="00:25:52.920" end="00:25:55.720" region="bottomCenter">Whoever makes use of opportunity<br/>can be a winner.</p>
+      <p xml:id="p239" begin="00:25:56.280" end="00:25:57.600" region="bottomCenter">Now we have a chance!</p>
+      <p xml:id="p240" begin="00:25:58.080" end="00:26:00.560" region="bottomCenter">We just kill someone,<br/>and we're in the gang!</p>
+      <p xml:id="p241" begin="00:26:01.080" end="00:26:04.040" region="bottomCenter">Then it'll be money<br/>and women all the way!</p>
+      <p xml:id="p242" begin="00:26:05.440" end="00:26:07.920" region="bottomCenter">Don't be like those beggars,</p>
+      <p xml:id="p243" begin="00:26:08.240" end="00:26:10.960" region="bottomCenter">no ambitions!</p>
+      <p xml:id="p244" begin="00:26:16.000" end="00:26:17.240" region="bottomCenter">Hey, what you looking at,<br/>Four-Eyes?</p>
+      <p xml:id="p245" begin="00:26:17.440" end="00:26:18.840" region="bottomCenter">I'll smash your glasses!</p>
+      <p xml:id="p246" begin="00:26:19.800" end="00:26:21.080" region="bottomCenter">Get lost!</p>
+      <p xml:id="p247" begin="00:26:22.040" end="00:26:23.320" region="bottomCenter">Get down here and say that!</p>
+      <p xml:id="p248" begin="00:26:23.440" end="00:26:24.440" region="bottomCenter">You really going to kill someone?</p>
+      <p xml:id="p249" begin="00:26:24.560" end="00:26:26.760" region="bottomCenter">Of course!<br/>I'll kill all the Four-Eyes,</p>
+      <p xml:id="p250" begin="00:26:26.880" end="00:26:27.800" region="bottomCenter">and the fat woman,</p>
+      <p xml:id="p251" begin="00:26:27.920" end="00:26:29.240" region="bottomCenter">and all the people in Pig's Cage!</p>
+      <p xml:id="p252" begin="00:26:29.360" end="00:26:31.120" region="bottomCenter">But they're good at kung fu.</p>
+      <p xml:id="p253" begin="00:26:31.240" end="00:26:33.000" region="bottomCenter">Kung fu? I'm good too!</p>
+      <p xml:id="p254" begin="00:26:33.120" end="00:26:34.040" region="bottomCenter">Oh yeah?</p>
+      <p xml:id="p255" begin="00:26:35.760" end="00:26:37.520" region="bottomCenter">Think I'd tell you</p>
+      <p xml:id="p256" begin="00:26:37.640" end="00:26:39.040" region="bottomCenter">if I knew Buddhist Palm kung fu?</p>
+      <p xml:id="p257" begin="00:26:42.000" end="00:26:43.680" region="bottomCenter">Hey there, handsome boy. Stop!</p>
+      <p xml:id="p258" begin="00:26:46.200" end="00:26:48.160" region="bottomCenter">Amazing!</p>
+      <p xml:id="p259" begin="00:26:49.240" end="00:26:51.800" region="bottomCenter">Did you know</p>
+      <p xml:id="p260" begin="00:26:51.920" end="00:26:52.880" region="bottomCenter">you have a special aura?</p>
+      <p xml:id="p261" begin="00:26:53.560" end="00:26:57.280" region="bottomCenter">You are so young<br/>but with the bone structure</p>
+      <p xml:id="p262" begin="00:26:57.400" end="00:27:00.080" region="bottomCenter">and "chi" flow of a kung fu genius.</p>
+      <p xml:id="p263" begin="00:27:00.640" end="00:27:03.320" region="bottomCenter">If one day,<br/>your chi flow is channeled,</p>
+      <p xml:id="p264" begin="00:27:03.440" end="00:27:05.400" region="bottomCenter">you will be invincible!</p>
+      <p xml:id="p265" begin="00:27:05.520" end="00:27:08.760" region="bottomCenter">"You cannot escape your destiny."</p>
+      <p xml:id="p266" begin="00:27:09.200" end="00:27:11.960" region="bottomCenter">The duty of upholding world peace,</p>
+      <p xml:id="p267" begin="00:27:12.080" end="00:27:13.560" region="bottomCenter">and punishing evil will go to you.</p>
+      <p xml:id="p268" begin="00:27:16.040" end="00:27:19.000" region="bottomCenter">This is the scroll of<br/>the Buddhist Palm. It's priceless.</p>
+      <p xml:id="p269" begin="00:27:19.120" end="00:27:21.240" region="bottomCenter">But I'll let you have it for $10.</p>
+      <p xml:id="p270" begin="00:27:21.360" end="00:27:22.400" region="bottomCenter">Just because it's fate!</p>
+      <p xml:id="p271" begin="00:27:24.880" end="00:27:28.240" region="bottomCenter">"The Buddhist Palm"</p>
+      <p xml:id="p272" begin="00:27:30.480" end="00:27:32.280" region="bottomCenter">You gave him your life savings?</p>
+      <p xml:id="p273" begin="00:27:32.400" end="00:27:34.480" region="bottomCenter">I was saving to study</p>
+      <p xml:id="p274" begin="00:27:34.600" end="00:27:36.520" region="bottomCenter">to be a doctor or lawyer,</p>
+      <p xml:id="p275" begin="00:27:36.640" end="00:27:38.440" region="bottomCenter">but it was world peace...</p>
+      <p xml:id="p276" begin="00:27:47.160" end="00:27:48.440" region="bottomCenter">"First, The Buddha's Aura Appeared"</p>
+      <p xml:id="p277" begin="00:27:49.120" end="00:27:50.520" region="bottomCenter">"Second, Nanga Asked the Buddha"</p>
+      <p xml:id="p278" begin="00:28:03.160" end="00:28:04.280" region="bottomCenter">Let go of the girl!</p>
+      <p xml:id="p279" begin="00:28:23.200" end="00:28:24.760" region="bottomCenter">Why it's the Buddhist Palm!</p>
+      <p xml:id="p280" begin="00:28:25.360" end="00:28:27.560" region="bottomCenter">The "20 Cent Kung Fu Manual".</p>
+      <p xml:id="p281" begin="00:28:28.360" end="00:28:31.000" region="bottomCenter">Have you killed anyone lately?<br/>You are loaded!</p>
+      <p xml:id="p282" begin="00:28:42.640" end="00:28:45.560" region="bottomCenter">One's a fool, the other's mute.</p>
+      <p xml:id="p283" begin="00:28:45.680" end="00:28:47.120" region="bottomCenter">Go kill yourselves! Losers!</p>
+      <p xml:id="p284" begin="00:28:48.600" end="00:28:50.960" region="bottomCenter">Since then, I realized that<br/>good guys finish last.</p>
+      <p xml:id="p285" begin="00:28:51.080" end="00:28:52.280" region="bottomCenter">I want to be bad.</p>
+      <p xml:id="p286" begin="00:28:53.320" end="00:28:55.040" region="bottomCenter">To kill, and not be killed!</p>
+      <p xml:id="p287" begin="00:28:56.760" end="00:28:58.280" region="bottomCenter">- Ice cream!<br/>- Where?</p>
+      <p xml:id="p288" begin="00:28:59.520" end="00:29:01.520" region="bottomCenter">Two... Vanilla for me!</p>
+      <p xml:id="p289" begin="00:29:01.640" end="00:29:02.520" region="bottomCenter">Chocolate here!</p>
+      <p xml:id="p290" begin="00:29:14.080" end="00:29:16.360" region="bottomCenter">What you looking at?<br/>Never seen free ice cream before?</p>
+      <p xml:id="p291" begin="00:29:21.120" end="00:29:22.520" region="bottomCenter">Look at her run!</p>
+      <p xml:id="p292" begin="00:29:37.960" end="00:29:39.800" region="bottomCenter">You're such kung fu masters.</p>
+      <p xml:id="p293" begin="00:29:39.920" end="00:29:43.200" region="bottomCenter">Go sell it as an act!</p>
+      <p xml:id="p294" begin="00:29:43.320" end="00:29:45.280" region="bottomCenter">You're better off<br/>in the circus than here!</p>
+      <p xml:id="p295" begin="00:29:45.520" end="00:29:47.360" region="bottomCenter">Don't say that, Landlady.</p>
+      <p xml:id="p296" begin="00:29:47.480" end="00:29:49.000" region="bottomCenter">They have their reasons.</p>
+      <p xml:id="p297" begin="00:29:49.760" end="00:29:51.640" region="bottomCenter">Everyone has his reasons.</p>
+      <p xml:id="p298" begin="00:29:52.440" end="00:29:54.160" region="bottomCenter">We don't want to make trouble.</p>
+      <p xml:id="p299" begin="00:29:54.560" end="00:29:56.080" region="bottomCenter">I'm glad you get it.</p>
+      <p xml:id="p300" begin="00:29:56.200" end="00:29:57.480" region="bottomCenter">We won't hear the end of it</p>
+      <p xml:id="p301" begin="00:29:57.600" end="00:29:58.920" region="bottomCenter">with the mob mad at us.</p>
+      <p xml:id="p302" begin="00:29:59.040" end="00:30:00.240" region="bottomCenter">Why don't you get lost!</p>
+      <p xml:id="p303" begin="00:30:01.120" end="00:30:03.480" region="bottomCenter">Your wife shouldn't be so mean.</p>
+      <p xml:id="p304" begin="00:30:05.280" end="00:30:06.840" region="bottomCenter">You OK?</p>
+      <p xml:id="p305" begin="00:30:09.160" end="00:30:10.360" region="bottomCenter">Masters...</p>
+      <p xml:id="p306" begin="00:30:17.440" end="00:30:20.160" region="bottomCenter">We have nothing precious<br/>to give you,</p>
+      <p xml:id="p307" begin="00:30:20.280" end="00:30:22.040" region="bottomCenter">but take this as a token of<br/>our appreciation.</p>
+      <p xml:id="p308" begin="00:30:23.160" end="00:30:24.640" region="bottomCenter">Thanks for saving us!</p>
+      <p xml:id="p309" begin="00:30:32.440" end="00:30:34.320" region="bottomCenter">Save your crying.</p>
+      <p xml:id="p310" begin="00:30:34.440" end="00:30:35.560" region="bottomCenter">This is not a show!</p>
+      <p xml:id="p311" begin="00:30:35.680" end="00:30:37.280" region="bottomCenter">You are cold hearted.</p>
+      <p xml:id="p312" begin="00:30:37.400" end="00:30:39.160" region="bottomCenter">Talking back to me?</p>
+      <p xml:id="p313" begin="00:30:39.280" end="00:30:40.320" region="bottomCenter">You may know kung fu</p>
+      <p xml:id="p314" begin="00:30:40.440" end="00:30:41.320" region="bottomCenter">but you're still a sissy.</p>
+      <p xml:id="p315" begin="00:30:44.840" end="00:30:47.160" region="bottomCenter">It's no crime<br/>being good at kung fu!</p>
+      <p xml:id="p316" begin="00:30:47.280" end="00:30:49.920" region="bottomCenter">Once a sissy, always a sissy.</p>
+      <p xml:id="p317" begin="00:30:50.040" end="00:30:52.440" region="bottomCenter">Look at you.<br/>Why do you wear red underwear?</p>
+      <p xml:id="p318" begin="00:30:52.560" end="00:30:55.160" region="bottomCenter">Why not a diaper<br/>while you're at it?</p>
+      <p xml:id="p319" begin="00:30:56.960" end="00:30:58.640" region="bottomCenter">What's wrong with red underwear?</p>
+      <p xml:id="p320" begin="00:30:59.240" end="00:31:02.120" region="bottomCenter">Where were you<br/>when there was trouble?</p>
+      <p xml:id="p321" begin="00:31:02.240" end="00:31:04.440" region="bottomCenter">If not for them,<br/>it could've been the end for us.</p>
+      <p xml:id="p322" begin="00:31:04.560" end="00:31:06.120" region="bottomCenter">Be reasonable!</p>
+      <p xml:id="p323" begin="00:31:06.240" end="00:31:07.720" region="bottomCenter">I'll reason with you</p>
+      <p xml:id="p324" begin="00:31:07.840" end="00:31:09.400" region="bottomCenter">You owe me three months rent.</p>
+      <p xml:id="p325" begin="00:31:09.520" end="00:31:10.920" region="bottomCenter">That'll be $90.</p>
+      <p xml:id="p326" begin="00:31:11.040" end="00:31:13.200" region="bottomCenter">Pay up or pack up!</p>
+      <p xml:id="p327" begin="00:31:13.320" end="00:31:15.680" region="bottomCenter">Don't you worry. I'll pay for them.</p>
+      <p xml:id="p328" begin="00:31:15.800" end="00:31:17.880" region="bottomCenter">Trying to be a smartarse,<br/>Bucktooth Jane?</p>
+      <p xml:id="p329" begin="00:31:18.000" end="00:31:20.520" region="bottomCenter">That's right. What're you<br/>going to do about it, Tub of Lard?</p>
+      <p xml:id="p330" begin="00:31:20.640" end="00:31:21.520" region="bottomCenter">Witch!</p>
+      <p xml:id="p331" begin="00:31:25.960" end="00:31:27.240" region="bottomCenter">They owe me rent.</p>
+      <p xml:id="p332" begin="00:31:34.520" end="00:31:42.400" region="bottomCenter">Dare you!</p>
+      <p xml:id="p333" begin="00:31:49.240" end="00:31:51.400" region="bottomCenter">You trying to drown me out?</p>
+      <p xml:id="p334" begin="00:31:54.560" end="00:31:57.520" region="bottomCenter">The fat lady can really sing.</p>
+      <p xml:id="p335" begin="00:31:58.680" end="00:31:59.920" region="bottomCenter">Watch me give it to her!</p>
+      <p xml:id="p336" begin="00:32:14.080" end="00:32:15.360" region="bottomCenter">What happened?</p>
+      <p xml:id="p337" begin="00:32:16.160" end="00:32:18.520" region="bottomCenter">What do you mean what happened?<br/>You try it!</p>
+      <p xml:id="p338" begin="00:32:18.880" end="00:32:19.880" region="bottomCenter">Me?</p>
+      <p xml:id="p339" begin="00:32:20.000" end="00:32:20.920" region="bottomCenter">Hurry!</p>
+      <p xml:id="p340" begin="00:32:26.360" end="00:32:28.120" region="bottomCenter">Sorry, you OK?</p>
+      <p xml:id="p341" begin="00:32:29.600" end="00:32:30.560" region="bottomCenter">I think you should move forward</p>
+      <p xml:id="p342" begin="00:32:30.680" end="00:32:31.560" region="bottomCenter">and take better aim.</p>
+      <p xml:id="p343" begin="00:32:31.680" end="00:32:32.520" region="bottomCenter">OK?</p>
+      <p xml:id="p344" begin="00:32:32.680" end="00:32:33.520" region="bottomCenter">OK!</p>
+      <p xml:id="p345" begin="00:32:45.600" end="00:32:46.640" region="bottomCenter">Who's throwing the handles?</p>
+      <p xml:id="p346" begin="00:32:47.120" end="00:32:48.000" region="bottomCenter">The handles?</p>
+      <p xml:id="p347" begin="00:32:49.400" end="00:32:51.720" region="bottomCenter">Where's the third knife's handles?</p>
+      <p xml:id="p348" begin="00:32:52.480" end="00:32:54.520" region="bottomCenter">God knows where you threw it.</p>
+      <p xml:id="p349" begin="00:32:54.920" end="00:32:56.960" region="bottomCenter">Could this be the same one?<br/>It can't be...</p>
+      <p xml:id="p350" begin="00:32:57.440" end="00:32:58.800" region="bottomCenter">- Don't!<br/>- Sorry.</p>
+      <p xml:id="p351" begin="00:33:01.480" end="00:33:02.720" region="bottomCenter">You trying to say something?</p>
+      <p xml:id="p352" begin="00:33:03.360" end="00:33:05.960" region="bottomCenter">I just remembered<br/>I have something to do.</p>
+      <p xml:id="p353" begin="00:33:06.080" end="00:33:07.000" region="bottomCenter">See you!</p>
+      <p xml:id="p354" begin="00:33:10.040" end="00:33:11.400" region="bottomCenter">Oh no! They've seen us!</p>
+      <p xml:id="p355" begin="00:33:13.240" end="00:33:14.160" region="bottomCenter">Don't come near!</p>
+      <p xml:id="p356" begin="00:33:20.440" end="00:33:22.720" region="bottomCenter">"Snake gallbladder"</p>
+      <p xml:id="p357" begin="00:33:23.000" end="00:33:24.880" region="bottomCenter">Don't panic! Snakes like music.</p>
+      <p xml:id="p358" begin="00:33:25.000" end="00:33:26.600" region="bottomCenter">Once I blow my whistle,<br/>they won't bite!</p>
+      <p xml:id="p359" begin="00:33:27.120" end="00:33:28.600" region="bottomCenter">Please don't blow it again.</p>
+      <p xml:id="p360" begin="00:33:32.240" end="00:33:33.360" region="bottomCenter">I'll blow...</p>
+      <p xml:id="p361" begin="00:33:40.200" end="00:33:41.800" region="bottomCenter">It's you again, arsehole!</p>
+      <p xml:id="p362" begin="00:33:42.040" end="00:33:44.000" region="bottomCenter">Go back to your business!</p>
+      <p xml:id="p363" begin="00:33:44.120" end="00:33:46.600" region="bottomCenter">Nothing to see here!</p>
+      <p xml:id="p364" begin="00:33:47.000" end="00:33:47.960" region="bottomCenter">Let's split up!</p>
+      <p xml:id="p365" begin="00:33:50.600" end="00:33:51.480" region="bottomCenter">Split?</p>
+      <p xml:id="p366" begin="00:35:59.120" end="00:36:00.400" region="bottomCenter">What're you doing here?</p>
+      <p xml:id="p367" begin="00:36:00.720" end="00:36:02.560" region="bottomCenter">Waiting for you! Weren't you hurt?</p>
+      <p xml:id="p368" begin="00:36:02.680" end="00:36:03.640" region="bottomCenter">I'm fine!</p>
+      <p xml:id="p369" begin="00:36:06.640" end="00:36:08.840" region="bottomCenter">How come you always recover<br/>so fast?</p>
+      <p xml:id="p370" begin="00:36:09.000" end="00:36:09.960" region="bottomCenter">I don't know.</p>
+      <p xml:id="p371" begin="00:36:10.720" end="00:36:11.880" region="bottomCenter">Which hospital did you go to?</p>
+      <p xml:id="p372" begin="00:36:12.000" end="00:36:13.200" region="bottomCenter">Don't remember!</p>
+      <p xml:id="p373" begin="00:36:14.240" end="00:36:15.200" region="bottomCenter">Maybe it's better this way.</p>
+      <p xml:id="p374" begin="00:36:15.680" end="00:36:17.440" region="bottomCenter">"Memories can be painful,</p>
+      <p xml:id="p375" begin="00:36:17.760" end="00:36:20.440" region="bottomCenter">forgetting maybe a blessing!"</p>
+      <p xml:id="p376" begin="00:36:20.560" end="00:36:22.760" region="bottomCenter">Never knew you were so deep.</p>
+      <p xml:id="p377" begin="00:36:24.560" end="00:36:26.760" region="bottomCenter">"All the sadness one can bear,</p>
+      <p xml:id="p378" begin="00:36:34.480" end="00:36:37.320" region="bottomCenter">down the river everywhere."</p>
+      <p xml:id="p379" begin="00:36:39.720" end="00:36:41.440" region="bottomCenter">Hey, get out of the way!</p>
+      <p xml:id="p380" begin="00:36:41.560" end="00:36:42.840" region="bottomCenter">Move!</p>
+      <p xml:id="p381" begin="00:36:42.960" end="00:36:44.160" region="bottomCenter">I'll slap you to kingdom come!</p>
+      <p xml:id="p382" begin="00:36:44.560" end="00:36:46.120" region="bottomCenter">Look at those Four Eyes,</p>
+      <p xml:id="p383" begin="00:36:46.240" end="00:36:48.920" region="bottomCenter">walking around with a coffin!</p>
+      <p xml:id="p384" begin="00:36:50.400" end="00:36:51.800" region="bottomCenter">What morons!</p>
+      <p xml:id="p385" begin="00:36:54.200" end="00:36:56.200" region="bottomCenter">Don't blame me</p>
+      <p xml:id="p386" begin="00:36:56.320" end="00:36:59.640" region="bottomCenter">for forcing you out.</p>
+      <p xml:id="p387" begin="00:37:00.000" end="00:37:02.360" region="bottomCenter">We'll let Buddha decide</p>
+      <p xml:id="p388" begin="00:37:02.760" end="00:37:05.880" region="bottomCenter">whether you stay or leave.</p>
+      <p xml:id="p389" begin="00:37:09.000" end="00:37:12.800" region="bottomCenter">"Horrifically Bad Fate"</p>
+      <p xml:id="p390" begin="00:37:22.440" end="00:37:23.640" region="bottomCenter">Have some tea.</p>
+      <p xml:id="p391" begin="00:37:31.200" end="00:37:32.600" region="bottomCenter">We're grateful</p>
+      <p xml:id="p392" begin="00:37:32.720" end="00:37:34.240" region="bottomCenter">that professionals like you<br/>can help.</p>
+      <p xml:id="p393" begin="00:37:34.360" end="00:37:36.040" region="bottomCenter">We understand.</p>
+      <p xml:id="p394" begin="00:37:36.160" end="00:37:39.760" region="bottomCenter">12 Kicks of the Tam School,<br/>Iron Fist of the Hung School,</p>
+      <p xml:id="p395" begin="00:37:39.880" end="00:37:42.920" region="bottomCenter">and the Hexagon Staff.</p>
+      <p xml:id="p396" begin="00:37:43.160" end="00:37:44.760" region="bottomCenter">Those guys at Pig's Cage are good.</p>
+      <p xml:id="p397" begin="00:37:45.240" end="00:37:47.640" region="bottomCenter">They were all top fighters,</p>
+      <p xml:id="p398" begin="00:37:48.000" end="00:37:51.080" region="bottomCenter">who retired from their Warrior Days.</p>
+      <p xml:id="p399" begin="00:37:51.640" end="00:37:54.040" region="bottomCenter">This job,</p>
+      <p xml:id="p400" begin="00:37:54.160" end="00:37:56.000" region="bottomCenter">is a great challenge for us.</p>
+      <p xml:id="p401" begin="00:37:57.400" end="00:37:58.720" region="bottomCenter">This is what I call professionalism.</p>
+      <p xml:id="p402" begin="00:37:59.160" end="00:38:02.000" region="bottomCenter">Number One Killers.</p>
+      <p xml:id="p403" begin="00:38:02.120" end="00:38:04.520" region="bottomCenter">Maybe expensive,<br/>but worth every penny!</p>
+      <p xml:id="p404" begin="00:38:04.640" end="00:38:09.040" region="bottomCenter">No! Number One is the Beast,</p>
+      <p xml:id="p405" begin="00:38:09.160" end="00:38:10.520" region="bottomCenter">the world's top killer.</p>
+      <p xml:id="p406" begin="00:38:11.000" end="00:38:13.160" region="bottomCenter">He was so dedicated to kung fu</p>
+      <p xml:id="p407" begin="00:38:13.280" end="00:38:15.240" region="bottomCenter">that he went crazy.</p>
+      <p xml:id="p408" begin="00:38:15.360" end="00:38:18.240" region="bottomCenter">I heard he's now in an asylum.</p>
+      <p xml:id="p409" begin="00:38:19.080" end="00:38:22.040" region="bottomCenter">So you are the top killers now.</p>
+      <p xml:id="p410" begin="00:38:22.400" end="00:38:26.320" region="bottomCenter">Technically speaking,<br/>we're musicians.</p>
+      <p xml:id="p411" begin="00:38:26.720" end="00:38:31.440" region="bottomCenter">"A song that wrenches the heart,<br/>where do I find a knowing ear?"</p>
+      <p xml:id="p412" begin="00:38:32.760" end="00:38:34.800" region="bottomCenter">Wonderful poem, isn't it?</p>
+      <p xml:id="p413" begin="00:38:43.760" end="00:38:45.080" region="bottomCenter">We'll be saying goodbye soon.</p>
+      <p xml:id="p414" begin="00:38:45.200" end="00:38:47.000" region="bottomCenter">Don't know<br/>when we'll see each other again.</p>
+      <p xml:id="p415" begin="00:38:48.200" end="00:38:49.880" region="bottomCenter">So we're three one of a kind.</p>
+      <p xml:id="p416" begin="00:38:50.040" end="00:38:51.880" region="bottomCenter">Wish I'd known before.</p>
+      <p xml:id="p417" begin="00:38:52.520" end="00:38:54.040" region="bottomCenter">Let's take advantage<br/>of the situation</p>
+      <p xml:id="p418" begin="00:38:54.160" end="00:38:55.200" region="bottomCenter">and spar a little.</p>
+      <p xml:id="p419" begin="00:38:55.560" end="00:38:59.040" region="bottomCenter">Nah, we still have a lot to pack.</p>
+      <p xml:id="p420" begin="00:38:59.960" end="00:39:01.640" region="bottomCenter">- Yes, you're right.<br/>- Yes.</p>
+      <p xml:id="p421" begin="00:39:38.200" end="00:39:41.440" region="bottomCenter">12 Kicks of the Tam School,<br/>superb attack and defense!</p>
+      <p xml:id="p422" begin="00:39:41.560" end="00:39:44.240" region="bottomCenter">Iron Fist, powerful yet delicate,<br/>Top-notch!</p>
+      <p xml:id="p423" begin="00:39:44.360" end="00:39:47.760" region="bottomCenter">Hexagon Staff,<br/>with its thousand moves. Mystical!</p>
+      <p xml:id="p424" begin="00:39:47.880" end="00:39:49.280" region="bottomCenter">See you again...</p>
+      <p xml:id="p425" begin="00:39:59.680" end="00:40:00.720" region="bottomCenter">More lipstick!</p>
+      <p xml:id="p426" begin="00:40:03.560" end="00:40:05.240" region="bottomCenter">When stir-frying,<br/>the heat must be high.</p>
+      <p xml:id="p427" begin="00:40:05.600" end="00:40:07.080" region="bottomCenter">That's right.</p>
+      <p xml:id="p428" begin="00:40:07.200" end="00:40:10.640" region="bottomCenter">Keep stir-frying.</p>
+      <p xml:id="p429" begin="00:40:19.160" end="00:40:21.720" region="bottomCenter">Stop! I'll kill you!</p>
+      <p xml:id="p430" begin="00:41:42.480" end="00:41:45.040" region="bottomCenter">Sorry, we're not open for business.</p>
+      <p xml:id="p431" begin="00:41:45.160" end="00:41:46.400" region="bottomCenter">You can make me<br/>something in no time!</p>
+      <p xml:id="p432" begin="00:41:46.520" end="00:41:48.120" region="bottomCenter">We're moving!</p>
+      <p xml:id="p433" begin="00:41:48.600" end="00:41:50.400" region="bottomCenter">This is good material!</p>
+      <p xml:id="p434" begin="00:41:50.800" end="00:41:52.440" region="bottomCenter">You know your stuff.</p>
+      <p xml:id="p435" begin="00:41:53.480" end="00:41:56.080" region="bottomCenter">This has high artistic value!</p>
+      <p xml:id="p436" begin="00:41:56.200" end="00:41:57.160" region="bottomCenter">How high?</p>
+      <p xml:id="p437" begin="00:41:57.880" end="00:42:00.120" region="bottomCenter">A few stories high!</p>
+      <p xml:id="p438" begin="00:43:06.960" end="00:43:08.840" region="bottomCenter">They're asking for it,<br/>picking on the Axe Gang.</p>
+      <p xml:id="p439" begin="00:43:08.960" end="00:43:10.400" region="bottomCenter">We'll take them out</p>
+      <p xml:id="p440" begin="00:43:10.520" end="00:43:11.800" region="bottomCenter">and make this place a brothel.</p>
+      <p xml:id="p441" begin="00:43:12.160" end="00:43:13.600" region="bottomCenter">Don't block my view!</p>
+      <p xml:id="p442" begin="00:44:02.000" end="00:44:02.840" region="bottomCenter">What's going on?</p>
+      <p xml:id="p443" begin="00:44:13.600" end="00:44:14.440" region="bottomCenter">Good...</p>
+      <p xml:id="p444" begin="00:44:14.960" end="00:44:16.040" region="bottomCenter">Don't block my view!</p>
+      <p xml:id="p445" begin="00:44:21.280" end="00:44:23.400" region="bottomCenter">Darn! I told those nitwits to leave,</p>
+      <p xml:id="p446" begin="00:44:23.520" end="00:44:24.360" region="bottomCenter">but they're still here<br/>and now the gangs are back!</p>
+      <p xml:id="p447" begin="00:44:24.480" end="00:44:25.600" region="bottomCenter">- Really?<br/>- Yeah!</p>
+      <p xml:id="p448" begin="00:44:49.240" end="00:44:51.120" region="bottomCenter">What? Having a fight here?</p>
+      <p xml:id="p449" begin="00:44:51.240" end="00:44:52.520" region="bottomCenter">Who'll pay for the damages?</p>
+      <p xml:id="p450" begin="00:44:53.040" end="00:44:54.840" region="bottomCenter">Sorry. It's nothing!</p>
+      <p xml:id="p451" begin="00:46:31.560" end="00:46:33.480" region="bottomCenter">Stop the noise.<br/>You know what time it is?</p>
+      <p xml:id="p452" begin="00:46:33.600" end="00:46:34.560" region="bottomCenter">I have to sleep!</p>
+      <p xml:id="p453" begin="00:46:35.800" end="00:46:37.880" region="bottomCenter">Hey Fatso, go to sleep!</p>
+      <p xml:id="p454" begin="00:46:38.200" end="00:46:39.920" region="bottomCenter">But this is a lot of noise!</p>
+      <p xml:id="p455" begin="00:46:40.040" end="00:46:41.720" region="bottomCenter">Sorry!</p>
+      <p xml:id="p456" begin="00:46:43.920" end="00:46:45.280" region="bottomCenter">Stay out of my way!</p>
+      <p xml:id="p457" begin="00:46:46.640" end="00:46:47.920" region="bottomCenter">You okay?</p>
+      <p xml:id="p458" begin="00:46:56.920" end="00:47:01.600" region="bottomCenter">Stop the noise!</p>
+      <p xml:id="p459" begin="00:47:04.400" end="00:47:06.160" region="bottomCenter">Give us a break!</p>
+      <p xml:id="p460" begin="00:47:06.480" end="00:47:08.160" region="bottomCenter">Why push us so far?</p>
+      <p xml:id="p461" begin="00:47:23.040" end="00:47:24.160" region="bottomCenter">Still have proficient.</p>
+      <p xml:id="p462" begin="00:49:45.080" end="00:49:46.600" region="bottomCenter">It really is the Lion's Roar!</p>
+      <p xml:id="p463" begin="00:49:47.600" end="00:49:49.040" region="bottomCenter">I thought it was a myth!</p>
+      <p xml:id="p464" begin="00:49:50.280" end="00:49:51.280" region="bottomCenter">The Lion's Roar!</p>
+      <p xml:id="p465" begin="00:49:52.240" end="00:49:53.200" region="bottomCenter">Tai Chi!</p>
+      <p xml:id="p466" begin="00:49:53.680" end="00:49:56.520" region="bottomCenter">That's the last.<br/>We'll see of them.</p>
+      <p xml:id="p467" begin="00:49:59.840" end="00:50:01.280" region="bottomCenter">It's bad, Brother Sum.<br/>Start the car, quick!</p>
+      <p xml:id="p468" begin="00:50:02.520" end="00:50:03.640" region="bottomCenter">Start the car!</p>
+      <p xml:id="p469" begin="00:50:10.520" end="00:50:11.440" region="bottomCenter">Boss!</p>
+      <p xml:id="p470" begin="00:50:11.600" end="00:50:14.040" region="bottomCenter">Keep it down! Have you no manners?</p>
+      <p xml:id="p471" begin="00:50:14.160" end="00:50:16.680" region="bottomCenter">Who the heck are you?<br/>People here have to sleep!</p>
+      <p xml:id="p472" begin="00:50:16.800" end="00:50:18.640" region="bottomCenter">They have to work tomorrow.</p>
+      <p xml:id="p473" begin="00:50:18.760" end="00:50:19.600" region="bottomCenter">Get out of here!</p>
+      <p xml:id="p474" begin="00:50:22.680" end="00:50:24.000" region="bottomCenter">Scumbags!</p>
+      <p xml:id="p475" begin="00:51:46.400" end="00:51:49.080" region="bottomCenter">I won't last long.</p>
+      <p xml:id="p476" begin="00:51:51.640" end="00:51:55.280" region="bottomCenter">But to be able to see real masters,</p>
+      <p xml:id="p477" begin="00:51:56.080" end="00:51:57.680" region="bottomCenter">I can now die in peace!</p>
+      <p xml:id="p478" begin="00:51:58.200" end="00:51:59.760" region="bottomCenter">Don't say that.</p>
+      <p xml:id="p479" begin="00:52:00.160" end="00:52:03.120" region="bottomCenter">We're ordinary folks.</p>
+      <p xml:id="p480" begin="00:52:03.320" end="00:52:04.600" region="bottomCenter">It's a blessing to be ordinary.</p>
+      <p xml:id="p481" begin="00:52:05.000" end="00:52:06.560" region="bottomCenter">We don't want</p>
+      <p xml:id="p482" begin="00:52:06.680" end="00:52:08.560" region="bottomCenter">to be called masters.</p>
+      <p xml:id="p483" begin="00:52:08.680" end="00:52:10.320" region="bottomCenter">You're such greatgood fighters!</p>
+      <p xml:id="p484" begin="00:52:10.440" end="00:52:11.680" region="bottomCenter">If only you'd helped earlier,</p>
+      <p xml:id="p485" begin="00:52:11.800" end="00:52:14.320" region="bottomCenter">they wouldn't have to die this way.</p>
+      <p xml:id="p486" begin="00:52:15.160" end="00:52:19.080" region="bottomCenter">Like Donut said,<br/>everyone has his reasons.</p>
+      <p xml:id="p487" begin="00:52:19.800" end="00:52:22.240" region="bottomCenter">Years ago,</p>
+      <p xml:id="p488" begin="00:52:22.360" end="00:52:25.160" region="bottomCenter">we saw our own son<br/>killed in a fight.</p>
+      <p xml:id="p489" begin="00:52:27.280" end="00:52:31.920" region="bottomCenter">Revenge can be devastating.<br/>Hope you all understand.</p>
+      <p xml:id="p490" begin="00:52:32.560" end="00:52:35.360" region="bottomCenter">Why don't you train us<br/>to be top fighters,</p>
+      <p xml:id="p491" begin="00:52:35.480" end="00:52:38.200" region="bottomCenter">and we'll avenge them!</p>
+      <p xml:id="p492" begin="00:52:38.400" end="00:52:42.760" region="bottomCenter">Becoming a top fighter takes time.</p>
+      <p xml:id="p493" begin="00:52:42.880" end="00:52:45.360" region="bottomCenter">Unless you're a natural.</p>
+      <p xml:id="p494" begin="00:52:45.480" end="00:52:48.560" region="bottomCenter">You don't find one in a million.</p>
+      <p xml:id="p495" begin="00:52:55.960" end="00:52:58.240" region="bottomCenter">It's obvious that I'm that very one.</p>
+      <p xml:id="p496" begin="00:53:01.720" end="00:53:03.480" region="bottomCenter">Doesn't look like it.</p>
+      <p xml:id="p497" begin="00:53:04.520" end="00:53:08.000" region="bottomCenter">Everyone, we swore that</p>
+      <p xml:id="p498" begin="00:53:08.120" end="00:53:09.920" region="bottomCenter">we'd never fight again.</p>
+      <p xml:id="p499" begin="00:53:10.040" end="00:53:12.000" region="bottomCenter">But we broke our promise today.</p>
+      <p xml:id="p500" begin="00:53:12.360" end="00:53:15.480" region="bottomCenter">For your safety,<br/>everyone should leave!</p>
+      <p xml:id="p501" begin="00:53:20.200" end="00:53:23.360" region="bottomCenter">The more powerful,<br/>the greater the responsibility.</p>
+      <p xml:id="p502" begin="00:53:24.080" end="00:53:25.440" region="bottomCenter">You can't hide from it.</p>
+      <p xml:id="p503" begin="00:53:26.280" end="00:53:30.320" region="bottomCenter">Donut, you're badly hurt.<br/>Rest yourself.</p>
+      <p xml:id="p504" begin="00:53:34.120" end="00:53:36.840" region="bottomCenter">Why don't you speak Chinese?</p>
+      <p xml:id="p505" begin="00:53:38.960" end="00:53:39.800" region="bottomCenter">Donut!</p>
+      <p xml:id="p506" begin="00:53:39.920" end="00:53:43.320" region="bottomCenter">Donut...</p>
+      <p xml:id="p507" begin="00:53:52.560" end="00:53:54.560" region="bottomCenter">I know you, Four Eyes!</p>
+      <p xml:id="p508" begin="00:53:55.920" end="00:53:58.640" region="bottomCenter">You seem to be biased</p>
+      <p xml:id="p509" begin="00:53:58.760" end="00:53:59.880" region="bottomCenter">against the near-sighted.</p>
+      <p xml:id="p510" begin="00:54:00.440" end="00:54:03.040" region="bottomCenter">That's right.<br/>Especially those with gold frames.</p>
+      <p xml:id="p511" begin="00:54:07.520" end="00:54:09.360" region="bottomCenter">Gold frame glasses<br/>are perfect for clerks.</p>
+      <p xml:id="p512" begin="00:54:09.480" end="00:54:10.880" region="bottomCenter">I think they look good on me.</p>
+      <p xml:id="p513" begin="00:54:11.000" end="00:54:11.960" region="bottomCenter">It fits me.</p>
+      <p xml:id="p514" begin="00:54:12.080" end="00:54:13.200" region="bottomCenter">But why do you keep picking on me?</p>
+      <p xml:id="p515" begin="00:54:16.560" end="00:54:17.440" region="bottomCenter">Help out!</p>
+      <p xml:id="p516" begin="00:54:19.320" end="00:54:21.920" region="bottomCenter">Help out! Help out!</p>
+      <p xml:id="p517" begin="00:54:22.040" end="00:54:24.200" region="bottomCenter">Want to play punks?<br/>The Dragon Style? The Tiger Style?</p>
+      <p xml:id="p518" begin="00:54:29.040" end="00:54:31.640" region="bottomCenter">Get down here<br/>and I'll smash your glasses</p>
+      <p xml:id="p519" begin="00:54:31.920" end="00:54:32.920" region="bottomCenter">Come on!</p>
+      <p xml:id="p520" begin="00:54:34.680" end="00:54:36.440" region="bottomCenter">You don't believe me?</p>
+      <p xml:id="p521" begin="00:54:38.080" end="00:54:39.080" region="bottomCenter">You swear to it!</p>
+      <p xml:id="p522" begin="00:54:39.960" end="00:54:40.960" region="bottomCenter">Swear!</p>
+      <p xml:id="p523" begin="00:54:42.560" end="00:54:45.520" region="bottomCenter">You giving me no respect?</p>
+      <p xml:id="p524" begin="00:54:46.360" end="00:54:47.800" region="bottomCenter">I asked you to help out,<br/>but what were you doing?</p>
+      <p xml:id="p525" begin="00:54:49.960" end="00:54:51.280" region="bottomCenter">What're you, a puppy? Woof!</p>
+      <p xml:id="p526" begin="00:54:51.760" end="00:54:53.520" region="bottomCenter">You should at least play a bulldog.<br/>We always get beat everytime!</p>
+      <p xml:id="p527" begin="00:54:53.960" end="00:54:55.560" region="bottomCenter">All this time,</p>
+      <p xml:id="p528" begin="00:54:55.680" end="00:54:56.560" region="bottomCenter">we haven't gotten anywhere.</p>
+      <p xml:id="p529" begin="00:54:56.680" end="00:54:58.360" region="bottomCenter">No killing, no arson,</p>
+      <p xml:id="p530" begin="00:54:58.560" end="00:55:00.840" region="bottomCenter">no robberies, no rapes,<br/>all because of you!</p>
+      <p xml:id="p531" begin="00:55:01.160" end="00:55:03.160" region="bottomCenter">You're a numb nut!</p>
+      <p xml:id="p532" begin="00:55:05.720" end="00:55:06.600" region="bottomCenter">Follow me!</p>
+      <p xml:id="p533" begin="00:55:15.640" end="00:55:17.080" region="bottomCenter">It's a stick up! Where's the money?</p>
+      <p xml:id="p534" begin="00:55:21.680" end="00:55:23.680" region="bottomCenter">Where's the money?</p>
+      <p xml:id="p535" begin="00:55:25.520" end="00:55:27.320" region="bottomCenter">What're you looking at?<br/>Don't believe me? I'm serious!</p>
+      <p xml:id="p536" begin="00:55:32.280" end="00:55:35.560" region="bottomCenter">Where is it? I kill people for less,<br/>give me the money.</p>
+      <p xml:id="p537" begin="00:55:53.760" end="00:55:54.680" region="bottomCenter">The money's here!</p>
+      <p xml:id="p538" begin="00:56:06.040" end="00:56:07.920" region="bottomCenter">"Do you remember?"</p>
+      <p xml:id="p539" begin="00:56:10.280" end="00:56:14.680" region="bottomCenter">"You saved me before."</p>
+      <p xml:id="p540" begin="00:56:14.800" end="00:56:17.520" region="bottomCenter">"Do you remember?"</p>
+      <p xml:id="p541" begin="00:56:29.360" end="00:56:31.120" region="bottomCenter">Let go of the girl!</p>
+      <p xml:id="p542" begin="00:56:44.080" end="00:56:47.000" region="bottomCenter">One's a fool, the other's mute.</p>
+      <p xml:id="p543" begin="00:56:47.120" end="00:56:48.640" region="bottomCenter">Go kill yourselves! Losers!</p>
+      <p xml:id="p544" begin="00:56:52.560" end="00:56:54.840" region="bottomCenter">"Thank you."</p>
+      <p xml:id="p545" begin="00:57:30.160" end="00:57:31.720" region="bottomCenter">Stop following me!</p>
+      <p xml:id="p546" begin="00:57:31.840" end="00:57:33.040" region="bottomCenter">You'll drag me down sooner or later.</p>
+      <p xml:id="p547" begin="00:57:34.040" end="00:57:35.920" region="bottomCenter">Go home</p>
+      <p xml:id="p548" begin="00:57:37.320" end="00:57:38.720" region="bottomCenter">and raise pigs!</p>
+      <p xml:id="p549" begin="00:57:43.560" end="00:57:44.760" region="bottomCenter">Go, before I'll kill you!</p>
+      <p xml:id="p550" begin="00:58:32.040" end="00:58:33.160" region="bottomCenter">Hey, what's your name?</p>
+      <p xml:id="p551" begin="00:58:34.080" end="00:58:35.200" region="bottomCenter">Hey, what's your name?</p>
+      <p xml:id="p552" begin="00:58:44.360" end="00:58:45.560" region="bottomCenter">Take this and get some new clothes.</p>
+      <p xml:id="p553" begin="00:58:45.680" end="00:58:47.280" region="bottomCenter">You're now an Axe!</p>
+      <p xml:id="p554" begin="00:58:47.400" end="00:58:48.520" region="bottomCenter">For real?</p>
+      <p xml:id="p555" begin="00:58:48.640" end="00:58:50.720" region="bottomCenter">A friend is waiting for you.</p>
+      <p xml:id="p556" begin="00:58:57.680" end="00:58:58.680" region="bottomCenter">Brother Sum!</p>
+      <p xml:id="p557" begin="00:58:58.800" end="00:59:00.320" region="bottomCenter">I took one look at you,</p>
+      <p xml:id="p558" begin="00:59:00.440" end="00:59:01.720" region="bottomCenter">and I knew you'd</p>
+      <p xml:id="p559" begin="00:59:01.840" end="00:59:02.880" region="bottomCenter">do anything!</p>
+      <p xml:id="p560" begin="00:59:03.680" end="00:59:04.760" region="bottomCenter">Right!</p>
+      <p xml:id="p561" begin="00:59:04.880" end="00:59:06.240" region="bottomCenter">And you were just waiting<br/>for your chance.</p>
+      <p xml:id="p562" begin="00:59:07.080" end="00:59:08.160" region="bottomCenter">Right!</p>
+      <p xml:id="p563" begin="00:59:08.320" end="00:59:09.480" region="bottomCenter">We need you for one thing!</p>
+      <p xml:id="p564" begin="00:59:10.080" end="00:59:11.520" region="bottomCenter">Anything, Brother Sum!</p>
+      <p xml:id="p565" begin="00:59:12.960" end="00:59:18.640" region="bottomCenter">"Atypical Pathology Center"</p>
+      <p xml:id="p566" begin="00:59:24.720" end="00:59:25.720" region="bottomCenter">Hurry up!</p>
+      <p xml:id="p567" begin="00:59:29.600" end="00:59:31.600" region="bottomCenter">"Research on Abnormal People."</p>
+      <p xml:id="p568" begin="00:59:31.720" end="00:59:32.560" region="bottomCenter">What's that?</p>
+      <p xml:id="p569" begin="00:59:32.720" end="00:59:33.680" region="bottomCenter">Mental asylum!</p>
+      <p xml:id="p570" begin="00:59:36.000" end="00:59:37.040" region="bottomCenter">Good morning, Sir!</p>
+      <p xml:id="p571" begin="00:59:39.680" end="00:59:41.120" region="bottomCenter">Soldiers!</p>
+      <p xml:id="p572" begin="00:59:41.240" end="00:59:43.000" region="bottomCenter">Boy Scouts!</p>
+      <p xml:id="p573" begin="00:59:43.120" end="00:59:44.200" region="bottomCenter">Tanks!</p>
+      <p xml:id="p574" begin="00:59:44.320" end="00:59:46.240" region="bottomCenter">Don't worry about it.</p>
+      <p xml:id="p575" begin="00:59:46.680" end="00:59:48.400" region="bottomCenter">When the Boy Scouts change shifts,</p>
+      <p xml:id="p576" begin="00:59:48.520" end="00:59:49.840" region="bottomCenter">you have exactly 5 minutes<br/>to get to the basement.</p>
+      <p xml:id="p577" begin="00:59:49.960" end="00:59:51.480" region="bottomCenter">Follow the map.</p>
+      <p xml:id="p578" begin="00:59:51.600" end="00:59:53.120" region="bottomCenter">Go to the last cell,</p>
+      <p xml:id="p579" begin="00:59:53.240" end="00:59:55.400" region="bottomCenter">and get take the man out.</p>
+      <p xml:id="p580" begin="00:59:55.520" end="00:59:56.360" region="bottomCenter">It's that simple!</p>
+      <p xml:id="p581" begin="00:59:56.600" end="00:59:57.840" region="bottomCenter">Here's your tools.</p>
+      <p xml:id="p582" begin="01:00:03.960" end="01:00:05.280" region="bottomCenter">What about you guys?</p>
+      <p xml:id="p583" begin="01:00:05.400" end="01:00:07.040" region="bottomCenter">We'll be your lookouts!</p>
+      <p xml:id="p584" begin="01:00:18.200" end="01:00:19.920" region="bottomCenter">Only 5 minutes. Hurry!</p>
+      <p xml:id="p585" begin="01:02:29.080" end="01:02:31.320" region="bottomCenter">The World's Top Killer</p>
+      <p xml:id="p586" begin="01:02:31.440" end="01:02:32.720" region="bottomCenter">indeed looks the part!</p>
+      <p xml:id="p587" begin="01:02:34.720" end="01:02:37.080" region="bottomCenter">It's only a title!</p>
+      <p xml:id="p588" begin="01:02:37.280" end="01:02:38.440" region="bottomCenter">Let's cut the nonsense.</p>
+      <p xml:id="p589" begin="01:02:38.560" end="01:02:39.720" region="bottomCenter">We want you to kill two people.</p>
+      <p xml:id="p590" begin="01:02:39.840" end="01:02:40.680" region="bottomCenter">Name your price!</p>
+      <p xml:id="p591" begin="01:02:41.400" end="01:02:42.680" region="bottomCenter">Name my what?</p>
+      <p xml:id="p592" begin="01:02:44.440" end="01:02:46.640" region="bottomCenter">I've killed many,</p>
+      <p xml:id="p593" begin="01:02:46.760" end="01:02:48.520" region="bottomCenter">trying to find a worthy adversary<br/>who can kill me.</p>
+      <p xml:id="p594" begin="01:02:48.640" end="01:02:50.360" region="bottomCenter">So far,</p>
+      <p xml:id="p595" begin="01:02:50.480" end="01:02:54.000" region="bottomCenter">I've never found one.</p>
+      <p xml:id="p596" begin="01:02:54.360" end="01:02:57.360" region="bottomCenter">That is why I stayed inside.</p>
+      <p xml:id="p597" begin="01:02:57.640" end="01:03:00.000" region="bottomCenter">I would have been out long ago.</p>
+      <p xml:id="p598" begin="01:03:00.120" end="01:03:02.720" region="bottomCenter">Honestly, if you find<br/>a worthy opponent,</p>
+      <p xml:id="p599" begin="01:03:02.840" end="01:03:05.400" region="bottomCenter">I won't charge you a thing.<br/>I'll do it for free.</p>
+      <p xml:id="p600" begin="01:03:06.840" end="01:03:07.880" region="bottomCenter">Have you found someone?</p>
+      <p xml:id="p601" begin="01:03:08.240" end="01:03:10.920" region="bottomCenter">Yes, brilliant fighters,</p>
+      <p xml:id="p602" begin="01:03:11.040" end="01:03:13.480" region="bottomCenter">who are up to the challenge!</p>
+      <p xml:id="p603" begin="01:03:13.600" end="01:03:15.840" region="bottomCenter">But would you mind showing us<br/>a few moves?</p>
+      <p xml:id="p604" begin="01:03:15.960" end="01:03:17.120" region="bottomCenter">Not that we don't trust you,</p>
+      <p xml:id="p605" begin="01:03:17.240" end="01:03:18.880" region="bottomCenter">but we just want to<br/>admire your skill.</p>
+      <p xml:id="p606" begin="01:03:19.400" end="01:03:20.880" region="bottomCenter">You numbskulls</p>
+      <p xml:id="p607" begin="01:03:21.000" end="01:03:23.080" region="bottomCenter">are not worthy!</p>
+      <p xml:id="p608" begin="01:03:26.320" end="01:03:27.160" region="bottomCenter">Brother Sum.</p>
+      <p xml:id="p609" begin="01:03:27.440" end="01:03:28.520" region="bottomCenter">He doesn't look the part.</p>
+      <p xml:id="p610" begin="01:03:29.880" end="01:03:32.320" region="bottomCenter">These slippers are a little crappy.</p>
+      <p xml:id="p611" begin="01:03:32.440" end="01:03:33.600" region="bottomCenter">Maybe we should</p>
+      <p xml:id="p612" begin="01:03:33.720" end="01:03:34.960" region="bottomCenter">clean him up a bit.</p>
+      <p xml:id="p613" begin="01:03:35.200" end="01:03:36.680" region="bottomCenter">You sure you got the right guy?</p>
+      <p xml:id="p614" begin="01:03:36.800" end="01:03:37.800" region="bottomCenter">Absolutely.</p>
+      <p xml:id="p615" begin="01:03:37.920" end="01:03:39.560" region="bottomCenter">I swear<br/>I did exactly what you told me.</p>
+      <p xml:id="p616" begin="01:03:41.800" end="01:03:42.640" region="bottomCenter">Mr. Beast,</p>
+      <p xml:id="p617" begin="01:03:42.760" end="01:03:44.240" region="bottomCenter">why don't you show us some moves.</p>
+      <p xml:id="p618" begin="01:03:44.360" end="01:03:45.560" region="bottomCenter">Don't be too hard for me!</p>
+      <p xml:id="p619" begin="01:03:45.680" end="01:03:46.840" region="bottomCenter">You dumb or what?</p>
+      <p xml:id="p620" begin="01:03:47.720" end="01:03:49.320" region="bottomCenter">You know what this is, old man?</p>
+      <p xml:id="p621" begin="01:03:50.200" end="01:03:52.440" region="bottomCenter">You ever seen a fist so big?</p>
+      <p xml:id="p622" begin="01:03:52.560" end="01:03:54.120" region="bottomCenter">Don't force me to fight.</p>
+      <p xml:id="p623" begin="01:03:54.240" end="01:03:55.600" region="bottomCenter">I scare myself when I fight!</p>
+      <p xml:id="p624" begin="01:03:55.720" end="01:03:57.280" region="bottomCenter">Then why don't you show me<br/>a few moves?</p>
+      <p xml:id="p625" begin="01:04:01.280" end="01:04:03.360" region="bottomCenter">Hey, is he okay?</p>
+      <p xml:id="p626" begin="01:04:08.920" end="01:04:11.400" region="bottomCenter">Old man, can you fight?</p>
+      <p xml:id="p627" begin="01:04:12.640" end="01:04:13.640" region="bottomCenter">Harder!</p>
+      <p xml:id="p628" begin="01:04:14.920" end="01:04:15.800" region="bottomCenter">Harder!</p>
+      <p xml:id="p629" begin="01:04:18.520" end="01:04:19.640" region="bottomCenter">Harder!</p>
+      <p xml:id="p630" begin="01:04:22.440" end="01:04:24.240" region="bottomCenter">You call yourself a mob guy,</p>
+      <p xml:id="p631" begin="01:04:24.360" end="01:04:25.760" region="bottomCenter">hitting like that?</p>
+      <p xml:id="p632" begin="01:04:30.840" end="01:04:31.960" region="bottomCenter">An foreign imported gun!</p>
+      <p xml:id="p633" begin="01:04:56.560" end="01:04:58.520" region="bottomCenter">In all the world of kung fu,</p>
+      <p xml:id="p634" begin="01:04:58.640" end="01:04:59.920" region="bottomCenter">nothing is insurmountable,</p>
+      <p xml:id="p635" begin="01:05:00.040" end="01:05:01.320" region="bottomCenter">but speed is the key.</p>
+      <p xml:id="p636" begin="01:05:05.720" end="01:05:08.080" region="bottomCenter">The Beast is indeed<br/>the best kung fu fighter of all.</p>
+      <p xml:id="p637" begin="01:05:08.800" end="01:05:11.840" region="bottomCenter">The Axe Gang extends its respect!</p>
+      <p xml:id="p638" begin="01:05:52.400" end="01:05:54.800" region="bottomCenter">The best fighters are right here!</p>
+      <p xml:id="p639" begin="01:05:56.120" end="01:05:58.720" region="bottomCenter">Only the World's top killer,</p>
+      <p xml:id="p640" begin="01:05:58.840" end="01:06:00.480" region="bottomCenter">Beast,</p>
+      <p xml:id="p641" begin="01:06:00.600" end="01:06:02.440" region="bottomCenter">has such an aura!</p>
+      <p xml:id="p642" begin="01:06:03.280" end="01:06:04.680" region="bottomCenter">Likewise,</p>
+      <p xml:id="p643" begin="01:06:04.800" end="01:06:07.440" region="bottomCenter">could you two be the Eagle Lovers...</p>
+      <p xml:id="p644" begin="01:06:07.640" end="01:06:08.480" region="bottomCenter">Yang Guo.</p>
+      <p xml:id="p645" begin="01:06:08.960" end="01:06:09.920" region="bottomCenter">And Dragon Fairy.</p>
+      <p xml:id="p646" begin="01:06:10.640" end="01:06:11.920" region="bottomCenter">Indeed a pleasure!</p>
+      <p xml:id="p647" begin="01:06:12.560" end="01:06:15.640" region="bottomCenter">We're here<br/>to deal with the Axe Gang.</p>
+      <p xml:id="p648" begin="01:06:16.160" end="01:06:17.760" region="bottomCenter">And the Axe Gang only.</p>
+      <p xml:id="p649" begin="01:06:20.200" end="01:06:22.480" region="bottomCenter">You should've killed me before.</p>
+      <p xml:id="p650" begin="01:06:22.800" end="01:06:27.000" region="bottomCenter">Coming here today,<br/>you're committing suicide.</p>
+      <p xml:id="p651" begin="01:06:27.200" end="01:06:30.080" region="bottomCenter">We were giving you a few extra days.</p>
+      <p xml:id="p652" begin="01:06:30.600" end="01:06:33.200" region="bottomCenter">You can't escape your fate!</p>
+      <p xml:id="p653" begin="01:06:34.200" end="01:06:35.920" region="bottomCenter">What's this? A funeral bell?</p>
+      <p xml:id="p654" begin="01:06:37.360" end="01:06:40.120" region="bottomCenter">With the Beast here,<br/>let's see whose funeral it will be!</p>
+      <p xml:id="p655" begin="01:06:41.320" end="01:06:42.800" region="bottomCenter">So you're on their side?</p>
+      <p xml:id="p656" begin="01:06:43.720" end="01:06:45.040" region="bottomCenter">Don't get take me wrong.</p>
+      <p xml:id="p657" begin="01:06:45.560" end="01:06:48.720" region="bottomCenter">I only want to kill you,</p>
+      <p xml:id="p658" begin="01:06:49.040" end="01:06:51.360" region="bottomCenter">or be killed by you.</p>
+      <p xml:id="p659" begin="01:06:54.160" end="01:06:55.600" region="bottomCenter">What do you think?</p>
+      <p xml:id="p660" begin="01:06:56.320" end="01:06:58.280" region="bottomCenter">The good and the bad never co-exist.</p>
+      <p xml:id="p661" begin="01:06:58.560" end="01:07:01.360" region="bottomCenter">You cannot escape your destiny.</p>
+      <p xml:id="p662" begin="01:07:01.840" end="01:07:03.840" region="bottomCenter">So be it...</p>
+      <p xml:id="p663" begin="01:07:04.600" end="01:07:05.480" region="bottomCenter">Let's do it</p>
+      <p xml:id="p664" begin="01:07:05.800" end="01:07:09.280" region="bottomCenter">OK, let's do it.</p>
+      <p xml:id="p665" begin="01:07:29.000" end="01:07:30.920" region="bottomCenter">Piece of cake. I can handle this.</p>
+      <p xml:id="p666" begin="01:07:40.480" end="01:07:42.840" region="bottomCenter">Good try, but a little off target.</p>
+      <p xml:id="p667" begin="01:08:59.440" end="01:09:00.960" region="bottomCenter">The Lion's Roar?</p>
+      <p xml:id="p668" begin="01:11:33.640" end="01:11:34.600" region="bottomCenter">Stop!</p>
+      <p xml:id="p669" begin="01:11:35.880" end="01:11:37.680" region="bottomCenter">I didn't know the Lion's Roar</p>
+      <p xml:id="p670" begin="01:11:38.120" end="01:11:40.080" region="bottomCenter">could be done with a speaker!</p>
+      <p xml:id="p671" begin="01:11:41.000" end="01:11:42.840" region="bottomCenter">What a blow!</p>
+      <p xml:id="p672" begin="01:12:11.280" end="01:12:12.320" region="bottomCenter">Looks like he's not up to it!</p>
+      <p xml:id="p673" begin="01:12:12.440" end="01:12:14.200" region="bottomCenter">Indeed. Let's get rid of him<br/>while he's down.</p>
+      <p xml:id="p674" begin="01:12:14.320" end="01:12:15.240" region="bottomCenter">You do it!</p>
+      <p xml:id="p675" begin="01:12:16.440" end="01:12:17.640" region="bottomCenter">I'm gonna puke.<br/>I need to see a doctor.</p>
+      <p xml:id="p676" begin="01:12:17.760" end="01:12:18.680" region="bottomCenter">You go to heck!</p>
+      <p xml:id="p677" begin="01:12:22.680" end="01:12:23.800" region="bottomCenter">You, come over!</p>
+      <p xml:id="p678" begin="01:12:25.560" end="01:12:27.000" region="bottomCenter">- Hit him!<br/>- Yes!</p>
+      <p xml:id="p679" begin="01:12:31.920" end="01:12:33.360" region="bottomCenter">- The head!<br/>- Of course!</p>
+      <p xml:id="p680" begin="01:12:33.920" end="01:12:35.480" region="bottomCenter">- Hit him on the head!<br/>- Okay.</p>
+      <p xml:id="p681" begin="01:12:35.720" end="01:12:36.720" region="bottomCenter">- This is your chance.<br/>- Got it.</p>
+      <p xml:id="p682" begin="01:12:37.480" end="01:12:38.800" region="bottomCenter">- Hit him!<br/>- Hit him!</p>
+      <p xml:id="p683" begin="01:12:38.920" end="01:12:40.120" region="bottomCenter">- Hit the darn out of him!<br/>- Right away.</p>
+      <p xml:id="p684" begin="01:12:40.240" end="01:12:41.840" region="bottomCenter">- Hit him!<br/>- Hit him!</p>
+      <p xml:id="p685" begin="01:12:41.960" end="01:12:42.960" region="bottomCenter">Beat the darn out of him!</p>
+      <p xml:id="p686" begin="01:12:45.520" end="01:12:46.360" region="bottomCenter">What're you doing?</p>
+      <p xml:id="p687" begin="01:12:46.880" end="01:12:48.240" region="bottomCenter">You want me to hit him</p>
+      <p xml:id="p688" begin="01:12:48.360" end="01:12:49.600" region="bottomCenter">or to hit the darn out of him?</p>
+      <p xml:id="p689" begin="01:12:50.040" end="01:12:51.920" region="bottomCenter">You are making me very confused!</p>
+      <p xml:id="p690" begin="01:12:56.040" end="01:12:59.320" region="bottomCenter">Brother Sum...</p>
+      <p xml:id="p691" begin="01:13:19.040" end="01:13:22.000" region="bottomCenter">Wow, what a big fist!</p>
+      <p xml:id="p692" begin="01:13:44.040" end="01:13:45.720" region="bottomCenter">Why did you hit me?</p>
+      <p xml:id="p693" begin="01:14:13.440" end="01:14:16.200" region="bottomCenter">Where are they?</p>
+      <p xml:id="p694" begin="01:14:16.840" end="01:14:19.120" region="bottomCenter">What's wrong with you?<br/>How could you let them escape?</p>
+      <p xml:id="p695" begin="01:14:24.760" end="01:14:28.720" region="bottomCenter">No one gets away from me!</p>
+      <p xml:id="p696" begin="01:14:29.240" end="01:14:31.320" region="bottomCenter">"Budda Temple"</p>
+      <p xml:id="p697" begin="01:14:42.040" end="01:14:43.560" region="bottomCenter">How did he save us?</p>
+      <p xml:id="p698" begin="01:14:44.280" end="01:14:47.160" region="bottomCenter">He's young.<br/>People always make mistakes.</p>
+      <p xml:id="p699" begin="01:14:47.320" end="01:14:50.280" region="bottomCenter">At least he turned around<br/>at the last moment.</p>
+      <p xml:id="p700" begin="01:14:51.760" end="01:14:55.800" region="bottomCenter">Look at him! Beaten to a pulp!</p>
+      <p xml:id="p701" begin="01:14:57.800" end="01:15:01.160" region="bottomCenter">Tell us your wishes!</p>
+      <p xml:id="p702" begin="01:15:19.360" end="01:15:22.080" region="bottomCenter">Stop it, wait!</p>
+      <p xml:id="p703" begin="01:15:22.480" end="01:15:24.200" region="bottomCenter">Why don't you write in Chinese?</p>
+      <p xml:id="p704" begin="01:15:24.320" end="01:15:25.480" region="bottomCenter">I don't understand!</p>
+      <p xml:id="p705" begin="01:16:20.400" end="01:16:22.000" region="bottomCenter">There's no one!</p>
+      <p xml:id="p706" begin="01:16:26.320" end="01:16:29.440" region="bottomCenter">"Chinese medicine"</p>
+      <p xml:id="p707" begin="01:16:42.600" end="01:16:45.320" region="bottomCenter">It's a miracle<br/>that he lasted this long.</p>
+      <p xml:id="p708" begin="01:16:45.960" end="01:16:47.800" region="bottomCenter">Herbal medicine<br/>should be able to help him.</p>
+      <p xml:id="p709" begin="01:16:48.440" end="01:16:50.440" region="bottomCenter">Herbal medicine<br/>can only partly help.</p>
+      <p xml:id="p710" begin="01:16:50.560" end="01:16:52.680" region="bottomCenter">The key is his own body structure.</p>
+      <p xml:id="p711" begin="01:16:53.000" end="01:16:55.720" region="bottomCenter">All his bones<br/>and tendons are broken.</p>
+      <p xml:id="p712" begin="01:16:55.840" end="01:16:57.240" region="bottomCenter">It's amazing</p>
+      <p xml:id="p713" begin="01:16:57.360" end="01:16:59.960" region="bottomCenter">that he's recovering so fast.</p>
+      <p xml:id="p714" begin="01:17:00.200" end="01:17:02.440" region="bottomCenter">It is not possible<br/>for normal people.</p>
+      <p xml:id="p715" begin="01:17:02.640" end="01:17:03.800" region="bottomCenter">Unless he is...</p>
+      <p xml:id="p716" begin="01:17:40.040" end="01:17:41.040" region="bottomCenter">What's that smell?</p>
+      <p xml:id="p717" begin="01:18:13.760" end="01:18:15.320" region="bottomCenter">Don't smoke when you're injured.</p>
+      <p xml:id="p718" begin="01:18:17.480" end="01:18:18.760" region="bottomCenter">Let me handle this!</p>
+      <p xml:id="p719" begin="01:18:32.960" end="01:18:34.040" region="bottomCenter">This makes no sense.</p>
+      <p xml:id="p720" begin="01:18:45.480" end="01:18:47.200" region="bottomCenter">Who could've guessed the Beast</p>
+      <p xml:id="p721" begin="01:18:47.320" end="01:18:49.560" region="bottomCenter">would clear the boy's chi flow,</p>
+      <p xml:id="p722" begin="01:18:49.680" end="01:18:51.600" region="bottomCenter">thus unleash<br/>the boy's true potential?</p>
+      <p xml:id="p723" begin="01:18:52.560" end="01:18:55.400" region="bottomCenter">We should've guessed</p>
+      <p xml:id="p724" begin="01:18:56.120" end="01:18:59.480" region="bottomCenter">he is The One!</p>
+      <p xml:id="p725" begin="01:19:09.480" end="01:19:10.880" region="bottomCenter">Is this for real?</p>
+      <p xml:id="p726" begin="01:19:11.560" end="01:19:14.080" region="bottomCenter">You're still alive, you turncoat?</p>
+      <p xml:id="p727" begin="01:19:14.200" end="01:19:15.880" region="bottomCenter">Kill him, men!</p>
+      <p xml:id="p728" begin="01:20:09.200" end="01:20:10.600" region="bottomCenter">What kind of moves are those?</p>
+      <p xml:id="p729" begin="01:20:10.720" end="01:20:13.000" region="bottomCenter">Kids stuff!</p>
+      <p xml:id="p730" begin="01:20:40.200" end="01:20:41.760" region="bottomCenter">If our son were alive,</p>
+      <p xml:id="p731" begin="01:20:41.880" end="01:20:43.400" region="bottomCenter">he would've been his age.</p>
+      <p xml:id="p732" begin="01:20:43.560" end="01:20:46.120" region="bottomCenter">If he studies hard,</p>
+      <p xml:id="p733" begin="01:20:46.240" end="01:20:48.400" region="bottomCenter">he could grow up<br/>to be a doctor or lawyer!</p>
+      <p xml:id="p734" begin="01:20:48.960" end="01:20:51.320" region="bottomCenter">But more likely a stunt man.</p>
+      <p xml:id="p735" begin="01:21:52.160" end="01:21:53.440" region="bottomCenter">Not bad.</p>
+      <p xml:id="p736" begin="01:22:34.680" end="01:22:36.120" region="bottomCenter">I can even stop bullets.</p>
+      <p xml:id="p737" begin="01:23:45.320" end="01:23:47.200" region="bottomCenter">What? The Toad Style<br/>of the Kwan Lun School?</p>
+      <p xml:id="p738" begin="01:23:47.680" end="01:23:48.720" region="bottomCenter">Oh no!</p>
+      <p xml:id="p739" begin="01:25:39.800" end="01:25:40.720" region="bottomCenter">You still remember the Palm.</p>
+      <p xml:id="p740" begin="01:25:40.840" end="01:25:43.240" region="bottomCenter">The move that<br/>falls descends from heaven?</p>
+      <p xml:id="p741" begin="01:25:43.760" end="01:25:46.240" region="bottomCenter">That's the long lost Buddhist Palm.</p>
+      <p xml:id="p742" begin="01:26:29.120" end="01:26:31.520" region="bottomCenter">I surrender...</p>
+      <p xml:id="p743" begin="01:27:29.520" end="01:27:30.880" region="bottomCenter">What kind of move was that?</p>
+      <p xml:id="p744" begin="01:27:32.560" end="01:27:34.720" region="bottomCenter">Want to learn? I'll teach you!</p>
+      <p xml:id="p745" begin="01:27:46.320" end="01:27:47.480" region="bottomCenter">I am truly defeated.</p>
+      <p xml:id="p746" begin="01:28:53.880" end="01:28:56.760" region="bottomCenter">"Sweet Shop"</p>
+      <p xml:id="p747" begin="01:28:58.480" end="01:28:59.400" region="bottomCenter">Hey!</p>
+      <p xml:id="p748" begin="01:28:59.520" end="01:29:01.120" region="bottomCenter">Tell them not to put their snot<br/>on the glass!</p>
+      <p xml:id="p749" begin="01:29:01.920" end="01:29:03.680" region="bottomCenter">You two, put your pants on!</p>
+      <p xml:id="p750" begin="01:29:04.480" end="01:29:06.680" region="bottomCenter">No licking, if you're not buying!</p>
+      <p xml:id="p751" begin="01:30:10.720" end="01:30:13.080" region="bottomCenter">Kid, you have the bone structure</p>
+      <p xml:id="p752" begin="01:30:13.200" end="01:30:15.080" region="bottomCenter">of a kung fu genius.</p>
+      <p xml:id="p753" begin="01:30:15.440" end="01:30:17.520" region="bottomCenter">With that, you can take up<br/>the mission of world peace.</p>
+      <p xml:id="p754" begin="01:30:17.640" end="01:30:18.920" region="bottomCenter">Here is the scroll of<br/>the Buddhist Palm.</p>
+      <p xml:id="p755" begin="01:30:19.040" end="01:30:21.560" region="bottomCenter">I'll let you have it for $10.<br/>Just because it's fate.</p>
+      <p xml:id="p756" begin="01:30:21.800" end="01:30:22.680" region="bottomCenter">Hold on.</p>
+      <p xml:id="p757" begin="01:30:23.120" end="01:30:25.280" region="bottomCenter">There's more to choose from.</p>
+    </div>
+  </body>
+</tt>
