@@ -1,0 +1,1115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xml:lang="zh-Hant" ttp:frameRate="25" ttp:frameRateMultiplier="1 1" ttp:timeBase="media" xmlns="http://www.w3.org/ns/ttml">
+  <head>
+    <metadata>
+      <ttm:title>SUBTITLE_ cmgo185_Ip Man 3_MYS</ttm:title>
+    </metadata>
+    <styling>
+      <style xml:id="s1" tts:fontFamily="default" tts:fontSize="100%" tts:fontStyle="normal" tts:fontWeight="normal" tts:color="white" />
+    </styling>
+    <layout>
+      <region xml:id="bottomCenter" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="after" tts:textAlign="center" />
+      <region xml:id="topCenter" tts:origin="10% 10%" tts:extent="80% 80%" tts:displayAlign="before" tts:textAlign="center" />
+    </layout>
+  </head>
+  <body>
+    <div xml:id="d1" style="s1" xml:lang="zh-Hant">
+      <p xml:id="p1" begin="00:01:46.160" end="00:01:48.360" region="bottomCenter">"Hong Kong pada tahun 1959"</p>
+      <p xml:id="p2" begin="00:01:48.440" end="00:01:50.680" region="bottomCenter">"Selepas anak sulungnya<br/>belajar di Foshan,"</p>
+      <p xml:id="p3" begin="00:01:50.760" end="00:01:52.960" region="bottomCenter">"Ip Man dan keluarganya<br/>ke Hong Kong."</p>
+      <p xml:id="p4" begin="00:01:53.040" end="00:01:55.240" region="bottomCenter">"Dia ajar<br/>dan promosikan Wing Chun."</p>
+      <p xml:id="p5" begin="00:01:55.320" end="00:01:56.200" region="bottomCenter">Siapa nak snek?</p>
+      <p xml:id="p6" begin="00:01:56.280" end="00:01:59.040" region="bottomCenter">"Tingkat lima"</p>
+      <p xml:id="p7" begin="00:02:06.440" end="00:02:07.480" region="bottomCenter">Tok Guru Ip.</p>
+      <p xml:id="p8" begin="00:02:07.560" end="00:02:08.640" region="bottomCenter">Pagi!</p>
+      <p xml:id="p9" begin="00:02:09.680" end="00:02:10.720" region="bottomCenter">Awalnya?</p>
+      <p xml:id="p10" begin="00:02:12.040" end="00:02:13.160" region="bottomCenter">Tok Guru, ini saya.</p>
+      <p xml:id="p11" begin="00:02:15.920" end="00:02:16.880" region="bottomCenter">Tak kenal saya?</p>
+      <p xml:id="p12" begin="00:02:20.320" end="00:02:21.240" region="bottomCenter">Siu-long.</p>
+      <p xml:id="p13" begin="00:02:21.880" end="00:02:23.400" region="bottomCenter">Dulu saya nak belajar Kungfu.</p>
+      <p xml:id="p14" begin="00:02:23.920" end="00:02:25.280" region="bottomCenter">Awak kata tunggu besar.</p>
+      <p xml:id="p15" begin="00:02:25.600" end="00:02:27.000" region="bottomCenter">Ambil saya jadi murid.</p>
+      <p xml:id="p16" begin="00:02:29.920" end="00:02:32.000" region="bottomCenter">Kenapa saya perlu terima awak?</p>
+      <p xml:id="p17" begin="00:02:32.600" end="00:02:34.920" region="bottomCenter">Saya akan jadi<br/>murid awak paling hebat.</p>
+      <p xml:id="p18" begin="00:02:41.800" end="00:02:43.080" region="bottomCenter">Awak begitu yakin?</p>
+      <p xml:id="p19" begin="00:02:44.640" end="00:02:45.800" region="bottomCenter">Sebab saya pantas.</p>
+      <p xml:id="p20" begin="00:02:56.480" end="00:02:57.480" region="bottomCenter">Berapa pantas?</p>
+      <p xml:id="p21" begin="00:03:17.880" end="00:03:19.520" region="bottomCenter">Tak cukup pantas, nak.</p>
+      <p xml:id="p22" begin="00:03:22.400" end="00:03:23.840" region="bottomCenter">Boleh pantas lagi?</p>
+      <p xml:id="p23" begin="00:04:05.240" end="00:04:06.240" region="bottomCenter">Itu agak pantas.</p>
+      <p xml:id="p24" begin="00:04:07.160" end="00:04:08.880" region="bottomCenter">Awak memang tendang air itu</p>
+      <p xml:id="p25" begin="00:04:08.960" end="00:04:10.520" region="bottomCenter">atau cuma fikirkan saja?</p>
+      <p xml:id="p26" begin="00:04:47.320" end="00:04:49.840" region="bottomCenter">"Sekolah Rendah Chiyan"</p>
+      <p xml:id="p27" begin="00:05:01.520" end="00:05:04.040" region="bottomCenter">Berjuang!</p>
+      <p xml:id="p28" begin="00:05:06.160" end="00:05:09.200" region="bottomCenter">Berjuang!</p>
+      <p xml:id="p29" begin="00:05:09.280" end="00:05:10.720" region="bottomCenter">Cheung Fong dari Wing Chun.</p>
+      <p xml:id="p30" begin="00:05:11.240" end="00:05:12.640" region="bottomCenter">Ip Ching dari Wing Chun.</p>
+      <p xml:id="p31" begin="00:05:29.240" end="00:05:30.560" region="bottomCenter">Diam, hentikan!</p>
+      <p xml:id="p32" begin="00:05:31.480" end="00:05:32.560" region="bottomCenter">Lepaskan.</p>
+      <p xml:id="p33" begin="00:05:35.640" end="00:05:37.320" region="bottomCenter">Saya kata jangan bergaduh.</p>
+      <p xml:id="p34" begin="00:05:41.720" end="00:05:44.880" region="bottomCenter">Pecah telur,<br/>asingkan telur kuning.</p>
+      <p xml:id="p35" begin="00:05:46.920" end="00:05:48.440" region="bottomCenter">Kenapa cincin itu?</p>
+      <p xml:id="p36" begin="00:05:49.120" end="00:05:51.240" region="bottomCenter">Orang tua kata tambah perak</p>
+      <p xml:id="p37" begin="00:05:51.320" end="00:05:52.720" region="bottomCenter">bantu merawat lebam.</p>
+      <p xml:id="p38" begin="00:05:55.040" end="00:05:57.680" region="bottomCenter">Kenapa mereka bergaduh hari ini?</p>
+      <p xml:id="p39" begin="00:05:59.480" end="00:06:02.320" region="bottomCenter">Selalunya tentang<br/>Kungfu siapa yang terbaik.</p>
+      <p xml:id="p40" begin="00:06:03.760" end="00:06:05.960" region="bottomCenter">Saya sepatutnya perhatikan mereka.</p>
+      <p xml:id="p41" begin="00:06:06.760" end="00:06:08.640" region="bottomCenter">Tentu sengit, mereka cedera teruk.</p>
+      <p xml:id="p42" begin="00:06:08.960" end="00:06:11.240" region="bottomCenter">Ini salah Ching, dia sangat nakal.</p>
+      <p xml:id="p43" begin="00:06:11.480" end="00:06:13.280" region="bottomCenter">Jadi, mana</p>
+      <p xml:id="p44" begin="00:06:13.360" end="00:06:14.640" region="bottomCenter">ayah budak ni?</p>
+      <p xml:id="p45" begin="00:06:14.960" end="00:06:16.480" region="bottomCenter">Cheung Fong murid baru.</p>
+      <p xml:id="p46" begin="00:06:17.040" end="00:06:19.720" region="bottomCenter">Ayah dia jemput agak lewat.</p>
+      <p xml:id="p47" begin="00:06:20.720" end="00:06:23.240" region="bottomCenter">Fong, ayah awak kerja apa?</p>
+      <p xml:id="p48" begin="00:06:23.320" end="00:06:24.640" region="bottomCenter">Dia sentiasa sibuk?</p>
+      <p xml:id="p49" begin="00:06:25.200" end="00:06:26.160" region="bottomCenter">Penarik beca.</p>
+      <p xml:id="p50" begin="00:06:30.200" end="00:06:31.320" region="bottomCenter">Maaf.</p>
+      <p xml:id="p51" begin="00:06:31.480" end="00:06:33.240" region="bottomCenter">- Maaf, Cik Wong.<br/>- Tuan Ip.</p>
+      <p xml:id="p52" begin="00:06:33.320" end="00:06:35.800" region="bottomCenter">Saya sibuk di sekolah Kungfu</p>
+      <p xml:id="p53" begin="00:06:35.880" end="00:06:36.960" region="bottomCenter">jadi saya lambat.</p>
+      <p xml:id="p54" begin="00:06:37.040" end="00:06:38.200" region="bottomCenter">Biar saya lihat.</p>
+      <p xml:id="p55" begin="00:06:40.200" end="00:06:42.000" region="bottomCenter">Ching, apa halnya?</p>
+      <p xml:id="p56" begin="00:06:43.600" end="00:06:45.360" region="bottomCenter">Mereka berdua salah,</p>
+      <p xml:id="p57" begin="00:06:45.600" end="00:06:47.760" region="bottomCenter">jadi saya panggil ketua keluarga.</p>
+      <p xml:id="p58" begin="00:06:47.840" end="00:06:50.240" region="bottomCenter">Betul, ayah Fong dah sampai?</p>
+      <p xml:id="p59" begin="00:06:50.840" end="00:06:52.560" region="bottomCenter">Saya perlu minta maaf.</p>
+      <p xml:id="p60" begin="00:06:52.800" end="00:06:54.800" region="bottomCenter">Tak, seperti awak, dia lewat.</p>
+      <p xml:id="p61" begin="00:06:56.280" end="00:06:58.840" region="bottomCenter">Tiada masalah, kerja diutamakan.</p>
+      <p xml:id="p62" begin="00:07:00.840" end="00:07:02.600" region="bottomCenter">- Jangan makan...<br/>-Letak balik.</p>
+      <p xml:id="p63" begin="00:07:03.960" end="00:07:05.280" region="bottomCenter">Budak itu lapar.</p>
+      <p xml:id="p64" begin="00:07:05.680" end="00:07:07.360" region="bottomCenter">Cik Wong, apa kata begini?</p>
+      <p xml:id="p65" begin="00:07:07.520" end="00:07:09.520" region="bottomCenter">Biar mereka makan malam dulu</p>
+      <p xml:id="p66" begin="00:07:09.680" end="00:07:11.320" region="bottomCenter">dan maklumkan ayah dia.</p>
+      <p xml:id="p67" begin="00:07:11.400" end="00:07:12.280" region="bottomCenter">- Boleh?<br/>- Ya.</p>
+      <p xml:id="p68" begin="00:07:12.360" end="00:07:13.360" region="bottomCenter">Wing-Sing, okey?</p>
+      <p xml:id="p69" begin="00:07:13.720" end="00:07:14.800" region="bottomCenter">Sudah tentu.</p>
+      <p xml:id="p70" begin="00:07:16.200" end="00:07:18.720" region="bottomCenter">Fong, nak makan malam<br/>dengan kami?</p>
+      <p xml:id="p71" begin="00:07:20.080" end="00:07:21.280" region="bottomCenter">Ambil beg buku awak.</p>
+      <p xml:id="p72" begin="00:07:23.040" end="00:07:24.800" region="bottomCenter">- Jaga diri.<br/>- Kami pergi.</p>
+      <p xml:id="p73" begin="00:07:25.040" end="00:07:26.760" region="bottomCenter">- Terima kasih.<br/>- Terima kasih.</p>
+      <p xml:id="p74" begin="00:07:26.840" end="00:07:27.720" region="bottomCenter">Maaf menyusahkan.</p>
+      <p xml:id="p75" begin="00:07:27.800" end="00:07:29.240" region="bottomCenter">Terima kasih, Pn. Ip.</p>
+      <p xml:id="p76" begin="00:07:29.640" end="00:07:30.760" region="bottomCenter">Jumpa lagi.</p>
+      <p xml:id="p77" begin="00:07:32.400" end="00:07:35.240" region="bottomCenter">Fong, makanlah, jangan segan.</p>
+      <p xml:id="p78" begin="00:07:35.320" end="00:07:36.240" region="bottomCenter">Ya, Fong!</p>
+      <p xml:id="p79" begin="00:07:36.320" end="00:07:38.080" region="bottomCenter">Jangan segan, makan.</p>
+      <p xml:id="p80" begin="00:07:38.400" end="00:07:39.440" region="bottomCenter">Makanlah.</p>
+      <p xml:id="p81" begin="00:07:40.680" end="00:07:42.920" region="bottomCenter">Sayang, ikan itu sedap.</p>
+      <p xml:id="p82" begin="00:08:03.480" end="00:08:05.680" region="bottomCenter">Cheung Fong, boleh tahan.</p>
+      <p xml:id="p83" begin="00:08:06.360" end="00:08:07.360" region="bottomCenter">Siapa ajar awak?</p>
+      <p xml:id="p84" begin="00:08:07.440" end="00:08:09.720" region="bottomCenter">Ayah saya, awak pandai berlawan?</p>
+      <p xml:id="p85" begin="00:08:10.040" end="00:08:11.200" region="bottomCenter">Sedikit.</p>
+      <p xml:id="p86" begin="00:08:20.000" end="00:08:21.280" region="bottomCenter">Saya ayah Cheung Fong,</p>
+      <p xml:id="p87" begin="00:08:22.520" end="00:08:24.880" region="bottomCenter">anak saya ada di sini?</p>
+      <p xml:id="p88" begin="00:08:24.960" end="00:08:25.800" region="bottomCenter">Ya, ada.</p>
+      <p xml:id="p89" begin="00:08:25.880" end="00:08:26.720" region="bottomCenter">Hai, En. Cheung.</p>
+      <p xml:id="p90" begin="00:08:26.800" end="00:08:28.000" region="bottomCenter">Sila masuk.</p>
+      <p xml:id="p91" begin="00:08:34.960" end="00:08:37.560" region="bottomCenter">Fong, ayah awak dah sampai.</p>
+      <p xml:id="p92" begin="00:08:37.640" end="00:08:38.720" region="bottomCenter">Tuan.</p>
+      <p xml:id="p93" begin="00:08:40.560" end="00:08:41.560" region="bottomCenter">Fong.</p>
+      <p xml:id="p94" begin="00:08:42.000" end="00:08:43.320" region="bottomCenter">Apa berlaku hari ini?</p>
+      <p xml:id="p95" begin="00:08:43.880" end="00:08:47.240" region="bottomCenter">Mereka nakal dan bergaduh.</p>
+      <p xml:id="p96" begin="00:08:47.320" end="00:08:48.800" region="bottomCenter">Nanti mereka insaf.</p>
+      <p xml:id="p97" begin="00:08:49.760" end="00:08:50.960" region="bottomCenter">Mari sini, Ching.</p>
+      <p xml:id="p98" begin="00:08:52.560" end="00:08:53.440" region="bottomCenter">Fong.</p>
+      <p xml:id="p99" begin="00:08:53.840" end="00:08:54.960" region="bottomCenter">Dah minta maaf?</p>
+      <p xml:id="p100" begin="00:08:55.520" end="00:08:56.640" region="bottomCenter">Ching pun salah.</p>
+      <p xml:id="p101" begin="00:08:57.520" end="00:08:59.040" region="bottomCenter">Ip Ching, maaf.</p>
+      <p xml:id="p102" begin="00:09:00.080" end="00:09:01.560" region="bottomCenter">Maafkan saya, Cheung Fong.</p>
+      <p xml:id="p103" begin="00:09:01.840" end="00:09:05.080" region="bottomCenter">Berjabat tangan<br/>dan kini kamu berkawan.</p>
+      <p xml:id="p104" begin="00:09:08.920" end="00:09:10.160" region="bottomCenter">Saya memandai-mandai.</p>
+      <p xml:id="p105" begin="00:09:11.120" end="00:09:12.480" region="bottomCenter">Maaf, En. Cheung.</p>
+      <p xml:id="p106" begin="00:09:14.040" end="00:09:16.560" region="bottomCenter">Selamat berkenalan, Tuan Ip.</p>
+      <p xml:id="p107" begin="00:09:17.680" end="00:09:19.880" region="bottomCenter">Saya nampak Fong ukir kayu.</p>
+      <p xml:id="p108" begin="00:09:19.960" end="00:09:21.760" region="bottomCenter">Dia diajar dengan baik.</p>
+      <p xml:id="p109" begin="00:09:22.760" end="00:09:23.840" region="bottomCenter">Awak terlalu baik.</p>
+      <p xml:id="p110" begin="00:09:25.040" end="00:09:27.240" region="bottomCenter">Hari dah lewat, awak patut berehat.</p>
+      <p xml:id="p111" begin="00:09:27.480" end="00:09:28.520" region="bottomCenter">Saya hantarkan.</p>
+      <p xml:id="p112" begin="00:09:33.160" end="00:09:36.880" region="bottomCenter">Tuan, Pak Cik Ip<br/>pun ada patung kayu.</p>
+      <p xml:id="p113" begin="00:09:37.200" end="00:09:38.680" region="bottomCenter">Awak kenal dia?</p>
+      <p xml:id="p114" begin="00:09:39.600" end="00:09:42.840" region="bottomCenter">Ya, Pak Cik Ip sangat terkenal.</p>
+      <p xml:id="p115" begin="00:09:43.560" end="00:09:46.920" region="bottomCenter">Satu hari nanti,<br/>saya akan jadi lebih terkenal.</p>
+      <p xml:id="p116" begin="00:09:48.000" end="00:09:51.440" region="bottomCenter">Siapa yang lebih mahir dalam Kungfu?</p>
+      <p xml:id="p117" begin="00:09:52.360" end="00:09:53.480" region="bottomCenter">Awak rasa?</p>
+      <p xml:id="p118" begin="00:09:54.160" end="00:09:55.920" region="bottomCenter">Awak, sudah tentu!</p>
+      <p xml:id="p119" begin="00:09:59.560" end="00:10:00.560" region="bottomCenter">Mari pergi.</p>
+      <p xml:id="p120" begin="00:10:01.560" end="00:10:03.720" region="bottomCenter">Saya nak tengok, sakit tak?</p>
+      <p xml:id="p121" begin="00:10:03.800" end="00:10:04.880" region="bottomCenter">Tidak.</p>
+      <p xml:id="p122" begin="00:10:08.600" end="00:10:09.960" region="bottomCenter">Cepat, masuk!</p>
+      <p xml:id="p123" begin="00:10:10.200" end="00:10:11.480" region="bottomCenter">Dah nak mula.</p>
+      <p xml:id="p124" begin="00:10:14.240" end="00:10:15.480" region="bottomCenter">Satu demi satu!</p>
+      <p xml:id="p125" begin="00:10:15.560" end="00:10:17.640" region="bottomCenter">Pertaruhan besar,<br/>kemenangan besar.</p>
+      <p xml:id="p126" begin="00:10:17.720" end="00:10:21.000" region="bottomCenter">Ke tepi, beri laluan.</p>
+      <p xml:id="p127" begin="00:10:26.120" end="00:10:33.480" region="bottomCenter">Cheung Tin-chi!</p>
+      <p xml:id="p128" begin="00:10:42.240" end="00:10:44.400" region="bottomCenter">Ke depan, satu persatu!</p>
+      <p xml:id="p129" begin="00:11:01.600" end="00:11:03.360" region="bottomCenter">Abang Sang!</p>
+      <p xml:id="p130" begin="00:11:03.800" end="00:11:05.720" region="bottomCenter">- Apa?<br/>- Bos ada di sini.</p>
+      <p xml:id="p131" begin="00:11:08.280" end="00:11:09.680" region="bottomCenter">Boleh tahan, nak.</p>
+      <p xml:id="p132" begin="00:11:09.880" end="00:11:10.880" region="bottomCenter">Pergi.</p>
+      <p xml:id="p133" begin="00:11:13.120" end="00:11:14.560" region="bottomCenter">Teruskan.</p>
+      <p xml:id="p134" begin="00:11:16.920" end="00:11:18.080" region="bottomCenter">Hei, bos.</p>
+      <p xml:id="p135" begin="00:11:20.960" end="00:11:22.880" region="bottomCenter">- Ayuh.<br/>- Baiklah.</p>
+      <p xml:id="p136" begin="00:11:24.200" end="00:11:26.440" region="bottomCenter">- Tunggu saya akan kembali.<br/>- Baik.</p>
+      <p xml:id="p137" begin="00:11:36.120" end="00:11:37.080" region="bottomCenter">Bos.</p>
+      <p xml:id="p138" begin="00:11:38.680" end="00:11:39.720" region="bottomCenter">Jangan risau,</p>
+      <p xml:id="p139" begin="00:11:40.640" end="00:11:43.960" region="bottomCenter">saya boleh mengawalnya.</p>
+      <p xml:id="p140" begin="00:11:45.000" end="00:11:46.200" region="bottomCenter">Duit dua minggu ni.</p>
+      <p xml:id="p141" begin="00:11:46.280" end="00:11:47.920" region="bottomCenter">- Tolong buka.<br/>- Baik.</p>
+      <p xml:id="p142" begin="00:11:54.680" end="00:11:55.600" region="bottomCenter">Bagus.</p>
+      <p xml:id="p143" begin="00:11:55.920" end="00:11:57.880" region="bottomCenter">- Terima kasih.<br/>- Perniagaan lain?</p>
+      <p xml:id="p144" begin="00:11:58.720" end="00:11:59.800" region="bottomCenter">Sekolah?</p>
+      <p xml:id="p145" begin="00:11:59.960" end="00:12:01.880" region="bottomCenter">Tiada masalah,<br/>beri saya sebulan.</p>
+      <p xml:id="p146" begin="00:12:01.960" end="00:12:04.080" region="bottomCenter">Tak, dua minggu.</p>
+      <p xml:id="p147" begin="00:12:04.200" end="00:12:05.320" region="bottomCenter">Aduhai...</p>
+      <p xml:id="p148" begin="00:12:06.560" end="00:12:08.480" region="bottomCenter">Okey, saya suka cabaran.</p>
+      <p xml:id="p149" begin="00:12:09.480" end="00:12:10.480" region="bottomCenter">Setuju.</p>
+      <p xml:id="p150" begin="00:12:12.720" end="00:12:15.000" region="bottomCenter">Ingat, saya nak sekolah itu.</p>
+      <p xml:id="p151" begin="00:12:15.080" end="00:12:16.840" region="bottomCenter">Yang lain tak bermakna tanpanya.</p>
+      <p xml:id="p152" begin="00:12:17.080" end="00:12:18.720" region="bottomCenter">Ya, faham.</p>
+      <p xml:id="p153" begin="00:12:24.240" end="00:12:25.880" region="bottomCenter">Itu Kungfu apa?</p>
+      <p xml:id="p154" begin="00:12:25.960" end="00:12:26.920" region="bottomCenter">Wing Chun.</p>
+      <p xml:id="p155" begin="00:12:27.800" end="00:12:29.080" region="bottomCenter">Ia sangat berkuasa.</p>
+      <p xml:id="p156" begin="00:12:41.400" end="00:12:43.000" region="bottomCenter">"Sekolah Seni Bela Diri"</p>
+      <p xml:id="p157" begin="00:12:43.080" end="00:12:45.760" region="bottomCenter">Ahli seni bela diri<br/>ke sini setiap hari</p>
+      <p xml:id="p158" begin="00:12:45.840" end="00:12:47.160" region="bottomCenter">berbual dan minum teh.</p>
+      <p xml:id="p159" begin="00:12:47.560" end="00:12:50.920" region="bottomCenter">Setiap sekolah ada meja sendiri.</p>
+      <p xml:id="p160" begin="00:12:51.880" end="00:12:52.960" region="bottomCenter">Tuan Tin.</p>
+      <p xml:id="p161" begin="00:12:53.040" end="00:12:55.960" region="bottomCenter">- Tuan Chan, bintang bersinar.<br/>- Tuan Tin.</p>
+      <p xml:id="p162" begin="00:12:56.320" end="00:12:58.800" region="bottomCenter">Dia memiliki ramai pelajar.</p>
+      <p xml:id="p163" begin="00:12:59.440" end="00:13:00.440" region="bottomCenter">Tuan Chan.</p>
+      <p xml:id="p164" begin="00:13:01.520" end="00:13:04.600" region="bottomCenter">Meja ini hebat.<br/>Terbaik antara yang terbaik.</p>
+      <p xml:id="p165" begin="00:13:04.680" end="00:13:05.840" region="bottomCenter">Ini meja saya.</p>
+      <p xml:id="p166" begin="00:13:06.280" end="00:13:07.360" region="bottomCenter">Tuan Tin.</p>
+      <p xml:id="p167" begin="00:13:07.480" end="00:13:08.520" region="bottomCenter">Cuma bergurau...</p>
+      <p xml:id="p168" begin="00:13:08.600" end="00:13:12.600" region="bottomCenter">Juara sebenar duduk di sana,<br/>meja Wing Chun.</p>
+      <p xml:id="p169" begin="00:13:13.040" end="00:13:14.680" region="bottomCenter">Tuan Tin.</p>
+      <p xml:id="p170" begin="00:13:14.880" end="00:13:16.640" region="bottomCenter">Lik, mana tuan awak?</p>
+      <p xml:id="p171" begin="00:13:17.960" end="00:13:19.080" region="bottomCenter">Itu dia.</p>
+      <p xml:id="p172" begin="00:13:21.640" end="00:13:22.800" region="bottomCenter">Tuan Ip.</p>
+      <p xml:id="p173" begin="00:13:23.280" end="00:13:25.640" region="bottomCenter">- Tuan.<br/>- Tuan Tin, awak dah makan?</p>
+      <p xml:id="p174" begin="00:13:25.720" end="00:13:28.720" region="bottomCenter">- Tidak, awak belanja?<br/>- Sudah tentu!</p>
+      <p xml:id="p175" begin="00:13:29.400" end="00:13:31.440" region="bottomCenter">Awak kena Tuan Ip?</p>
+      <p xml:id="p176" begin="00:13:31.600" end="00:13:32.560" region="bottomCenter">Apa khabar?</p>
+      <p xml:id="p177" begin="00:13:32.640" end="00:13:34.280" region="bottomCenter">- Saya Lee.<br/>- Hai, En. Lee.</p>
+      <p xml:id="p178" begin="00:13:34.360" end="00:13:36.680" region="bottomCenter">Lee wartawan yang berminat</p>
+      <p xml:id="p179" begin="00:13:36.760" end="00:13:38.720" region="bottomCenter">tulis tentang seni bela diri</p>
+      <p xml:id="p180" begin="00:13:38.920" end="00:13:40.200" region="bottomCenter">dan ambil gambar kita.</p>
+      <p xml:id="p181" begin="00:13:40.280" end="00:13:41.800" region="bottomCenter">- Hebat.<br/>- Boleh, Tuan Ip?</p>
+      <p xml:id="p182" begin="00:13:41.880" end="00:13:42.960" region="bottomCenter">- Ya.<br/>- Terima kasih.</p>
+      <p xml:id="p183" begin="00:13:43.040" end="00:13:45.280" region="bottomCenter">Tuan Lee, di sini.</p>
+      <p xml:id="p184" begin="00:13:45.440" end="00:13:46.920" region="bottomCenter">- Ip Man, di tengah.<br/>- Tak.</p>
+      <p xml:id="p185" begin="00:13:47.000" end="00:13:48.440" region="bottomCenter">- Ia milik awak.<br/>- Betul.</p>
+      <p xml:id="p186" begin="00:13:48.520" end="00:13:50.880" region="bottomCenter">Ia sesuai, duduk.</p>
+      <p xml:id="p187" begin="00:13:50.960" end="00:13:52.320" region="bottomCenter">Tuan Ip, telefon.</p>
+      <p xml:id="p188" begin="00:13:52.400" end="00:13:53.400" region="bottomCenter">Jangan menolak.</p>
+      <p xml:id="p189" begin="00:13:53.480" end="00:13:56.920" region="bottomCenter">- Boleh saya jawab telefon?<br/>- Boleh.</p>
+      <p xml:id="p190" begin="00:13:57.320" end="00:13:58.520" region="bottomCenter">Pergilah.</p>
+      <p xml:id="p191" begin="00:13:58.600" end="00:13:59.960" region="bottomCenter">Kami akan tunggu.</p>
+      <p xml:id="p192" begin="00:14:03.320" end="00:14:04.960" region="bottomCenter">Awak lupa tarikh kita?</p>
+      <p xml:id="p193" begin="00:14:06.160" end="00:14:07.240" region="bottomCenter">4 haribulan ini?</p>
+      <p xml:id="p194" begin="00:14:07.480" end="00:14:08.680" region="bottomCenter">Untuk hari Khamis.</p>
+      <p xml:id="p195" begin="00:14:08.960" end="00:14:10.240" region="bottomCenter">Hari Khamis?</p>
+      <p xml:id="p196" begin="00:14:10.560" end="00:14:12.360" region="bottomCenter">Saya akan segera ke sana.</p>
+      <p xml:id="p197" begin="00:14:12.440" end="00:14:14.240" region="bottomCenter">Dah sejam saya tunggu.</p>
+      <p xml:id="p198" begin="00:14:14.320" end="00:14:16.080" region="bottomCenter">Tarian dah nak habis</p>
+      <p xml:id="p199" begin="00:14:16.160" end="00:14:17.160" region="bottomCenter">tak payah datang.</p>
+      <p xml:id="p200" begin="00:14:17.240" end="00:14:18.760" region="bottomCenter">Ambil Ching dari sekolah.</p>
+      <p xml:id="p201" begin="00:14:29.160" end="00:14:30.320" region="bottomCenter">Saya ada masalah.</p>
+      <p xml:id="p202" begin="00:14:31.360" end="00:14:33.840" region="bottomCenter">- Tuan Ip, sila.<br/>- Mari duduk sini.</p>
+      <p xml:id="p203" begin="00:14:34.400" end="00:14:35.960" region="bottomCenter">Di sini, di tengah.</p>
+      <p xml:id="p204" begin="00:14:36.280" end="00:14:38.280" region="bottomCenter">- Baik, saya mengalah.<br/>- Kenapa tak?</p>
+      <p xml:id="p205" begin="00:14:38.440" end="00:14:40.280" region="bottomCenter">Pandang depan, bertahan!</p>
+      <p xml:id="p206" begin="00:14:40.560" end="00:14:41.400" region="bottomCenter">Sedia.</p>
+      <p xml:id="p207" begin="00:14:41.480" end="00:14:43.480" region="bottomCenter">Satu, dua, tiga.</p>
+      <p xml:id="p208" begin="00:14:49.560" end="00:14:50.400" region="bottomCenter">- Tuan Ip.<br/>- Ya.</p>
+      <p xml:id="p209" begin="00:14:50.480" end="00:14:51.760" region="bottomCenter">Nak ambil anak awak?</p>
+      <p xml:id="p210" begin="00:14:51.840" end="00:14:52.960" region="bottomCenter">Mana isteri awak?</p>
+      <p xml:id="p211" begin="00:14:53.040" end="00:14:54.560" region="bottomCenter">Dia sibuk hari ini.</p>
+      <p xml:id="p212" begin="00:14:54.640" end="00:14:57.280" region="bottomCenter">- Awak tak sibuk?<br/>- Kadang-kadang.</p>
+      <p xml:id="p213" begin="00:14:57.840" end="00:15:00.320" region="bottomCenter">Tuan Ip, awak nampak semakin muda.</p>
+      <p xml:id="p214" begin="00:15:01.000" end="00:15:03.680" region="bottomCenter">Tentulah, isteri dia juga cantik.</p>
+      <p xml:id="p215" begin="00:15:03.760" end="00:15:05.080" region="bottomCenter">Betul kata awak.</p>
+      <p xml:id="p216" begin="00:15:06.160" end="00:15:07.880" region="bottomCenter">Pasangan yang bertuah.</p>
+      <p xml:id="p217" begin="00:15:07.960" end="00:15:10.400" region="bottomCenter">- Tuan Ip.<br/>- Tak seperti saya.</p>
+      <p xml:id="p218" begin="00:15:10.960" end="00:15:12.040" region="bottomCenter">En. Cheung.</p>
+      <p xml:id="p219" begin="00:15:12.440" end="00:15:13.520" region="bottomCenter">Helo...</p>
+      <p xml:id="p220" begin="00:15:15.800" end="00:15:17.360" region="bottomCenter">- Jemput anak awak?<br/>- Ya.</p>
+      <p xml:id="p221" begin="00:15:18.640" end="00:15:19.640" region="bottomCenter">Betul,</p>
+      <p xml:id="p222" begin="00:15:20.800" end="00:15:22.800" region="bottomCenter">ubat ini hilangkan lebam.</p>
+      <p xml:id="p223" begin="00:15:22.880" end="00:15:23.920" region="bottomCenter">Untuk anak awak.</p>
+      <p xml:id="p224" begin="00:15:24.560" end="00:15:26.160" region="bottomCenter">Terima kasih, baiknya awak.</p>
+      <p xml:id="p225" begin="00:15:26.720" end="00:15:28.000" region="bottomCenter">Fong apa khabar?</p>
+      <p xml:id="p226" begin="00:15:28.080" end="00:15:29.080" region="bottomCenter">Dia baik.</p>
+      <p xml:id="p227" begin="00:15:29.280" end="00:15:30.240" region="bottomCenter">Saya lega.</p>
+      <p xml:id="p228" begin="00:15:32.920" end="00:15:33.880" region="bottomCenter">Tuan Ip,</p>
+      <p xml:id="p229" begin="00:15:34.240" end="00:15:37.800" region="bottomCenter">awak belajar Wing Chun<br/>daripada Chan Wah Shun?</p>
+      <p xml:id="p230" begin="00:15:37.880" end="00:15:38.720" region="bottomCenter">Ya.</p>
+      <p xml:id="p231" begin="00:15:38.800" end="00:15:39.920" region="bottomCenter">Kami rakan sekolah,</p>
+      <p xml:id="p232" begin="00:15:40.320" end="00:15:42.880" region="bottomCenter">dari sekolah<br/>Foshan Tok Guru Leung Jan.</p>
+      <p xml:id="p233" begin="00:15:44.400" end="00:15:47.040" region="bottomCenter">Jadi saudara seperjuangan.</p>
+      <p xml:id="p234" begin="00:15:48.800" end="00:15:49.920" region="bottomCenter">Khabarnya,</p>
+      <p xml:id="p235" begin="00:15:50.200" end="00:15:53.760" region="bottomCenter">Tuan Chan tak begitu hebat<br/>dengan pedang dan kaki.</p>
+      <p xml:id="p236" begin="00:15:54.160" end="00:15:55.280" region="bottomCenter">Betulkah?</p>
+      <p xml:id="p237" begin="00:15:57.560" end="00:16:00.560" region="bottomCenter">Masing-masing ada kekuatan<br/>dan kelemahan sendiri.</p>
+      <p xml:id="p238" begin="00:16:00.800" end="00:16:01.680" region="bottomCenter">Biasalah.</p>
+      <p xml:id="p239" begin="00:16:01.760" end="00:16:02.960" region="bottomCenter">Awak pula, Tuan Ip?</p>
+      <p xml:id="p240" begin="00:16:05.360" end="00:16:06.640" region="bottomCenter">Saya cuma suka-suka.</p>
+      <p xml:id="p241" begin="00:16:11.040" end="00:16:12.280" region="bottomCenter">Perlawanan persahabatan,</p>
+      <p xml:id="p242" begin="00:16:14.280" end="00:16:15.400" region="bottomCenter">awak nak?</p>
+      <p xml:id="p243" begin="00:16:18.480" end="00:16:19.640" region="bottomCenter">Satu hari nanti.</p>
+      <p xml:id="p244" begin="00:16:26.000" end="00:16:27.520" region="bottomCenter">Selamat tinggal, cik!</p>
+      <p xml:id="p245" begin="00:16:27.600" end="00:16:29.160" region="bottomCenter">- Tuan.<br/>- Fong.</p>
+      <p xml:id="p246" begin="00:16:31.400" end="00:16:32.880" region="bottomCenter">Belajar apa hari ini?</p>
+      <p xml:id="p247" begin="00:16:33.960" end="00:16:35.800" region="bottomCenter">- Matematik.<br/>- Matematik?</p>
+      <p xml:id="p248" begin="00:16:35.920" end="00:16:37.720" region="bottomCenter">Bahasa Cina dan Inggeris juga.</p>
+      <p xml:id="p249" begin="00:16:37.800" end="00:16:39.560" region="bottomCenter">Kamu berkelakuan baik?</p>
+      <p xml:id="p250" begin="00:16:39.720" end="00:16:40.840" region="bottomCenter">Ya.</p>
+      <p xml:id="p251" begin="00:16:48.080" end="00:16:49.920" region="bottomCenter">- Pernah ke sekolah?<br/>- Tak.</p>
+      <p xml:id="p252" begin="00:16:50.000" end="00:16:51.400" region="bottomCenter">Ayah, mana ibu?</p>
+      <p xml:id="p253" begin="00:16:52.680" end="00:16:55.840" region="bottomCenter">Pengetua, mereka ini nak jumpa tuan.</p>
+      <p xml:id="p254" begin="00:16:56.640" end="00:16:58.120" region="bottomCenter">Apa boleh saya bantu?</p>
+      <p xml:id="p255" begin="00:16:58.920" end="00:17:00.400" region="bottomCenter">- Awak buat apa?<br/>- Ayuh!</p>
+      <p xml:id="p256" begin="00:17:00.480" end="00:17:04.200" region="bottomCenter">- Duduk, jangan bergerak!<br/>- Tengok apa?</p>
+      <p xml:id="p257" begin="00:17:04.280" end="00:17:05.720" region="bottomCenter">Si gemuk, bertenang!</p>
+      <p xml:id="p258" begin="00:17:05.800" end="00:17:07.240" region="bottomCenter">Saya tak boleh nak cakap.</p>
+      <p xml:id="p259" begin="00:17:08.920" end="00:17:09.880" region="bottomCenter">Maaf, tuan.</p>
+      <p xml:id="p260" begin="00:17:09.960" end="00:17:11.000" region="bottomCenter">Awak takut?</p>
+      <p xml:id="p261" begin="00:17:11.080" end="00:17:12.080" region="bottomCenter">- Nak apa?<br/>- Duduk.</p>
+      <p xml:id="p262" begin="00:17:12.160" end="00:17:13.000" region="bottomCenter">Beri ruang.</p>
+      <p xml:id="p263" begin="00:17:13.080" end="00:17:14.600" region="bottomCenter">Duduk, dan jangan takut.</p>
+      <p xml:id="p264" begin="00:17:15.200" end="00:17:18.000" region="bottomCenter">Awak terpelajar,<br/>saya seorang yang budiman.</p>
+      <p xml:id="p265" begin="00:17:18.080" end="00:17:19.240" region="bottomCenter">Kita bertimbang rasa.</p>
+      <p xml:id="p266" begin="00:17:20.440" end="00:17:22.520" region="bottomCenter">Kami bantu dengan pembangunan.</p>
+      <p xml:id="p267" begin="00:17:23.120" end="00:17:25.560" region="bottomCenter">Tapi jual sekolah ini kepada saya.</p>
+      <p xml:id="p268" begin="00:17:25.640" end="00:17:27.240" region="bottomCenter">Saya tak nak jual.</p>
+      <p xml:id="p269" begin="00:17:27.760" end="00:17:29.160" region="bottomCenter">Tak nak baca dulu?</p>
+      <p xml:id="p270" begin="00:17:29.240" end="00:17:31.600" region="bottomCenter">- Tengoklah dulu.<br/>- Saya tak nak jual.</p>
+      <p xml:id="p271" begin="00:17:33.200" end="00:17:34.720" region="bottomCenter">Guru ini buat kecoh.</p>
+      <p xml:id="p272" begin="00:17:36.920" end="00:17:38.280" region="bottomCenter">Berhenti!</p>
+      <p xml:id="p273" begin="00:17:40.120" end="00:17:41.680" region="bottomCenter">Berani awak melawan!</p>
+      <p xml:id="p274" begin="00:17:50.680" end="00:17:52.160" region="bottomCenter">Hati-hati, bos.</p>
+      <p xml:id="p275" begin="00:17:54.880" end="00:17:55.720" region="bottomCenter">Ada apa?</p>
+      <p xml:id="p276" begin="00:17:55.800" end="00:17:58.000" region="bottomCenter">Mereka paksa saya<br/>jual sekolah ini.</p>
+      <p xml:id="p277" begin="00:17:58.520" end="00:18:00.000" region="bottomCenter">Saya pun tahu Kungfu!</p>
+      <p xml:id="p278" begin="00:18:06.280" end="00:18:07.680" region="bottomCenter">Ip Man, awak kenapa?</p>
+      <p xml:id="p279" begin="00:18:07.760" end="00:18:08.960" region="bottomCenter">Ini urusan perniagaan.</p>
+      <p xml:id="p280" begin="00:18:14.240" end="00:18:16.360" region="bottomCenter">Jangan masuk campur.</p>
+      <p xml:id="p281" begin="00:18:16.920" end="00:18:18.840" region="bottomCenter">Helo, ini Sekolah Rendah Chiyan.</p>
+      <p xml:id="p282" begin="00:18:19.040" end="00:18:20.840" region="bottomCenter">Hantar polis ke sini,</p>
+      <p xml:id="p283" begin="00:18:21.680" end="00:18:23.040" region="bottomCenter">ada samseng buat kacau.</p>
+      <p xml:id="p284" begin="00:18:25.520" end="00:18:26.600" region="bottomCenter">Lepaskan bos saya.</p>
+      <p xml:id="p285" begin="00:18:26.680" end="00:18:29.160" region="bottomCenter">Atau saya pukul wanita ini.</p>
+      <p xml:id="p286" begin="00:18:30.960" end="00:18:32.400" region="bottomCenter">Lepaskan dia, sekarang!</p>
+      <p xml:id="p287" begin="00:18:37.280" end="00:18:40.440" region="bottomCenter">Bagaimana rupa<br/>ketiga-tiga lelaki itu?</p>
+      <p xml:id="p288" begin="00:18:42.640" end="00:18:44.040" region="bottomCenter">Mereka menerjah</p>
+      <p xml:id="p289" begin="00:18:44.280" end="00:18:45.960" region="bottomCenter">mula pecahkan barang.</p>
+      <p xml:id="p290" begin="00:18:46.720" end="00:18:49.120" region="bottomCenter">Hong Kong nampak makmur,</p>
+      <p xml:id="p291" begin="00:18:49.200" end="00:18:50.600" region="bottomCenter">tapi ia sebaliknya.</p>
+      <p xml:id="p292" begin="00:18:50.680" end="00:18:53.160" region="bottomCenter">Lebih kaya, lebih banyak jenayah.</p>
+      <p xml:id="p293" begin="00:18:53.440" end="00:18:54.720" region="bottomCenter">Awak kenal saya.</p>
+      <p xml:id="p294" begin="00:18:54.800" end="00:18:56.680" region="bottomCenter">Seperti Cyclop satu mata cukup.</p>
+      <p xml:id="p295" begin="00:18:56.760" end="00:18:58.440" region="bottomCenter">Tapi kami kurang kakitangan</p>
+      <p xml:id="p296" begin="00:18:58.520" end="00:19:00.040" region="bottomCenter">- dan sibuk.<br/>- Awak betul.</p>
+      <p xml:id="p297" begin="00:19:00.240" end="00:19:02.240" region="bottomCenter">Kadar jenayah Hong Kong<br/>semakin naik.</p>
+      <p xml:id="p298" begin="00:19:02.880" end="00:19:04.000" region="bottomCenter">Mana undang-undang?</p>
+      <p xml:id="p299" begin="00:19:04.080" end="00:19:06.160" region="bottomCenter">Kita masih ada undang-undang.</p>
+      <p xml:id="p300" begin="00:19:06.240" end="00:19:09.000" region="bottomCenter">Hubungi polis dan kami datang.</p>
+      <p xml:id="p301" begin="00:19:09.080" end="00:19:10.400" region="bottomCenter">Mereka akan ditangkap.</p>
+      <p xml:id="p302" begin="00:19:10.480" end="00:19:11.920" region="bottomCenter">Mereka takkan terlepas.</p>
+      <p xml:id="p303" begin="00:19:12.000" end="00:19:13.080" region="bottomCenter">Ya...</p>
+      <p xml:id="p304" begin="00:19:13.400" end="00:19:15.280" region="bottomCenter">Kami harapkan awak, Sarjan Po.</p>
+      <p xml:id="p305" begin="00:19:15.360" end="00:19:16.440" region="bottomCenter">Ia kewajipan saya.</p>
+      <p xml:id="p306" begin="00:19:17.040" end="00:19:17.880" region="bottomCenter">Tapi Tuan Ip,</p>
+      <p xml:id="p307" begin="00:19:17.960" end="00:19:19.440" region="bottomCenter">awak tahu caranya.</p>
+      <p xml:id="p308" begin="00:19:19.520" end="00:19:22.400" region="bottomCenter">Polis kadangkala sibuk.<br/>Jadi awak perlu</p>
+      <p xml:id="p309" begin="00:19:22.480" end="00:19:23.440" region="bottomCenter">bantu kami.</p>
+      <p xml:id="p310" begin="00:19:23.520" end="00:19:25.240" region="bottomCenter">Minta mereka berwaspada.</p>
+      <p xml:id="p311" begin="00:19:25.320" end="00:19:26.960" region="bottomCenter">Hubungi kami, jika ada masalah.</p>
+      <p xml:id="p312" begin="00:19:27.040" end="00:19:28.720" region="bottomCenter">- Hebat.<br/>- Saya terus datang.</p>
+      <p xml:id="p313" begin="00:19:28.800" end="00:19:29.640" region="bottomCenter">Terima kasih.</p>
+      <p xml:id="p314" begin="00:19:29.720" end="00:19:31.640" region="bottomCenter">- Sama-sama. Ayuh<br/>- Baik, tuan.</p>
+      <p xml:id="p315" begin="00:19:31.720" end="00:19:32.920" region="bottomCenter">- Jumpa lagi.<br/>- Ya.</p>
+      <p xml:id="p316" begin="00:19:33.000" end="00:19:34.120" region="bottomCenter">Selamat tinggal.</p>
+      <p xml:id="p317" begin="00:19:42.160" end="00:19:43.040" region="bottomCenter">Ip Man.</p>
+      <p xml:id="p318" begin="00:19:45.400" end="00:19:46.800" region="bottomCenter">Awak buat saya marah.</p>
+      <p xml:id="p319" begin="00:19:47.880" end="00:19:49.680" region="bottomCenter">Saya akan kerjakan awak.</p>
+      <p xml:id="p320" begin="00:19:50.880" end="00:19:51.920" region="bottomCenter">David.</p>
+      <p xml:id="p321" begin="00:19:55.080" end="00:19:56.000" region="bottomCenter">Abang Sang.</p>
+      <p xml:id="p322" begin="00:19:56.320" end="00:19:58.600" region="bottomCenter">Rantai sekolah malam ini.</p>
+      <p xml:id="p323" begin="00:19:59.480" end="00:20:00.440" region="bottomCenter">Jangan risau.</p>
+      <p xml:id="p324" begin="00:20:01.720" end="00:20:02.760" region="bottomCenter">Ia pasti okey.</p>
+      <p xml:id="p325" begin="00:20:03.520" end="00:20:05.040" region="bottomCenter">Tak mengapa.</p>
+      <p xml:id="p326" begin="00:20:11.040" end="00:20:11.920" region="bottomCenter">Pengetua!</p>
+      <p xml:id="p327" begin="00:20:13.680" end="00:20:14.800" region="bottomCenter">Pengetua!</p>
+      <p xml:id="p328" begin="00:20:16.600" end="00:20:19.680" region="bottomCenter">- Cik Wong...<br/>- Tuan Ip...</p>
+      <p xml:id="p329" begin="00:20:19.760" end="00:20:20.760" region="bottomCenter">Apa yang berlaku?</p>
+      <p xml:id="p330" begin="00:20:20.920" end="00:20:22.440" region="bottomCenter">Saya tak tahu.</p>
+      <p xml:id="p331" begin="00:20:23.000" end="00:20:24.600" region="bottomCenter">Sekolah nak dirobohkan?</p>
+      <p xml:id="p332" begin="00:20:24.800" end="00:20:27.040" region="bottomCenter">Bagaimana budak-budak nak belajar?</p>
+      <p xml:id="p333" begin="00:20:27.240" end="00:20:28.720" region="bottomCenter">Dia betul.</p>
+      <p xml:id="p334" begin="00:20:38.720" end="00:20:40.560" region="bottomCenter">Ayah, buka pintu pagar.</p>
+      <p xml:id="p335" begin="00:20:41.800" end="00:20:43.040" region="bottomCenter">Saya bantu, hati-hati.</p>
+      <p xml:id="p336" begin="00:20:44.240" end="00:20:45.160" region="bottomCenter">Terima kasih.</p>
+      <p xml:id="p337" begin="00:20:46.760" end="00:20:47.840" region="bottomCenter">Awak memang kuat.</p>
+      <p xml:id="p338" begin="00:20:48.720" end="00:20:49.920" region="bottomCenter">Saya kurus tapi kuat.</p>
+      <p xml:id="p339" begin="00:20:52.440" end="00:20:53.400" region="bottomCenter">Betul.</p>
+      <p xml:id="p340" begin="00:20:53.920" end="00:20:55.480" region="bottomCenter">Saya besar, tapi tak kuat.</p>
+      <p xml:id="p341" begin="00:20:56.680" end="00:20:57.600" region="bottomCenter">Saya Hui Lik.</p>
+      <p xml:id="p342" begin="00:20:57.880" end="00:20:59.280" region="bottomCenter">Panggil saya Cik Wong.</p>
+      <p xml:id="p343" begin="00:20:59.520" end="00:21:00.600" region="bottomCenter">Jaga diri.</p>
+      <p xml:id="p344" begin="00:21:02.760" end="00:21:04.120" region="bottomCenter">"Sekolah Rendah Chiyan"</p>
+      <p xml:id="p345" begin="00:21:05.280" end="00:21:06.480" region="bottomCenter">Masuklah.</p>
+      <p xml:id="p346" begin="00:21:06.560" end="00:21:07.680" region="bottomCenter">Pagi, nenek.</p>
+      <p xml:id="p347" begin="00:21:12.560" end="00:21:13.440" region="bottomCenter">Pagi.</p>
+      <p xml:id="p348" begin="00:21:13.520" end="00:21:14.400" region="bottomCenter">Tuan.</p>
+      <p xml:id="p349" begin="00:21:16.960" end="00:21:18.040" region="bottomCenter">Mari pergi!</p>
+      <p xml:id="p350" begin="00:21:18.680" end="00:21:20.120" region="bottomCenter">Mereka akan kembali.</p>
+      <p xml:id="p351" begin="00:21:24.400" end="00:21:25.800" region="bottomCenter">Kita tunggu malam ini.</p>
+      <p xml:id="p352" begin="00:21:26.400" end="00:21:27.520" region="bottomCenter">Baik.</p>
+      <p xml:id="p353" begin="00:21:30.440" end="00:21:32.720" region="bottomCenter">- Kami tunggu.<br/>- Bagus.</p>
+      <p xml:id="p354" begin="00:21:58.240" end="00:21:59.400" region="bottomCenter">Cik Wong, apa khabar?</p>
+      <p xml:id="p355" begin="00:21:59.480" end="00:22:00.360" region="bottomCenter">Sekolah cuti?</p>
+      <p xml:id="p356" begin="00:22:00.920" end="00:22:02.320" region="bottomCenter">Ya, boleh saya bantu?</p>
+      <p xml:id="p357" begin="00:22:02.400" end="00:22:03.400" region="bottomCenter">Tak ada apa-apa.</p>
+      <p xml:id="p358" begin="00:22:03.600" end="00:22:05.360" region="bottomCenter">Awak ada teman lelaki?</p>
+      <p xml:id="p359" begin="00:22:06.600" end="00:22:07.680" region="bottomCenter">Tak ada.</p>
+      <p xml:id="p360" begin="00:22:08.240" end="00:22:09.160" region="bottomCenter">Itu hebat.</p>
+      <p xml:id="p361" begin="00:22:09.240" end="00:22:11.120" region="bottomCenter">Awak nak teman lelaki?</p>
+      <p xml:id="p362" begin="00:22:12.480" end="00:22:13.960" region="bottomCenter">Saya tak terfikir.</p>
+      <p xml:id="p363" begin="00:22:14.960" end="00:22:17.240" region="bottomCenter">Jangan salah faham,<br/>hari dah lewat.</p>
+      <p xml:id="p364" begin="00:22:17.320" end="00:22:19.040" region="bottomCenter">Jangan balik seorang diri.</p>
+      <p xml:id="p365" begin="00:22:22.040" end="00:22:23.120" region="bottomCenter">Saya minta maaf.</p>
+      <p xml:id="p366" begin="00:22:23.840" end="00:22:24.720" region="bottomCenter">Tuan Ip.</p>
+      <p xml:id="p367" begin="00:22:25.160" end="00:22:26.840" region="bottomCenter">Helo, Cik Wong.</p>
+      <p xml:id="p368" begin="00:22:28.440" end="00:22:29.760" region="bottomCenter">Kami susahkan awak.</p>
+      <p xml:id="p369" begin="00:22:30.040" end="00:22:31.160" region="bottomCenter">Tak lah.</p>
+      <p xml:id="p370" begin="00:22:33.480" end="00:22:35.600" region="bottomCenter">Murid saya beri awak masalah?</p>
+      <p xml:id="p371" begin="00:22:36.080" end="00:22:37.040" region="bottomCenter">Tak, Tuan Ip.</p>
+      <p xml:id="p372" begin="00:22:37.960" end="00:22:41.120" region="bottomCenter">Tak, dia cuma temankan saya balik.</p>
+      <p xml:id="p373" begin="00:22:41.320" end="00:22:42.640" region="bottomCenter">Itu saja, tuan.</p>
+      <p xml:id="p374" begin="00:22:44.480" end="00:22:46.400" region="bottomCenter">Kenapa tak teman saya balik?</p>
+      <p xml:id="p375" begin="00:22:47.240" end="00:22:48.240" region="bottomCenter">Baik.</p>
+      <p xml:id="p376" begin="00:22:48.320" end="00:22:50.880" region="bottomCenter">Mari kita lihat<br/>rumah Tuan Ip malam ini.</p>
+      <p xml:id="p377" begin="00:22:51.000" end="00:22:52.160" region="bottomCenter">Ya, ia agak sunyi.</p>
+      <p xml:id="p378" begin="00:22:52.240" end="00:22:53.080" region="bottomCenter">Okey.</p>
+      <p xml:id="p379" begin="00:22:53.160" end="00:22:55.560" region="bottomCenter">Tuan Ip, awak banyak<br/>bantu kami hari ini.</p>
+      <p xml:id="p380" begin="00:22:55.640" end="00:22:57.000" region="bottomCenter">Awak patut berehat.</p>
+      <p xml:id="p381" begin="00:22:57.080" end="00:23:00.080" region="bottomCenter">Saya okey, saya tak ada<br/>rancangan lain.</p>
+      <p xml:id="p382" begin="00:23:05.600" end="00:23:06.600" region="bottomCenter">Cepat.</p>
+      <p xml:id="p383" begin="00:23:09.280" end="00:23:10.240" region="bottomCenter">Cepatlah.</p>
+      <p xml:id="p384" begin="00:23:11.800" end="00:23:12.840" region="bottomCenter">Kamu di sana!</p>
+      <p xml:id="p385" begin="00:23:35.040" end="00:23:37.800" region="bottomCenter">"Sekolah Rendah Chiyan"</p>
+      <p xml:id="p386" begin="00:23:46.280" end="00:23:47.960" region="bottomCenter">Tolong, Tuan Ip!</p>
+      <p xml:id="p387" begin="00:23:48.040" end="00:23:49.120" region="bottomCenter">Lindungi Cik Wong!</p>
+      <p xml:id="p388" begin="00:24:07.040" end="00:24:07.880" region="bottomCenter">- Okey?<br/>- Ya.</p>
+      <p xml:id="p389" begin="00:24:07.960" end="00:24:09.040" region="bottomCenter">Kami tak dapat teman.</p>
+      <p xml:id="p390" begin="00:24:09.120" end="00:24:10.360" region="bottomCenter">- Di sana!<br/>- Baik.</p>
+      <p xml:id="p391" begin="00:24:28.240" end="00:24:29.320" region="bottomCenter">Tolong!</p>
+      <p xml:id="p392" begin="00:24:31.240" end="00:24:32.280" region="bottomCenter">Bergerak.</p>
+      <p xml:id="p393" begin="00:25:41.720" end="00:25:43.080" region="bottomCenter">Ayuh, pergi!</p>
+      <p xml:id="p394" begin="00:25:58.520" end="00:26:01.080" region="bottomCenter">Kami periksa semua tempat,<br/>api dah padam.</p>
+      <p xml:id="p395" begin="00:26:01.240" end="00:26:03.560" region="bottomCenter">- Pastikan tiada bara.<br/>- Baik.</p>
+      <p xml:id="p396" begin="00:26:03.640" end="00:26:05.280" region="bottomCenter">- Periksa lagi.<br/>- Baik.</p>
+      <p xml:id="p397" begin="00:26:08.400" end="00:26:10.480" region="bottomCenter">Tuan, api dah padam,</p>
+      <p xml:id="p398" begin="00:26:10.720" end="00:26:12.000" region="bottomCenter">cuma tinggal abu.</p>
+      <p xml:id="p399" begin="00:26:13.000" end="00:26:14.120" region="bottomCenter">Kebakaran dahsyat.</p>
+      <p xml:id="p400" begin="00:26:14.280" end="00:26:16.840" region="bottomCenter">Pengetua, awak okey?</p>
+      <p xml:id="p401" begin="00:26:17.240" end="00:26:18.560" region="bottomCenter">Saya okey.</p>
+      <p xml:id="p402" begin="00:26:18.800" end="00:26:20.960" region="bottomCenter">Saya pandang rendah samseng itu.</p>
+      <p xml:id="p403" begin="00:26:21.200" end="00:26:23.440" region="bottomCenter">Mujur kamu ada di sini.</p>
+      <p xml:id="p404" begin="00:26:23.720" end="00:26:26.680" region="bottomCenter">Jangan risau...</p>
+      <p xml:id="p405" begin="00:26:32.040" end="00:26:33.120" region="bottomCenter">En. Cheung.</p>
+      <p xml:id="p406" begin="00:26:35.400" end="00:26:36.960" region="bottomCenter">Mujur awak ada di sana.</p>
+      <p xml:id="p407" begin="00:26:37.160" end="00:26:38.240" region="bottomCenter">Saya lalu di sana.</p>
+      <p xml:id="p408" begin="00:26:38.760" end="00:26:41.440" region="bottomCenter">Akhirnya saya dapat lihat<br/>Wing Chun awak.</p>
+      <p xml:id="p409" begin="00:26:41.640" end="00:26:42.760" region="bottomCenter">Sangat hebat.</p>
+      <p xml:id="p410" begin="00:26:43.080" end="00:26:44.160" region="bottomCenter">Saya biasa saja.</p>
+      <p xml:id="p411" begin="00:26:44.320" end="00:26:46.440" region="bottomCenter">Semua dah okey,<br/>saya sambung kerja.</p>
+      <p xml:id="p412" begin="00:26:49.360" end="00:26:50.400" region="bottomCenter">Selamat tinggal.</p>
+      <p xml:id="p413" begin="00:26:55.360" end="00:26:58.120" region="bottomCenter">Mereka nak saya kekal di sini</p>
+      <p xml:id="p414" begin="00:26:58.200" end="00:27:00.760" region="bottomCenter">dan bantu menjaga kawasan itu.</p>
+      <p xml:id="p415" begin="00:27:01.120" end="00:27:04.040" region="bottomCenter">Ia pembakaran sengaja,<br/>polis tak terlibat?</p>
+      <p xml:id="p416" begin="00:27:04.120" end="00:27:06.120" region="bottomCenter">Ya, kenapa polis tak terlibat?</p>
+      <p xml:id="p417" begin="00:27:06.440" end="00:27:08.960" region="bottomCenter">Po Gemuk kata<br/>mereka akan siasat kes ini.</p>
+      <p xml:id="p418" begin="00:27:09.800" end="00:27:12.480" region="bottomCenter">Kita kena yakin cakap dia.</p>
+      <p xml:id="p419" begin="00:27:12.720" end="00:27:13.680" region="bottomCenter">Baguslah.</p>
+      <p xml:id="p420" begin="00:27:14.960" end="00:27:18.120" region="bottomCenter">Tapi mereka tak boleh kawal 24 jam?</p>
+      <p xml:id="p421" begin="00:27:19.920" end="00:27:21.120" region="bottomCenter">Jadi...</p>
+      <p xml:id="p422" begin="00:27:21.840" end="00:27:25.560" region="bottomCenter">Saya mungkin balik lewat<br/>beberapa malam.</p>
+      <p xml:id="p423" begin="00:27:26.320" end="00:27:27.840" region="bottomCenter">Saya kena masak tak?</p>
+      <p xml:id="p424" begin="00:27:27.920" end="00:27:29.000" region="bottomCenter">Sudah tentu</p>
+      <p xml:id="p425" begin="00:27:29.280" end="00:27:30.520" region="bottomCenter">apa saya nak makan?</p>
+      <p xml:id="p426" begin="00:27:32.640" end="00:27:34.120" region="bottomCenter">Tak ada orang lain?</p>
+      <p xml:id="p427" begin="00:27:35.040" end="00:27:38.200" region="bottomCenter">Saya akan cuba bantu mereka<br/>selagi termampu.</p>
+      <p xml:id="p428" begin="00:27:40.680" end="00:27:41.560" region="bottomCenter">Ia berkesan.</p>
+      <p xml:id="p429" begin="00:27:41.640" end="00:27:43.560" region="bottomCenter">Jadi bantu saya, matikan.</p>
+      <p xml:id="p430" begin="00:27:51.280" end="00:27:52.680" region="bottomCenter">Saya minta maaf...</p>
+      <p xml:id="p431" begin="00:27:52.760" end="00:27:53.960" region="bottomCenter">Saya sedang makan.</p>
+      <p xml:id="p432" begin="00:27:54.040" end="00:27:55.480" region="bottomCenter">Marilah masuk.</p>
+      <p xml:id="p433" begin="00:28:02.120" end="00:28:03.760" region="bottomCenter">Mari, tengok.</p>
+      <p xml:id="p434" begin="00:28:04.760" end="00:28:07.600" region="bottomCenter">Tempat ini memiliki<br/>fengshui yang hebat,</p>
+      <p xml:id="p435" begin="00:28:07.680" end="00:28:09.320" region="bottomCenter">oasis di daerah sibuk ini.</p>
+      <p xml:id="p436" begin="00:28:09.960" end="00:28:12.240" region="bottomCenter">Dindingnya agak sumbing, tapi</p>
+      <p xml:id="p437" begin="00:28:12.320" end="00:28:14.880" region="bottomCenter">awak boleh bersihkannya.</p>
+      <p xml:id="p438" begin="00:28:17.360" end="00:28:20.680" region="bottomCenter">Fong, saya akan buka<br/>sekolah Kungfu saya di sini.</p>
+      <p xml:id="p439" begin="00:28:20.960" end="00:28:23.080" region="bottomCenter">Awak akan mempunyai ramai kawan</p>
+      <p xml:id="p440" begin="00:28:23.160" end="00:28:24.000" region="bottomCenter">suka tak?</p>
+      <p xml:id="p441" begin="00:28:24.080" end="00:28:28.560" region="bottomCenter">Hebat, saya boleh berlatih<br/>di banyak tempat!</p>
+      <p xml:id="p442" begin="00:28:29.160" end="00:28:31.680" region="bottomCenter">Berapa sewa sebulan?</p>
+      <p xml:id="p443" begin="00:28:31.760" end="00:28:34.320" region="bottomCenter">180 dolar,<br/>termasuk air dan elektrik.</p>
+      <p xml:id="p444" begin="00:28:35.080" end="00:28:37.600" region="bottomCenter">Saya akan fikirkan, terima kasih.</p>
+      <p xml:id="p445" begin="00:28:37.840" end="00:28:41.440" region="bottomCenter">Tuan, sewa boleh dirunding.</p>
+      <p xml:id="p446" begin="00:28:45.040" end="00:28:46.600" region="bottomCenter">Awak tarik beca?</p>
+      <p xml:id="p447" begin="00:28:46.680" end="00:28:51.840" region="bottomCenter">Jadi kenapa nak tengok tempat ini<br/>dan rancang buka sekolah?</p>
+      <p xml:id="p448" begin="00:28:52.880" end="00:28:54.200" region="bottomCenter">- Tak guna.<br/>- Ke mana?</p>
+      <p xml:id="p449" begin="00:28:54.280" end="00:28:55.280" region="bottomCenter">Rumah.</p>
+      <p xml:id="p450" begin="00:29:02.160" end="00:29:05.360" region="bottomCenter">Tuan, ini laporan<br/>kes pembakaran sekolah.</p>
+      <p xml:id="p451" begin="00:29:05.440" end="00:29:06.440" region="bottomCenter">Jika ada masalah,</p>
+      <p xml:id="p452" begin="00:29:06.520" end="00:29:08.120" region="bottomCenter">saya akan buat susulan.</p>
+      <p xml:id="p453" begin="00:29:10.600" end="00:29:12.920" region="bottomCenter">Tak perlu untuk kes ini sekarang.</p>
+      <p xml:id="p454" begin="00:29:13.000" end="00:29:14.800" region="bottomCenter">- Saya uruskan.<br/>- Abaikan saja.</p>
+      <p xml:id="p455" begin="00:29:14.880" end="00:29:15.960" region="bottomCenter">Ia cuma kes kecil,</p>
+      <p xml:id="p456" begin="00:29:16.040" end="00:29:16.960" region="bottomCenter">untuk tuan.</p>
+      <p xml:id="p457" begin="00:29:17.040" end="00:29:18.960" region="bottomCenter">Biar saya yang uruskan.</p>
+      <p xml:id="p458" begin="00:29:19.040" end="00:29:20.680" region="bottomCenter">Awak faham bahasa Cina?</p>
+      <p xml:id="p459" begin="00:29:22.760" end="00:29:25.200" region="bottomCenter">Siasatan terhadap sekolah itu,</p>
+      <p xml:id="p460" begin="00:29:25.280" end="00:29:26.760" region="bottomCenter">saya akan uruskan.</p>
+      <p xml:id="p461" begin="00:29:26.840" end="00:29:29.200" region="bottomCenter">Lagipun, saya ketua di sini,</p>
+      <p xml:id="p462" begin="00:29:30.520" end="00:29:32.080" region="bottomCenter">jadi, berambus.</p>
+      <p xml:id="p463" begin="00:29:32.680" end="00:29:35.640" region="bottomCenter">Keluar!</p>
+      <p xml:id="p464" begin="00:29:36.440" end="00:29:37.880" region="bottomCenter">Baik, tuan.</p>
+      <p xml:id="p465" begin="00:29:39.360" end="00:29:41.400" region="bottomCenter">Apa masalah awak? Awak buta?</p>
+      <p xml:id="p466" begin="00:29:41.960" end="00:29:42.800" region="bottomCenter">Awak kenapa?</p>
+      <p xml:id="p467" begin="00:29:42.880" end="00:29:43.800" region="bottomCenter">Ini jalan awak?</p>
+      <p xml:id="p468" begin="00:29:43.880" end="00:29:45.360" region="bottomCenter">Bodoh.</p>
+      <p xml:id="p469" begin="00:29:45.560" end="00:29:46.760" region="bottomCenter">Awak buat lagi?</p>
+      <p xml:id="p470" begin="00:29:46.840" end="00:29:49.520" region="bottomCenter">Bebola kecil dengan<br/>minyak pisang...</p>
+      <p xml:id="p471" begin="00:29:49.600" end="00:29:50.680" region="bottomCenter">Ya, sekali lagi.</p>
+      <p xml:id="p472" begin="00:29:53.280" end="00:29:54.760" region="bottomCenter">- Abang.<br/>- Terima kasih.</p>
+      <p xml:id="p473" begin="00:29:56.280" end="00:29:57.240" region="bottomCenter">Abang.</p>
+      <p xml:id="p474" begin="00:29:57.440" end="00:29:58.800" region="bottomCenter">Sewaktu beli sarapan,</p>
+      <p xml:id="p475" begin="00:29:58.880" end="00:30:01.800" region="bottomCenter">orang kata kita akan<br/>jadi pengawal keselamatan.</p>
+      <p xml:id="p476" begin="00:30:02.240" end="00:30:03.280" region="bottomCenter">Kenapa rahsiakan?</p>
+      <p xml:id="p477" begin="00:30:04.360" end="00:30:07.800" region="bottomCenter">Jangan risau,<br/>tuan kita tak dengar gosip.</p>
+      <p xml:id="p478" begin="00:30:09.760" end="00:30:10.880" region="bottomCenter">Siapa yang cakap?</p>
+      <p xml:id="p479" begin="00:30:12.000" end="00:30:13.320" region="bottomCenter">Ramai orang.</p>
+      <p xml:id="p480" begin="00:30:13.400" end="00:30:14.480" region="bottomCenter">Awak kenal mereka?</p>
+      <p xml:id="p481" begin="00:30:16.320" end="00:30:17.400" region="bottomCenter">Mantis?</p>
+      <p xml:id="p482" begin="00:30:33.880" end="00:30:35.640" region="bottomCenter">"Doktor Cina, Ma Pak-Leung"</p>
+      <p xml:id="p483" begin="00:30:35.720" end="00:30:36.960" region="bottomCenter">Boleh saya bantu?</p>
+      <p xml:id="p484" begin="00:30:37.040" end="00:30:40.080" region="bottomCenter">Saya sering alami sakit perut.</p>
+      <p xml:id="p485" begin="00:30:40.160" end="00:30:42.600" region="bottomCenter">- Ada ubat tak?<br/>- Ya.</p>
+      <p xml:id="p486" begin="00:30:44.120" end="00:30:47.320" region="bottomCenter">Pil Gagak Dan Phoenix,<br/>ia bantu peredaran darah.</p>
+      <p xml:id="p487" begin="00:30:48.360" end="00:30:50.200" region="bottomCenter">- Saya nak sebungkus.<br/>- Ya.</p>
+      <p xml:id="p488" begin="00:30:59.080" end="00:31:01.280" region="bottomCenter">- Ip Man.<br/>- Tuan.</p>
+      <p xml:id="p489" begin="00:31:01.440" end="00:31:02.520" region="bottomCenter">Kenapa tak beritahu</p>
+      <p xml:id="p490" begin="00:31:02.600" end="00:31:04.200" region="bottomCenter">- kejadian itu.<br/>- Duduklah.</p>
+      <p xml:id="p491" begin="00:31:05.560" end="00:31:09.560" region="bottomCenter">Mereka di kedai teh kata<br/>awak jadi pengawal keselamatan.</p>
+      <p xml:id="p492" begin="00:31:09.960" end="00:31:11.720" region="bottomCenter">Itu penghinaan, tentu ini</p>
+      <p xml:id="p493" begin="00:31:11.800" end="00:31:12.840" region="bottomCenter">kerja Sang.</p>
+      <p xml:id="p494" begin="00:31:12.920" end="00:31:14.120" region="bottomCenter">Mari minum.</p>
+      <p xml:id="p495" begin="00:31:14.920" end="00:31:18.520" region="bottomCenter">Saya menyesal<br/>jadikan Sang murid saya.</p>
+      <p xml:id="p496" begin="00:31:18.600" end="00:31:20.640" region="bottomCenter">Dia guna Kungfu saya buat jahat,</p>
+      <p xml:id="p497" begin="00:31:20.720" end="00:31:22.080" region="bottomCenter">ia memalukan!</p>
+      <p xml:id="p498" begin="00:31:22.160" end="00:31:23.760" region="bottomCenter">Dia memalukan sekolah saya!</p>
+      <p xml:id="p499" begin="00:31:27.200" end="00:31:29.720" region="bottomCenter">Bagaimana saya nak beritahu?</p>
+      <p xml:id="p500" begin="00:31:30.400" end="00:31:31.400" region="bottomCenter">Nampaknya</p>
+      <p xml:id="p501" begin="00:31:31.480" end="00:31:33.280" region="bottomCenter">saya akan ajar mereka!</p>
+      <p xml:id="p502" begin="00:31:33.360" end="00:31:34.520" region="bottomCenter">Saya nak cari dia.</p>
+      <p xml:id="p503" begin="00:31:35.080" end="00:31:36.040" region="bottomCenter">Tuan Tin.</p>
+      <p xml:id="p504" begin="00:31:36.120" end="00:31:38.240" region="bottomCenter">Tuan Tin, bertenang.</p>
+      <p xml:id="p505" begin="00:31:38.440" end="00:31:40.760" region="bottomCenter">Pak Cik Chan, nanti saya bayar.</p>
+      <p xml:id="p506" begin="00:31:41.040" end="00:31:42.160" region="bottomCenter">Tuan Tin.</p>
+      <p xml:id="p507" begin="00:31:43.080" end="00:31:44.080" region="bottomCenter">Tuan Tin.</p>
+      <p xml:id="p508" begin="00:31:44.160" end="00:31:45.560" region="bottomCenter">Biar Po Gemuk uruskan.</p>
+      <p xml:id="p509" begin="00:31:46.080" end="00:31:48.320" region="bottomCenter">Sudah terlambat,</p>
+      <p xml:id="p510" begin="00:31:48.400" end="00:31:49.960" region="bottomCenter">saya akan uruskan sendiri.</p>
+      <p xml:id="p511" begin="00:31:50.040" end="00:31:52.080" region="bottomCenter">Dia tak hormat saya.</p>
+      <p xml:id="p512" begin="00:31:52.360" end="00:31:54.720" region="bottomCenter">Dia bukan lagi tanggungjawab awak.</p>
+      <p xml:id="p513" begin="00:31:54.920" end="00:31:56.960" region="bottomCenter">Dia dah keluar dari sekolah saya,</p>
+      <p xml:id="p514" begin="00:31:57.040" end="00:31:59.320" region="bottomCenter">tapi saya tetap guru dia.</p>
+      <p xml:id="p515" begin="00:31:59.600" end="00:32:00.720" region="bottomCenter">Biarkan saya.</p>
+      <p xml:id="p516" begin="00:32:01.280" end="00:32:02.680" region="bottomCenter">Awak nak apa?</p>
+      <p xml:id="p517" begin="00:32:02.800" end="00:32:04.560" region="bottomCenter">Saya cari Ma King-sang.</p>
+      <p xml:id="p518" begin="00:32:04.680" end="00:32:06.720" region="bottomCenter">Saya cikgu dia, panggil dia.</p>
+      <p xml:id="p519" begin="00:32:06.880" end="00:32:10.840" region="bottomCenter">"Sekolah Rendah Chiyan"</p>
+      <p xml:id="p520" begin="00:32:14.000" end="00:32:15.120" region="bottomCenter">Sarjan Po.</p>
+      <p xml:id="p521" begin="00:32:17.000" end="00:32:19.040" region="bottomCenter">Lik, mana Tuan Ip?</p>
+      <p xml:id="p522" begin="00:32:19.120" end="00:32:20.680" region="bottomCenter">Awak dah terlambat.</p>
+      <p xml:id="p523" begin="00:32:21.040" end="00:32:22.680" region="bottomCenter">Tuan Tin sangat marah.</p>
+      <p xml:id="p524" begin="00:32:23.080" end="00:32:24.280" region="bottomCenter">Tuan Tin?</p>
+      <p xml:id="p525" begin="00:32:24.840" end="00:32:26.800" region="bottomCenter">Bagaimana sekarang?</p>
+      <p xml:id="p526" begin="00:32:29.840" end="00:32:32.240" region="bottomCenter">Kenapa awak di sini, Tuan Ip?</p>
+      <p xml:id="p527" begin="00:32:33.400" end="00:32:36.000" region="bottomCenter">Nak jumpa guru saya,<br/>kenapa awak nak tahu?</p>
+      <p xml:id="p528" begin="00:32:36.320" end="00:32:37.720" region="bottomCenter">Tuan.</p>
+      <p xml:id="p529" begin="00:32:37.800" end="00:32:38.800" region="bottomCenter">Sang.</p>
+      <p xml:id="p530" begin="00:32:39.240" end="00:32:42.200" region="bottomCenter">Saya nak datang ke sini,<br/>jangan libatkan Tuan Ip.</p>
+      <p xml:id="p531" begin="00:32:42.720" end="00:32:44.560" region="bottomCenter">Berhenti timbulkan masalah.</p>
+      <p xml:id="p532" begin="00:32:44.640" end="00:32:47.520" region="bottomCenter">Jangan ganggu mereka, menyerah saja.</p>
+      <p xml:id="p533" begin="00:32:47.760" end="00:32:51.400" region="bottomCenter">Saya selalu ajar awak<br/>buat benda betul.</p>
+      <p xml:id="p534" begin="00:32:51.600" end="00:32:54.240" region="bottomCenter">Cuba tengok rupa awak sekarang?</p>
+      <p xml:id="p535" begin="00:32:54.440" end="00:32:57.440" region="bottomCenter">Duit kotor dan kumpulan samseng,</p>
+      <p xml:id="p536" begin="00:32:57.520" end="00:32:58.960" region="bottomCenter">awak fikir awak hebat?</p>
+      <p xml:id="p537" begin="00:32:59.560" end="00:33:01.360" region="bottomCenter">Mereka takkan ikut awak</p>
+      <p xml:id="p538" begin="00:33:01.440" end="00:33:02.680" region="bottomCenter">jika tiada gaji.</p>
+      <p xml:id="p539" begin="00:33:03.480" end="00:33:05.920" region="bottomCenter">Di depan awak mereka tunduk,</p>
+      <p xml:id="p540" begin="00:33:06.000" end="00:33:09.520" region="bottomCenter">di belakang mereka hina awak.</p>
+      <p xml:id="p541" begin="00:33:09.600" end="00:33:12.400" region="bottomCenter">Apa? Awak nak lawan saya?</p>
+      <p xml:id="p542" begin="00:33:14.760" end="00:33:16.000" region="bottomCenter">Saya orang suruhan</p>
+      <p xml:id="p543" begin="00:33:16.760" end="00:33:18.160" region="bottomCenter">yang berduit,</p>
+      <p xml:id="p544" begin="00:33:18.760" end="00:33:20.160" region="bottomCenter">sama macam Raja.</p>
+      <p xml:id="p545" begin="00:33:20.240" end="00:33:21.280" region="bottomCenter">Awak apa?</p>
+      <p xml:id="p546" begin="00:33:21.440" end="00:33:24.000" region="bottomCenter">Seorang guru miskin<br/>dengan payung buruk</p>
+      <p xml:id="p547" begin="00:33:24.200" end="00:33:27.040" region="bottomCenter">hampir tak ada duit nak hidup!</p>
+      <p xml:id="p548" begin="00:33:27.120" end="00:33:28.160" region="bottomCenter">Rasa bagus?</p>
+      <p xml:id="p549" begin="00:33:28.520" end="00:33:31.920" region="bottomCenter">Kesucian itu boleh dimakan?</p>
+      <p xml:id="p550" begin="00:33:32.440" end="00:33:35.760" region="bottomCenter">Tanya diri awak,<br/>siapa antara pelajar awak</p>
+      <p xml:id="p551" begin="00:33:35.840" end="00:33:39.400" region="bottomCenter">masih ingat dan<br/>ambil berat tentang awak?</p>
+      <p xml:id="p552" begin="00:33:40.240" end="00:33:43.360" region="bottomCenter">Mereka semua dan kini<br/>mereka konco saya.</p>
+      <p xml:id="p553" begin="00:33:44.120" end="00:33:45.440" region="bottomCenter">Bodoh!</p>
+      <p xml:id="p554" begin="00:33:46.240" end="00:33:48.720" region="bottomCenter">- Tuan Tin.<br/>- Kenapa dia jadi murid saya?</p>
+      <p xml:id="p555" begin="00:33:51.080" end="00:33:52.640" region="bottomCenter">Abaikan.</p>
+      <p xml:id="p556" begin="00:33:53.440" end="00:33:57.400" region="bottomCenter">Dia buat saya marah,<br/>saya mesti ajar dia.</p>
+      <p xml:id="p557" begin="00:34:01.040" end="00:34:03.160" region="bottomCenter">Berani awak tikam saya?</p>
+      <p xml:id="p558" begin="00:34:05.040" end="00:34:07.440" region="bottomCenter">Samseng!<br/>Awak nak bunuh saya?</p>
+      <p xml:id="p559" begin="00:34:07.960" end="00:34:10.800" region="bottomCenter">Sakiti saya<br/>dan awak takkan terlepas.</p>
+      <p xml:id="p560" begin="00:34:12.800" end="00:34:14.600" region="bottomCenter">Semua, di sini!</p>
+      <p xml:id="p561" begin="00:34:15.840" end="00:34:17.400" region="bottomCenter">"Limbungan Kesatuan Barat"</p>
+      <p xml:id="p562" begin="00:34:17.480" end="00:34:18.880" region="bottomCenter">Maju...</p>
+      <p xml:id="p563" begin="00:34:21.280" end="00:34:23.080" region="bottomCenter">Lepaskan Sang!</p>
+      <p xml:id="p564" begin="00:34:24.960" end="00:34:26.160" region="bottomCenter">Berhenti!</p>
+      <p xml:id="p565" begin="00:34:26.240" end="00:34:27.360" region="bottomCenter">Abaikan saya.</p>
+      <p xml:id="p566" begin="00:34:28.000" end="00:34:29.360" region="bottomCenter">Serang!</p>
+      <p xml:id="p567" begin="00:34:29.880" end="00:34:31.600" region="bottomCenter">Ayuh, lawan!</p>
+      <p xml:id="p568" begin="00:34:33.480" end="00:34:35.840" region="bottomCenter">Ayuh!</p>
+      <p xml:id="p569" begin="00:34:36.880" end="00:34:37.960" region="bottomCenter">Lepaskan Sang!</p>
+      <p xml:id="p570" begin="00:34:38.600" end="00:34:39.520" region="bottomCenter">Ayuh!</p>
+      <p xml:id="p571" begin="00:34:39.880" end="00:34:40.920" region="bottomCenter">Lepaskan Sang!</p>
+      <p xml:id="p572" begin="00:34:41.000" end="00:34:41.960" region="bottomCenter">Ayuh!</p>
+      <p xml:id="p573" begin="00:34:42.040" end="00:34:44.600" region="bottomCenter">Polis, hentikan!</p>
+      <p xml:id="p574" begin="00:34:45.520" end="00:34:48.920" region="bottomCenter">Kembali ke sini!</p>
+      <p xml:id="p575" begin="00:34:51.760" end="00:34:52.680" region="bottomCenter">Pergi balik.</p>
+      <p xml:id="p576" begin="00:34:53.720" end="00:34:55.720" region="bottomCenter">- Saya boleh tembak.<br/>- Mengarut.</p>
+      <p xml:id="p577" begin="00:35:00.400" end="00:35:03.320" region="bottomCenter">Apa yang berlaku?<br/>Awak permainkan saya?</p>
+      <p xml:id="p578" begin="00:35:03.640" end="00:35:04.720" region="bottomCenter">Keluar.</p>
+      <p xml:id="p579" begin="00:35:04.960" end="00:35:06.120" region="bottomCenter">Apa dia?</p>
+      <p xml:id="p580" begin="00:35:06.200" end="00:35:07.360" region="bottomCenter">Awak beri arahan?</p>
+      <p xml:id="p581" begin="00:35:07.440" end="00:35:08.840" region="bottomCenter">Siapa ketua tempat ini?</p>
+      <p xml:id="p582" begin="00:35:09.160" end="00:35:11.920" region="bottomCenter">Awak nak tembak?<br/>Saya tak kisah.</p>
+      <p xml:id="p583" begin="00:35:12.480" end="00:35:14.000" region="bottomCenter">Nak cakap apa pada kapten?</p>
+      <p xml:id="p584" begin="00:35:18.920" end="00:35:19.840" region="bottomCenter">Diam!</p>
+      <p xml:id="p585" begin="00:35:19.920" end="00:35:21.360" region="bottomCenter">Saya akan tutup tempat ini.</p>
+      <p xml:id="p586" begin="00:35:21.520" end="00:35:23.320" region="bottomCenter">Pergi beritahu bos awak!</p>
+      <p xml:id="p587" begin="00:35:24.000" end="00:35:24.880" region="bottomCenter">Tak percaya?</p>
+      <p xml:id="p588" begin="00:35:24.960" end="00:35:26.200" region="bottomCenter">Cubalah saya, bodoh!</p>
+      <p xml:id="p589" begin="00:35:37.800" end="00:35:40.000" region="bottomCenter">Apa awak nak buat tentang sekolah?</p>
+      <p xml:id="p590" begin="00:35:42.600" end="00:35:45.120" region="bottomCenter">Bos Sang kawal kapten saya.</p>
+      <p xml:id="p591" begin="00:35:45.720" end="00:35:47.320" region="bottomCenter">Dua syaitan bersubahat,</p>
+      <p xml:id="p592" begin="00:35:47.400" end="00:35:49.240" region="bottomCenter">yang menipu semua orang.</p>
+      <p xml:id="p593" begin="00:35:49.320" end="00:35:51.440" region="bottomCenter">Sekolah itu akan musnah.</p>
+      <p xml:id="p594" begin="00:35:51.880" end="00:35:53.280" region="bottomCenter">Saya percayakan awak</p>
+      <p xml:id="p595" begin="00:35:53.800" end="00:35:56.680" region="bottomCenter">sebab awak tak macam polis lain.</p>
+      <p xml:id="p596" begin="00:35:57.240" end="00:35:59.000" region="bottomCenter">Tapi awak biarkan bos awak</p>
+      <p xml:id="p597" begin="00:35:59.080" end="00:36:00.120" region="bottomCenter">tutup kes itu?</p>
+      <p xml:id="p598" begin="00:36:00.200" end="00:36:03.240" region="bottomCenter">Bukan begitu,<br/>saya tak ada kuasa.</p>
+      <p xml:id="p599" begin="00:36:03.400" end="00:36:05.480" region="bottomCenter">Awak tak tangkap penjenayah itu</p>
+      <p xml:id="p600" begin="00:36:05.560" end="00:36:08.440" region="bottomCenter">mahupun jaga masyarakat<br/>dan kanak-kanak?</p>
+      <p xml:id="p601" begin="00:36:08.680" end="00:36:12.040" region="bottomCenter">Sekarang anak murid saya<br/>yang buat kerja awak.</p>
+      <p xml:id="p602" begin="00:36:12.120" end="00:36:13.320" region="bottomCenter">Saya dah buntu.</p>
+      <p xml:id="p603" begin="00:36:13.960" end="00:36:15.040" region="bottomCenter">Saya tiada kuasa.</p>
+      <p xml:id="p604" begin="00:36:15.680" end="00:36:17.720" region="bottomCenter">Tuan Ip, awak pejuang,<br/>bukan Tuhan.</p>
+      <p xml:id="p605" begin="00:36:17.800" end="00:36:19.360" region="bottomCenter">Awak tak boleh ubah peraturan.</p>
+      <p xml:id="p606" begin="00:36:20.000" end="00:36:22.120" region="bottomCenter">Awak boleh jaga sekolah<br/>siang malam</p>
+      <p xml:id="p607" begin="00:36:22.200" end="00:36:23.360" region="bottomCenter">tapi sampai bila?</p>
+      <p xml:id="p608" begin="00:36:23.440" end="00:36:26.880" region="bottomCenter">Hong Kong dikawal syaitan asing.</p>
+      <p xml:id="p609" begin="00:36:28.920" end="00:36:30.400" region="bottomCenter">Dunia tak adil.</p>
+      <p xml:id="p610" begin="00:36:30.600" end="00:36:33.880" region="bottomCenter">Tapi standard moral<br/>sepatutnya sama rata.</p>
+      <p xml:id="p611" begin="00:36:34.120" end="00:36:36.480" region="bottomCenter">Darjat pemerintah tak selalu tinggi,</p>
+      <p xml:id="p612" begin="00:36:37.480" end="00:36:39.680" region="bottomCenter">yang diperintah<br/>tak selalunya hina.</p>
+      <p xml:id="p613" begin="00:36:40.120" end="00:36:42.240" region="bottomCenter">Dunia bukan milik orang kaya</p>
+      <p xml:id="p614" begin="00:36:42.320" end="00:36:44.440" region="bottomCenter">mahupun yang berkuasa,</p>
+      <p xml:id="p615" begin="00:36:44.760" end="00:36:46.560" region="bottomCenter">tapi orang yang berhati mulia.</p>
+      <p xml:id="p616" begin="00:36:46.720" end="00:36:48.720" region="bottomCenter">Awak tak fikir kanak-kanak itu?</p>
+      <p xml:id="p617" begin="00:36:49.160" end="00:36:52.600" region="bottomCenter">Semua tindakan kita,<br/>mereka memerhati.</p>
+      <p xml:id="p618" begin="00:36:53.400" end="00:36:56.560" region="bottomCenter">Kita perlu jadi teladan yang baik.</p>
+      <p xml:id="p619" begin="00:36:57.680" end="00:37:01.000" region="bottomCenter">Semua kita buat<br/>bukan untuk hari ini,</p>
+      <p xml:id="p620" begin="00:37:01.560" end="00:37:02.840" region="bottomCenter">tapi untuk masa depan.</p>
+      <p xml:id="p621" begin="00:37:34.800" end="00:37:38.480" region="bottomCenter">"Baling jika awak tidak nak"</p>
+      <p xml:id="p622" begin="00:38:12.240" end="00:38:15.680" region="bottomCenter">"Sila jahit butang"</p>
+      <p xml:id="p623" begin="00:38:49.520" end="00:38:52.640" region="bottomCenter">"Sila jahit butang"</p>
+      <p xml:id="p624" begin="00:39:05.440" end="00:39:07.080" region="bottomCenter">Pn. Ip, selepas diagnosis,</p>
+      <p xml:id="p625" begin="00:39:07.160" end="00:39:09.120" region="bottomCenter">saya syak ia tumor,</p>
+      <p xml:id="p626" begin="00:39:09.400" end="00:39:11.000" region="bottomCenter">tapi ia akan merosot.</p>
+      <p xml:id="p627" begin="00:39:11.640" end="00:39:15.440" region="bottomCenter">Kita akan tahu lebih lanjut<br/>selepas laporan penuh,</p>
+      <p xml:id="p628" begin="00:39:15.680" end="00:39:17.040" region="bottomCenter">jadi jangan risau lagi.</p>
+      <p xml:id="p629" begin="00:39:38.000" end="00:39:42.160" region="bottomCenter">Tuan Ip...</p>
+      <p xml:id="p630" begin="00:39:42.560" end="00:39:45.680" region="bottomCenter">Kami kumpul duit siapkan sup.</p>
+      <p xml:id="p631" begin="00:39:47.240" end="00:39:48.520" region="bottomCenter">Terima kasih.</p>
+      <p xml:id="p632" begin="00:39:48.600" end="00:39:50.520" region="bottomCenter">Terima kasih, Tuan Ip.</p>
+      <p xml:id="p633" begin="00:39:50.960" end="00:39:54.040" region="bottomCenter">Kami akan buat sesuatu untuk awak.</p>
+      <p xml:id="p634" begin="00:40:09.800" end="00:40:11.880" region="bottomCenter">Hebat, satu lagi kemenangan.</p>
+      <p xml:id="p635" begin="00:40:12.360" end="00:40:14.080" region="bottomCenter">Kenapa awak asyik bergaduh?</p>
+      <p xml:id="p636" begin="00:40:14.160" end="00:40:16.320" region="bottomCenter">- Awak terdesak?<br/>- Nak hidup.</p>
+      <p xml:id="p637" begin="00:40:17.120" end="00:40:18.680" region="bottomCenter">Saya pun perlu makan.</p>
+      <p xml:id="p638" begin="00:40:19.280" end="00:40:22.880" region="bottomCenter">Awak cederakan konco saya<br/>di sekolah,</p>
+      <p xml:id="p639" begin="00:40:23.040" end="00:40:24.440" region="bottomCenter">dan hutang dengan saya.</p>
+      <p xml:id="p640" begin="00:40:27.320" end="00:40:28.440" region="bottomCenter">Berapa banyak?</p>
+      <p xml:id="p641" begin="00:40:30.360" end="00:40:31.800" region="bottomCenter">Ia bukan tentang itu.</p>
+      <p xml:id="p642" begin="00:40:33.360" end="00:40:34.480" region="bottomCenter">Saya kagum</p>
+      <p xml:id="p643" begin="00:40:35.720" end="00:40:37.560" region="bottomCenter">dan saya nak jadi kawan awak.</p>
+      <p xml:id="p644" begin="00:40:39.720" end="00:40:42.880" region="bottomCenter">Sang, apa ini?</p>
+      <p xml:id="p645" begin="00:40:44.160" end="00:40:46.600" region="bottomCenter">Sebagai kawan awak<br/>yang merendah diri,</p>
+      <p xml:id="p646" begin="00:40:47.240" end="00:40:49.440" region="bottomCenter">Saya dimalukan oleh lelaki lain.</p>
+      <p xml:id="p647" begin="00:40:49.520" end="00:40:52.200" region="bottomCenter">Saya nak beli<br/>salah seorang lelaki di sini.</p>
+      <p xml:id="p648" begin="00:40:52.720" end="00:40:54.360" region="bottomCenter">Konco awak ramai,</p>
+      <p xml:id="p649" begin="00:40:55.440" end="00:40:56.840" region="bottomCenter">kenapa cari saya?</p>
+      <p xml:id="p650" begin="00:40:57.440" end="00:41:00.720" region="bottomCenter">Sebab dia tahu Kungfu<br/>dan awak pun sama,</p>
+      <p xml:id="p651" begin="00:41:01.520" end="00:41:02.640" region="bottomCenter">pandai berlawan.</p>
+      <p xml:id="p652" begin="00:41:06.960" end="00:41:08.160" region="bottomCenter">Jika saya enggan?</p>
+      <p xml:id="p653" begin="00:41:13.440" end="00:41:15.240" region="bottomCenter">Cari makan di tempat lain.</p>
+      <p xml:id="p654" begin="00:41:16.360" end="00:41:18.040" region="bottomCenter">Baiklah...</p>
+      <p xml:id="p655" begin="00:41:18.120" end="00:41:19.880" region="bottomCenter">Beri kepada saya.</p>
+      <p xml:id="p656" begin="00:41:23.120" end="00:41:24.280" region="bottomCenter">Sang,</p>
+      <p xml:id="p657" begin="00:41:27.720" end="00:41:30.360" region="bottomCenter">Wang itu, saya nak semuanya.</p>
+      <p xml:id="p658" begin="00:41:34.600" end="00:41:37.320" region="bottomCenter">"Kedai Membaiki Payung Yeung"</p>
+      <p xml:id="p659" begin="00:41:45.520" end="00:41:48.560" region="bottomCenter">"Sentiasa bersedia,<br/>tiada apa perlu ditakutkan"</p>
+      <p xml:id="p660" begin="00:42:53.880" end="00:42:55.680" region="bottomCenter">Berapa hari lagi?</p>
+      <p xml:id="p661" begin="00:43:00.880" end="00:43:02.120" region="bottomCenter">Awak dah bangun?</p>
+      <p xml:id="p662" begin="00:43:02.600" end="00:43:04.000" region="bottomCenter">Saya tak nak kejut awak.</p>
+      <p xml:id="p663" begin="00:43:04.840" end="00:43:06.360" region="bottomCenter">Cuma beberapa hari lagi.</p>
+      <p xml:id="p664" begin="00:43:07.400" end="00:43:11.160" region="bottomCenter">- Bila nak makan bersama?<br/>- Malam ini.</p>
+      <p xml:id="p665" begin="00:43:11.320" end="00:43:12.640" region="bottomCenter">Saya balik awal.</p>
+      <p xml:id="p666" begin="00:43:16.680" end="00:43:17.800" region="bottomCenter">Awak okey?</p>
+      <p xml:id="p667" begin="00:43:21.280" end="00:43:22.400" region="bottomCenter">Sebenarnya...</p>
+      <p xml:id="p668" begin="00:43:24.160" end="00:43:25.760" region="bottomCenter">- Helo.<br/>- Helo, En. Ip?</p>
+      <p xml:id="p669" begin="00:43:25.840" end="00:43:27.240" region="bottomCenter">Ya, siapa ini?</p>
+      <p xml:id="p670" begin="00:43:27.320" end="00:43:29.000" region="bottomCenter">Ini dari Hospital Kowloon.</p>
+      <p xml:id="p671" begin="00:43:29.080" end="00:43:30.200" region="bottomCenter">Ada apa?</p>
+      <p xml:id="p672" begin="00:43:30.280" end="00:43:33.240" region="bottomCenter">Tuan Tin cedera parah,<br/>dia kini di hospital</p>
+      <p xml:id="p673" begin="00:43:33.320" end="00:43:34.920" region="bottomCenter">dan nak jumpa awak.</p>
+      <p xml:id="p674" begin="00:43:35.360" end="00:43:37.360" region="bottomCenter">Okey, saya akan ke sana.</p>
+      <p xml:id="p675" begin="00:43:37.880" end="00:43:39.120" region="bottomCenter">Saya dah telefon En. Ip.</p>
+      <p xml:id="p676" begin="00:43:40.120" end="00:43:41.440" region="bottomCenter">Terima kasih.</p>
+      <p xml:id="p677" begin="00:43:42.720" end="00:43:44.520" region="bottomCenter">"Wad"</p>
+      <p xml:id="p678" begin="00:43:47.160" end="00:43:49.000" region="bottomCenter">- Ayuh, bersedia.<br/>- Baik.</p>
+      <p xml:id="p679" begin="00:43:54.040" end="00:43:55.080" region="bottomCenter">Sangat bagus.</p>
+      <p xml:id="p680" begin="00:43:55.920" end="00:43:57.200" region="bottomCenter">Pergi main.</p>
+      <p xml:id="p681" begin="00:43:57.280" end="00:43:58.480" region="bottomCenter">Bagus, sekali lagi.</p>
+      <p xml:id="p682" begin="00:44:11.680" end="00:44:12.800" region="bottomCenter">Terima kasih.</p>
+      <p xml:id="p683" begin="00:44:12.960" end="00:44:15.560" region="bottomCenter">Saya tahu Sang<br/>yang upah lelaki itu.</p>
+      <p xml:id="p684" begin="00:44:17.440" end="00:44:20.160" region="bottomCenter">Sebagai guru, saya gagal sepenuhnya.</p>
+      <p xml:id="p685" begin="00:44:20.240" end="00:44:21.080" region="bottomCenter">Sedapnya.</p>
+      <p xml:id="p686" begin="00:44:21.160" end="00:44:23.480" region="bottomCenter">- Ayuh, beli!<br/>- Ya, yang ini!</p>
+      <p xml:id="p687" begin="00:44:23.800" end="00:44:24.880" region="bottomCenter">Anak-anak,</p>
+      <p xml:id="p688" begin="00:44:25.280" end="00:44:28.680" region="bottomCenter">saya ada slaid kartun, nak tengok?</p>
+      <p xml:id="p689" begin="00:44:30.240" end="00:44:31.560" region="bottomCenter">Ia percuma.</p>
+      <p xml:id="p690" begin="00:44:32.040" end="00:44:33.240" region="bottomCenter">Ayuh.</p>
+      <p xml:id="p691" begin="00:44:34.160" end="00:44:37.360" region="bottomCenter">- Hei, awak buat apa?<br/>- Cepat, bergerak!</p>
+      <p xml:id="p692" begin="00:44:37.440" end="00:44:38.680" region="bottomCenter">Lepaskan mereka!</p>
+      <p xml:id="p693" begin="00:44:38.760" end="00:44:40.320" region="bottomCenter">Tolong saya.</p>
+      <p xml:id="p694" begin="00:44:42.120" end="00:44:43.200" region="bottomCenter">Dia berat.</p>
+      <p xml:id="p695" begin="00:44:43.640" end="00:44:44.600" region="bottomCenter">Awak buat apa?</p>
+      <p xml:id="p696" begin="00:44:45.600" end="00:44:47.600" region="bottomCenter">- Berseronok.<br/>- Tolong saya.</p>
+      <p xml:id="p697" begin="00:44:53.640" end="00:44:54.760" region="bottomCenter">Tolong!</p>
+      <p xml:id="p698" begin="00:44:59.520" end="00:45:02.880" region="bottomCenter">Datang ke limbungan<br/>dalam masa dua jam,</p>
+      <p xml:id="p699" begin="00:45:02.960" end="00:45:06.360" region="bottomCenter">atau saya jual budak-budak ini<br/>jadi hamba di luar negara.</p>
+      <p xml:id="p700" begin="00:45:08.120" end="00:45:09.720" region="bottomCenter">Awak tahu saya di sini?</p>
+      <p xml:id="p701" begin="00:45:10.280" end="00:45:11.680" region="bottomCenter">Awak suruh mereka telefon?</p>
+      <p xml:id="p702" begin="00:45:11.760" end="00:45:13.320" region="bottomCenter">- Taklah.<br/>- Tak ada?</p>
+      <p xml:id="p703" begin="00:45:24.120" end="00:45:25.600" region="bottomCenter">Pn. Ip, mana Tuan Ip?</p>
+      <p xml:id="p704" begin="00:45:25.840" end="00:45:26.880" region="bottomCenter">Apa itu?</p>
+      <p xml:id="p705" begin="00:45:28.800" end="00:45:30.440" region="bottomCenter">Apa yang berlaku?</p>
+      <p xml:id="p706" begin="00:45:32.360" end="00:45:33.280" region="bottomCenter">Tuan Ip!</p>
+      <p xml:id="p707" begin="00:45:33.360" end="00:45:34.400" region="bottomCenter">Kenapa, Cik Wong?</p>
+      <p xml:id="p708" begin="00:45:34.800" end="00:45:36.320" region="bottomCenter">Ching, Fong dan murid lain</p>
+      <p xml:id="p709" begin="00:45:36.400" end="00:45:37.320" region="bottomCenter">diculik!</p>
+      <p xml:id="p710" begin="00:45:37.400" end="00:45:38.440" region="bottomCenter">Apa?</p>
+      <p xml:id="p711" begin="00:45:39.200" end="00:45:41.320" region="bottomCenter">Jika pengetua tak datang<br/>dalam dua jam,</p>
+      <p xml:id="p712" begin="00:45:41.440" end="00:45:43.320" region="bottomCenter">budak-budak itu akan dijual.</p>
+      <p xml:id="p713" begin="00:45:47.200" end="00:45:48.400" region="bottomCenter">Cari pengetua,</p>
+      <p xml:id="p714" begin="00:45:48.680" end="00:45:50.160" region="bottomCenter">- dan Sarjan Po.<br/>- Ya.</p>
+      <p xml:id="p715" begin="00:46:23.960" end="00:46:25.040" region="bottomCenter">Jadi.</p>
+      <p xml:id="p716" begin="00:46:26.400" end="00:46:29.360" region="bottomCenter">Saya nak pengetua<br/>tapi awak datang bawa kayu.</p>
+      <p xml:id="p717" begin="00:46:31.440" end="00:46:32.800" region="bottomCenter">Memang hebat.</p>
+      <p xml:id="p718" begin="00:46:33.640" end="00:46:34.800" region="bottomCenter">Mana pengetua?</p>
+      <p xml:id="p719" begin="00:46:35.400" end="00:46:36.640" region="bottomCenter">Dalam perjalanan.</p>
+      <p xml:id="p720" begin="00:46:37.480" end="00:46:40.560" region="bottomCenter">Lepaskan dulu budak-budak itu.</p>
+      <p xml:id="p721" begin="00:46:40.640" end="00:46:42.080" region="bottomCenter">Ayah!</p>
+      <p xml:id="p722" begin="00:46:43.680" end="00:46:44.680" region="bottomCenter">Diam!</p>
+      <p xml:id="p723" begin="00:46:44.920" end="00:46:46.040" region="bottomCenter">Nak, jangan takut.</p>
+      <p xml:id="p724" begin="00:46:47.320" end="00:46:48.520" region="bottomCenter">Ayah di sini.</p>
+      <p xml:id="p725" begin="00:46:48.880" end="00:46:50.400" region="bottomCenter">Ini anak awak?</p>
+      <p xml:id="p726" begin="00:46:50.920" end="00:46:53.520" region="bottomCenter">Bertuah betul saya dapat dia.</p>
+      <p xml:id="p727" begin="00:46:54.600" end="00:46:55.680" region="bottomCenter">Lepaskan dia.</p>
+      <p xml:id="p728" begin="00:47:00.760" end="00:47:02.880" region="bottomCenter">Berdiri tegak dan bertenang.</p>
+      <p xml:id="p729" begin="00:47:04.360" end="00:47:05.400" region="bottomCenter">Nak, ke mari.</p>
+      <p xml:id="p730" begin="00:47:07.080" end="00:47:10.320" region="bottomCenter">Sang, kanak-kanak itu tak bersalah,</p>
+      <p xml:id="p731" begin="00:47:11.120" end="00:47:12.720" region="bottomCenter">jangan ganggu dia?</p>
+      <p xml:id="p732" begin="00:47:13.040" end="00:47:14.560" region="bottomCenter">Saya tak ganggu dia.</p>
+      <p xml:id="p733" begin="00:47:15.400" end="00:47:17.040" region="bottomCenter">Saya cuma nak beri epal.</p>
+      <p xml:id="p734" begin="00:47:19.720" end="00:47:21.800" region="bottomCenter">Jangan takut, ambil epal ini.</p>
+      <p xml:id="p735" begin="00:47:22.320" end="00:47:23.440" region="bottomCenter">Jadi...</p>
+      <p xml:id="p736" begin="00:47:24.160" end="00:47:27.120" region="bottomCenter">kita boleh bincang<br/>jika ayah awak letak kayu itu.</p>
+      <p xml:id="p737" begin="00:47:27.720" end="00:47:29.560" region="bottomCenter">Ching, jangan takut.</p>
+      <p xml:id="p738" begin="00:47:29.640" end="00:47:31.000" region="bottomCenter">Letak kayu itu.</p>
+      <p xml:id="p739" begin="00:47:36.040" end="00:47:37.160" region="bottomCenter">Buktikan.</p>
+      <p xml:id="p740" begin="00:47:37.240" end="00:47:38.360" region="bottomCenter">Melutut.</p>
+      <p xml:id="p741" begin="00:47:43.600" end="00:47:44.680" region="bottomCenter">Sujud.</p>
+      <p xml:id="p742" begin="00:47:57.680" end="00:48:00.040" region="bottomCenter">Awak buat apa di sini?</p>
+      <p xml:id="p743" begin="00:48:00.800" end="00:48:02.280" region="bottomCenter">Tiada pertarungan hari ini.</p>
+      <p xml:id="p744" begin="00:48:02.520" end="00:48:03.880" region="bottomCenter">Awak ambil anak saya.</p>
+      <p xml:id="p745" begin="00:48:04.080" end="00:48:06.000" region="bottomCenter">Tuan!</p>
+      <p xml:id="p746" begin="00:48:06.800" end="00:48:07.960" region="bottomCenter">Tolong saya!</p>
+      <p xml:id="p747" begin="00:48:08.040" end="00:48:09.080" region="bottomCenter">Fong.</p>
+      <p xml:id="p748" begin="00:48:09.680" end="00:48:11.120" region="bottomCenter">Jadi dia anak awak?</p>
+      <p xml:id="p749" begin="00:48:11.400" end="00:48:13.240" region="bottomCenter">Dia konco kita.</p>
+      <p xml:id="p750" begin="00:48:13.320" end="00:48:14.200" region="bottomCenter">Lepaskan dia.</p>
+      <p xml:id="p751" begin="00:48:16.440" end="00:48:18.040" region="bottomCenter">Mujur saya yang ambil dia.</p>
+      <p xml:id="p752" begin="00:48:18.760" end="00:48:20.080" region="bottomCenter">Jika tak tentu susah.</p>
+      <p xml:id="p753" begin="00:48:32.480" end="00:48:33.880" region="bottomCenter">Sudah, pergi balik!</p>
+      <p xml:id="p754" begin="00:48:37.560" end="00:48:38.520" region="bottomCenter">Ip Man,</p>
+      <p xml:id="p755" begin="00:48:38.920" end="00:48:40.440" region="bottomCenter">awak petarung hebat.</p>
+      <p xml:id="p756" begin="00:48:41.120" end="00:48:42.640" region="bottomCenter">Awak boleh lawan 10 orang?</p>
+      <p xml:id="p757" begin="00:48:43.120" end="00:48:45.160" region="bottomCenter">Saya dah beri awak peluang.</p>
+      <p xml:id="p758" begin="00:48:46.400" end="00:48:50.000" region="bottomCenter">Satu lawan sebelas...</p>
+      <p xml:id="p759" begin="00:48:50.760" end="00:48:54.600" region="bottomCenter">Setiap kali tumbukan tepat,<br/>saya beri anak awak makan.</p>
+      <p xml:id="p760" begin="00:49:46.040" end="00:49:49.320" region="bottomCenter">Tuan, kawan-kawan saya<br/>masih di sana.</p>
+      <p xml:id="p761" begin="00:50:32.840" end="00:50:33.920" region="bottomCenter">Kenapa datang balik?</p>
+      <p xml:id="p762" begin="00:50:34.360" end="00:50:35.920" region="bottomCenter">Jemput anak dari sekolah.</p>
+      <p xml:id="p763" begin="00:52:06.360" end="00:52:08.080" region="bottomCenter">Jangan datang dekat.</p>
+      <p xml:id="p764" begin="00:52:17.360" end="00:52:18.760" region="bottomCenter">Jika tak saya bunuh dia.</p>
+      <p xml:id="p765" begin="00:52:18.840" end="00:52:20.400" region="bottomCenter">Ayah!</p>
+      <p xml:id="p766" begin="00:52:25.760" end="00:52:26.800" region="bottomCenter">Gigit dia.</p>
+      <p xml:id="p767" begin="00:52:37.440" end="00:52:38.400" region="bottomCenter">Pergi!</p>
+      <p xml:id="p768" begin="00:52:43.480" end="00:52:44.880" region="bottomCenter">Jangan biar dia lari.</p>
+      <p xml:id="p769" begin="00:52:49.160" end="00:52:50.160" region="bottomCenter">Lari!</p>
+      <p xml:id="p770" begin="00:52:50.800" end="00:52:53.000" region="bottomCenter">Tangkap budak itu, cepat!</p>
+      <p xml:id="p771" begin="00:53:13.880" end="00:53:15.560" region="bottomCenter">Di sana, cepat!</p>
+      <p xml:id="p772" begin="00:53:20.640" end="00:53:24.280" region="bottomCenter">Ayah!</p>
+      <p xml:id="p773" begin="00:53:40.640" end="00:53:42.120" region="bottomCenter">David, jangan tercegat!</p>
+      <p xml:id="p774" begin="00:53:42.240" end="00:53:44.520" region="bottomCenter">Pergi ambil budak itu!</p>
+      <p xml:id="p775" begin="00:54:03.520" end="00:54:04.600" region="bottomCenter">Ayah!</p>
+      <p xml:id="p776" begin="00:54:16.680" end="00:54:23.920" region="bottomCenter">- Melutut!<br/>- Jangan bergerak!</p>
+      <p xml:id="p777" begin="00:54:24.520" end="00:54:25.920" region="bottomCenter">Dengar tak?</p>
+      <p xml:id="p778" begin="00:54:26.000" end="00:54:29.160" region="bottomCenter">- Saya bukan konco mereka...<br/>- Melutut!</p>
+      <p xml:id="p779" begin="00:54:38.800" end="00:54:41.760" region="bottomCenter">Jangan bergerak,<br/>sesiapa pun jangan bergerak!</p>
+      <p xml:id="p780" begin="00:54:42.000" end="00:54:44.680" region="bottomCenter">Melutut!</p>
+      <p xml:id="p781" begin="00:54:44.760" end="00:54:46.400" region="bottomCenter">Polis, jangan bergerak!</p>
+      <p xml:id="p782" begin="00:54:46.960" end="00:54:48.120" region="bottomCenter">Masuk, ambil gambar.</p>
+      <p xml:id="p783" begin="00:54:48.520" end="00:54:49.680" region="bottomCenter">Jangan bergerak!</p>
+      <p xml:id="p784" begin="00:54:51.560" end="00:54:54.120" region="bottomCenter">Ambil seberapa banyak gambar<br/>yang boleh...</p>
+      <p xml:id="p785" begin="00:54:55.120" end="00:54:56.640" region="bottomCenter">Bahan untuk tajuk utama.</p>
+      <p xml:id="p786" begin="00:54:57.480" end="00:55:00.720" region="bottomCenter">Biar wartawan ambil gambar,<br/>ia akan jadi berita esok.</p>
+      <p xml:id="p787" begin="00:55:00.880" end="00:55:02.600" region="bottomCenter">Saya kata melutut, faham?</p>
+      <p xml:id="p788" begin="00:55:02.680" end="00:55:03.760" region="bottomCenter">Awak bodoh!</p>
+      <p xml:id="p789" begin="00:55:03.840" end="00:55:05.600" region="bottomCenter">Jangan berani bertindak!</p>
+      <p xml:id="p790" begin="00:55:06.240" end="00:55:07.360" region="bottomCenter">Jangan bergerak!</p>
+      <p xml:id="p791" begin="00:55:12.320" end="00:55:13.240" region="bottomCenter">Melutut!</p>
+      <p xml:id="p792" begin="00:55:13.320" end="00:55:17.200" region="bottomCenter">Tangan di atas kepala dan melutut!</p>
+      <p xml:id="p793" begin="00:55:22.200" end="00:55:23.440" region="bottomCenter">Ibu!</p>
+      <p xml:id="p794" begin="00:55:24.680" end="00:55:26.120" region="bottomCenter">Ching!</p>
+      <p xml:id="p795" begin="00:55:41.560" end="00:55:43.200" region="bottomCenter">Ada masalah di sekolah.</p>
+      <p xml:id="p796" begin="00:55:45.960" end="00:55:47.240" region="bottomCenter">Mereka culik Ching.</p>
+      <p xml:id="p797" begin="00:55:50.600" end="00:55:51.840" region="bottomCenter">Maaf, Wing-Sing.</p>
+      <p xml:id="p798" begin="00:55:56.440" end="00:55:57.480" region="bottomCenter">Ini salah saya.</p>
+      <p xml:id="p799" begin="00:56:00.360" end="00:56:01.320" region="bottomCenter">Saya silap.</p>
+      <p xml:id="p800" begin="00:56:06.520" end="00:56:07.640" region="bottomCenter">Ini salah saya.</p>
+      <p xml:id="p801" begin="00:56:09.440" end="00:56:12.960" region="bottomCenter">Ia takkan berlaku lagi, okey?</p>
+      <p xml:id="p802" begin="00:56:26.360" end="00:56:27.320" region="bottomCenter">Pergi cuci muka.</p>
+      <p xml:id="p803" begin="00:56:27.400" end="00:56:28.720" region="bottomCenter">- Baik.<br/>- Bagus.</p>
+      <p xml:id="p804" begin="00:56:54.480" end="00:56:56.640" region="bottomCenter">Ini semua salah saya.</p>
+      <p xml:id="p805" begin="00:56:59.280" end="00:57:00.280" region="bottomCenter">Jangan menangis.</p>
+      <p xml:id="p806" begin="00:57:00.360" end="00:57:03.400" region="bottomCenter">Sayang, saya sangat takut.</p>
+      <p xml:id="p807" begin="00:57:06.200" end="00:57:07.480" region="bottomCenter">Semuanya dah okey.</p>
+      <p xml:id="p808" begin="00:57:09.440" end="00:57:11.520" region="bottomCenter">Saya mungkin tak okey.</p>
+      <p xml:id="p809" begin="00:57:19.320" end="00:57:20.320" region="bottomCenter">Apa maksud awak?</p>
+      <p xml:id="p810" begin="00:57:28.480" end="00:57:29.960" region="bottomCenter">Kata doktor</p>
+      <p xml:id="p811" begin="00:57:31.720" end="00:57:33.720" region="bottomCenter">saya mungkin...</p>
+      <p xml:id="p812" begin="00:57:34.080" end="00:57:36.120" region="bottomCenter">menghidap barah.</p>
+      <p xml:id="p813" begin="00:57:50.360" end="00:57:53.360" region="bottomCenter">Bintik-bintik hitam<br/>menandakan sel barah,</p>
+      <p xml:id="p814" begin="00:57:53.440" end="00:57:54.640" region="bottomCenter">atau tumor.</p>
+      <p xml:id="p815" begin="00:57:54.840" end="00:57:56.880" region="bottomCenter">Sel barah dah merebak</p>
+      <p xml:id="p816" begin="00:57:56.960" end="00:57:59.360" region="bottomCenter">sebarang pembedahan<br/>tak membantu.</p>
+      <p xml:id="p817" begin="00:58:11.320" end="00:58:12.400" region="bottomCenter">Ia boleh diubati?</p>
+      <p xml:id="p818" begin="00:58:14.040" end="00:58:16.800" region="bottomCenter">Biasanya, kami akan beri ubat.</p>
+      <p xml:id="p819" begin="00:58:17.080" end="00:58:21.440" region="bottomCenter">Pada peringkat ini,<br/>ia dah sukar untuk dikawal.</p>
+      <p xml:id="p820" begin="00:58:24.640" end="00:58:28.080" region="bottomCenter">Doktor, berapa banyak masa<br/>yang saya ada?</p>
+      <p xml:id="p821" begin="00:58:29.520" end="00:58:30.880" region="bottomCenter">Sekitar enam bulan.</p>
+      <p xml:id="p822" begin="00:59:13.240" end="00:59:14.600" region="bottomCenter">Saya tambah nasi awak.</p>
+      <p xml:id="p823" begin="00:59:24.080" end="00:59:25.120" region="bottomCenter">Cuma separuh.</p>
+      <p xml:id="p824" begin="01:00:29.400" end="01:00:30.880" region="bottomCenter">Jangan risau, awak okey.</p>
+      <p xml:id="p825" begin="01:00:30.960" end="01:00:32.240" region="bottomCenter">Polis di pihak awak.</p>
+      <p xml:id="p826" begin="01:00:32.320" end="01:00:34.920" region="bottomCenter">Tapi pasti ada cerita baru<br/>dalam akhbar</p>
+      <p xml:id="p827" begin="01:00:36.520" end="01:00:40.480" region="bottomCenter">tentang kanak-kanak diculik<br/>atau orang dihalau dari rumah.</p>
+      <p xml:id="p828" begin="01:00:41.280" end="01:00:42.520" region="bottomCenter">Bos saya tak gembira.</p>
+      <p xml:id="p829" begin="01:00:42.600" end="01:00:44.800" region="bottomCenter">Jika dia tak gembira,<br/>saya pun sama.</p>
+      <p xml:id="p830" begin="01:00:44.880" end="01:00:47.840" region="bottomCenter">Jadi, buat masa ini<br/>semua aktiviti jenayah</p>
+      <p xml:id="p831" begin="01:00:47.920" end="01:00:50.040" region="bottomCenter">dan rasuah yang kamu terlibat</p>
+      <p xml:id="p832" begin="01:00:50.120" end="01:00:54.120" region="bottomCenter">mestilah dihentikan.</p>
+      <p xml:id="p833" begin="01:00:54.200" end="01:00:57.480" region="bottomCenter">Jika tak, Frankie,</p>
+      <p xml:id="p834" begin="01:00:58.000" end="01:01:00.400" region="bottomCenter">saya tak boleh lindungi awak.</p>
+      <p xml:id="p835" begin="01:01:00.840" end="01:01:03.320" region="bottomCenter">- Terpulang.<br/>- Ya.</p>
+      <p xml:id="p836" begin="01:01:03.960" end="01:01:06.480" region="bottomCenter">Baik, Frankie,<br/>perbualan ini menyeronokkan.</p>
+      <p xml:id="p837" begin="01:01:07.320" end="01:01:08.360" region="bottomCenter">Jumpa lagi.</p>
+      <p xml:id="p838" begin="01:01:16.240" end="01:01:19.600" region="bottomCenter">Bos, lelaki Thai ini luar biasa.</p>
+      <p xml:id="p839" begin="01:01:19.760" end="01:01:21.520" region="bottomCenter">Gerakan dia semua hebat.</p>
+      <p xml:id="p840" begin="01:01:22.120" end="01:01:23.240" region="bottomCenter">Angkat.</p>
+      <p xml:id="p841" begin="01:01:23.320" end="01:01:24.680" region="bottomCenter">Ini silap saya, bos.</p>
+      <p xml:id="p842" begin="01:01:24.760" end="01:01:25.640" region="bottomCenter">Maaf.</p>
+      <p xml:id="p843" begin="01:01:25.720" end="01:01:28.120" region="bottomCenter">Saya nak gertak pengetua,<br/>bukan buat kecoh.</p>
+      <p xml:id="p844" begin="01:01:28.200" end="01:01:30.400" region="bottomCenter">Ini semua salah Ip Man.</p>
+      <p xml:id="p845" begin="01:01:30.480" end="01:01:31.800" region="bottomCenter">Saya minta maaf.</p>
+      <p xml:id="p846" begin="01:01:37.160" end="01:01:39.160" region="bottomCenter">Jangan tunjuk muka awak lagi.</p>
+      <p xml:id="p847" begin="01:01:39.720" end="01:01:40.800" region="bottomCenter">Berambus!</p>
+      <p xml:id="p848" begin="01:01:46.000" end="01:01:47.000" region="bottomCenter">Ip Man.</p>
+      <p xml:id="p849" begin="01:01:48.560" end="01:01:49.800" region="bottomCenter">Habiskan dia!</p>
+      <p xml:id="p850" begin="01:02:13.920" end="01:02:16.520" region="bottomCenter">"Doktor Cina, Yim Ching-hua"</p>
+      <p xml:id="p851" begin="01:05:07.160" end="01:05:08.400" region="bottomCenter">Keluar.</p>
+      <p xml:id="p852" begin="01:05:50.960" end="01:05:52.000" region="bottomCenter">Nak minum teh?</p>
+      <p xml:id="p853" begin="01:05:53.320" end="01:05:55.840" region="bottomCenter">Isu di sekolah dah kembali tenang.</p>
+      <p xml:id="p854" begin="01:05:55.920" end="01:05:58.400" region="bottomCenter">Harap tiada masalah lagi,<br/>awak boleh relaks.</p>
+      <p xml:id="p855" begin="01:05:58.520" end="01:05:59.480" region="bottomCenter">Tapi hati-hati,</p>
+      <p xml:id="p856" begin="01:06:00.200" end="01:06:03.520" region="bottomCenter">syaitan asing tak boleh dipercayai.</p>
+      <p xml:id="p857" begin="01:06:03.960" end="01:06:06.240" region="bottomCenter">Bos Sang nak cari awak,</p>
+      <p xml:id="p858" begin="01:06:06.320" end="01:06:07.600" region="bottomCenter">jadi hati-hati.</p>
+      <p xml:id="p859" begin="01:06:24.520" end="01:06:25.720" region="bottomCenter">Ayuh, cepat!</p>
+      <p xml:id="p860" begin="01:06:25.800" end="01:06:27.480" region="bottomCenter">Betulkah?</p>
+      <p xml:id="p861" begin="01:06:28.720" end="01:06:29.720" region="bottomCenter">Awak baik.</p>
+      <p xml:id="p862" begin="01:06:33.560" end="01:06:35.560" region="bottomCenter">Helo, pak cik.</p>
+      <p xml:id="p863" begin="01:06:59.840" end="01:07:01.240" region="bottomCenter">Awak cari saya?</p>
+      <p xml:id="p864" begin="01:07:01.640" end="01:07:02.600" region="bottomCenter">Kenapa?</p>
+      <p xml:id="p865" begin="01:07:11.560" end="01:07:13.040" region="bottomCenter">Jadi awak Ip Man?</p>
+      <p xml:id="p866" begin="01:07:14.520" end="01:07:16.800" region="bottomCenter">Awak petarung terbaik di China?</p>
+      <p xml:id="p867" begin="01:07:17.760" end="01:07:19.040" region="bottomCenter">Menarik.</p>
+      <p xml:id="p868" begin="01:07:22.080" end="01:07:23.440" region="bottomCenter">Okey, mari berurusan.</p>
+      <p xml:id="p869" begin="01:07:24.360" end="01:07:29.080" region="bottomCenter">Wing Chun awak yang terpantas,</p>
+      <p xml:id="p870" begin="01:07:29.280" end="01:07:31.480" region="bottomCenter">hingga sukar dikalahkan.</p>
+      <p xml:id="p871" begin="01:07:33.000" end="01:07:35.280" region="bottomCenter">Penumbuk siapa paling pantas?</p>
+      <p xml:id="p872" begin="01:07:35.520" end="01:07:36.440" region="bottomCenter">Awak?</p>
+      <p xml:id="p873" begin="01:07:36.600" end="01:07:37.880" region="bottomCenter">Atau saya?</p>
+      <p xml:id="p874" begin="01:07:38.440" end="01:07:40.160" region="bottomCenter">Tiga minit.</p>
+      <p xml:id="p875" begin="01:07:41.560" end="01:07:46.320" region="bottomCenter">Jika awak bertahan,<br/>saya lepaskan awak.</p>
+      <p xml:id="p876" begin="01:08:53.400" end="01:08:54.880" region="bottomCenter">Ibu!</p>
+      <p xml:id="p877" begin="01:08:57.040" end="01:08:58.400" region="bottomCenter">Mari sini.</p>
+      <p xml:id="p878" begin="01:11:32.680" end="01:11:34.080" region="bottomCenter">Hei, apa khabar?</p>
+      <p xml:id="p879" begin="01:11:34.160" end="01:11:37.640" region="bottomCenter">Boleh dapatkan belon saya semula?</p>
+      <p xml:id="p880" begin="01:11:37.800" end="01:11:39.800" region="bottomCenter">Biarkan ia pergi, jangan risau.</p>
+      <p xml:id="p881" begin="01:11:39.880" end="01:11:41.800" region="bottomCenter">Kita beli yang baru.</p>
+      <p xml:id="p882" begin="01:11:42.240" end="01:11:43.640" region="bottomCenter">Belon baru.</p>
+      <p xml:id="p883" begin="01:11:56.920" end="01:11:59.720" region="bottomCenter">Puan, ini sewa saya.</p>
+      <p xml:id="p884" begin="01:12:00.600" end="01:12:03.280" region="bottomCenter">Saya dah kata, awak berguna!</p>
+      <p xml:id="p885" begin="01:12:03.360" end="01:12:06.040" region="bottomCenter">Semoga berjaya!<br/>Awak pasti hebat!</p>
+      <p xml:id="p886" begin="01:12:06.800" end="01:12:10.120" region="bottomCenter">Saya boleh<br/>berlatih Wing Chun di sini!</p>
+      <p xml:id="p887" begin="01:12:10.640" end="01:12:12.840" region="bottomCenter">Tuan, hormat!</p>
+      <p xml:id="p888" begin="01:12:13.320" end="01:12:14.320" region="bottomCenter">Hormat!</p>
+      <p xml:id="p889" begin="01:12:14.400" end="01:12:16.760" region="bottomCenter">Tuan, awak ajar Wing Chun?</p>
+      <p xml:id="p890" begin="01:12:16.840" end="01:12:18.520" region="bottomCenter">Tentu awak kenal Ip Man?</p>
+      <p xml:id="p891" begin="01:12:18.880" end="01:12:21.280" region="bottomCenter">Lihat, ini akhbar hari ini,</p>
+      <p xml:id="p892" begin="01:12:21.360" end="01:12:23.160" region="bottomCenter">dan ada cerita Ip Man.</p>
+      <p xml:id="p893" begin="01:12:23.400" end="01:12:25.240" region="bottomCenter">Dia sangat mengagumkan.</p>
+      <p xml:id="p894" begin="01:12:25.560" end="01:12:28.200" region="bottomCenter">Tentu kamu kawan baik<br/>sebab ajar Wing Chun.</p>
+      <p xml:id="p895" begin="01:12:28.280" end="01:12:30.200" region="bottomCenter">Kenalkan saya kepada dia.</p>
+      <p xml:id="p896" begin="01:12:30.480" end="01:12:33.760" region="bottomCenter">Ini kunci, saya tak nak ganggu awak.</p>
+      <p xml:id="p897" begin="01:12:33.840" end="01:12:36.000" region="bottomCenter">Jangan lupa kenalkan saya!</p>
+      <p xml:id="p898" begin="01:12:42.360" end="01:12:45.000" region="bottomCenter">Awak tulis artikel ini?</p>
+      <p xml:id="p899" begin="01:12:45.400" end="01:12:48.640" region="bottomCenter">"Wing Chun Ip Man<br/>bantu polis selamatkan kanak-kanak"</p>
+      <p xml:id="p900" begin="01:12:48.960" end="01:12:50.040" region="bottomCenter">Ya.</p>
+      <p xml:id="p901" begin="01:12:53.640" end="01:12:54.800" region="bottomCenter">Saya Cheung Tin-chi.</p>
+      <p xml:id="p902" begin="01:12:55.680" end="01:12:56.920" region="bottomCenter">Saya pun ajar Wing Chun,</p>
+      <p xml:id="p903" begin="01:12:58.360" end="01:13:01.160" region="bottomCenter">boleh awak tulis tentang saya?</p>
+      <p xml:id="p904" begin="01:13:03.200" end="01:13:04.720" region="bottomCenter">Saya lihat Kungfu Ip Man,</p>
+      <p xml:id="p905" begin="01:13:04.960" end="01:13:07.600" region="bottomCenter">ia bukan Wing Chun yang asli.</p>
+      <p xml:id="p906" begin="01:13:07.840" end="01:13:09.320" region="bottomCenter">Saya nak cabar dia.</p>
+      <p xml:id="p907" begin="01:13:09.480" end="01:13:10.640" region="bottomCenter">Semua sekolah Kungfu</p>
+      <p xml:id="p908" begin="01:13:11.000" end="01:13:13.080" region="bottomCenter">hormat Wing Chun Ip Man.</p>
+      <p xml:id="p909" begin="01:13:13.320" end="01:13:15.080" region="bottomCenter">Walaupun saya boleh tulis,</p>
+      <p xml:id="p910" begin="01:13:15.280" end="01:13:17.920" region="bottomCenter">kita kena tengok jika dunia Kungfu</p>
+      <p xml:id="p911" begin="01:13:18.000" end="01:13:22.720" region="bottomCenter">fikir awak layak<br/>cabar Tuan Ip secara terbuka.</p>
+      <p xml:id="p912" begin="01:13:37.080" end="01:13:38.320" region="bottomCenter">Sila duduk, Tuan.</p>
+      <p xml:id="p913" begin="01:13:40.720" end="01:13:42.000" region="bottomCenter">Mana kamera awak?</p>
+      <p xml:id="p914" begin="01:13:47.080" end="01:13:48.520" region="bottomCenter">Sedap teh hari ini.</p>
+      <p xml:id="p915" begin="01:13:48.880" end="01:13:51.600" region="bottomCenter">Cheung dari Wing Chun,<br/>perlawanan persahabatan?</p>
+      <p xml:id="p916" begin="01:13:53.480" end="01:13:54.480" region="bottomCenter">Awak siapa?</p>
+      <p xml:id="p917" begin="01:14:20.200" end="01:14:21.640" region="bottomCenter">"Cheung Tin-chi Hebat"</p>
+      <p xml:id="p918" begin="01:14:38.080" end="01:14:39.440" region="bottomCenter">"Cheung Tin-chi Masyhur"</p>
+      <p xml:id="p919" begin="01:14:48.480" end="01:14:49.760" region="bottomCenter">"Raja Kungfu Baru"</p>
+      <p xml:id="p920" begin="01:15:02.360" end="01:15:08.080" region="bottomCenter">"Sekolah Seni Bela Diri Wing Chun<br/>"Cheung Tin-chi"</p>
+      <p xml:id="p921" begin="01:15:08.400" end="01:15:10.800" region="bottomCenter">Sekarang, saya layak?</p>
+      <p xml:id="p922" begin="01:15:11.840" end="01:15:12.880" region="bottomCenter">Sudah tentu.</p>
+      <p xml:id="p923" begin="01:15:16.000" end="01:15:17.720" region="bottomCenter">Tuan Cheung...</p>
+      <p xml:id="p924" begin="01:15:17.800" end="01:15:20.000" region="bottomCenter">Tahniah, Tuan Cheung.</p>
+      <p xml:id="p925" begin="01:15:20.400" end="01:15:22.680" region="bottomCenter">Pandang depan.</p>
+      <p xml:id="p926" begin="01:15:25.760" end="01:15:28.000" region="bottomCenter">En. Wong,<br/>terima kasih beri sokongan.</p>
+      <p xml:id="p927" begin="01:15:28.480" end="01:15:31.960" region="bottomCenter">Saya kagum petarung berani<br/>dan bercita-cita tinggi.</p>
+      <p xml:id="p928" begin="01:15:32.880" end="01:15:35.360" region="bottomCenter">Jika nak bantuan, cakap saja.</p>
+      <p xml:id="p929" begin="01:15:35.440" end="01:15:36.520" region="bottomCenter">Terima kasih.</p>
+      <p xml:id="p930" begin="01:15:38.800" end="01:15:39.680" region="bottomCenter">Tuan Cheung.</p>
+      <p xml:id="p931" begin="01:15:40.760" end="01:15:42.680" region="bottomCenter">Awak lawan semua orang</p>
+      <p xml:id="p932" begin="01:15:43.000" end="01:15:44.280" region="bottomCenter">dan bawa jurugambar,</p>
+      <p xml:id="p933" begin="01:15:44.640" end="01:15:46.080" region="bottomCenter">tak risau orang mengata?</p>
+      <p xml:id="p934" begin="01:15:48.320" end="01:15:51.800" region="bottomCenter">Saya tahu ramai orang fikir</p>
+      <p xml:id="p935" begin="01:15:52.040" end="01:15:55.520" region="bottomCenter">saya menunjuk-nunjuk<br/>dan berlagak hebat.</p>
+      <p xml:id="p936" begin="01:15:56.800" end="01:16:00.840" region="bottomCenter">Tapi dalam Kungfu,<br/>kita perlu bina kedudukan.</p>
+      <p xml:id="p937" begin="01:16:02.200" end="01:16:03.640" region="bottomCenter">Ada satu benda lagi.</p>
+      <p xml:id="p938" begin="01:16:04.160" end="01:16:05.360" region="bottomCenter">Ip Man tak layak</p>
+      <p xml:id="p939" begin="01:16:06.360" end="01:16:07.840" region="bottomCenter">mewakili Wing Chun.</p>
+      <p xml:id="p940" begin="01:16:10.120" end="01:16:11.160" region="bottomCenter">Tuan-tuan,</p>
+      <p xml:id="p941" begin="01:16:12.360" end="01:16:13.600" region="bottomCenter">jadi saya umumkan</p>
+      <p xml:id="p942" begin="01:16:14.360" end="01:16:16.720" region="bottomCenter">ingin mencabar Ip Man<br/>untuk berlawan!</p>
+      <p xml:id="p943" begin="01:16:17.480" end="01:16:19.480" region="bottomCenter">"Wing Chun Asli"</p>
+      <p xml:id="p944" begin="01:16:23.120" end="01:16:24.960" region="bottomCenter">Berita istimewa!</p>
+      <p xml:id="p945" begin="01:16:25.040" end="01:16:27.160" region="bottomCenter">Wing Chun lawan Wing Chun.</p>
+      <p xml:id="p946" begin="01:16:27.240" end="01:16:29.120" region="bottomCenter">- Beli akhbar.<br/>- Saya nak satu.</p>
+      <p xml:id="p947" begin="01:16:32.040" end="01:16:33.840" region="bottomCenter">"Cheung Tin-chi Cabar Ip Man"</p>
+      <p xml:id="p948" begin="01:16:33.920" end="01:16:35.800" region="bottomCenter">"Yang mana Wing Chun tulen?"</p>
+      <p xml:id="p949" begin="01:16:39.800" end="01:16:41.800" region="bottomCenter">"Dua Jenaka Hari Ini"</p>
+      <p xml:id="p950" begin="01:16:47.040" end="01:16:49.400" region="bottomCenter">Sayang, ini mengarut.</p>
+      <p xml:id="p951" begin="01:16:51.080" end="01:16:53.720" region="bottomCenter">Ia seperti jenaka tentang Mo,</p>
+      <p xml:id="p952" begin="01:16:54.080" end="01:16:55.600" region="bottomCenter">dan kawannya tiada semangat.</p>
+      <p xml:id="p953" begin="01:16:55.680" end="01:16:58.680" region="bottomCenter">Dia kata, "Kita semua dibuli."</p>
+      <p xml:id="p954" begin="01:16:58.760" end="01:17:00.000" region="bottomCenter">"Nak bukti?"</p>
+      <p xml:id="p955" begin="01:17:00.240" end="01:17:03.160" region="bottomCenter">"Jika isteri awak bos,<br/>duduk di sana."</p>
+      <p xml:id="p956" begin="01:17:03.240" end="01:17:05.600" region="bottomCenter">Semua lelaki pergi,<br/>jalan sambil tunduk</p>
+      <p xml:id="p957" begin="01:17:05.680" end="01:17:07.640" region="bottomCenter">cuma Mo kekal di tempatnya.</p>
+      <p xml:id="p958" begin="01:17:07.800" end="01:17:08.920" region="bottomCenter">Mereka kata,</p>
+      <p xml:id="p959" begin="01:17:09.000" end="01:17:11.280" region="bottomCenter">"Mo, awak sangat berani!"</p>
+      <p xml:id="p960" begin="01:17:11.960" end="01:17:12.840" region="bottomCenter">Apa Mo jawab?</p>
+      <p xml:id="p961" begin="01:17:12.920" end="01:17:13.760" region="bottomCenter">"Isteri saya"</p>
+      <p xml:id="p962" begin="01:17:13.840" end="01:17:14.760" region="bottomCenter">"cakap"</p>
+      <p xml:id="p963" begin="01:17:14.840" end="01:17:16.880" region="bottomCenter">"jangan duduk di tempat sesak."</p>
+      <p xml:id="p964" begin="01:17:17.760" end="01:17:19.000" region="bottomCenter">Lucu tak?</p>
+      <p xml:id="p965" begin="01:17:19.960" end="01:17:21.560" region="bottomCenter">Awak takut dengan isteri?</p>
+      <p xml:id="p966" begin="01:17:22.240" end="01:17:23.320" region="bottomCenter">Kadangkala.</p>
+      <p xml:id="p967" begin="01:17:40.960" end="01:17:41.880" region="bottomCenter">Seterusnya.</p>
+      <p xml:id="p968" begin="01:17:44.160" end="01:17:45.720" region="bottomCenter">Awak Cheung Wing-Sing?</p>
+      <p xml:id="p969" begin="01:17:49.360" end="01:17:53.400" region="bottomCenter">Kenapa perempuan<br/>diciptakan cantik tapi naif?</p>
+      <p xml:id="p970" begin="01:17:54.160" end="01:17:57.440" region="bottomCenter">Mereka cantik,<br/>supaya lelaki menyukai mereka.</p>
+      <p xml:id="p971" begin="01:17:57.960" end="01:18:02.400" region="bottomCenter">Mereka naif<br/>dan jatuh cinta dengan lelaki.</p>
+      <p xml:id="p972" begin="01:18:10.080" end="01:18:11.680" region="bottomCenter">Ada orang cabar Ip Man.</p>
+      <p xml:id="p973" begin="01:18:11.760" end="01:18:13.480" region="bottomCenter">- Bila?<br/>- 15 haribulan depan.</p>
+      <p xml:id="p974" begin="01:18:13.720" end="01:18:14.880" region="bottomCenter">Keras lagi.</p>
+      <p xml:id="p975" begin="01:18:15.040" end="01:18:17.520" region="bottomCenter">Rehatkan bahu, tumbuk laju.</p>
+      <p xml:id="p976" begin="01:18:23.480" end="01:18:25.280" region="bottomCenter">Ikut sini, Tuan Cheung.</p>
+      <p xml:id="p977" begin="01:18:25.560" end="01:18:26.600" region="bottomCenter">Di sana.</p>
+      <p xml:id="p978" begin="01:18:26.680" end="01:18:27.800" region="bottomCenter">"Tuan Ip"</p>
+      <p xml:id="p979" begin="01:18:39.520" end="01:18:40.440" region="bottomCenter">Maafkan saya.</p>
+      <p xml:id="p980" begin="01:18:44.160" end="01:18:46.680" region="bottomCenter">Tuan Ip, buat apa di sini?</p>
+      <p xml:id="p981" begin="01:18:47.520" end="01:18:48.880" region="bottomCenter">Saya cari En. Chan.</p>
+      <p xml:id="p982" begin="01:18:50.280" end="01:18:51.760" region="bottomCenter">Awak nak belajar menari?</p>
+      <p xml:id="p983" begin="01:18:52.280" end="01:18:53.560" region="bottomCenter">Tarian saya lebih bagus.</p>
+      <p xml:id="p984" begin="01:18:54.320" end="01:18:56.640" region="bottomCenter">Saya ajar awak menari,<br/>awak ajar saya Kungfu.</p>
+      <p xml:id="p985" begin="01:18:58.680" end="01:19:00.440" region="bottomCenter">Sudah tentu, mulai sekarang?</p>
+      <p xml:id="p986" begin="01:19:01.280" end="01:19:02.360" region="bottomCenter">Baik.</p>
+      <p xml:id="p987" begin="01:19:04.840" end="01:19:07.320" region="bottomCenter">Kenapa dulu tak terima saya<br/>jadi murid?</p>
+      <p xml:id="p988" begin="01:19:08.280" end="01:19:09.680" region="bottomCenter">Awak salah faham.</p>
+      <p xml:id="p989" begin="01:19:10.240" end="01:19:12.000" region="bottomCenter">Saya tak kata begitu.</p>
+      <p xml:id="p990" begin="01:19:12.480" end="01:19:15.600" region="bottomCenter">Waktu buka pintu,<br/>saya bukan suruh awak balik.</p>
+      <p xml:id="p991" begin="01:19:20.200" end="01:19:21.440" region="bottomCenter">"14 haribulan, Rabu"</p>
+      <p xml:id="p992" begin="01:19:21.520" end="01:19:23.360" region="bottomCenter">"15 haribulan, Khamis"</p>
+      <p xml:id="p993" begin="01:19:23.440" end="01:19:26.400" region="bottomCenter">"Sekolah Seni Bela Diri Wing Chun<br/>Cheung Tin-chi"</p>
+      <p xml:id="p994" begin="01:19:26.480" end="01:19:29.760" region="bottomCenter">Wing Chun lawan Wing Chun,<br/>siapa yang tulen?</p>
+      <p xml:id="p995" begin="01:19:29.840" end="01:19:32.760" region="bottomCenter">Ia hari bersejarah untuk Wing Chun,</p>
+      <p xml:id="p996" begin="01:19:33.600" end="01:19:36.960" region="bottomCenter">yang akan jadi<br/>seperti pertempuran naga!</p>
+      <p xml:id="p997" begin="01:19:37.120" end="01:19:40.000" region="bottomCenter">Adakah Ip Man lebih hebat?</p>
+      <p xml:id="p998" begin="01:19:40.480" end="01:19:42.960" region="bottomCenter">Atau Cheung Tin-chi yang garang?</p>
+      <p xml:id="p999" begin="01:19:43.040" end="01:19:46.440" region="bottomCenter">Siapa mewakili<br/>Wing Chun yang sebenar?</p>
+      <p xml:id="p1000" begin="01:19:46.520" end="01:19:49.520" region="bottomCenter">Pertandingan bermula<br/>pukul 3 petang ini,</p>
+      <p xml:id="p1001" begin="01:19:49.600" end="01:19:51.440" region="bottomCenter">ayuh kita nantikan.</p>
+      <p xml:id="p1002" begin="01:19:51.520" end="01:19:53.040" region="bottomCenter">Sarjan Po!</p>
+      <p xml:id="p1003" begin="01:19:53.920" end="01:19:55.600" region="bottomCenter">- Mana Tuan Ip?<br/>- Tak tahu!</p>
+      <p xml:id="p1004" begin="01:19:56.080" end="01:19:56.960" region="bottomCenter">Kenapa?</p>
+      <p xml:id="p1005" begin="01:19:57.040" end="01:19:58.600" region="bottomCenter">Mana dia? Dia sesat?</p>
+      <p xml:id="p1006" begin="01:19:58.680" end="01:20:02.120" region="bottomCenter">Tenang, Ip Man<br/>takkan kecewakan kita.</p>
+      <p xml:id="p1007" begin="01:20:03.240" end="01:20:04.440" region="bottomCenter">Ayuh lakukan.</p>
+      <p xml:id="p1008" begin="01:20:31.160" end="01:20:32.640" region="bottomCenter">Tengok.</p>
+      <p xml:id="p1009" begin="01:20:32.880" end="01:20:35.640" region="bottomCenter">Ini masanya...</p>
+      <p xml:id="p1010" begin="01:20:48.080" end="01:20:49.600" region="bottomCenter">Mana tuan awak?</p>
+      <p xml:id="p1011" begin="01:20:54.080" end="01:20:58.520" region="bottomCenter">Tuan-tuan, perlawanan<br/>dijadualkan pukul 3 petang.</p>
+      <p xml:id="p1012" begin="01:20:58.880" end="01:21:01.160" region="bottomCenter">Memandangkan Ip Man gagal hadir,</p>
+      <p xml:id="p1013" begin="01:21:01.280" end="01:21:02.880" region="bottomCenter">saya umumkan</p>
+      <p xml:id="p1014" begin="01:21:03.120" end="01:21:07.480" region="bottomCenter">jaguh dan semangat sebenar<br/>Wing Chun...</p>
+      <p xml:id="p1015" begin="01:21:07.960" end="01:21:09.360" region="bottomCenter">Cheung Tin-chi.</p>
+      <p xml:id="p1016" begin="01:21:10.560" end="01:21:11.400" region="bottomCenter">Ayah!</p>
+      <p xml:id="p1017" begin="01:21:11.480" end="01:21:13.720" region="bottomCenter">Kita menang!</p>
+      <p xml:id="p1018" begin="01:21:13.800" end="01:21:14.640" region="bottomCenter">Tak adil!</p>
+      <p xml:id="p1019" begin="01:21:14.720" end="01:21:16.600" region="bottomCenter">Mungkin ada kesesakan.</p>
+      <p xml:id="p1020" begin="01:21:17.000" end="01:21:19.400" region="bottomCenter">Ini jadikan awak tok guru?</p>
+      <p xml:id="p1021" begin="01:21:21.240" end="01:21:23.560" region="bottomCenter">Tuan Cheung,<br/>Ip Man tak hadir hari ini,</p>
+      <p xml:id="p1022" begin="01:21:23.640" end="01:21:24.760" region="bottomCenter">apa ulasan awak?</p>
+      <p xml:id="p1023" begin="01:21:29.880" end="01:21:31.760" region="bottomCenter">Rosakkan Wing Chun klasik,</p>
+      <p xml:id="p1024" begin="01:21:32.760" end="01:21:36.120" region="bottomCenter">bermakna rosakkan<br/>wawasan nenek moyang.</p>
+      <p xml:id="p1025" begin="01:21:37.800" end="01:21:41.360" region="bottomCenter">Yang tak patut ada di sini,<br/>tak akan kekal selamanya.</p>
+      <p xml:id="p1026" begin="01:21:42.640" end="01:21:46.800" region="bottomCenter">Jadi nenek moyang kita<br/>tak perlu risau tentang masa depan.</p>
+      <p xml:id="p1027" begin="01:21:48.040" end="01:21:50.680" region="bottomCenter">Saya percaya Tuan Ip faham hal ini,</p>
+      <p xml:id="p1028" begin="01:21:51.040" end="01:21:52.920" region="bottomCenter">jadi dia pilih tarik diri.</p>
+      <p xml:id="p1029" begin="01:21:54.440" end="01:21:55.880" region="bottomCenter">Ini tindakan yang hebat.</p>
+      <p xml:id="p1030" begin="01:21:58.160" end="01:21:59.520" region="bottomCenter">Mulai hari ini,</p>
+      <p xml:id="p1031" begin="01:22:01.000" end="01:22:05.920" region="bottomCenter">Saya, Cheung Tin-chi,<br/>akan pimpin Wing Chun sebenar</p>
+      <p xml:id="p1032" begin="01:22:08.400" end="01:22:09.240" region="bottomCenter">jadi gemilang.</p>
+      <p xml:id="p1033" begin="01:22:09.320" end="01:22:11.440" region="bottomCenter">- Tahniah.<br/>- Wing Chun Sejati.</p>
+      <p xml:id="p1034" begin="01:22:11.520" end="01:22:13.600" region="bottomCenter">Apa awak kata?</p>
+      <p xml:id="p1035" begin="01:22:13.800" end="01:22:15.240" region="bottomCenter">Awak tak ada hak,</p>
+      <p xml:id="p1036" begin="01:22:15.320" end="01:22:17.320" region="bottomCenter">tak layak lawan tuan saya!</p>
+      <p xml:id="p1037" begin="01:22:19.400" end="01:22:23.240" region="bottomCenter">- Diam, hentikan.<br/>- Hentikan.</p>
+      <p xml:id="p1038" begin="01:22:48.560" end="01:22:50.120" region="bottomCenter">Wing-Sing!</p>
+      <p xml:id="p1039" begin="01:22:52.440" end="01:22:55.960" region="bottomCenter">Tolong, hubungi ambulans!</p>
+      <p xml:id="p1040" begin="01:23:04.040" end="01:23:07.880" region="bottomCenter">Tuan Ip, keadaan dia semakin teruk.</p>
+      <p xml:id="p1041" begin="01:23:08.720" end="01:23:11.280" region="bottomCenter">Dia perlu tinggal lama lagi<br/>di hospital.</p>
+      <p xml:id="p1042" begin="01:23:37.880" end="01:23:39.800" region="bottomCenter">Apa khabar? Rasa lebih baik?</p>
+      <p xml:id="p1043" begin="01:23:43.120" end="01:23:45.200" region="bottomCenter">Bila kita boleh balik?</p>
+      <p xml:id="p1044" begin="01:23:46.840" end="01:23:50.400" region="bottomCenter">Kata doktor<br/>lebih baik awak tinggal di sini,</p>
+      <p xml:id="p1045" begin="01:23:56.960" end="01:23:58.720" region="bottomCenter">awak perlu berehat.</p>
+      <p xml:id="p1046" begin="01:24:38.680" end="01:24:39.680" region="bottomCenter">Itu 473?</p>
+      <p xml:id="p1047" begin="01:24:39.760" end="01:24:40.600" region="bottomCenter">Itu 85?</p>
+      <p xml:id="p1048" begin="01:24:40.680" end="01:24:41.640" region="bottomCenter">Ya, awak betul.</p>
+      <p xml:id="p1049" begin="01:24:42.480" end="01:24:45.160" region="bottomCenter">"Kepada En. Cheung Tin-chi"</p>
+      <p xml:id="p1050" begin="01:24:53.680" end="01:24:57.120" region="bottomCenter">Minta Cheung Fong beri surat ini<br/>kepada ayahnya.</p>
+      <p xml:id="p1051" begin="01:24:57.200" end="01:24:58.400" region="bottomCenter">Baik.</p>
+      <p xml:id="p1052" begin="01:25:01.080" end="01:25:03.560" region="bottomCenter">Jururawat!</p>
+      <p xml:id="p1053" begin="01:25:05.280" end="01:25:07.440" region="bottomCenter">Ada apa, puan?</p>
+      <p xml:id="p1054" begin="01:25:07.560" end="01:25:08.880" region="bottomCenter">Awak kesakitan?</p>
+      <p xml:id="p1055" begin="01:25:09.000" end="01:25:11.160" region="bottomCenter">Jangan risau, saya panggil doktor.</p>
+      <p xml:id="p1056" begin="01:25:21.400" end="01:25:23.320" region="bottomCenter">Makanlah sup merpati.</p>
+      <p xml:id="p1057" begin="01:25:25.880" end="01:25:27.080" region="bottomCenter">Ia baik untuk awak.</p>
+      <p xml:id="p1058" begin="01:25:48.000" end="01:25:49.160" region="bottomCenter">Sayang.</p>
+      <p xml:id="p1059" begin="01:25:51.080" end="01:25:54.200" region="bottomCenter">Saya nak kita bergambar<br/>di luar sana.</p>
+      <p xml:id="p1060" begin="01:27:05.560" end="01:27:07.640" region="bottomCenter">Awak ada dengan saya setiap hari,</p>
+      <p xml:id="p1061" begin="01:27:08.400" end="01:27:10.040" region="bottomCenter">saya sangat gembira.</p>
+      <p xml:id="p1062" begin="01:27:12.600" end="01:27:14.800" region="bottomCenter">Tapi, saya akan lebih bahagia.</p>
+      <p xml:id="p1063" begin="01:27:18.800" end="01:27:20.080" region="bottomCenter">Orang kata,</p>
+      <p xml:id="p1064" begin="01:27:21.440" end="01:27:26.360" region="bottomCenter">"Hidup milik kita,<br/>dan pada masa sama ia bukan."</p>
+      <p xml:id="p1065" begin="01:27:28.400" end="01:27:30.960" region="bottomCenter">Sebelum ini saya tak faham.</p>
+      <p xml:id="p1066" begin="01:27:33.120" end="01:27:36.800" region="bottomCenter">Tapi sekarang, saya dah faham.</p>
+      <p xml:id="p1067" begin="01:27:39.880" end="01:27:41.680" region="bottomCenter">Kita milik diri sendiri,</p>
+      <p xml:id="p1068" begin="01:27:43.000" end="01:27:45.200" region="bottomCenter">kemudian kepada keluarga ini,</p>
+      <p xml:id="p1069" begin="01:27:47.080" end="01:27:48.920" region="bottomCenter">begitu juga dengan tempat ini.</p>
+      <p xml:id="p1070" begin="01:27:51.120" end="01:27:54.200" region="bottomCenter">Tapi ada benda awak kena lakukan.</p>
+      <p xml:id="p1071" begin="01:27:55.320" end="01:27:58.560" region="bottomCenter">Saya tak nak awak menyesal<br/>disebabkan saya.</p>
+      <p xml:id="p1072" begin="01:28:08.480" end="01:28:11.000" region="bottomCenter">Saya menyesal<br/>tak cukup baik untuk awak.</p>
+      <p xml:id="p1073" begin="01:28:14.360" end="01:28:17.440" region="bottomCenter">Tapi awak begitu hebat untuk saya.</p>
+      <p xml:id="p1074" begin="01:28:20.600" end="01:28:25.240" region="bottomCenter">Jika saya tak sakit,<br/>awak sahut cabaran itu?</p>
+      <p xml:id="p1075" begin="01:28:44.040" end="01:28:45.240" region="bottomCenter">Ya.</p>
+      <p xml:id="p1076" begin="01:28:48.400" end="01:28:51.160" region="bottomCenter">Itu Ip Man yang saya cinta.</p>
+      <p xml:id="p1077" begin="01:28:54.200" end="01:28:56.280" region="bottomCenter">Saya minta maaf, Man.</p>
+      <p xml:id="p1078" begin="01:28:56.760" end="01:28:58.600" region="bottomCenter">Saya dah tetapkan tarikh.</p>
+      <p xml:id="p1079" begin="01:29:09.600" end="01:29:12.640" region="bottomCenter">Dah lama saya tak dengar<br/>awak berlatih.</p>
+      <p xml:id="p1080" begin="01:29:14.160" end="01:29:16.520" region="bottomCenter">Boleh saya dengar semula?</p>
+      <p xml:id="p1081" begin="01:30:46.200" end="01:30:49.280" region="bottomCenter">"Sekolah Seni Bela Diri Wing Chun<br/>Cheung Tin-chi"</p>
+      <p xml:id="p1082" begin="01:31:27.080" end="01:31:30.040" region="bottomCenter">"Makam nenek moyang<br/>Wing Chun tulen"</p>
+      <p xml:id="p1083" begin="01:31:35.840" end="01:31:37.720" region="bottomCenter">"Wing Chun Asli"</p>
+      <p xml:id="p1084" begin="01:32:24.400" end="01:32:27.160" region="bottomCenter">Wing Chun, Cheung Tin-chi.</p>
+      <p xml:id="p1085" begin="01:32:30.760" end="01:32:33.360" region="bottomCenter">Wing Chun, Ip Man.</p>
+      <p xml:id="p1086" begin="01:32:37.440" end="01:32:40.280" region="bottomCenter">"Wing Chun Asli"</p>
+      <p xml:id="p1087" begin="01:34:02.880" end="01:34:04.680" region="bottomCenter">- Ip Ching, ayuh.<br/>- Baik.</p>
+      <p xml:id="p1088" begin="01:39:05.400" end="01:39:08.760" region="bottomCenter">"Wing Chun Asli"</p>
+      <p xml:id="p1089" begin="01:39:25.600" end="01:39:27.120" region="bottomCenter">Saya mengaku kalah.</p>
+      <p xml:id="p1090" begin="01:39:33.440" end="01:39:34.800" region="bottomCenter">Tiada lebih penting</p>
+      <p xml:id="p1091" begin="01:39:37.480" end="01:39:39.160" region="bottomCenter">daripada cinta orang sekeliling.</p>
+      <p xml:id="p1092" begin="01:40:45.320" end="01:40:49.720" region="bottomCenter">"Isteri Ip Man Cheung Wing-Sing"</p>
+      <p xml:id="p1093" begin="01:40:49.800" end="01:40:54.240" region="bottomCenter">"meninggal dunia<br/>pada 1960 akibat barah."</p>
+      <p xml:id="p1094" begin="01:41:26.920" end="01:41:29.480" region="bottomCenter">"Ip Man ajar Wing Chun<br/>kepada orang lain"</p>
+      <p xml:id="p1095" begin="01:41:29.560" end="01:41:30.800" region="bottomCenter">"dan jadi tok guru."</p>
+      <p xml:id="p1096" begin="01:41:30.880" end="01:41:33.480" region="bottomCenter">"Wing Chun kini berkembang<br/>di seluruh dunia."</p>
+    </div>
+  </body>
+</tt>
