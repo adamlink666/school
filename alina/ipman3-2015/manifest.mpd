@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" id="81c43350-ea45-44a5-b041-d0434865b680" profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264" type="static" mediaPresentationDuration="P0Y0M0DT1H44M34.000S" minBufferTime="P0Y0M0DT0H0M2.000S" xmlns:ns2="http://www.w3.org/1999/xlink">
+  <Period id="f109d011-158a-48db-91cd-50e6fab478f7">
+  <BaseURL>https://vcdn.cmgo.com/cmgo654/2a74f1dc-d642-4c38-80af-e4fa13b90a57/</BaseURL>
+    <AdaptationSet mimeType="video/mp4" segmentAlignment="true" par="16:9">
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" xmlns:cenc="urn:mpeg:cenc:2013" cenc:default_KID="4c2f7f2f-b43a-55ba-a6e0-52e6e82b2013" value="cenc"/>
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAhHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGQSEEwvfy+0OlW6puBS5ugrIBMaJGY2YTc0MzFmLTlmYTYtNDJiZi1hNjEyLWRmNjZlOTNhNTA3NCIkNGMyZjdmMmYtYjQzYS01NWJhLWE2ZTAtNTJlNmU4MmIyMDEzSOPclZsG</cenc:pssh>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <Representation id="6523c3ea-c3ab-4c85-a371-b257cdcb1fd7" bandwidth="3500000" width="1920" height="1080" codecs="avc1.4D4028" sar="1:1" frameRate="25">
+        <SegmentTemplate media="video/1080/3500000/widevine/segment_$Number$.m4s" startNumber="0" timescale="25000" duration="100000" initialization="video/1080/3500000/widevine/init.mp4"/>
+      </Representation>
+      <Representation id="d09dbf07-2b64-46ea-a6a5-cd52bbf9636d" bandwidth="500000" width="960" height="540" codecs="avc1.4D401F" sar="1:1" frameRate="25">
+        <SegmentTemplate media="video/540/500000/widevine/segment_$Number$.m4s" startNumber="0" timescale="25000" duration="100000" initialization="video/540/500000/widevine/init.mp4"/>
+      </Representation>
+      <Representation id="1dee2cfc-9fd1-489a-9c31-cf04a0c64526" bandwidth="1322875" width="1280" height="720" codecs="avc1.4D401F" sar="1:1" frameRate="25">
+        <SegmentTemplate media="video/720/1322875/widevine/segment_$Number$.m4s" startNumber="0" timescale="25000" duration="100000" initialization="video/720/1322875/widevine/init.mp4"/>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet mimeType="audio/mp4" segmentAlignment="true" lang="zh-mandarin">
+      <Label>Mandarin</Label>
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" xmlns:cenc="urn:mpeg:cenc:2013" cenc:default_KID="4c2f7f2f-b43a-55ba-a6e0-52e6e82b2013" value="cenc"/>
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAhHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGQSEEwvfy+0OlW6puBS5ugrIBMaJGY2YTc0MzFmLTlmYTYtNDJiZi1hNjEyLWRmNjZlOTNhNTA3NCIkNGMyZjdmMmYtYjQzYS01NWJhLWE2ZTAtNTJlNmU4MmIyMDEzSOPclZsG</cenc:pssh>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="dub"/>
+      <Representation id="e0e9d0c9-8815-43ad-a6b7-40e0cfe39e09" bandwidth="128000" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <SegmentTemplate media="audio/zh-mandarin_1/widevine/segment_$Number$.m4s" startNumber="0" timescale="48000" duration="192000" initialization="audio/zh-mandarin_1/widevine/init.mp4"/>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet mimeType="audio/mp4" segmentAlignment="true" lang="zh-cantonese">
+      <Label>Cantonese</Label>
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" xmlns:cenc="urn:mpeg:cenc:2013" cenc:default_KID="4c2f7f2f-b43a-55ba-a6e0-52e6e82b2013" value="cenc"/>
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAhHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGQSEEwvfy+0OlW6puBS5ugrIBMaJGY2YTc0MzFmLTlmYTYtNDJiZi1hNjEyLWRmNjZlOTNhNTA3NCIkNGMyZjdmMmYtYjQzYS01NWJhLWE2ZTAtNTJlNmU4MmIyMDEzSOPclZsG</cenc:pssh>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <Representation id="630ab525-831e-4c57-a2e6-bf96219e8820" bandwidth="128000" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <SegmentTemplate media="audio/zh-cantonese_0/widevine/segment_$Number$.m4s" startNumber="0" timescale="48000" duration="192000" initialization="audio/zh-cantonese_0/widevine/init.mp4"/>
+      </Representation>
+    </AdaptationSet>
+	
+
+<!-- Subtitles AdaptationSet for Malay -->
+<AdaptationSet
+    contentType="text"
+    lang="ms"
+    label="Bahasa Melayu"
+    mimeType="application/ttml+xml">
+    
+    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+    <Representation id="textstream_ms_1" bandwidth="256">
+        <BaseURL>https://adamlink666.github.io/school/alina/ipman3-2015/</BaseURL>
+        <SegmentList>
+            <SegmentURL media="subtitles_msa.ttml"/>
+        </SegmentList>
+    </Representation>
+</AdaptationSet>
+
+<!-- Subtitles AdaptationSet for English -->
+<AdaptationSet
+    contentType="text"
+    lang="en"
+    label="English"
+    mimeType="application/ttml+xml">
+    
+    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+    <Representation id="textstream_en_1" bandwidth="256">
+        <BaseURL>https://adamlink666.github.io/school/alina/ipman3-2015/</BaseURL>
+        <SegmentList>
+            <SegmentURL media="subtitles_eng.ttml"/>
+        </SegmentList>
+    </Representation>
+</AdaptationSet>
+
+<!-- Subtitles AdaptationSet for Chinese -->
+<AdaptationSet
+    contentType="text"
+    lang="zh"
+    label="Chinese"
+    mimeType="application/ttml+xml">
+    
+    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+    <Representation id="textstream_zh_1" bandwidth="256">
+        <BaseURL>https://adamlink666.github.io/school/alina/ipman3-2015/</BaseURL>
+        <SegmentList>
+            <SegmentURL media="subtitles_chi.ttml"/>
+        </SegmentList>
+    </Representation>
+</AdaptationSet>	
+	
+	
+  </Period>
+</MPD>
