@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" id="81c43350-ea45-44a5-b041-d0434865b680" profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264" type="static" mediaPresentationDuration="P0Y0M0DT1H44M34.000S" minBufferTime="P0Y0M0DT0H0M2.000S" xmlns:ns2="http://www.w3.org/1999/xlink">
   <Period id="f109d011-158a-48db-91cd-50e6fab478f7">
-  <BaseURL>https://vcdn.cmgo.com/cmgo654/2a74f1dc-d642-4c38-80af-e4fa13b90a57/</BaseURL>
+  <BaseURL>https://vcdn.cmgo.com/cmgo185/2a74f1dc-d642-4c38-80af-e4fa13b90a57/</BaseURL>
     <AdaptationSet mimeType="video/mp4" segmentAlignment="true" par="16:9">
       <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" xmlns:cenc="urn:mpeg:cenc:2013" cenc:default_KID="4c2f7f2f-b43a-55ba-a6e0-52e6e82b2013" value="cenc"/>
       <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
