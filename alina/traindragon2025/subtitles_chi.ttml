@@ -1,0 +1,4006 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:00:29.400"
+        end="00:00:31.280"><span region="Default">这就是博克岛</span></p>
+      <p
+        begin="00:00:32.800"
+        end="00:00:35.880"><span region="Default">它位于世界的尽头<br/>很少有人知道这里</span></p>
+      <p
+        begin="00:00:37.440"
+        end="00:00:41.080"><span region="Default">我的家乡怎么说呢,很顽强</span></p>
+      <p
+        begin="00:00:41.160"
+        end="00:00:42.480"><span region="Default">已经存在了几百年</span></p>
+      <p
+        begin="00:00:42.560"
+        end="00:00:44.680"><span region="Default">但所有建筑都是新的</span></p>
+      <p
+        begin="00:00:45.240"
+        end="00:00:46.760"><span region="Default">这里空气凉爽,河水清澈</span></p>
+      <p
+        begin="00:00:46.840"
+        end="00:00:49.400"><span region="Default">风景也非常漂亮</span></p>
+      <p
+        begin="00:00:49.480"
+        end="00:00:51.600"><span region="Default">唯一的缺点,就是有害虫</span></p>
+      <p
+        begin="00:00:59.200"
+        end="00:01:02.680"><span region="Default">大多数地方的害虫是老鼠或者蚊子</span></p>
+      <p
+        begin="00:01:03.440"
+        end="00:01:04.840"><span region="Default">我们这里有</span></p>
+      <p
+        begin="00:01:09.720"
+        end="00:01:10.800"><span region="Default">龙</span></p>
+      <p
+        begin="00:01:15.360"
+        end="00:01:16.800"><span region="Default">普通人会逃跑</span></p>
+      <p
+        begin="00:01:17.480"
+        end="00:01:18.920"><span region="Default">但我们不会</span></p>
+      <p
+        begin="00:01:19.000"
+        end="00:01:20.320"><span region="Default">我们是维京人</span></p>
+      <p
+        begin="00:01:20.400"
+        end="00:01:22.480"><span region="Default">永远是主动进攻的那一方</span></p>
+      <p
+        begin="00:01:22.560"
+        end="00:01:24.120"><span region="Default">-小嗝嗝<br/>-晚上好</span></p>
+      <p
+        begin="00:01:24.200"
+        end="00:01:26.560"><span region="Default">-快回家<br/>-好,但我得先去</span></p>
+      <p
+        begin="00:01:26.640"
+        end="00:01:28.640"><span region="Default">你又来碍事了,走开</span></p>
+      <p
+        begin="00:01:31.640"
+        end="00:01:33.240"><span region="Default">小嗝嗝,快装死</span></p>
+      <p
+        begin="00:01:33.320"
+        end="00:01:35.680"><span region="Default">龙一直让我们非常头疼</span></p>
+      <p
+        begin="00:01:36.520"
+        end="00:01:38.760"><span region="Default">它们飞来飞去,到处干坏事</span></p>
+      <p
+        begin="00:01:39.160"
+        end="00:01:41.240"><span region="Default">所以我们决定要消灭它们</span></p>
+      <p
+        begin="00:01:42.080"
+        end="00:01:43.800"><span region="Default">你问我们成功了吗?</span></p>
+      <p
+        begin="00:01:50.600"
+        end="00:01:51.760"><span region="Default">你在干什么</span></p>
+      <p
+        begin="00:01:51.840"
+        end="00:01:53.920"><span region="Default">谁把这熊孩子放出来的</span></p>
+      <p
+        begin="00:01:54.440"
+        end="00:01:56.000"><span region="Default">回屋里去,快点</span></p>
+      <p
+        begin="00:01:56.760"
+        end="00:01:59.080"><span region="Default">这是大块头斯图依克</span></p>
+      <p
+        begin="00:01:59.160"
+        end="00:02:00.200"><span region="Default">我们的族长</span></p>
+      <p
+        begin="00:02:01.600"
+        end="00:02:02.800"><span region="Default">据说他还是个小孩子</span></p>
+      <p
+        begin="00:02:02.880"
+        end="00:02:05.920"><span region="Default">就扭断过龙的头</span></p>
+      <p
+        begin="00:02:06.000"
+        end="00:02:07.320"><span region="Default">你问我信吗</span></p>
+      <p
+        begin="00:02:09.320"
+        end="00:02:10.320"><span region="Default">我太信了</span></p>
+      <p
+        begin="00:02:10.400"
+        end="00:02:11.680"><span region="Default">都有什么龙</span></p>
+      <p
+        begin="00:02:11.760"
+        end="00:02:14.480"><span region="Default">葛伦科,致命纳德<br/>双头龙,装甲龙</span></p>
+      <p
+        begin="00:02:14.560"
+        end="00:02:16.640"><span region="Default">呼噜提还看到了烈焰狂魔</span></p>
+      <p
+        begin="00:02:16.720"
+        end="00:02:18.760"><span region="Default">-看到夜煞了吗<br/>-没看到,族长</span></p>
+      <p
+        begin="00:02:18.840"
+        end="00:02:19.840"><span region="Default">很好</span></p>
+      <p
+        begin="00:02:20.840"
+        end="00:02:22.560"><span region="Default">-跟我来<br/>-遵命</span></p>
+      <p
+        begin="00:02:22.640"
+        end="00:02:24.320"><span region="Default">快点,别磨磨蹭蹭的</span></p>
+      <p
+        begin="00:02:24.400"
+        end="00:02:26.320"><span region="Default">都听到了吧,大家快跟上</span></p>
+      <p
+        begin="00:02:30.000"
+        end="00:02:31.040"><span region="Default">又出去了</span></p>
+      <p
+        begin="00:02:31.120"
+        end="00:02:32.920"><span region="Default">你就假装没看到我</span></p>
+      <p
+        begin="00:02:33.360"
+        end="00:02:35.000"><span region="Default">我马上就走,不会打扰你</span></p>
+      <p
+        begin="00:02:35.080"
+        end="00:02:36.480"><span region="Default">你还不能走</span></p>
+      <p
+        begin="00:02:37.160"
+        end="00:02:38.600"><span region="Default">你就让我去嘛</span></p>
+      <p
+        begin="00:02:38.680"
+        end="00:02:41.760"><span region="Default">这个凶巴巴,装着假肢的家伙叫高伯</span></p>
+      <p
+        begin="00:02:41.840"
+        end="00:02:43.160"><span region="Default">给你,快去</span></p>
+      <p
+        begin="00:02:43.240"
+        end="00:02:45.160"><span region="Default">我从小就跟着他学打铁</span></p>
+      <p
+        begin="00:02:45.240"
+        end="00:02:46.680"><span region="Default">我会好好盯着你的</span></p>
+      <p
+        begin="00:02:46.760"
+        end="00:02:48.080"><span region="Default">我爸也不让我来这里</span></p>
+      <p
+        begin="00:02:48.160"
+        end="00:02:50.080"><span region="Default">你什么时候听过他的话</span></p>
+      <p
+        begin="00:02:50.160"
+        end="00:02:51.680"><span region="Default">小嗝嗝,快点儿</span></p>
+      <p
+        begin="00:02:51.760"
+        end="00:02:53.080"><span region="Default">还没好吗,小嗝嗝</span></p>
+      <p
+        begin="00:02:53.520"
+        end="00:02:55.400"><span region="Default">-你去保护粮仓<br/>-是,族长</span></p>
+      <p
+        begin="00:02:55.480"
+        end="00:02:57.600"><span region="Default">-你去保护牲畜<br/>-遵命,斯图依克</span></p>
+      <p
+        begin="00:02:57.680"
+        end="00:02:59.680"><span region="Default">如果夜煞来了就告诉我</span></p>
+      <p
+        begin="00:03:08.160"
+        end="00:03:09.160"><span region="Default">锤子</span></p>
+      <p
+        begin="00:03:17.440"
+        end="00:03:18.440"><span region="Default">消防队</span></p>
+      <p
+        begin="00:03:18.520"
+        end="00:03:21.720"><span region="Default">是消防队,博克岛的小红人</span></p>
+      <p
+        begin="00:03:21.800"
+        end="00:03:23.600"><span region="Default">他们倒是能参与行动</span></p>
+      <p
+        begin="00:03:24.400"
+        end="00:03:26.080"><span region="Default">让开,不要挡路</span></p>
+      <p
+        begin="00:03:27.680"
+        end="00:03:29.560"><span region="Default">他们的队长超级帅</span></p>
+      <p
+        begin="00:03:30.120"
+        end="00:03:32.920"><span region="Default">是我们这一代小孩里最有出息的</span></p>
+      <p
+        begin="00:03:33.040"
+        end="00:03:35.240"><span region="Default">她总能惊艳全场</span></p>
+      <p
+        begin="00:03:36.280"
+        end="00:03:37.920"><span region="Default">就像烟雾中的一道光</span></p>
+      <p
+        begin="00:03:40.920"
+        end="00:03:42.160"><span region="Default">阿丝翠德</span></p>
+      <p
+        begin="00:03:55.040"
+        end="00:03:56.600"><span region="Default">干什么</span></p>
+      <p
+        begin="00:03:57.520"
+        end="00:03:59.000"><span region="Default">你怎么起床了</span></p>
+      <p
+        begin="00:04:02.360"
+        end="00:04:03.400"><span region="Default">行了,回来干活儿</span></p>
+      <p
+        begin="00:04:04.840"
+        end="00:04:08.200"><span region="Default">我也想去帮忙<br/>让他们看看我的厉害</span></p>
+      <p
+        begin="00:04:08.280"
+        end="00:04:10.520"><span region="Default">你是挺厉害的,每次都越帮越忙</span></p>
+      <p
+        begin="00:04:10.600"
+        end="00:04:12.800"><span region="Default">给我几分钟,我就能干掉一只龙</span></p>
+      <p
+        begin="00:04:12.880"
+        end="00:04:15.200"><span region="Default">然后我就能咸鱼翻身了</span></p>
+      <p
+        begin="00:04:15.840"
+        end="00:04:16.840"><span region="Default">也许还能找到女朋友</span></p>
+      <p
+        begin="00:04:16.920"
+        end="00:04:18.320"><span region="Default">你后面有一只双头龙</span></p>
+      <p
+        begin="00:04:18.400"
+        end="00:04:19.720"><span region="Default">阿丝翠德</span></p>
+      <p
+        begin="00:04:19.800"
+        end="00:04:21.360"><span region="Default">她比你猛多了</span></p>
+      <p
+        begin="00:04:21.440"
+        end="00:04:24.080"><span region="Default">你拿不动锤子也挥不动斧头</span></p>
+      <p
+        begin="00:04:24.520"
+        end="00:04:26.280"><span region="Default">连这个都扔不起来</span></p>
+      <p
+        begin="00:04:26.360"
+        end="00:04:28.640"><span region="Default">可是你看,我有秘密武器</span></p>
+      <p
+        begin="00:04:28.720"
+        end="00:04:30.640"><span region="Default">又来了,这是我的最新设计</span></p>
+      <p
+        begin="00:04:30.720"
+        end="00:04:31.720"><span region="Default">它叫</span></p>
+      <p
+        begin="00:04:35.160"
+        end="00:04:36.200"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="00:04:36.280"
+        end="00:04:37.400"><span region="Default">双筒大炮</span></p>
+      <p
+        begin="00:04:38.040"
+        end="00:04:39.160"><span region="Default">你小子可以啊</span></p>
+      <p
+        begin="00:04:39.240"
+        end="00:04:41.120"><span region="Default">-又来帮倒忙了<br/>-只是有点小问题</span></p>
+      <p
+        begin="00:04:41.200"
+        end="00:04:42.680"><span region="Default">校准一下就好了</span></p>
+      <p
+        begin="00:04:42.760"
+        end="00:04:44.800"><span region="Default">如果你想变成战士,对抗恶龙</span></p>
+      <p
+        begin="00:04:44.880"
+        end="00:04:46.440"><span region="Default">那就不能要</span></p>
+      <p
+        begin="00:04:47.160"
+        end="00:04:48.160"><span region="Default">这些</span></p>
+      <p
+        begin="00:04:48.800"
+        end="00:04:50.320"><span region="Default">你刚指了我整个人</span></p>
+      <p
+        begin="00:04:50.400"
+        end="00:04:52.480"><span region="Default">没错,你整个人都要改一改</span></p>
+      <p
+        begin="00:04:54.160"
+        end="00:04:55.240"><span region="Default">怎样</span></p>
+      <p
+        begin="00:04:55.320"
+        end="00:04:57.920"><span region="Default">高伯先生,有些话可不能乱说</span></p>
+      <p
+        begin="00:04:58.320"
+        end="00:04:59.520"><span region="Default">你这样小看我</span></p>
+      <p
+        begin="00:05:00.040"
+        end="00:05:01.720"><span region="Default">我会让你后悔的</span></p>
+      <p
+        begin="00:05:03.240"
+        end="00:05:04.560"><span region="Default">得了吧,就你还想吓唬我</span></p>
+      <p
+        begin="00:05:05.600"
+        end="00:05:07.520"><span region="Default">行了去磨剑,快点</span></p>
+      <p
+        begin="00:05:09.800"
+        end="00:05:11.160"><span region="Default">我早晚要去战斗</span></p>
+      <p
+        begin="00:05:12.440"
+        end="00:05:15.920"><span region="Default">杀掉一只恶龙是最大的荣耀</span></p>
+      <p
+        begin="00:05:17.360"
+        end="00:05:19.000"><span region="Default">葛伦科很壮实</span></p>
+      <p
+        begin="00:05:19.080"
+        end="00:05:21.280"><span region="Default">杀掉一只就能让人注意到我</span></p>
+      <p
+        begin="00:05:24.160"
+        end="00:05:25.440"><span region="Default">至于双头龙</span></p>
+      <p
+        begin="00:05:25.840"
+        end="00:05:27.160"><span region="Default">神出鬼没,攻击力强</span></p>
+      <p
+        begin="00:05:29.280"
+        end="00:05:31.080"><span region="Default">杀掉一只等于杀两只</span></p>
+      <p
+        begin="00:05:32.520"
+        end="00:05:34.000"><span region="Default">要是干掉致命纳德</span></p>
+      <p
+        begin="00:05:34.080"
+        end="00:05:36.040"><span region="Default">所有人都会佩服我</span></p>
+      <p
+        begin="00:05:42.200"
+        end="00:05:43.480"><span region="Default">都快一点</span></p>
+      <p
+        begin="00:05:43.560"
+        end="00:05:44.640"><span region="Default">羊圈被发现了</span></p>
+      <p
+        begin="00:05:44.720"
+        end="00:05:46.920"><span region="Default">那就发起全面进攻</span></p>
+      <p
+        begin="00:05:51.480"
+        end="00:05:54.280"><span region="Default">最后还要干掉烈焰狂魔</span></p>
+      <p
+        begin="00:05:56.360"
+        end="00:05:57.360"><span region="Default">再来</span></p>
+      <p
+        begin="00:05:57.440"
+        end="00:05:59.560"><span region="Default">只有最强的维京人才是它的对手</span></p>
+      <p
+        begin="00:06:05.240"
+        end="00:06:07.000"><span region="Default">但我最想干掉的</span></p>
+      <p
+        begin="00:06:07.080"
+        end="00:06:09.120"><span region="Default">是一种从来没有人见过的龙</span></p>
+      <p
+        begin="00:06:09.920"
+        end="00:06:10.920"><span region="Default">它被称为</span></p>
+      <p
+        begin="00:06:11.040"
+        end="00:06:12.080"><span region="Default">夜煞</span></p>
+      <p
+        begin="00:06:12.160"
+        end="00:06:13.280"><span region="Default">快跳</span></p>
+      <p
+        begin="00:06:17.720"
+        end="00:06:19.720"><span region="Default">得,夜煞也来了</span></p>
+      <p
+        begin="00:06:19.800"
+        end="00:06:22.560"><span region="Default">它不偷食物,藏在黑夜里</span></p>
+      <p
+        begin="00:06:23.400"
+        end="00:06:24.560"><span region="Default">百发百中</span></p>
+      <p
+        begin="00:06:25.560"
+        end="00:06:28.160"><span region="Default">龙实在太多了,我们撑不住了</span></p>
+      <p
+        begin="00:06:28.240"
+        end="00:06:29.840"><span region="Default">好吧,轮到我出场了</span></p>
+      <p
+        begin="00:06:29.920"
+        end="00:06:32.120"><span region="Default">我需要三四个人来帮忙</span></p>
+      <p
+        begin="00:06:32.200"
+        end="00:06:33.600"><span region="Default">乖乖待在这里,别乱跑</span></p>
+      <p
+        begin="00:06:33.680"
+        end="00:06:35.200"><span region="Default">懂了吗</span></p>
+      <p
+        begin="00:06:35.280"
+        end="00:06:37.520"><span region="Default">还从来没有人杀死过夜煞</span></p>
+      <p
+        begin="00:06:37.600"
+        end="00:06:39.440"><span region="Default">进攻</span></p>
+      <p
+        begin="00:06:39.520"
+        end="00:06:41.400"><span region="Default">我要成为第一个干掉它的人</span></p>
+      <p
+        begin="00:06:43.280"
+        end="00:06:44.280"><span region="Default">又是你</span></p>
+      <p
+        begin="00:06:44.360"
+        end="00:06:45.760"><span region="Default">-快点回屋<br/>-我正要回去呢</span></p>
+      <p
+        begin="00:06:45.840"
+        end="00:06:47.600"><span region="Default">要是不想死就快回去</span></p>
+      <p
+        begin="00:06:47.680"
+        end="00:06:49.280"><span region="Default">知道了</span></p>
+      <p
+        begin="00:06:53.640"
+        end="00:06:54.640"><span region="Default">行了,给我</span></p>
+      <p
+        begin="00:07:01.080"
+        end="00:07:02.440"><span region="Default">别大意了</span></p>
+      <p
+        begin="00:07:02.520"
+        end="00:07:05.000"><span region="Default">这只纳德龙还有不少力气呢</span></p>
+      <p
+        begin="00:07:15.440"
+        end="00:07:18.600"><span region="Default">快来呀<br/>等龙一飞过来,我就干掉它</span></p>
+      <p
+        begin="00:07:20.840"
+        end="00:07:22.240"><span region="Default">快来呀,都去哪儿了</span></p>
+      <p
+        begin="00:07:35.480"
+        end="00:07:36.640"><span region="Default">打中了</span></p>
+      <p
+        begin="00:07:41.720"
+        end="00:07:42.720"><span region="Default">打中了</span></p>
+      <p
+        begin="00:07:42.800"
+        end="00:07:44.240"><span region="Default">你们都看到了吗</span></p>
+      <p
+        begin="00:07:46.280"
+        end="00:07:47.520"><span region="Default">你也看到了</span></p>
+      <p
+        begin="00:07:51.040"
+        end="00:07:52.560"><span region="Default">救命啊</span></p>
+      <p
+        begin="00:07:54.040"
+        end="00:07:56.840"><span region="Default">脾气粗,你来按着,别让它跑了</span></p>
+      <p
+        begin="00:07:57.920"
+        end="00:07:59.000"><span region="Default">好吧</span></p>
+      <p
+        begin="00:08:23.400"
+        end="00:08:24.560"><span region="Default">火焰喷完了</span></p>
+      <p
+        begin="00:08:24.920"
+        end="00:08:26.600"><span region="Default">让我瞧瞧你还有什么本事</span></p>
+      <p
+        begin="00:08:44.120"
+        end="00:08:46.040"><span region="Default">这就对了,赶紧滚蛋吧</span></p>
+      <p
+        begin="00:08:48.320"
+        end="00:08:51.000"><span region="Default">对了,还有件事我忘记说了</span></p>
+      <p
+        begin="00:08:53.480"
+        end="00:08:54.720"><span region="Default">小心</span></p>
+      <p
+        begin="00:09:04.240"
+        end="00:09:06.120"><span region="Default">对不起,爸爸</span></p>
+      <p
+        begin="00:09:08.440"
+        end="00:09:10.000"><span region="Default">当心</span></p>
+      <p
+        begin="00:09:22.720"
+        end="00:09:24.120"><span region="Default">我刚才打到了夜煞</span></p>
+      <p
+        begin="00:09:25.240"
+        end="00:09:26.680"><span region="Default">爸爸,我没有说谎</span></p>
+      <p
+        begin="00:09:26.760"
+        end="00:09:28.040"><span region="Default">我真的打到夜煞了</span></p>
+      <p
+        begin="00:09:28.520"
+        end="00:09:30.920"><span region="Default">得了吧<br/>谁都没见过,就你打到了</span></p>
+      <p
+        begin="00:09:31.040"
+        end="00:09:33.040"><span region="Default">因为夜色就是它的保护色</span></p>
+      <p
+        begin="00:09:33.120"
+        end="00:09:35.040"><span region="Default">只要仔细看,就能发现它遮住了星光</span></p>
+      <p
+        begin="00:09:35.120"
+        end="00:09:36.400"><span region="Default">就能瞄准它了</span></p>
+      <p
+        begin="00:09:36.480"
+        end="00:09:37.560"><span region="Default">别说了</span></p>
+      <p
+        begin="00:09:38.480"
+        end="00:09:39.720"><span region="Default">别说了</span></p>
+      <p
+        begin="00:09:41.080"
+        end="00:09:43.680"><span region="Default">每次你跑到外面来都闹得没法收拾</span></p>
+      <p
+        begin="00:09:43.760"
+        end="00:09:46.600"><span region="Default">我还不够忙吗,你就别再添乱了</span></p>
+      <p
+        begin="00:09:47.920"
+        end="00:09:49.200"><span region="Default">冬天就快来了</span></p>
+      <p
+        begin="00:09:49.280"
+        end="00:09:51.640"><span region="Default">我得保证全村人能吃饱</span></p>
+      <p
+        begin="00:09:51.720"
+        end="00:09:55.040"><span region="Default">老实说,大家也该少吃点儿减减肥了</span></p>
+      <p
+        begin="00:09:55.120"
+        end="00:09:57.600"><span region="Default">我没有在开玩笑,小嗝嗝</span></p>
+      <p
+        begin="00:09:57.680"
+        end="00:10:00.280"><span region="Default">你为什么就是不肯听我的话</span></p>
+      <p
+        begin="00:10:00.360"
+        end="00:10:02.400"><span region="Default">我控制不住我自己</span></p>
+      <p
+        begin="00:10:02.800"
+        end="00:10:05.800"><span region="Default">我一看到龙就忍不住想要去,杀掉它</span></p>
+      <p
+        begin="00:10:06.520"
+        end="00:10:08.560"><span region="Default">您明白吗,这就是我的天性</span></p>
+      <p
+        begin="00:10:10.360"
+        end="00:10:11.720"><span region="Default">你有很多天赋</span></p>
+      <p
+        begin="00:10:12.920"
+        end="00:10:15.080"><span region="Default">但你永远也不可能屠龙</span></p>
+      <p
+        begin="00:10:18.520"
+        end="00:10:19.680"><span region="Default">行了,回家吧</span></p>
+      <p
+        begin="00:10:21.040"
+        end="00:10:22.120"><span region="Default">别让他再跑出来</span></p>
+      <p
+        begin="00:10:23.080"
+        end="00:10:24.920"><span region="Default">一个人到底能有多不中用</span></p>
+      <p
+        begin="00:10:25.000"
+        end="00:10:27.720"><span region="Default">要是换成别人,早就被赶出村子了</span></p>
+      <p
+        begin="00:10:27.800"
+        end="00:10:29.920"><span region="Default">看来族长的儿子待遇就是不一样</span></p>
+      <p
+        begin="00:10:30.720"
+        end="00:10:32.280"><span region="Default">要是没有他爸爸</span></p>
+      <p
+        begin="00:10:34.800"
+        end="00:10:38.240"><span region="Default">反正我没给我爸爸丢过脸</span></p>
+      <p
+        begin="00:10:39.480"
+        end="00:10:40.480"><span region="Default">爸爸,我刚才正说</span></p>
+      <p
+        begin="00:10:40.560"
+        end="00:10:42.000"><span region="Default">在外面别跟我说话</span></p>
+      <p
+        begin="00:10:44.560"
+        end="00:10:47.000"><span region="Default">-我真的打中它了<br/>-好,我相信你</span></p>
+      <p
+        begin="00:10:47.080"
+        end="00:10:49.560"><span region="Default">-我爸太固执了<br/>-我看你也半斤八两</span></p>
+      <p
+        begin="00:10:49.640"
+        end="00:10:51.240"><span region="Default">每次他听我说话</span></p>
+      <p
+        begin="00:10:51.800"
+        end="00:10:53.840"><span region="Default">总是一脸失望,皱着眉头</span></p>
+      <p
+        begin="00:10:54.480"
+        end="00:10:56.200"><span region="Default">像谁浪费了粮食一样</span></p>
+      <p
+        begin="00:10:56.560"
+        end="00:10:57.560"><span region="Default">还挺贴切的</span></p>
+      <p
+        begin="00:10:57.640"
+        end="00:11:00.840"><span region="Default">你没明白你爸的意思</span></p>
+      <p
+        begin="00:11:02.080"
+        end="00:11:04.200"><span region="Default">他不是嫌你没有肌肉</span></p>
+      <p
+        begin="00:11:04.280"
+        end="00:11:06.280"><span region="Default">他只是受不了你的性格</span></p>
+      <p
+        begin="00:11:07.600"
+        end="00:11:09.640"><span region="Default">谢谢你还来鼓励我</span></p>
+      <p
+        begin="00:11:10.200"
+        end="00:11:12.000"><span region="Default">不,等等,我是想说</span></p>
+      <p
+        begin="00:11:12.760"
+        end="00:11:15.120"><span region="Default">你不用逼自己做不喜欢的事情</span></p>
+      <p
+        begin="00:11:17.400"
+        end="00:11:19.000"><span region="Default">我只是想和你们一样</span></p>
+      <p
+        begin="00:11:26.240"
+        end="00:11:27.400"><span region="Default">我知道</span></p>
+      <p
+        begin="00:11:53.600"
+        end="00:11:56.400"><span region="Default">我知道,这件事很困难</span></p>
+      <p
+        begin="00:11:58.760"
+        end="00:12:00.800"><span region="Default">但你们不要忘了</span></p>
+      <p
+        begin="00:12:00.880"
+        end="00:12:05.360"><span region="Default">我们伟大的维京祖先<br/>个个都是,屠龙的高手</span></p>
+      <p
+        begin="00:12:05.440"
+        end="00:12:08.720"><span region="Default">他们从世界各地来到这里</span></p>
+      <p
+        begin="00:12:08.800"
+        end="00:12:11.000"><span region="Default">就是因为,他们知道</span></p>
+      <p
+        begin="00:12:11.080"
+        end="00:12:15.440"><span region="Default">就在距离这里不远的地方<br/>有一个群龙聚集的巢穴</span></p>
+      <p
+        begin="00:12:16.920"
+        end="00:12:18.680"><span region="Default">只要摧毁那个龙穴</span></p>
+      <p
+        begin="00:12:18.760"
+        end="00:12:21.160"><span region="Default">就能一劳永逸,消灭所有恶龙</span></p>
+      <p
+        begin="00:12:21.240"
+        end="00:12:22.360"><span region="Default">摧毁龙穴</span></p>
+      <p
+        begin="00:12:22.440"
+        end="00:12:24.840"><span region="Default">-连龙穴在哪儿都不知道<br/>-她说得对</span></p>
+      <p
+        begin="00:12:24.920"
+        end="00:12:27.400"><span region="Default">越听越觉得龙穴只是个传说</span></p>
+      <p
+        begin="00:12:27.480"
+        end="00:12:28.920"><span region="Default">我们快到极限了</span></p>
+      <p
+        begin="00:12:29.000"
+        end="00:12:30.400"><span region="Default">打了这么多年,有什么用</span></p>
+      <p
+        begin="00:12:30.480"
+        end="00:12:31.480"><span region="Default">是啊,根本没用</span></p>
+      <p
+        begin="00:12:31.560"
+        end="00:12:32.720"><span region="Default">我们要坚持</span></p>
+      <p
+        begin="00:12:33.480"
+        end="00:12:34.760"><span region="Default">真能扯</span></p>
+      <p
+        begin="00:12:34.840"
+        end="00:12:37.840"><span region="Default">听着,我们是博克岛的战士</span></p>
+      <p
+        begin="00:12:37.920"
+        end="00:12:41.160"><span region="Default">我们的部落是天底下最强大的部落</span></p>
+      <p
+        begin="00:12:42.760"
+        end="00:12:43.760"><span region="Default">不是吗</span></p>
+      <p
+        begin="00:12:45.000"
+        end="00:12:46.120"><span region="Default">芙勒格玛</span></p>
+      <p
+        begin="00:12:47.040"
+        end="00:12:49.560"><span region="Default">大家都知道你曾经用一只手</span></p>
+      <p
+        begin="00:12:49.640"
+        end="00:12:51.600"><span region="Default">干掉了双头龙,没错</span></p>
+      <p
+        begin="00:12:51.680"
+        end="00:12:53.440"><span region="Default">虽然你没了一条腿,不过</span></p>
+      <p
+        begin="00:12:53.520"
+        end="00:12:56.320"><span region="Default">最后你还是胜利了</span></p>
+      <p
+        begin="00:12:56.400"
+        end="00:12:57.840"><span region="Default">但是,你是胜利者</span></p>
+      <p
+        begin="00:12:57.920"
+        end="00:13:01.000"><span region="Default">蕾莎,你的家族来自东方</span></p>
+      <p
+        begin="00:13:01.080"
+        end="00:13:04.560"><span region="Default">霉吉,还有你的家族<br/>是经过丝绸之路来的</span></p>
+      <p
+        begin="00:13:04.640"
+        end="00:13:08.720"><span region="Default">卢吉,你的家族来自<br/>无比炎热的北非海岸</span></p>
+      <p
+        begin="00:13:08.800"
+        end="00:13:12.240"><span region="Default">看看我们,聚在一起,勇敢战斗</span></p>
+      <p
+        begin="00:13:12.320"
+        end="00:13:14.520"><span region="Default">我们互相帮助,互相扶持</span></p>
+      <p
+        begin="00:13:15.680"
+        end="00:13:18.160"><span region="Default">你们真想就此缩回家里</span></p>
+      <p
+        begin="00:13:18.240"
+        end="00:13:19.840"><span region="Default">任由那些凶猛野兽</span></p>
+      <p
+        begin="00:13:19.920"
+        end="00:13:23.520"><span region="Default">肆意破坏我们的家园吗</span></p>
+      <p
+        begin="00:13:23.600"
+        end="00:13:25.920"><span region="Default">-难道我们是胆小鬼吗<br/>-不是</span></p>
+      <p
+        begin="00:13:26.040"
+        end="00:13:27.560"><span region="Default">-是不是<br/>-不是</span></p>
+      <p
+        begin="00:13:27.640"
+        end="00:13:29.080"><span region="Default">-是不是<br/>-不是</span></p>
+      <p
+        begin="00:13:29.160"
+        end="00:13:31.120"><span region="Default">-是不是<br/>-不是</span></p>
+      <p
+        begin="00:13:32.160"
+        end="00:13:33.320"><span region="Default">是不是</span></p>
+      <p
+        begin="00:13:33.400"
+        end="00:13:34.920"><span region="Default">不,族长,我们不是</span></p>
+      <p
+        begin="00:13:35.680"
+        end="00:13:37.080"><span region="Default">我想也不是</span></p>
+      <p
+        begin="00:13:40.560"
+        end="00:13:43.200"><span region="Default">戈希长老,请您算一算</span></p>
+      <p
+        begin="00:13:44.280"
+        end="00:13:48.000"><span region="Default">能不能在冰期到来之前<br/>发现龙穴的位置?</span></p>
+      <p
+        begin="00:14:06.480"
+        end="00:14:07.840"><span region="Default">那我就放心了</span></p>
+      <p
+        begin="00:14:11.040"
+        end="00:14:13.480"><span region="Default">是时候回到大海上去了</span></p>
+      <p
+        begin="00:14:14.200"
+        end="00:14:16.640"><span region="Default">大家听好,准备出海航行</span></p>
+      <p
+        begin="00:14:28.400"
+        end="00:14:31.920"><span region="Default">龙会喷火烧船<br/>我要带上拎水桶那只手</span></p>
+      <p
+        begin="00:14:32.040"
+        end="00:14:34.800"><span region="Default">可要是落水了<br/>就要带上游泳那只手</span></p>
+      <p
+        begin="00:14:39.520"
+        end="00:14:41.400"><span region="Default">你先别走,高伯</span></p>
+      <p
+        begin="00:14:43.400"
+        end="00:14:45.600"><span region="Default">今年我没有时间训练新招来的战士</span></p>
+      <p
+        begin="00:14:45.680"
+        end="00:14:47.440"><span region="Default">交给你了</span></p>
+      <p
+        begin="00:14:47.920"
+        end="00:14:48.920"><span region="Default">传统的成人礼</span></p>
+      <p
+        begin="00:14:49.520"
+        end="00:14:51.000"><span region="Default">小嗝嗝刚好成年了</span></p>
+      <p
+        begin="00:14:51.520"
+        end="00:14:52.560"><span region="Default">他不能去</span></p>
+      <p
+        begin="00:14:52.640"
+        end="00:14:55.040"><span region="Default">那我训练新兵,留他自己打铁</span></p>
+      <p
+        begin="00:14:55.560"
+        end="00:14:59.080"><span region="Default">那里又有火,有刀有枪<br/>他又没事儿干</span></p>
+      <p
+        begin="00:14:59.160"
+        end="00:15:00.720"><span region="Default">可真是让人放心啊</span></p>
+      <p
+        begin="00:15:00.800"
+        end="00:15:02.840"><span region="Default">我该拿这孩子怎么办啊</span></p>
+      <p
+        begin="00:15:03.560"
+        end="00:15:04.720"><span region="Default">让他参加训练</span></p>
+      <p
+        begin="00:15:04.800"
+        end="00:15:06.440"><span region="Default">不行,别开玩笑了</span></p>
+      <p
+        begin="00:15:06.520"
+        end="00:15:08.000"><span region="Default">不,我说真的</span></p>
+      <p
+        begin="00:15:08.400"
+        end="00:15:10.440"><span region="Default">那孩子真的很想去屠龙</span></p>
+      <p
+        begin="00:15:10.520"
+        end="00:15:11.680"><span region="Default">不管你信不信</span></p>
+      <p
+        begin="00:15:12.320"
+        end="00:15:14.480"><span region="Default">他最大的愿望就是让你骄傲</span></p>
+      <p
+        begin="00:15:14.560"
+        end="00:15:15.920"><span region="Default">可他太固执了</span></p>
+      <p
+        begin="00:15:16.680"
+        end="00:15:17.920"><span region="Default">他妈妈也很固执</span></p>
+      <p
+        begin="00:15:18.720"
+        end="00:15:19.720"><span region="Default">年纪轻轻就没了</span></p>
+      <p
+        begin="00:15:19.800"
+        end="00:15:21.520"><span region="Default">你可比他妈妈固执多了</span></p>
+      <p
+        begin="00:15:21.600"
+        end="00:15:23.360"><span region="Default">我记得我小时候,又来了</span></p>
+      <p
+        begin="00:15:23.440"
+        end="00:15:25.680"><span region="Default">我一直很守规矩,一直很勤奋</span></p>
+      <p
+        begin="00:15:25.760"
+        end="00:15:28.560"><span region="Default">因为我从小就坚信维京人的力量<br/>我们能劈断高山</span></p>
+      <p
+        begin="00:15:29.040"
+        end="00:15:32.760"><span region="Default">铲平森林,征服怒海</span></p>
+      <p
+        begin="00:15:33.640"
+        end="00:15:37.000"><span region="Default">我知道自己是谁<br/>知道自己要干什么</span></p>
+      <p
+        begin="00:15:37.840"
+        end="00:15:38.840"><span region="Default">可小嗝嗝</span></p>
+      <p
+        begin="00:15:39.600"
+        end="00:15:40.760"><span region="Default">他不是那样</span></p>
+      <p
+        begin="00:15:41.600"
+        end="00:15:45.120"><span region="Default">怎么想他都不可能<br/>成为像我一样的维京人</span></p>
+      <p
+        begin="00:15:46.240"
+        end="00:15:47.240"><span region="Default">是啊</span></p>
+      <p
+        begin="00:15:51.600"
+        end="00:15:53.280"><span region="Default">可他总是要长大的</span></p>
+      <p
+        begin="00:15:54.040"
+        end="00:15:55.400"><span region="Default">训练对他有好处</span></p>
+      <p
+        begin="00:15:56.040"
+        end="00:15:57.320"><span region="Default">我们都会变老</span></p>
+      <p
+        begin="00:15:57.400"
+        end="00:15:59.560"><span region="Default">不可能永远在他身边保护他</span></p>
+      <p
+        begin="00:16:00.320"
+        end="00:16:01.840"><span region="Default">他早晚要离开家</span></p>
+      <p
+        begin="00:16:03.320"
+        end="00:16:04.680"><span region="Default">可能已经跑了</span></p>
+      <p
+        begin="00:16:35.640"
+        end="00:16:38.520"><span region="Default">那么大一只龙,怎么就找不到呢</span></p>
+      <p
+        begin="00:17:37.280"
+        end="00:17:38.400"><span region="Default">找到了</span></p>
+      <p
+        begin="00:17:40.120"
+        end="00:17:41.280"><span region="Default">我成功了</span></p>
+      <p
+        begin="00:17:50.440"
+        end="00:17:52.040"><span region="Default">你怎么还没死啊</span></p>
+      <p
+        begin="00:17:54.480"
+        end="00:17:56.000"><span region="Default">只能杀掉你了</span></p>
+      <p
+        begin="00:19:49.800"
+        end="00:19:50.840"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="00:19:51.720"
+        end="00:19:52.720"><span region="Default">爸爸</span></p>
+      <p
+        begin="00:19:55.800"
+        end="00:19:57.720"><span region="Default">我想和您说点事情,爸爸</span></p>
+      <p
+        begin="00:20:00.520"
+        end="00:20:02.200"><span region="Default">我也正想和你说点事情</span></p>
+      <p
+        begin="00:20:05.480"
+        end="00:20:08.080"><span region="Default">-我确实不适合屠龙<br/>-你可以接受屠龙训练</span></p>
+      <p
+        begin="00:20:08.160"
+        end="00:20:09.200"><span region="Default">什么?</span></p>
+      <p
+        begin="00:20:09.720"
+        end="00:20:11.760"><span region="Default">-你先说吧<br/>-不,您先说</span></p>
+      <p
+        begin="00:20:12.320"
+        end="00:20:13.720"><span region="Default">我答应你了</span></p>
+      <p
+        begin="00:20:14.240"
+        end="00:20:16.560"><span region="Default">屠龙训练明早开始</span></p>
+      <p
+        begin="00:20:19.000"
+        end="00:20:20.920"><span region="Default">天哪,早知道应该我先说</span></p>
+      <p
+        begin="00:20:21.040"
+        end="00:20:22.600"><span region="Default">后来我想了想</span></p>
+      <p
+        begin="00:20:22.680"
+        end="00:20:25.520"><span region="Default">村子里面已经有很多屠龙战士了</span></p>
+      <p
+        begin="00:20:25.600"
+        end="00:20:26.640"><span region="Default">但是缺少面包师还有</span></p>
+      <p
+        begin="00:20:26.720"
+        end="00:20:27.840"><span region="Default">这个给你了</span></p>
+      <p
+        begin="00:20:28.760"
+        end="00:20:29.760"><span region="Default">爸爸</span></p>
+      <p
+        begin="00:20:30.520"
+        end="00:20:32.160"><span region="Default">我不想要屠龙</span></p>
+      <p
+        begin="00:20:32.240"
+        end="00:20:34.600"><span region="Default">行了,别开玩笑了</span></p>
+      <p
+        begin="00:20:34.680"
+        end="00:20:37.840"><span region="Default">那我换个说法<br/>我真的杀不了龙</span></p>
+      <p
+        begin="00:20:37.920"
+        end="00:20:39.080"><span region="Default">你可以学</span></p>
+      <p
+        begin="00:20:39.360"
+        end="00:20:41.560"><span region="Default">不,我很确定我杀不了龙</span></p>
+      <p
+        begin="00:20:41.640"
+        end="00:20:44.080"><span region="Default">是时候了,小嗝嗝</span></p>
+      <p
+        begin="00:20:47.720"
+        end="00:20:49.160"><span region="Default">您是听不见我说话吗</span></p>
+      <p
+        begin="00:20:49.240"
+        end="00:20:51.200"><span region="Default">你是听不见我说话吗</span></p>
+      <p
+        begin="00:20:57.240"
+        end="00:21:00.080"><span region="Default">参加火焰试炼<br/>才能成为真正的维京人</span></p>
+      <p
+        begin="00:21:00.920"
+        end="00:21:02.280"><span region="Default">经过训练,你才能成为英雄</span></p>
+      <p
+        begin="00:21:02.360"
+        end="00:21:05.160"><span region="Default">成为未来的族长</span></p>
+      <p
+        begin="00:21:06.920"
+        end="00:21:08.560"><span region="Default">我成为不了那样的人</span></p>
+      <p
+        begin="00:21:10.320"
+        end="00:21:12.440"><span region="Default">我和您不一样,爸爸</span></p>
+      <p
+        begin="00:21:17.360"
+        end="00:21:18.440"><span region="Default">听着</span></p>
+      <p
+        begin="00:21:22.760"
+        end="00:21:24.320"><span region="Default">你要拿好这把斧头</span></p>
+      <p
+        begin="00:21:25.080"
+        end="00:21:27.120"><span region="Default">它就是维京人的精神</span></p>
+      <p
+        begin="00:21:27.200"
+        end="00:21:28.920"><span region="Default">你要像我们一样行动</span></p>
+      <p
+        begin="00:21:29.040"
+        end="00:21:30.480"><span region="Default">一样说话</span></p>
+      <p
+        begin="00:21:30.560"
+        end="00:21:32.280"><span region="Default">一样思考</span></p>
+      <p
+        begin="00:21:32.760"
+        end="00:21:35.720"><span region="Default">不要再像这样</span></p>
+      <p
+        begin="00:21:36.600"
+        end="00:21:38.240"><span region="Default">您刚刚指了我整个人</span></p>
+      <p
+        begin="00:21:39.160"
+        end="00:21:40.200"><span region="Default">你答应吗</span></p>
+      <p
+        begin="00:21:40.280"
+        end="00:21:42.160"><span region="Default">您根本没听我说话</span></p>
+      <p
+        begin="00:21:42.240"
+        end="00:21:43.360"><span region="Default">答应吗</span></p>
+      <p
+        begin="00:21:46.120"
+        end="00:21:47.320"><span region="Default">好吧</span></p>
+      <p
+        begin="00:21:47.400"
+        end="00:21:48.400"><span region="Default">很好</span></p>
+      <p
+        begin="00:21:55.120"
+        end="00:21:56.400"><span region="Default">好好训练</span></p>
+      <p
+        begin="00:21:58.440"
+        end="00:21:59.760"><span region="Default">我过几天就回来</span></p>
+      <p
+        begin="00:22:03.400"
+        end="00:22:04.400"><span region="Default">大概吧</span></p>
+      <p
+        begin="00:22:09.200"
+        end="00:22:10.600"><span region="Default">我在家等您</span></p>
+      <p
+        begin="00:22:12.520"
+        end="00:22:13.600"><span region="Default">大概吧</span></p>
+      <p
+        begin="00:22:18.320"
+        end="00:22:21.680"><span region="Default">欢迎来到,火焰试炼</span></p>
+      <p
+        begin="00:22:35.160"
+        end="00:22:37.480"><span region="Default">期待了这么久,终于来了</span></p>
+      <p
+        begin="00:22:37.920"
+        end="00:22:40.000"><span region="Default">我要选个地方放我的雕像</span></p>
+      <p
+        begin="00:22:40.080"
+        end="00:22:42.080"><span region="Default">这里比我想得还要宽敞</span></p>
+      <p
+        begin="00:22:42.160"
+        end="00:22:44.480"><span region="Default">能来这里就像做梦一样</span></p>
+      <p
+        begin="00:22:44.560"
+        end="00:22:47.280"><span region="Default">古雷暴族长就是在这里杀了悄声死神</span></p>
+      <p
+        begin="00:22:47.360"
+        end="00:22:50.880"><span region="Default">我也会大杀四方<br/>当上族长,等着瞧吧</span></p>
+      <p
+        begin="00:22:50.960"
+        end="00:22:53.360"><span region="Default">真想快点被龙抓出几道口子<br/>那才带劲</span></p>
+      <p
+        begin="00:22:53.440"
+        end="00:22:56.080"><span region="Default">对,最好在我脸上抓出一道大口子</span></p>
+      <p
+        begin="00:22:56.160"
+        end="00:22:57.600"><span region="Default">别说我无聊,无聊</span></p>
+      <p
+        begin="00:22:57.680"
+        end="00:23:01.600"><span region="Default">我只想离近了看看活着的龙</span></p>
+      <p
+        begin="00:23:01.680"
+        end="00:23:04.160"><span region="Default">可我觉得看看就好<br/>我不想受伤,留疤什么的</span></p>
+      <p
+        begin="00:23:04.240"
+        end="00:23:05.400"><span region="Default">不受伤有什么意思</span></p>
+      <p
+        begin="00:23:05.480"
+        end="00:23:07.400"><span region="Default">伤疤才是荣誉的勋章</span></p>
+      <p
+        begin="00:23:07.480"
+        end="00:23:08.840"><span region="Default">对,我同意</span></p>
+      <p
+        begin="00:23:10.240"
+        end="00:23:12.160"><span region="Default">越疼越好玩</span></p>
+      <p
+        begin="00:23:12.720"
+        end="00:23:14.840"><span region="Default">这家伙怎么来了,谁允许的</span></p>
+      <p
+        begin="00:23:14.920"
+        end="00:23:17.160"><span region="Default">是你爸爸托关系送你来的吧</span></p>
+      <p
+        begin="00:23:17.240"
+        end="00:23:19.360"><span region="Default">-你俩都多大了,还没毕业吗<br/>-真毒舌</span></p>
+      <p
+        begin="00:23:19.440"
+        end="00:23:21.520"><span region="Default">你个小崽子说什么<br/>有本事你再说一遍</span></p>
+      <p
+        begin="00:23:22.840"
+        end="00:23:24.120"><span region="Default">这话题有点儿敏感</span></p>
+      <p
+        begin="00:23:24.200"
+        end="00:23:26.040"><span region="Default">他们已经留级好几年了</span></p>
+      <p
+        begin="00:23:26.120"
+        end="00:23:27.920"><span region="Default">什么好几年,只有四年</span></p>
+      <p
+        begin="00:23:28.040"
+        end="00:23:29.680"><span region="Default">对,这叫延期毕业</span></p>
+      <p
+        begin="00:23:29.760"
+        end="00:23:31.600"><span region="Default">因为我们太优秀了,才不放我们走</span></p>
+      <p
+        begin="00:23:31.680"
+        end="00:23:33.400"><span region="Default">你真行啊,小嗝嗝</span></p>
+      <p
+        begin="00:23:34.120"
+        end="00:23:35.480"><span region="Default">你名字够奇葩的</span></p>
+      <p
+        begin="00:23:35.560"
+        end="00:23:37.280"><span region="Default">你还叫鼻涕粗呢</span></p>
+      <p
+        begin="00:23:37.360"
+        end="00:23:38.360"><span region="Default">那怎么了</span></p>
+      <p
+        begin="00:23:38.440"
+        end="00:23:40.360"><span region="Default">这名字很有阳刚气概</span></p>
+      <p
+        begin="00:23:40.440"
+        end="00:23:43.400"><span region="Default">它源自古维京语<br/>意思是把人打出鼻涕</span></p>
+      <p
+        begin="00:23:43.480"
+        end="00:23:44.640"><span region="Default">闭嘴</span></p>
+      <p
+        begin="00:23:44.720"
+        end="00:23:46.160"><span region="Default">准备训练了</span></p>
+      <p
+        begin="00:23:46.400"
+        end="00:23:47.400"><span region="Default">倒霉孩子</span></p>
+      <p
+        begin="00:23:48.760"
+        end="00:23:52.240"><span region="Default">从现在开始<br/>你们要参加维京人的传统训练</span></p>
+      <p
+        begin="00:23:52.320"
+        end="00:23:54.440"><span region="Default">我们部落的每个孩子</span></p>
+      <p
+        begin="00:23:54.520"
+        end="00:23:56.320"><span region="Default">都要在竞技场接受历练</span></p>
+      <p
+        begin="00:23:56.400"
+        end="00:23:59.240"><span region="Default">这样才能成为真正的维京战士</span></p>
+      <p
+        begin="00:24:00.520"
+        end="00:24:02.200"><span region="Default">训练很艰苦</span></p>
+      <p
+        begin="00:24:04.640"
+        end="00:24:07.840"><span region="Default">而且会非常,非常危险</span></p>
+      <p
+        begin="00:24:09.240"
+        end="00:24:13.080"><span region="Default">但最优秀的人<br/>会获得斩龙手的头衔</span></p>
+      <p
+        begin="00:24:14.480"
+        end="00:24:15.520"><span region="Default">而且</span></p>
+      <p
+        begin="00:24:16.920"
+        end="00:24:17.920"><span region="Default">而且</span></p>
+      <p
+        begin="00:24:18.040"
+        end="00:24:19.120"><span region="Default">他还有资格</span></p>
+      <p
+        begin="00:24:19.200"
+        end="00:24:22.320"><span region="Default">当着全村人的面杀死第一条龙</span></p>
+      <p
+        begin="00:24:22.920"
+        end="00:24:24.440"><span region="Default">这是至高无上的荣耀</span></p>
+      <p
+        begin="00:24:25.760"
+        end="00:24:26.760"><span region="Default">什么</span></p>
+      <p
+        begin="00:24:27.240"
+        end="00:24:29.000"><span region="Default">小嗝嗝说他杀死过夜煞</span></p>
+      <p
+        begin="00:24:29.080"
+        end="00:24:31.360"><span region="Default">那他是不是没必要参加了</span></p>
+      <p
+        begin="00:24:31.440"
+        end="00:24:32.840"><span region="Default">你不用搭理他</span></p>
+      <p
+        begin="00:24:33.640"
+        end="00:24:35.920"><span region="Default">你长得瘦,还没力气</span></p>
+      <p
+        begin="00:24:36.680"
+        end="00:24:38.280"><span region="Default">反而不容易被攻击</span></p>
+      <p
+        begin="00:24:39.000"
+        end="00:24:41.600"><span region="Default">龙会觉得你太弱了,不是对手</span></p>
+      <p
+        begin="00:24:42.120"
+        end="00:24:44.320"><span region="Default">它们一般会攻击那些</span></p>
+      <p
+        begin="00:24:45.000"
+        end="00:24:47.120"><span region="Default">体格壮实的维京少年</span></p>
+      <p
+        begin="00:24:48.200"
+        end="00:24:49.560"><span region="Default">在这些门后面</span></p>
+      <p
+        begin="00:24:49.640"
+        end="00:24:52.560"><span region="Default">关着几种龙,你们要学会对付它们</span></p>
+      <p
+        begin="00:24:52.640"
+        end="00:24:53.920"><span region="Default">致命纳德</span></p>
+      <p
+        begin="00:24:54.040"
+        end="00:24:55.680"><span region="Default">攻击力8,防御力16</span></p>
+      <p
+        begin="00:24:56.080"
+        end="00:24:58.600"><span region="Default">-双头龙<br/>-潜行力11,还能加倍</span></p>
+      <p
+        begin="00:24:58.680"
+        end="00:25:00.920"><span region="Default">-烈焰狂魔<br/>-火焰威力15</span></p>
+      <p
+        begin="00:25:01.040"
+        end="00:25:02.760"><span region="Default">-恐怖龙<br/>-攻击力8,毒性12</span></p>
+      <p
+        begin="00:25:02.840"
+        end="00:25:04.280"><span region="Default">说够了没有</span></p>
+      <p
+        begin="00:25:05.160"
+        end="00:25:06.480"><span region="Default">小心我收拾你</span></p>
+      <p
+        begin="00:25:08.800"
+        end="00:25:11.200"><span region="Default">最后是可怕的葛伦科</span></p>
+      <p
+        begin="00:25:12.040"
+        end="00:25:13.240"><span region="Default">咬合力8</span></p>
+      <p
+        begin="00:25:16.840"
+        end="00:25:17.840"><span region="Default">我说</span></p>
+      <p
+        begin="00:25:18.360"
+        end="00:25:21.040"><span region="Default">你不是应该先教我们战斗技巧吗</span></p>
+      <p
+        begin="00:25:21.120"
+        end="00:25:22.920"><span region="Default">打一场就学会了</span></p>
+      <p
+        begin="00:25:27.800"
+        end="00:25:30.080"><span region="Default">今天,我们学习防守</span></p>
+      <p
+        begin="00:25:30.720"
+        end="00:25:32.280"><span region="Default">被打中了就出局</span></p>
+      <p
+        begin="00:25:32.360"
+        end="00:25:33.600"><span region="Default">也可能会挂掉</span></p>
+      <p
+        begin="00:25:34.400"
+        end="00:25:35.560"><span region="Default">你们现在最需要什么</span></p>
+      <p
+        begin="00:25:35.640"
+        end="00:25:37.600"><span region="Default">-盾牌<br/>-答对了,快去拿</span></p>
+      <p
+        begin="00:25:37.680"
+        end="00:25:38.920"><span region="Default">别挡道,那个是我的</span></p>
+      <p
+        begin="00:25:39.040"
+        end="00:25:41.480"><span region="Default">记住,盾牌是最重要的装备</span></p>
+      <p
+        begin="00:25:43.240"
+        end="00:25:46.280"><span region="Default">如果盾牌和武器只能选一个</span></p>
+      <p
+        begin="00:25:46.840"
+        end="00:25:48.320"><span region="Default">行了,快放下</span></p>
+      <p
+        begin="00:25:48.400"
+        end="00:25:49.480"><span region="Default">要选盾牌</span></p>
+      <p
+        begin="00:25:49.560"
+        end="00:25:51.720"><span region="Default">别抢,这是我的盾牌</span></p>
+      <p
+        begin="00:25:53.880"
+        end="00:25:54.880"><span region="Default">你</span></p>
+      <p
+        begin="00:25:56.080"
+        end="00:25:58.280"><span region="Default">悍夫那特,暴芙那特,出局</span></p>
+      <p
+        begin="00:25:59.840"
+        end="00:26:02.840"><span region="Default">盾牌还有一个用处,制造噪音</span></p>
+      <p
+        begin="00:26:02.920"
+        end="00:26:05.920"><span region="Default">噪音太多,龙就会找不到攻击目标</span></p>
+      <p
+        begin="00:26:08.080"
+        end="00:26:11.520"><span region="Default">记好,每条龙能喷火的次数是有限的</span></p>
+      <p
+        begin="00:26:11.600"
+        end="00:26:12.920"><span region="Default">葛伦科能喷射几发</span></p>
+      <p
+        begin="00:26:13.800"
+        end="00:26:15.920"><span region="Default">-六发<br/>-六发,对</span></p>
+      <p
+        begin="00:26:16.000"
+        end="00:26:17.320"><span region="Default">正好干掉你们六个</span></p>
+      <p
+        begin="00:26:17.400"
+        end="00:26:19.080"><span region="Default">对了,很有趣的是</span></p>
+      <p
+        begin="00:26:19.160"
+        end="00:26:21.600"><span region="Default">不同地区的石头含有的矿物也</span></p>
+      <p
+        begin="00:26:25.320"
+        end="00:26:26.560"><span region="Default">你躲在这里干什么</span></p>
+      <p
+        begin="00:26:26.640"
+        end="00:26:28.320"><span region="Default">你干什么呢,快点过去</span></p>
+      <p
+        begin="00:26:30.280"
+        end="00:26:31.680"><span region="Default">鱼脚司,出局</span></p>
+      <p
+        begin="00:26:32.760"
+        end="00:26:33.760"><span region="Default">还剩下四发</span></p>
+      <p
+        begin="00:26:33.840"
+        end="00:26:36.560"><span region="Default">对,看来咱们俩都能笑到最后</span></p>
+      <p
+        begin="00:26:36.640"
+        end="00:26:38.160"><span region="Default">也许,这说明我们有缘分</span></p>
+      <p
+        begin="00:26:38.240"
+        end="00:26:39.840"><span region="Default">别忘了,这是淘汰制</span></p>
+      <p
+        begin="00:26:39.920"
+        end="00:26:41.280"><span region="Default">只有一个人能赢</span></p>
+      <p
+        begin="00:26:42.120"
+        end="00:26:43.120"><span region="Default">什么</span></p>
+      <p
+        begin="00:26:44.520"
+        end="00:26:46.160"><span region="Default">鼻涕粗,你被淘汰了</span></p>
+      <p
+        begin="00:26:46.840"
+        end="00:26:47.920"><span region="Default">还剩三发</span></p>
+      <p
+        begin="00:26:48.600"
+        end="00:26:50.520"><span region="Default">看来只剩我们两个了</span></p>
+      <p
+        begin="00:26:50.600"
+        end="00:26:52.040"><span region="Default">不对,只有我</span></p>
+      <p
+        begin="00:26:53.920"
+        end="00:26:54.920"><span region="Default">看这边</span></p>
+      <p
+        begin="00:27:03.600"
+        end="00:27:04.840"><span region="Default">干得好,阿丝翠德</span></p>
+      <p
+        begin="00:27:04.920"
+        end="00:27:06.880"><span region="Default">还剩两发</span></p>
+      <p
+        begin="00:27:07.480"
+        end="00:27:08.560"><span region="Default">不是吧</span></p>
+      <p
+        begin="00:27:10.000"
+        end="00:27:11.360"><span region="Default">小嗝嗝,你出局了</span></p>
+      <p
+        begin="00:27:11.720"
+        end="00:27:13.520"><span region="Default">-还剩下一发<br/>-看路</span></p>
+      <p
+        begin="00:27:15.760"
+        end="00:27:16.920"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="00:27:20.040"
+        end="00:27:21.720"><span region="Default">训练结束</span></p>
+      <p
+        begin="00:27:25.680"
+        end="00:27:28.080"><span region="Default">给我进去,你这个大胖茄子</span></p>
+      <p
+        begin="00:27:35.400"
+        end="00:27:38.920"><span region="Default">记住,龙生性残暴</span></p>
+      <p
+        begin="00:27:39.000"
+        end="00:27:43.600"><span region="Default">它看到人类一定会杀掉</span></p>
+      <p
+        begin="00:27:57.440"
+        end="00:27:58.800"><span region="Default">你为什么没杀我</span></p>
+      <p
+        begin="00:29:02.400"
+        end="00:29:03.400"><span region="Default">很好</span></p>
+      <p
+        begin="00:30:10.080"
+        end="00:30:11.440"><span region="Default">我们回顾一下</span></p>
+      <p
+        begin="00:30:12.520"
+        end="00:30:14.480"><span region="Default">阿丝翠德今天哪里做错了</span></p>
+      <p
+        begin="00:30:14.560"
+        end="00:30:16.000"><span region="Default">我搞错了腾空翻的时机</span></p>
+      <p
+        begin="00:30:16.080"
+        end="00:30:17.760"><span region="Default">后滚翻也没有翻好</span></p>
+      <p
+        begin="00:30:17.840"
+        end="00:30:19.760"><span region="Default">可不是,我都看见了</span></p>
+      <p
+        begin="00:30:20.320"
+        end="00:30:23.200"><span region="Default">嘴巴别这么欠<br/>她已经很努力了</span></p>
+      <p
+        begin="00:30:23.280"
+        end="00:30:25.920"><span region="Default">是啊,不要气馁,你能行的</span></p>
+      <p
+        begin="00:30:26.040"
+        end="00:30:27.480"><span region="Default">下次我可以教你</span></p>
+      <p
+        begin="00:30:28.040"
+        end="00:30:29.400"><span region="Default">摆正态度</span></p>
+      <p
+        begin="00:30:29.480"
+        end="00:30:31.320"><span region="Default">你们要对自己严格一点</span></p>
+      <p
+        begin="00:30:31.400"
+        end="00:30:33.480"><span region="Default">不能拖大家的后腿</span></p>
+      <p
+        begin="00:30:35.640"
+        end="00:30:36.760"><span region="Default">你来了</span></p>
+      <p
+        begin="00:30:38.800"
+        end="00:30:40.920"><span region="Default">你得认真点儿,这不是闹着玩</span></p>
+      <p
+        begin="00:30:41.440"
+        end="00:30:43.440"><span region="Default">我们可是活在战场上</span></p>
+      <p
+        begin="00:30:43.520"
+        end="00:30:46.240"><span region="Default">你们也都知道,战斗形势不乐观</span></p>
+      <p
+        begin="00:30:46.320"
+        end="00:30:48.440"><span region="Default">想要获胜,就要了解对手</span></p>
+      <p
+        begin="00:30:48.520"
+        end="00:30:50.640"><span region="Default">总之,我这里有个好东西</span></p>
+      <p
+        begin="00:30:50.720"
+        end="00:30:52.520"><span region="Default">能够帮助你们</span></p>
+      <p
+        begin="00:30:57.840"
+        end="00:30:58.920"><span region="Default">龙族宝典</span></p>
+      <p
+        begin="00:31:00.680"
+        end="00:31:03.280"><span region="Default">这里记载了维京人知道的所有龙</span></p>
+      <p
+        begin="00:31:04.520"
+        end="00:31:08.280"><span region="Default">这是所有部落共同创造的智慧结晶</span></p>
+      <p
+        begin="00:31:09.640"
+        end="00:31:11.120"><span region="Default">是最神圣的宝物</span></p>
+      <p
+        begin="00:31:13.920"
+        end="00:31:16.600"><span region="Default">趁着今晚没有战斗,好好学习吧</span></p>
+      <p
+        begin="00:31:17.480"
+        end="00:31:19.400"><span region="Default">你让我们念书吗?</span></p>
+      <p
+        begin="00:31:19.480"
+        end="00:31:21.360"><span region="Default">我已经读过几百遍了</span></p>
+      <p
+        begin="00:31:21.440"
+        end="00:31:24.360"><span region="Default">有种炎沸龙会往人脸上喷热水</span></p>
+      <p
+        begin="00:31:24.440"
+        end="00:31:26.840"><span region="Default">还有一种龙,叫做</span></p>
+      <p
+        begin="00:31:26.920"
+        end="00:31:28.600"><span region="Default">坐在这里读书有什么用?</span></p>
+      <p
+        begin="00:31:28.680"
+        end="00:31:31.520"><span region="Default">反正书上记载的龙,都会被我杀掉</span></p>
+      <p
+        begin="00:31:31.600"
+        end="00:31:33.120"><span region="Default">没错,我可不想读书</span></p>
+      <p
+        begin="00:31:33.200"
+        end="00:31:35.320"><span region="Default">我只想被别人写进书里</span></p>
+      <p
+        begin="00:31:35.400"
+        end="00:31:36.400"><span region="Default">说得对</span></p>
+      <p
+        begin="00:31:36.920"
+        end="00:31:38.200"><span region="Default">天才</span></p>
+      <p
+        begin="00:31:38.280"
+        end="00:31:41.320"><span region="Default">如果你们想知道龙的事儿<br/>来问我也行</span></p>
+      <p
+        begin="00:31:41.400"
+        end="00:31:44.680"><span region="Default">我对数据很熟<br/>我还做了一些小卡片</span></p>
+      <p
+        begin="00:31:46.560"
+        end="00:31:47.680"><span region="Default">选哪张问都可以</span></p>
+      <p
+        begin="00:31:47.760"
+        end="00:31:48.760"><span region="Default">不要跟着我</span></p>
+      <p
+        begin="00:31:48.840"
+        end="00:31:51.080"><span region="Default">-给你随便问<br/>-我才不想问呢</span></p>
+      <p
+        begin="00:31:59.440"
+        end="00:32:00.440"><span region="Default">所以</span></p>
+      <p
+        begin="00:32:01.200"
+        end="00:32:04.040"><span region="Default">要不要一起来读读这本书</span></p>
+      <p
+        begin="00:32:05.280"
+        end="00:32:06.280"><span region="Default">我读过了</span></p>
+      <p
+        begin="00:32:08.400"
+        end="00:32:10.920"><span region="Default">我想说也许它们没我们想的那么坏</span></p>
+      <p
+        begin="00:32:13.200"
+        end="00:32:15.280"><span region="Default">你是真疯了,还是在装疯</span></p>
+      <p
+        begin="00:32:15.360"
+        end="00:32:17.440"><span region="Default">还有没有其他选项</span></p>
+      <p
+        begin="00:32:19.120"
+        end="00:32:21.200"><span region="Default">我们必须消灭所有恶龙</span></p>
+      <p
+        begin="00:32:21.280"
+        end="00:32:23.480"><span region="Default">大家聚在一起就是为了这个</span></p>
+      <p
+        begin="00:32:24.000"
+        end="00:32:26.520"><span region="Default">没错,龙就是一种邪恶的生物</span></p>
+      <p
+        begin="00:32:26.600"
+        end="00:32:28.240"><span region="Default">对,我知道,但是</span></p>
+      <p
+        begin="00:32:29.000"
+        end="00:32:30.400"><span region="Default">也许我们也有错</span></p>
+      <p
+        begin="00:32:31.160"
+        end="00:32:32.840"><span region="Default">我们占了它们的地盘</span></p>
+      <p
+        begin="00:32:32.920"
+        end="00:32:34.160"><span region="Default">吃了它们的食物</span></p>
+      <p
+        begin="00:32:40.480"
+        end="00:32:42.480"><span region="Default">你是在温室里长大的吧</span></p>
+      <p
+        begin="00:32:42.560"
+        end="00:32:43.840"><span region="Default">什么,我</span></p>
+      <p
+        begin="00:32:43.920"
+        end="00:32:46.320"><span region="Default">娇生惯养,不用为生活发愁</span></p>
+      <p
+        begin="00:32:47.000"
+        end="00:32:48.600"><span region="Default">我没有,不用努力</span></p>
+      <p
+        begin="00:32:48.680"
+        end="00:32:50.360"><span region="Default">不知道什么叫辛苦</span></p>
+      <p
+        begin="00:32:50.440"
+        end="00:32:51.520"><span region="Default">那我告诉你</span></p>
+      <p
+        begin="00:32:52.080"
+        end="00:32:54.240"><span region="Default">我小时候,一无所有</span></p>
+      <p
+        begin="00:32:54.320"
+        end="00:32:55.520"><span region="Default">我爸不是族长</span></p>
+      <p
+        begin="00:32:55.600"
+        end="00:32:58.000"><span region="Default">我也没有优越轻松的生活</span></p>
+      <p
+        begin="00:32:58.080"
+        end="00:32:59.160"><span region="Default">我不怕累</span></p>
+      <p
+        begin="00:32:59.240"
+        end="00:33:00.760"><span region="Default">为了完成任务,我什么都愿意做</span></p>
+      <p
+        begin="00:33:00.840"
+        end="00:33:02.000"><span region="Default">既然大家需要</span></p>
+      <p
+        begin="00:33:02.080"
+        end="00:33:04.560"><span region="Default">我会拼尽全力消灭所有的龙</span></p>
+      <p
+        begin="00:33:05.320"
+        end="00:33:06.320"><span region="Default">好吧</span></p>
+      <p
+        begin="00:33:07.720"
+        end="00:33:08.840"><span region="Default">还有一件事</span></p>
+      <p
+        begin="00:33:09.000"
+        end="00:33:11.080"><span region="Default">其实不用什么都告诉我</span></p>
+      <p
+        begin="00:33:14.000"
+        end="00:33:16.280"><span region="Default">我看上了你们家的大房子</span></p>
+      <p
+        begin="00:33:17.520"
+        end="00:33:19.120"><span region="Default">我要成为族长</span></p>
+      <p
+        begin="00:33:20.560"
+        end="00:33:23.320"><span region="Default">你一定能行</span></p>
+      <p
+        begin="00:33:23.400"
+        end="00:33:25.360"><span region="Default">其实我爸爸会支持你的</span></p>
+      <p
+        begin="00:33:26.160"
+        end="00:33:27.800"><span region="Default">他就想要你这样的孩子</span></p>
+      <p
+        begin="00:33:27.920"
+        end="00:33:29.040"><span region="Default">而不是</span></p>
+      <p
+        begin="00:33:30.520"
+        end="00:33:31.520"><span region="Default">我这样的</span></p>
+      <p
+        begin="00:33:33.840"
+        end="00:33:35.240"><span region="Default">你别来碍我的事</span></p>
+      <p
+        begin="00:33:50.640"
+        end="00:33:52.240"><span region="Default">龙的生物学分类</span></p>
+      <p
+        begin="00:33:52.920"
+        end="00:33:55.720"><span region="Default">攻击类,恐惧类,神秘类</span></p>
+      <p
+        begin="00:33:59.200"
+        end="00:34:00.480"><span region="Default">雷鼓龙</span></p>
+      <p
+        begin="00:34:00.560"
+        end="00:34:02.600"><span region="Default">受到惊吓会发出巨大声响</span></p>
+      <p
+        begin="00:34:02.680"
+        end="00:34:04.400"><span region="Default">能直接杀死附近的人</span></p>
+      <p
+        begin="00:34:04.680"
+        end="00:34:06.320"><span region="Default">极度危险,格杀勿论</span></p>
+      <p
+        begin="00:34:07.120"
+        end="00:34:08.120"><span region="Default">刀锋龙</span></p>
+      <p
+        begin="00:34:08.200"
+        end="00:34:09.200"><span region="Default">装甲龙</span></p>
+      <p
+        begin="00:34:09.280"
+        end="00:34:10.280"><span region="Default">悄声死神</span></p>
+      <p
+        begin="00:34:10.360"
+        end="00:34:11.360"><span region="Default">会烧死人类</span></p>
+      <p
+        begin="00:34:11.440"
+        end="00:34:12.600"><span region="Default">活埋人类</span></p>
+      <p
+        begin="00:34:12.680"
+        end="00:34:13.720"><span region="Default">勒死人类</span></p>
+      <p
+        begin="00:34:13.800"
+        end="00:34:15.040"><span region="Default">掏出人类的内脏</span></p>
+      <p
+        begin="00:34:15.120"
+        end="00:34:16.280"><span region="Default">极度危险</span></p>
+      <p
+        begin="00:34:16.360"
+        end="00:34:17.400"><span region="Default">极度危险</span></p>
+      <p
+        begin="00:34:17.480"
+        end="00:34:19.920"><span region="Default">格杀勿论</span></p>
+      <p
+        begin="00:34:21.760"
+        end="00:34:22.840"><span region="Default">夜煞</span></p>
+      <p
+        begin="00:34:24.320"
+        end="00:34:26.760"><span region="Default">体型不明,速度不明</span></p>
+      <p
+        begin="00:34:26.840"
+        end="00:34:29.720"><span region="Default">这种龙是闪电与死神的后代</span></p>
+      <p
+        begin="00:34:29.800"
+        end="00:34:32.200"><span region="Default">绝不要和它交手</span></p>
+      <p
+        begin="00:34:43.760"
+        end="00:34:46.120"><span region="Default">距离那些龙越来越近了</span></p>
+      <p
+        begin="00:34:53.920"
+        end="00:34:55.200"><span region="Default">继续前进</span></p>
+      <p
+        begin="00:34:56.320"
+        end="00:34:58.080"><span region="Default">去地狱之门</span></p>
+      <p
+        begin="00:34:58.680"
+        end="00:35:00.080"><span region="Default">又要开始了</span></p>
+      <p
+        begin="00:35:00.440"
+        end="00:35:01.840"><span region="Default">向左转</span></p>
+      <p
+        begin="00:35:04.640"
+        end="00:35:05.640"><span region="Default">向左转</span></p>
+      <p
+        begin="00:35:08.680"
+        end="00:35:11.840"><span region="Default">-举起船桨<br/>-卷起船帆</span></p>
+      <p
+        begin="00:35:12.000"
+        end="00:35:13.200"><span region="Default">大家一起</span></p>
+      <p
+        begin="00:35:14.640"
+        end="00:35:15.640"><span region="Default">高一点</span></p>
+      <p
+        begin="00:36:01.840"
+        end="00:36:02.920"><span region="Default">发现恶龙</span></p>
+      <p
+        begin="00:36:03.000"
+        end="00:36:04.920"><span region="Default">-当心,注意上方<br/>-注意上方,快躲开</span></p>
+      <p
+        begin="00:36:19.560"
+        end="00:36:21.440"><span region="Default">掉头</span></p>
+      <p
+        begin="00:36:21.520"
+        end="00:36:22.720"><span region="Default">到处都是龙</span></p>
+      <p
+        begin="00:36:25.400"
+        end="00:36:26.720"><span region="Default">我发现</span></p>
+      <p
+        begin="00:36:27.360"
+        end="00:36:30.560"><span region="Default">我发现<br/>龙族宝典里好像没什么夜煞的资料</span></p>
+      <p
+        begin="00:36:31.400"
+        end="00:36:33.440"><span region="Default">还有没有其他的书</span></p>
+      <p
+        begin="00:36:34.280"
+        end="00:36:35.800"><span region="Default">夜煞大全,什么的</span></p>
+      <p
+        begin="00:36:37.320"
+        end="00:36:38.680"><span region="Default">集中注意力</span></p>
+      <p
+        begin="00:36:39.200"
+        end="00:36:40.440"><span region="Default">别总吊儿郎当的</span></p>
+      <p
+        begin="00:36:41.360"
+        end="00:36:43.040"><span region="Default">今天要学习攻击</span></p>
+      <p
+        begin="00:36:43.120"
+        end="00:36:46.040"><span region="Default">纳德龙很敏捷,行动迅速</span></p>
+      <p
+        begin="00:36:46.120"
+        end="00:36:49.120"><span region="Default">你们必须比它更快,更敏捷</span></p>
+      <p
+        begin="00:36:57.320"
+        end="00:36:58.320"><span region="Default">抱歉</span></p>
+      <p
+        begin="00:37:01.000"
+        end="00:37:03.720"><span region="Default">你是教我们战斗,还是让我们玩命啊</span></p>
+      <p
+        begin="00:37:04.520"
+        end="00:37:07.320"><span region="Default">要找到它的盲点,龙都有盲点</span></p>
+      <p
+        begin="00:37:07.400"
+        end="00:37:10.160"><span region="Default">找到以后,就藏好了<br/>发动进攻</span></p>
+      <p
+        begin="00:37:13.360"
+        end="00:37:14.560"><span region="Default">你身上好臭啊</span></p>
+      <p
+        begin="00:37:14.640"
+        end="00:37:16.760"><span region="Default">你再说废话,就别躲在这里了</span></p>
+      <p
+        begin="00:37:16.840"
+        end="00:37:17.920"><span region="Default">快跑</span></p>
+      <p
+        begin="00:37:18.920"
+        end="00:37:21.680"><span region="Default">龙看不到盲点不代表听不到声音</span></p>
+      <p
+        begin="00:37:22.920"
+        end="00:37:25.160"><span region="Default">我受伤了,真的好疼</span></p>
+      <p
+        begin="00:37:25.240"
+        end="00:37:27.680"><span region="Default">所以要怎么悄悄接近夜煞</span></p>
+      <p
+        begin="00:37:27.760"
+        end="00:37:30.120"><span region="Default">鬼才知道,遇到夜煞的人都死了</span></p>
+      <p
+        begin="00:37:30.200"
+        end="00:37:31.200"><span region="Default">快去训练</span></p>
+      <p
+        begin="00:37:31.280"
+        end="00:37:32.840"><span region="Default">好的,但我只是想知道</span></p>
+      <p
+        begin="00:37:32.920"
+        end="00:37:33.920"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="00:37:35.320"
+        end="00:37:36.400"><span region="Default">蹲下</span></p>
+      <p
+        begin="00:37:49.080"
+        end="00:37:50.680"><span region="Default">你快躲开</span></p>
+      <p
+        begin="00:37:50.760"
+        end="00:37:52.120"><span region="Default">我来解决这家伙</span></p>
+      <p
+        begin="00:37:54.240"
+        end="00:37:55.400"><span region="Default">没扔中</span></p>
+      <p
+        begin="00:37:56.040"
+        end="00:37:57.520"><span region="Default">不要怪我,阿丝翠德</span></p>
+      <p
+        begin="00:37:57.600"
+        end="00:37:59.840"><span region="Default">你太漂亮了,害我走神扔偏了</span></p>
+      <p
+        begin="00:38:28.600"
+        end="00:38:30.440"><span region="Default">等等,我想要</span></p>
+      <p
+        begin="00:38:46.560"
+        end="00:38:48.560"><span region="Default">你做得很好,阿丝翠德</span></p>
+      <p
+        begin="00:38:49.080"
+        end="00:38:51.800"><span region="Default">对付恶龙就得以眼还眼,以牙还牙</span></p>
+      <p
+        begin="00:38:51.920"
+        end="00:38:55.600"><span region="Default">别忘了我刚才的辅助也很重要<br/>我们真默契</span></p>
+      <p
+        begin="00:38:56.120"
+        end="00:38:58.040"><span region="Default">你们以为屠龙是闹着玩吗</span></p>
+      <p
+        begin="00:38:58.280"
+        end="00:38:59.640"><span region="Default">听到没,说你呢</span></p>
+      <p
+        begin="00:38:59.720"
+        end="00:39:02.600"><span region="Default">别忘了我们以后也要像父母一样<br/>和恶龙斗</span></p>
+      <p
+        begin="00:39:07.680"
+        end="00:39:09.240"><span region="Default">别忘了你是哪一边的</span></p>
+      <p
+        begin="00:39:20.320"
+        end="00:39:21.840"><span region="Default">好吧</span></p>
+      <p
+        begin="00:39:34.440"
+        end="00:39:35.440"><span region="Default">找到了…</span></p>
+      <p
+        begin="00:39:53.400"
+        end="00:39:54.600"><span region="Default">不怕…</span></p>
+      <p
+        begin="00:40:30.200"
+        end="00:40:31.400"><span region="Default">没有牙</span></p>
+      <p
+        begin="00:40:32.200"
+        end="00:40:33.480"><span region="Default">我明明记得</span></p>
+      <p
+        begin="00:40:36.600"
+        end="00:40:37.600"><span region="Default">你有牙</span></p>
+      <p
+        begin="00:40:42.000"
+        end="00:40:44.120"><span region="Default">没了,就一条鱼</span></p>
+      <p
+        begin="00:41:05.000"
+        end="00:41:06.000"><span region="Default">谢谢</span></p>
+      <p
+        begin="00:41:14.560"
+        end="00:41:16.080"><span region="Default">不是吧,还真吃啊</span></p>
+      <p
+        begin="00:45:05.120"
+        end="00:45:08.760"><span region="Default">它转头,抓住我的胳膊<br/>用力那么一扭</span></p>
+      <p
+        begin="00:45:09.040"
+        end="00:45:11.440"><span region="Default">就扭断我的胳膊,吞了下去</span></p>
+      <p
+        begin="00:45:12.640"
+        end="00:45:14.200"><span region="Default">没过一个月又来一只吃了我的腿</span></p>
+      <p
+        begin="00:45:14.280"
+        end="00:45:17.560"><span region="Default">我的肉大概很好吃</span></p>
+      <p
+        begin="00:45:17.640"
+        end="00:45:21.440"><span region="Default">是装甲龙吧<br/>有一口尖牙,咬合力17</span></p>
+      <p
+        begin="00:45:21.520"
+        end="00:45:23.560"><span region="Default">我会为你报仇的,高伯</span></p>
+      <p
+        begin="00:45:23.640"
+        end="00:45:26.600"><span region="Default">以后我碰到龙,也砍掉它的四肢</span></p>
+      <p
+        begin="00:45:26.680"
+        end="00:45:27.720"><span region="Default">不对</span></p>
+      <p
+        begin="00:45:29.280"
+        end="00:45:30.920"><span region="Default">该砍翅膀和尾巴</span></p>
+      <p
+        begin="00:45:31.280"
+        end="00:45:33.760"><span region="Default">这样它们就彻底逃不掉了</span></p>
+      <p
+        begin="00:45:33.840"
+        end="00:45:36.920"><span region="Default">龙不能飞,必死无疑</span></p>
+      <p
+        begin="00:45:37.040"
+        end="00:45:39.440"><span region="Default">缺了四肢倒是不太影响</span></p>
+      <p
+        begin="00:45:39.520"
+        end="00:45:40.920"><span region="Default">我也想要断手断脚</span></p>
+      <p
+        begin="00:45:41.280"
+        end="00:45:44.040"><span region="Default">我郑重提议让暴芙那特,失去一条腿</span></p>
+      <p
+        begin="00:45:44.920"
+        end="00:45:47.720"><span region="Default">咋了,咱俩双胞胎,你疼我也疼</span></p>
+      <p
+        begin="00:45:47.800"
+        end="00:45:48.800"><span region="Default">你们是双胞胎?</span></p>
+      <p
+        begin="00:45:48.920"
+        end="00:45:50.800"><span region="Default">连妈妈都分不清我们</span></p>
+      <p
+        begin="00:45:50.920"
+        end="00:45:52.320"><span region="Default">真稀奇</span></p>
+      <p
+        begin="00:45:53.320"
+        end="00:45:55.760"><span region="Default">对了,你们都跟阿丝翠德学学</span></p>
+      <p
+        begin="00:45:56.320"
+        end="00:45:57.920"><span region="Default">早早睡觉,养好精神</span></p>
+      <p
+        begin="00:45:58.800"
+        end="00:46:00.480"><span region="Default">等族长回来以后</span></p>
+      <p
+        begin="00:46:00.560"
+        end="00:46:03.360"><span region="Default">他会选择你们中的一个人现场屠龙</span></p>
+      <p
+        begin="00:46:03.840"
+        end="00:46:06.360"><span region="Default">他会选谁呢</span></p>
+      <p
+        begin="00:46:45.240"
+        end="00:46:46.520"><span region="Default">没牙仔</span></p>
+      <p
+        begin="00:46:48.400"
+        end="00:46:49.400"><span region="Default">该吃早餐了</span></p>
+      <p
+        begin="00:46:56.840"
+        end="00:46:58.120"><span region="Default">你饿了吗</span></p>
+      <p
+        begin="00:46:59.080"
+        end="00:47:00.160"><span region="Default">等等</span></p>
+      <p
+        begin="00:47:01.760"
+        end="00:47:03.160"><span region="Default">我带了鳕鱼</span></p>
+      <p
+        begin="00:47:04.720"
+        end="00:47:05.800"><span region="Default">三文鱼</span></p>
+      <p
+        begin="00:47:06.440"
+        end="00:47:08.600"><span region="Default">还有熏鳗鱼</span></p>
+      <p
+        begin="00:47:10.720"
+        end="00:47:12.520"><span region="Default">知道了,不要鳗鱼</span></p>
+      <p
+        begin="00:47:15.000"
+        end="00:47:16.000"><span region="Default">好吧</span></p>
+      <p
+        begin="00:47:16.920"
+        end="00:47:18.240"><span region="Default">我也不爱吃鳗鱼</span></p>
+      <p
+        begin="00:47:23.200"
+        end="00:47:24.400"><span region="Default">吃吧</span></p>
+      <p
+        begin="00:47:24.840"
+        end="00:47:26.400"><span region="Default">吃你爱吃的</span></p>
+      <p
+        begin="00:47:27.040"
+        end="00:47:29.680"><span region="Default">我呢,就在这边</span></p>
+      <p
+        begin="00:47:30.840"
+        end="00:47:32.400"><span region="Default">忙我自己的事情</span></p>
+      <p
+        begin="00:47:35.840"
+        end="00:47:36.840"><span region="Default">好的</span></p>
+      <p
+        begin="00:47:55.480"
+        end="00:47:56.480"><span region="Default">很好</span></p>
+      <p
+        begin="00:47:57.240"
+        end="00:47:58.240"><span region="Default">好了</span></p>
+      <p
+        begin="00:48:02.480"
+        end="00:48:03.720"><span region="Default">好的,装好了</span></p>
+      <p
+        begin="00:48:04.400"
+        end="00:48:05.720"><span region="Default">还不错,这样就能</span></p>
+      <p
+        begin="00:48:07.320"
+        end="00:48:08.320"><span region="Default">没牙仔,不要</span></p>
+      <p
+        begin="00:48:08.400"
+        end="00:48:09.400"><span region="Default">天啊</span></p>
+      <p
+        begin="00:48:12.440"
+        end="00:48:14.360"><span region="Default">太可怕了</span></p>
+      <p
+        begin="00:48:21.080"
+        end="00:48:22.080"><span region="Default">好吧</span></p>
+      <p
+        begin="00:48:25.600"
+        end="00:48:26.920"><span region="Default">你飞起来了</span></p>
+      <p
+        begin="00:48:38.920"
+        end="00:48:41.160"><span region="Default">今天,我们学习团队作战</span></p>
+      <p
+        begin="00:48:41.800"
+        end="00:48:44.400"><span region="Default">要想活下来,必须学会合作</span></p>
+      <p
+        begin="00:48:46.400"
+        end="00:48:50.320"><span region="Default">记住,龙头一旦被淋湿<br/>就没有办法喷火</span></p>
+      <p
+        begin="00:48:50.400"
+        end="00:48:53.040"><span region="Default">不过想对付双头龙,难度会更高</span></p>
+      <p
+        begin="00:48:53.200"
+        end="00:48:56.000"><span region="Default">它的一个头喷气<br/>另一个头点火</span></p>
+      <p
+        begin="00:48:56.440"
+        end="00:48:58.800"><span region="Default">你们要分清哪个是点火的头</span></p>
+      <p
+        begin="00:48:59.400"
+        end="00:49:00.400"><span region="Default">加油吧</span></p>
+      <p
+        begin="00:49:04.040"
+        end="00:49:07.400"><span region="Default">它有尖锐的獠牙<br/>能分泌毒液来帮助消化</span></p>
+      <p
+        begin="00:49:08.000"
+        end="00:49:09.680"><span region="Default">它最喜欢直接吃掉</span></p>
+      <p
+        begin="00:49:11.000"
+        end="00:49:12.120"><span region="Default">还活着的猎物</span></p>
+      <p
+        begin="00:49:12.200"
+        end="00:49:14.320"><span region="Default">我们能分到一组真是太好了</span></p>
+      <p
+        begin="00:49:15.120"
+        end="00:49:17.720"><span region="Default">女生联手天下无敌</span></p>
+      <p
+        begin="00:49:18.520"
+        end="00:49:20.160"><span region="Default">但赢家一定是我</span></p>
+      <p
+        begin="00:49:20.240"
+        end="00:49:22.240"><span region="Default">阿丝翠德肯定是爱上我了</span></p>
+      <p
+        begin="00:49:22.320"
+        end="00:49:24.680"><span region="Default">她都不好意思看我</span></p>
+      <p
+        begin="00:49:24.760"
+        end="00:49:26.480"><span region="Default">放心,我会帮你出主意</span></p>
+      <p
+        begin="00:49:26.560"
+        end="00:49:28.360"><span region="Default">你误会了,有一样东西</span></p>
+      <p
+        begin="00:49:28.440"
+        end="00:49:30.720"><span region="Default">会让所有维京女孩都心动,那就是</span></p>
+      <p
+        begin="00:49:31.560"
+        end="00:49:32.560"><span region="Default">小心</span></p>
+      <p
+        begin="00:49:33.800"
+        end="00:49:36.280"><span region="Default">泼错人了,蠢货</span></p>
+      <p
+        begin="00:49:36.360"
+        end="00:49:38.720"><span region="Default">条件反射<br/>我一看到丑八怪就想泼水</span></p>
+      <p
+        begin="00:49:41.760"
+        end="00:49:43.600"><span region="Default">我可没说你丑,阿丝翠德</span></p>
+      <p
+        begin="00:49:48.160"
+        end="00:49:49.320"><span region="Default">快点跑啊</span></p>
+      <p
+        begin="00:49:50.440"
+        end="00:49:52.760"><span region="Default">听说它们,还喜欢玩弄猎物</span></p>
+      <p
+        begin="00:49:52.840"
+        end="00:49:54.240"><span region="Default">活活把猎物撕成碎片</span></p>
+      <p
+        begin="00:49:54.320"
+        end="00:49:56.320"><span region="Default">求你闭嘴行不行</span></p>
+      <p
+        begin="00:49:58.640"
+        end="00:49:59.680"><span region="Default">鱼脚司</span></p>
+      <p
+        begin="00:50:02.560"
+        end="00:50:03.600"><span region="Default">不是这个头</span></p>
+      <p
+        begin="00:50:07.440"
+        end="00:50:09.000"><span region="Default">快跑,小嗝嗝</span></p>
+      <p
+        begin="00:50:10.800"
+        end="00:50:11.920"><span region="Default">真倒霉</span></p>
+      <p
+        begin="00:50:21.680"
+        end="00:50:23.760"><span region="Default">对,退后</span></p>
+      <p
+        begin="00:50:25.520"
+        end="00:50:26.760"><span region="Default">快跑</span></p>
+      <p
+        begin="00:50:26.840"
+        end="00:50:27.840"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="00:50:27.920"
+        end="00:50:30.160"><span region="Default">好话不说二遍<br/>对,这就对了</span></p>
+      <p
+        begin="00:50:30.640"
+        end="00:50:32.400"><span region="Default">快点回去</span></p>
+      <p
+        begin="00:50:35.480"
+        end="00:50:37.720"><span region="Default">回去了,好好反思反思</span></p>
+      <p
+        begin="00:50:55.360"
+        end="00:50:58.120"><span region="Default">今天的课上完了吗</span></p>
+      <p
+        begin="00:50:58.640"
+        end="00:51:01.920"><span region="Default">因为我有一点急事需要</span></p>
+      <p
+        begin="00:51:02.040"
+        end="00:51:03.680"><span region="Default">我先走了明天见</span></p>
+      <p
+        begin="00:51:15.560"
+        end="00:51:17.200"><span region="Default">不要跑</span></p>
+      <p
+        begin="00:51:17.280"
+        end="00:51:18.400"><span region="Default">试试看嘛</span></p>
+      <p
+        begin="00:51:29.720"
+        end="00:51:31.200"><span region="Default">救命,我要死了</span></p>
+      <p
+        begin="00:51:32.440"
+        end="00:51:33.680"><span region="Default">不</span></p>
+      <p
+        begin="00:51:35.560"
+        end="00:51:37.240"><span region="Default">慢一点</span></p>
+      <p
+        begin="00:51:37.320"
+        end="00:51:39.000"><span region="Default">拜托你,调整一下角度</span></p>
+      <p
+        begin="00:51:45.280"
+        end="00:51:46.600"><span region="Default">不</span></p>
+      <p
+        begin="00:52:07.200"
+        end="00:52:09.200"><span region="Default">-别挡路<br/>-小心一点</span></p>
+      <p
+        begin="00:52:09.280"
+        end="00:52:11.440"><span region="Default">找到它的盲点</span></p>
+      <p
+        begin="00:52:11.520"
+        end="00:52:12.840"><span region="Default">不用担心,我来了</span></p>
+      <p
+        begin="00:52:12.920"
+        end="00:52:14.520"><span region="Default">等等,你别把它引过来</span></p>
+      <p
+        begin="00:52:27.240"
+        end="00:52:28.560"><span region="Default">那个小子,叫啥来着</span></p>
+      <p
+        begin="00:52:28.640"
+        end="00:52:30.400"><span region="Default">我也忘了,说你呢,站住</span></p>
+      <p
+        begin="00:52:30.480"
+        end="00:52:32.600"><span region="Default">-你刚才臭显摆什么啊<br/>-我没有啊</span></p>
+      <p
+        begin="00:52:32.680"
+        end="00:52:34.360"><span region="Default">你用什么办法制服了葛伦科</span></p>
+      <p
+        begin="00:52:34.440"
+        end="00:52:37.040"><span region="Default">-我也会那招,但你从哪儿学的<br/>-学什么</span></p>
+      <p
+        begin="00:52:37.120"
+        end="00:52:38.200"><span region="Default">你到底干了什么</span></p>
+      <p
+        begin="00:52:38.280"
+        end="00:52:39.760"><span region="Default">不好意思,我很想解释</span></p>
+      <p
+        begin="00:52:39.840"
+        end="00:52:42.320"><span region="Default">但我不小心把斧头落在训练场了</span></p>
+      <p
+        begin="00:52:42.760"
+        end="00:52:44.840"><span region="Default">你真棒,好乖啊</span></p>
+      <p
+        begin="00:52:45.000"
+        end="00:52:46.280"><span region="Default">好了</span></p>
+      <p
+        begin="00:52:46.360"
+        end="00:52:48.440"><span region="Default">没问题,来挠挠</span></p>
+      <p
+        begin="00:52:48.520"
+        end="00:52:49.520"><span region="Default">舒不舒服</span></p>
+      <p
+        begin="00:53:23.160"
+        end="00:53:24.160"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="00:53:27.920"
+        end="00:53:29.000"><span region="Default">他在那儿</span></p>
+      <p
+        begin="00:53:29.480"
+        end="00:53:30.560"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="00:53:31.840"
+        end="00:53:32.840"><span region="Default">好了,听我说</span></p>
+      <p
+        begin="00:53:33.000"
+        end="00:53:35.080"><span region="Default">等等,我有个问题</span></p>
+      <p
+        begin="00:53:35.160"
+        end="00:53:37.120"><span region="Default">-我一直在想这些卡片<br/>-我们训练时合作就行</span></p>
+      <p
+        begin="00:53:45.480"
+        end="00:53:46.840"><span region="Default">来见见恐怖龙</span></p>
+      <p
+        begin="00:53:55.360"
+        end="00:53:56.600"><span region="Default">它长得还没有我的</span></p>
+      <p
+        begin="00:53:58.040"
+        end="00:53:59.640"><span region="Default">别咬我,走开,走开</span></p>
+      <p
+        begin="00:55:40.560"
+        end="00:55:41.960"><span region="Default">别的船没回来吗?</span></p>
+      <p
+        begin="00:55:53.800"
+        end="00:55:55.400"><span region="Default">爸爸</span></p>
+      <p
+        begin="00:55:55.480"
+        end="00:55:56.760"><span region="Default">给我</span></p>
+      <p
+        begin="00:55:57.280"
+        end="00:55:58.520"><span region="Default">我好想你</span></p>
+      <p
+        begin="00:55:58.600"
+        end="00:56:00.640"><span region="Default">是纯爷们儿的感情</span></p>
+      <p
+        begin="00:56:00.720"
+        end="00:56:03.000"><span region="Default">火焰试炼现在越来越难了</span></p>
+      <p
+        begin="00:56:03.080"
+        end="00:56:07.040"><span region="Default">我们要和龙,爸爸<br/>你去哪儿了</span></p>
+      <p
+        begin="00:56:08.640"
+        end="00:56:10.680"><span region="Default">爸,那我回家等你</span></p>
+      <p
+        begin="00:56:12.040"
+        end="00:56:13.720"><span region="Default">这次,找到龙穴了吗</span></p>
+      <p
+        begin="00:56:13.800"
+        end="00:56:15.000"><span region="Default">连影儿都没有</span></p>
+      <p
+        begin="00:56:16.240"
+        end="00:56:18.080"><span region="Default">小嗝嗝最近怎么样</span></p>
+      <p
+        begin="00:56:18.280"
+        end="00:56:19.520"><span region="Default">这么说吧</span></p>
+      <p
+        begin="00:56:19.600"
+        end="00:56:21.400"><span region="Default">你以后可能不用太操心了,他现在</span></p>
+      <p
+        begin="00:56:21.480"
+        end="00:56:23.480"><span region="Default">挺好</span></p>
+      <p
+        begin="00:56:24.600"
+        end="00:56:26.400"><span region="Default">您都听说了吗</span></p>
+      <p
+        begin="00:56:26.480"
+        end="00:56:28.280"><span region="Default">大家都松了口气</span></p>
+      <p
+        begin="00:56:28.360"
+        end="00:56:29.920"><span region="Default">窝囊废可算没了</span></p>
+      <p
+        begin="00:56:30.000"
+        end="00:56:32.440"><span region="Default">是啊,不然谁受得了他</span></p>
+      <p
+        begin="00:56:35.080"
+        end="00:56:36.080"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="00:56:37.520"
+        end="00:56:38.560"><span region="Default">不在了</span></p>
+      <p
+        begin="00:56:39.160"
+        end="00:56:40.800"><span region="Default">对,他总出门</span></p>
+      <p
+        begin="00:56:40.920"
+        end="00:56:44.080"><span region="Default">这可不能怪他<br/>老话说了,人怕出名猪怕壮</span></p>
+      <p
+        begin="00:56:44.160"
+        end="00:56:45.720"><span region="Default">他在村里一露脸</span></p>
+      <p
+        begin="00:56:45.800"
+        end="00:56:48.280"><span region="Default">粉丝就像一窝蜂似的都过去了</span></p>
+      <p
+        begin="00:56:49.760"
+        end="00:56:51.160"><span region="Default">他对那些恶龙</span></p>
+      <p
+        begin="00:56:52.320"
+        end="00:56:53.640"><span region="Default">还挺有招儿的</span></p>
+      <p
+        begin="00:57:06.120"
+        end="00:57:07.200"><span region="Default">好了,哥们儿</span></p>
+      <p
+        begin="00:57:07.680"
+        end="00:57:09.400"><span region="Default">我们一步一步慢慢来</span></p>
+      <p
+        begin="00:57:12.080"
+        end="00:57:13.160"><span region="Default">训练开始</span></p>
+      <p
+        begin="00:57:13.240"
+        end="00:57:15.080"><span region="Default">第三档位,不对,第四档</span></p>
+      <p
+        begin="00:57:31.160"
+        end="00:57:32.160"><span region="Default">准备好了吗</span></p>
+      <p
+        begin="00:57:46.600"
+        end="00:57:47.600"><span region="Default">加油,冲过去</span></p>
+      <p
+        begin="00:58:03.280"
+        end="00:58:04.680"><span region="Default">成功了</span></p>
+      <p
+        begin="00:58:08.840"
+        end="00:58:10.280"><span region="Default">怪我,对不起</span></p>
+      <p
+        begin="00:58:11.320"
+        end="00:58:12.640"><span region="Default">我看看下一步</span></p>
+      <p
+        begin="00:58:13.600"
+        end="00:58:14.680"><span region="Default">第五档位</span></p>
+      <p
+        begin="00:58:17.440"
+        end="00:58:18.640"><span region="Default">我们向上</span></p>
+      <p
+        begin="00:58:22.920"
+        end="00:58:24.560"><span region="Default">继续飞</span></p>
+      <p
+        begin="00:58:26.120"
+        end="00:58:29.360"><span region="Default">真是太棒了,这里风好大</span></p>
+      <p
+        begin="00:58:29.440"
+        end="00:58:31.920"><span region="Default">我的图纸</span></p>
+      <p
+        begin="00:58:36.280"
+        end="00:58:38.360"><span region="Default">不要</span></p>
+      <p
+        begin="00:59:57.120"
+        end="00:59:58.680"><span region="Default">-儿子<br/>-爸爸,您回来了</span></p>
+      <p
+        begin="01:00:00.000"
+        end="01:00:02.320"><span region="Default">-那个,高伯刚出去了<br/>-我知道</span></p>
+      <p
+        begin="01:00:05.440"
+        end="01:00:07.040"><span region="Default">我是来找你的</span></p>
+      <p
+        begin="01:00:07.120"
+        end="01:00:09.040"><span region="Default">真的吗,为什么</span></p>
+      <p
+        begin="01:00:09.480"
+        end="01:00:11.240"><span region="Default">因为你有事瞒着我</span></p>
+      <p
+        begin="01:00:11.640"
+        end="01:00:12.640"><span region="Default">我有吗</span></p>
+      <p
+        begin="01:00:12.720"
+        end="01:00:15.640"><span region="Default">别嘴硬了,你瞒不了多久的</span></p>
+      <p
+        begin="01:00:16.640"
+        end="01:00:18.200"><span region="Default">我不知道您在说什么</span></p>
+      <p
+        begin="01:00:18.280"
+        end="01:00:21.920"><span region="Default">这个岛上发生的所有事情</span></p>
+      <p
+        begin="01:00:22.040"
+        end="01:00:24.120"><span region="Default">都逃不过我的眼睛</span></p>
+      <p
+        begin="01:00:25.160"
+        end="01:00:27.800"><span region="Default">现在,来跟我说说</span></p>
+      <p
+        begin="01:00:28.480"
+        end="01:00:30.160"><span region="Default">你和龙的事情吧</span></p>
+      <p
+        begin="01:00:30.240"
+        end="01:00:31.680"><span region="Default">天啊,爸爸</span></p>
+      <p
+        begin="01:00:31.760"
+        end="01:00:33.160"><span region="Default">我真的很抱歉</span></p>
+      <p
+        begin="01:00:33.840"
+        end="01:00:37.560"><span region="Default">我早就想告诉您了<br/>我只是,不知道</span></p>
+      <p
+        begin="01:00:42.880"
+        end="01:00:44.120"><span region="Default">您不生气吗</span></p>
+      <p
+        begin="01:00:44.200"
+        end="01:00:45.840"><span region="Default">怎么会呢</span></p>
+      <p
+        begin="01:00:45.920"
+        end="01:00:48.240"><span region="Default">我等的就是这一天</span></p>
+      <p
+        begin="01:00:48.320"
+        end="01:00:50.120"><span region="Default">-真的吗<br/>-当然</span></p>
+      <p
+        begin="01:00:50.200"
+        end="01:00:53.120"><span region="Default">用不了多久,你就能上战场屠龙了</span></p>
+      <p
+        begin="01:00:53.200"
+        end="01:00:57.280"><span region="Default">想想吧<br/>你可以亲手把纳德龙开膛破肚</span></p>
+      <p
+        begin="01:00:57.360"
+        end="01:01:02.040"><span region="Default">对了,还有,砍下葛伦科的大脑袋<br/>穿到长矛上</span></p>
+      <p
+        begin="01:01:02.120"
+        end="01:01:03.320"><span region="Default">那感觉棒极了</span></p>
+      <p
+        begin="01:01:04.120"
+        end="01:01:05.920"><span region="Default">臭小子,你藏得够深的</span></p>
+      <p
+        begin="01:01:06.560"
+        end="01:01:08.120"><span region="Default">不瞒你说</span></p>
+      <p
+        begin="01:01:08.200"
+        end="01:01:11.480"><span region="Default">你就是博克岛上这些年来最废物的人</span></p>
+      <p
+        begin="01:01:12.640"
+        end="01:01:14.120"><span region="Default">老天爷</span></p>
+      <p
+        begin="01:01:14.200"
+        end="01:01:15.840"><span region="Default">说实话,我都快放弃你了</span></p>
+      <p
+        begin="01:01:15.920"
+        end="01:01:19.200"><span region="Default">结果我刚一回来<br/>你就给我个惊喜</span></p>
+      <p
+        begin="01:01:19.840"
+        end="01:01:21.840"><span region="Default">这下我就放心了</span></p>
+      <p
+        begin="01:01:22.200"
+        end="01:01:23.240"><span region="Default">谁能想到</span></p>
+      <p
+        begin="01:01:23.320"
+        end="01:01:26.200"><span region="Default">我儿子去屠龙训练表现这么好</span></p>
+      <p
+        begin="01:01:27.480"
+        end="01:01:30.000"><span region="Default">没准儿能当斩龙手</span></p>
+      <p
+        begin="01:01:30.280"
+        end="01:01:31.920"><span region="Default">就像当年的我</span></p>
+      <p
+        begin="01:01:32.040"
+        end="01:01:33.040"><span region="Default">谁知道呢</span></p>
+      <p
+        begin="01:01:33.920"
+        end="01:01:37.560"><span region="Default">对了,既然你的训练成绩这么好</span></p>
+      <p
+        begin="01:01:37.800"
+        end="01:01:38.800"><span region="Default">那个,我得去</span></p>
+      <p
+        begin="01:01:38.880"
+        end="01:01:39.920"><span region="Default">坐下,好的</span></p>
+      <p
+        begin="01:01:40.000"
+        end="01:01:43.040"><span region="Default">这下咱们俩可算能聊聊天了</span></p>
+      <p
+        begin="01:01:50.240"
+        end="01:01:51.240"><span region="Default">那个</span></p>
+      <p
+        begin="01:02:02.080"
+        end="01:02:04.280"><span region="Default">那个</span></p>
+      <p
+        begin="01:02:04.360"
+        end="01:02:05.400"><span region="Default">对了,我有东西给你</span></p>
+      <p
+        begin="01:02:07.800"
+        end="01:02:08.800"><span region="Default">你看,就是这个</span></p>
+      <p
+        begin="01:02:09.320"
+        end="01:02:11.920"><span region="Default">给你训练用,保护头部</span></p>
+      <p
+        begin="01:02:14.640"
+        end="01:02:17.480"><span region="Default">这个头盔是你妈妈留下的</span></p>
+      <p
+        begin="01:02:18.000"
+        end="01:02:19.600"><span region="Default">谢谢</span></p>
+      <p
+        begin="01:02:20.240"
+        end="01:02:21.600"><span region="Default">是用她的胸甲改的</span></p>
+      <p
+        begin="01:02:23.600"
+        end="01:02:24.600"><span region="Default">我的也是</span></p>
+      <p
+        begin="01:02:25.320"
+        end="01:02:26.320"><span region="Default">看到头盔</span></p>
+      <p
+        begin="01:02:27.760"
+        end="01:02:29.160"><span region="Default">就能想起她</span></p>
+      <p
+        begin="01:02:31.480"
+        end="01:02:32.840"><span region="Default">你是我们的骄傲</span></p>
+      <p
+        begin="01:02:33.360"
+        end="01:02:35.320"><span region="Default">你会成为最优秀的维京人</span></p>
+      <p
+        begin="01:02:42.160"
+        end="01:02:43.160"><span region="Default">是啊,对</span></p>
+      <p
+        begin="01:02:43.240"
+        end="01:02:44.240"><span region="Default">累了吧</span></p>
+      <p
+        begin="01:02:44.320"
+        end="01:02:46.360"><span region="Default">-对,我得早点儿睡<br/>-聊得不错</span></p>
+      <p
+        begin="01:02:46.440"
+        end="01:02:48.520"><span region="Default">-明天是大日子<br/>-对,明天是火焰试炼</span></p>
+      <p
+        begin="01:02:48.600"
+        end="01:02:50.920"><span region="Default">对,火焰试炼,得保存体力才行</span></p>
+      <p
+        begin="01:02:51.040"
+        end="01:02:52.080"><span region="Default">-祝你好运<br/>-谢谢您</span></p>
+      <p
+        begin="01:02:52.160"
+        end="01:02:53.760"><span region="Default">-希望你喜欢<br/>-送给我这个头盔</span></p>
+      <p
+        begin="01:02:53.840"
+        end="01:02:55.280"><span region="Default">对,对</span></p>
+      <p
+        begin="01:02:56.640"
+        end="01:02:58.800"><span region="Default">那我走了,晚安</span></p>
+      <p
+        begin="01:03:08.120"
+        end="01:03:11.000"><span region="Default">不许再玩花招<br/>我今天一定要成为斩龙手</span></p>
+      <p
+        begin="01:03:11.080"
+        end="01:03:13.840"><span region="Default">好,没问题<br/>随你便,当斩瓜手都成</span></p>
+      <p
+        begin="01:03:14.200"
+        end="01:03:15.360"><span region="Default">抱歉</span></p>
+      <p
+        begin="01:03:36.480"
+        end="01:03:38.600"><span region="Default">最后一次机会,一定要抓住</span></p>
+      <p
+        begin="01:03:45.000"
+        end="01:03:46.000"><span region="Default">加油</span></p>
+      <p
+        begin="01:03:46.080"
+        end="01:03:47.440"><span region="Default">上啊,阿丝翠德,你能赢</span></p>
+      <p
+        begin="01:03:47.520"
+        end="01:03:49.920"><span region="Default">-加油,小嗝嗝<br/>-上啊,冲啊</span></p>
+      <p
+        begin="01:03:54.520"
+        end="01:03:55.520"><span region="Default">不</span></p>
+      <p
+        begin="01:03:56.040"
+        end="01:03:58.240"><span region="Default">你这个巨怪养的,吃老鼠的</span></p>
+      <p
+        begin="01:03:58.400"
+        end="01:03:59.840"><span region="Default">这孩子说话可真文明</span></p>
+      <p
+        begin="01:04:00.160"
+        end="01:04:01.400"><span region="Default">都是你</span></p>
+      <p
+        begin="01:04:06.800"
+        end="01:04:08.080"><span region="Default">-可以了<br/>-等会儿见</span></p>
+      <p
+        begin="01:04:08.160"
+        end="01:04:09.640"><span region="Default">别着急走,安静</span></p>
+      <p
+        begin="01:04:09.720"
+        end="01:04:11.160"><span region="Default">不行,我还得赶快去</span></p>
+      <p
+        begin="01:04:11.240"
+        end="01:04:13.040"><span region="Default">什么,你到底要去干吗</span></p>
+      <p
+        begin="01:04:13.120"
+        end="01:04:14.320"><span region="Default">我宣布,安静</span></p>
+      <p
+        begin="01:04:14.400"
+        end="01:04:17.040"><span region="Default">今年的火焰试炼正式结束了</span></p>
+      <p
+        begin="01:04:18.120"
+        end="01:04:20.560"><span region="Default">戈希长老已经选出了冠军</span></p>
+      <p
+        begin="01:04:22.720"
+        end="01:04:27.120"><span region="Default">新一届的斩龙手就是</span></p>
+      <p
+        begin="01:04:48.840"
+        end="01:04:50.120"><span region="Default">你成功了</span></p>
+      <p
+        begin="01:04:50.200"
+        end="01:04:51.760"><span region="Default">你通过了火焰试炼</span></p>
+      <p
+        begin="01:04:51.840"
+        end="01:04:53.240"><span region="Default">你可以屠龙了</span></p>
+      <p
+        begin="01:04:53.320"
+        end="01:04:54.680"><span region="Default">这才是我儿子</span></p>
+      <p
+        begin="01:04:59.160"
+        end="01:05:00.920"><span region="Default">小嗝嗝,你赢了</span></p>
+      <p
+        begin="01:05:06.040"
+        end="01:05:09.200"><span region="Default">我可真棒</span></p>
+      <p
+        begin="01:05:09.280"
+        end="01:05:10.760"><span region="Default">我都等不及了,我要</span></p>
+      <p
+        begin="01:05:11.320"
+        end="01:05:13.640"><span region="Default">赶紧跑,再也不回来</span></p>
+      <p
+        begin="01:05:13.720"
+        end="01:05:15.440"><span region="Default">快来,哥们儿,没时间了</span></p>
+      <p
+        begin="01:05:15.520"
+        end="01:05:17.000"><span region="Default">果然不出我所料</span></p>
+      <p
+        begin="01:05:17.160"
+        end="01:05:18.640"><span region="Default">阿丝翠德,你来这里干什么</span></p>
+      <p
+        begin="01:05:18.720"
+        end="01:05:20.000"><span region="Default">我来找答案</span></p>
+      <p
+        begin="01:05:20.720"
+        end="01:05:22.040"><span region="Default">你在这里干什么</span></p>
+      <p
+        begin="01:05:22.120"
+        end="01:05:25.040"><span region="Default">那个哥们儿,是你师傅吗<br/>这衣服是他给你的吗</span></p>
+      <p
+        begin="01:05:25.800"
+        end="01:05:28.520"><span region="Default">我知道我这样子看起来很可疑</span></p>
+      <p
+        begin="01:05:29.920"
+        end="01:05:31.480"><span region="Default">你说得对,没错,我</span></p>
+      <p
+        begin="01:05:31.560"
+        end="01:05:33.760"><span region="Default">说实话吧,我就是喜欢做衣服</span></p>
+      <p
+        begin="01:05:33.840"
+        end="01:05:35.440"><span region="Default">所以你猜对了</span></p>
+      <p
+        begin="01:05:35.520"
+        end="01:05:37.120"><span region="Default">你可以去告诉全村的人</span></p>
+      <p
+        begin="01:05:39.200"
+        end="01:05:40.320"><span region="Default">你为什么拧我</span></p>
+      <p
+        begin="01:05:40.400"
+        end="01:05:41.680"><span region="Default">因为你说假话</span></p>
+      <p
+        begin="01:05:43.080"
+        end="01:05:45.520"><span region="Default">这一下,是因为你这个人</span></p>
+      <p
+        begin="01:05:47.640"
+        end="01:05:48.640"><span region="Default">不</span></p>
+      <p
+        begin="01:05:49.440"
+        end="01:05:51.040"><span region="Default">跑,快跑</span></p>
+      <p
+        begin="01:05:51.120"
+        end="01:05:52.400"><span region="Default">-不,放下<br/>-什么</span></p>
+      <p
+        begin="01:05:52.840"
+        end="01:05:54.400"><span region="Default">没牙仔,停下</span></p>
+      <p
+        begin="01:05:54.480"
+        end="01:05:57.360"><span region="Default">没关系,她是朋友,是我的朋友</span></p>
+      <p
+        begin="01:06:01.920"
+        end="01:06:04.320"><span region="Default">阿丝翠德,没牙仔</span></p>
+      <p
+        begin="01:06:05.000"
+        end="01:06:07.560"><span region="Default">它是夜煞</span></p>
+      <p
+        begin="01:06:13.440"
+        end="01:06:14.440"><span region="Default">别捡了</span></p>
+      <p
+        begin="01:06:19.360"
+        end="01:06:20.360"><span region="Default">完蛋了</span></p>
+      <p
+        begin="01:06:23.880"
+        end="01:06:24.920"><span region="Default">你这是要去哪儿</span></p>
+      <p
+        begin="01:06:54.800"
+        end="01:06:55.840"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="01:06:55.920"
+        end="01:06:57.400"><span region="Default">快点儿带我下去</span></p>
+      <p
+        begin="01:06:57.480"
+        end="01:06:58.920"><span region="Default">你得先听我解释</span></p>
+      <p
+        begin="01:06:59.040"
+        end="01:07:01.280"><span region="Default">你说的鬼话我一个字也不要听</span></p>
+      <p
+        begin="01:07:01.360"
+        end="01:07:04.040"><span region="Default">那我就不说,你自己来看</span></p>
+      <p
+        begin="01:07:04.840"
+        end="01:07:06.440"><span region="Default">拜托了,阿丝翠德</span></p>
+      <p
+        begin="01:07:18.200"
+        end="01:07:19.280"><span region="Default">这是什么</span></p>
+      <p
+        begin="01:07:20.800"
+        end="01:07:21.840"><span region="Default">这是我做的</span></p>
+      <p
+        begin="01:07:22.600"
+        end="01:07:24.240"><span region="Default">我可以控制飞行方向</span></p>
+      <p
+        begin="01:07:27.240"
+        end="01:07:28.520"><span region="Default">那就飞一下试试</span></p>
+      <p
+        begin="01:07:29.800"
+        end="01:07:30.840"><span region="Default">没问题</span></p>
+      <p
+        begin="01:07:31.440"
+        end="01:07:32.440"><span region="Default">没牙仔</span></p>
+      <p
+        begin="01:07:32.520"
+        end="01:07:33.720"><span region="Default">带我们下去</span></p>
+      <p
+        begin="01:07:35.120"
+        end="01:07:36.240"><span region="Default">慢一点儿</span></p>
+      <p
+        begin="01:07:37.720"
+        end="01:07:39.200"><span region="Default">你不用紧张</span></p>
+      <p
+        begin="01:07:46.120"
+        end="01:07:47.560"><span region="Default">这下凉快了</span></p>
+      <p
+        begin="01:07:50.600"
+        end="01:07:52.200"><span region="Default">你不是能控制飞行方向吗</span></p>
+      <p
+        begin="01:07:52.280"
+        end="01:07:54.840"><span region="Default">我可以<br/>刚才只是有点儿小故障</span></p>
+      <p
+        begin="01:07:58.120"
+        end="01:08:00.080"><span region="Default">我们练过很多次了,还记得吗</span></p>
+      <p
+        begin="01:08:01.920"
+        end="01:08:04.200"><span region="Default">要是能活着回去,我就要宰了你</span></p>
+      <p
+        begin="01:08:08.720"
+        end="01:08:10.240"><span region="Default">空中大回旋</span></p>
+      <p
+        begin="01:08:10.760"
+        end="01:08:13.560"><span region="Default">真是谢谢你,都要把我转吐了</span></p>
+      <p
+        begin="01:08:13.640"
+        end="01:08:15.560"><span region="Default">求你了,让它停下来</span></p>
+      <p
+        begin="01:08:17.600"
+        end="01:08:19.600"><span region="Default">可它好像不愿意停下来</span></p>
+      <p
+        begin="01:08:20.080"
+        end="01:08:21.240"><span region="Default">好吧,对不起</span></p>
+      <p
+        begin="01:08:21.840"
+        end="01:08:23.520"><span region="Default">没牙仔,对不起</span></p>
+      <p
+        begin="01:10:02.120"
+        end="01:10:03.120"><span region="Default">好吧</span></p>
+      <p
+        begin="01:10:04.840"
+        end="01:10:06.160"><span region="Default">我被你说服了</span></p>
+      <p
+        begin="01:10:08.920"
+        end="01:10:11.360"><span region="Default">可你明天还是得杀一条龙</span></p>
+      <p
+        begin="01:10:13.800"
+        end="01:10:15.840"><span region="Default">-既然我能说服你<br/>-那又怎样</span></p>
+      <p
+        begin="01:10:15.920"
+        end="01:10:18.280"><span region="Default">难道要带每个人都飞一圈</span></p>
+      <p
+        begin="01:10:21.400"
+        end="01:10:23.840"><span region="Default">大家不会忘记那些龙都做过什么</span></p>
+      <p
+        begin="01:10:25.120"
+        end="01:10:27.000"><span region="Default">它们袭击村子,偷走食物</span></p>
+      <p
+        begin="01:10:27.080"
+        end="01:10:28.440"><span region="Default">它们杀了我妈妈</span></p>
+      <p
+        begin="01:10:29.040"
+        end="01:10:30.400"><span region="Default">一定要互相残杀吗</span></p>
+      <p
+        begin="01:10:30.480"
+        end="01:10:31.640"><span region="Default">不然怎么办</span></p>
+      <p
+        begin="01:10:32.560"
+        end="01:10:34.200"><span region="Default">我,我不知道</span></p>
+      <p
+        begin="01:10:36.080"
+        end="01:10:38.440"><span region="Default">被你抓住,我们也逃不掉了</span></p>
+      <p
+        begin="01:10:42.840"
+        end="01:10:45.760"><span region="Default">其实,我也不一定会告发你</span></p>
+      <p
+        begin="01:10:47.400"
+        end="01:10:49.560"><span region="Default">那我们也不会把你扔进海里</span></p>
+      <p
+        begin="01:10:53.520"
+        end="01:10:55.360"><span region="Default">哥们儿,怎么了</span></p>
+      <p
+        begin="01:10:56.280"
+        end="01:10:57.280"><span region="Default">怎么回事</span></p>
+      <p
+        begin="01:11:01.680"
+        end="01:11:02.680"><span region="Default">往下</span></p>
+      <p
+        begin="01:11:05.120"
+        end="01:11:06.640"><span region="Default">没牙仔,带我们离开这里</span></p>
+      <p
+        begin="01:11:12.760"
+        end="01:11:14.560"><span region="Default">它们是在运送猎物</span></p>
+      <p
+        begin="01:11:15.640"
+        end="01:11:17.200"><span region="Default">那我们算猎物吗</span></p>
+      <p
+        begin="01:11:52.360"
+        end="01:11:53.680"><span region="Default">这就是龙穴</span></p>
+      <p
+        begin="01:11:55.480"
+        end="01:11:57.200"><span region="Default">我爸拼了命想要找到这里</span></p>
+      <p
+        begin="01:12:29.840"
+        end="01:12:31.400"><span region="Default">那是什么东西</span></p>
+      <p
+        begin="01:12:34.400"
+        end="01:12:35.840"><span region="Default">好了,哥们儿,我们走</span></p>
+      <p
+        begin="01:12:45.000"
+        end="01:12:47.520"><span region="Default">真不敢相信我们居然才发现</span></p>
+      <p
+        begin="01:12:47.600"
+        end="01:12:49.200"><span region="Default">这样一切都合理了</span></p>
+      <p
+        begin="01:12:49.280"
+        end="01:12:51.680"><span region="Default">龙穴就和蜂巢一样</span></p>
+      <p
+        begin="01:12:51.760"
+        end="01:12:55.160"><span region="Default">那条最大的龙,就是蜂王</span></p>
+      <p
+        begin="01:12:55.240"
+        end="01:12:56.440"><span region="Default">奴役其他的龙</span></p>
+      <p
+        begin="01:12:57.400"
+        end="01:12:58.440"><span region="Default">得去告诉你爸爸</span></p>
+      <p
+        begin="01:12:58.520"
+        end="01:12:59.920"><span region="Default">不,还不行</span></p>
+      <p
+        begin="01:13:00.040"
+        end="01:13:02.680"><span region="Default">他们会杀了没牙仔</span></p>
+      <p
+        begin="01:13:04.360"
+        end="01:13:05.560"><span region="Default">阿丝翠德</span></p>
+      <p
+        begin="01:13:06.040"
+        end="01:13:08.520"><span region="Default">我们得好好想一想<br/>谨慎一点儿</span></p>
+      <p
+        begin="01:13:10.600"
+        end="01:13:14.040"><span region="Default">小嗝嗝<br/>我们刚刚发现了所有龙的老巢</span></p>
+      <p
+        begin="01:13:14.600"
+        end="01:13:16.320"><span region="Default">你却不想告诉大家</span></p>
+      <p
+        begin="01:13:16.400"
+        end="01:13:18.560"><span region="Default">就为了保护你的宠物</span></p>
+      <p
+        begin="01:13:19.520"
+        end="01:13:20.840"><span region="Default">你是认真的吗</span></p>
+      <p
+        begin="01:13:22.280"
+        end="01:13:23.280"><span region="Default">是的</span></p>
+      <p
+        begin="01:13:32.720"
+        end="01:13:33.720"><span region="Default">好吧</span></p>
+      <p
+        begin="01:13:35.440"
+        end="01:13:37.680"><span region="Default">那我们怎么办</span></p>
+      <p
+        begin="01:13:41.760"
+        end="01:13:43.560"><span region="Default">明天我再告诉你</span></p>
+      <p
+        begin="01:13:43.640"
+        end="01:13:44.920"><span region="Default">我会想办法</span></p>
+      <p
+        begin="01:13:48.520"
+        end="01:13:50.240"><span region="Default">这是因为你绑架我</span></p>
+      <p
+        begin="01:13:50.320"
+        end="01:13:51.440"><span region="Default">你能不能</span></p>
+      <p
+        begin="01:13:54.480"
+        end="01:13:57.240"><span region="Default">这是因为你这个人</span></p>
+      <p
+        begin="01:14:07.800"
+        end="01:14:08.840"><span region="Default">干什么</span></p>
+      <p
+        begin="01:14:19.800"
+        end="01:14:24.000"><span region="Default">今天,我终于又可以骄傲地站在這兒</span></p>
+      <p
+        begin="01:14:27.920"
+        end="01:14:29.240"><span region="Default">好了</span></p>
+      <p
+        begin="01:14:29.320"
+        end="01:14:33.280"><span region="Default">如果几个星期前有人来对我说</span></p>
+      <p
+        begin="01:14:33.520"
+        end="01:14:37.400"><span region="Default">小嗝嗝会改头换面<br/>不再是那副样子</span></p>
+      <p
+        begin="01:14:40.000"
+        end="01:14:43.120"><span region="Default">还能在火焰试炼中拿到第一名</span></p>
+      <p
+        begin="01:14:43.200"
+        end="01:14:46.160"><span region="Default">我会把这人绑到船上直接送走</span></p>
+      <p
+        begin="01:14:46.240"
+        end="01:14:47.840"><span region="Default">因为他一定是疯了</span></p>
+      <p
+        begin="01:14:48.920"
+        end="01:14:50.120"><span region="Default">你懂的</span></p>
+      <p
+        begin="01:14:53.320"
+        end="01:14:54.600"><span region="Default">可是现在</span></p>
+      <p
+        begin="01:14:56.600"
+        end="01:15:00.120"><span region="Default">我儿子通过了火焰试炼,成了斩龙手</span></p>
+      <p
+        begin="01:15:01.400"
+        end="01:15:03.520"><span region="Default">我比你们都更加惊讶</span></p>
+      <p
+        begin="01:15:06.640"
+        end="01:15:09.360"><span region="Default">我也为他感到骄傲</span></p>
+      <p
+        begin="01:15:11.280"
+        end="01:15:15.080"><span region="Default">今天,我儿子会成为战士</span></p>
+      <p
+        begin="01:15:16.320"
+        end="01:15:20.160"><span region="Default">今天他也会成为我们的一员</span></p>
+      <p
+        begin="01:15:29.320"
+        end="01:15:32.160"><span region="Default">小嗝嗝,小嗝嗝,小嗝嗝</span></p>
+      <p
+        begin="01:15:32.240"
+        end="01:15:34.760"><span region="Default">小嗝嗝,小嗝嗝,小嗝嗝</span></p>
+      <p
+        begin="01:15:34.840"
+        end="01:15:37.600"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="01:15:37.680"
+        end="01:15:40.240"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="01:15:40.320"
+        end="01:15:42.800"><span region="Default">小嗝嗝,小嗝嗝,小嗝嗝</span></p>
+      <p
+        begin="01:15:42.920"
+        end="01:15:45.320"><span region="Default">小嗝嗝,小嗝嗝,小嗝嗝</span></p>
+      <p
+        begin="01:15:45.840"
+        end="01:15:47.360"><span region="Default">当心那条龙</span></p>
+      <p
+        begin="01:15:49.360"
+        end="01:15:51.200"><span region="Default">我担心的不是龙</span></p>
+      <p
+        begin="01:15:54.360"
+        end="01:15:56.760"><span region="Default">听着,我要给一切做个了结</span></p>
+      <p
+        begin="01:15:56.840"
+        end="01:15:58.920"><span region="Default">但万一出了意外</span></p>
+      <p
+        begin="01:16:00.720"
+        end="01:16:01.760"><span region="Default">你不要卷进来</span></p>
+      <p
+        begin="01:16:02.520"
+        end="01:16:03.840"><span region="Default">我爸爸很看重你</span></p>
+      <p
+        begin="01:16:09.200"
+        end="01:16:10.800"><span region="Default">对</span></p>
+      <p
+        begin="01:16:10.880"
+        end="01:16:12.040"><span region="Default">但是</span></p>
+      <p
+        begin="01:16:12.680"
+        end="01:16:15.400"><span region="Default">你有种很特别的品质而我没有</span></p>
+      <p
+        begin="01:16:15.480"
+        end="01:16:18.760"><span region="Default">其他人都没有</span></p>
+      <p
+        begin="01:16:20.080"
+        end="01:16:21.360"><span region="Default">所以</span></p>
+      <p
+        begin="01:16:21.880"
+        end="01:16:23.520"><span region="Default">我要和你并肩战斗</span></p>
+      <p
+        begin="01:16:24.680"
+        end="01:16:25.840"><span region="Default">管它呢</span></p>
+      <p
+        begin="01:16:29.240"
+        end="01:16:30.240"><span region="Default">管它呢</span></p>
+      <p
+        begin="01:16:32.440"
+        end="01:16:33.440"><span region="Default">时间到了</span></p>
+      <p
+        begin="01:16:37.160"
+        end="01:16:38.520"><span region="Default">旗开得胜</span></p>
+      <p
+        begin="01:16:50.600"
+        end="01:16:53.920"><span region="Default">小嗝嗝,小嗝嗝,小嗝嗝</span></p>
+      <p
+        begin="01:16:54.000"
+        end="01:16:56.600"><span region="Default">小嗝嗝,小嗝嗝,小嗝嗝</span></p>
+      <p
+        begin="01:16:56.680"
+        end="01:16:59.680"><span region="Default">小嗝嗝,小嗝嗝,小嗝嗝</span></p>
+      <p
+        begin="01:16:59.760"
+        end="01:17:01.920"><span region="Default">小嗝嗝,小嗝嗝,小嗝嗝</span></p>
+      <p
+        begin="01:17:02.040"
+        end="01:17:04.320"><span region="Default">小嗝嗝,小嗝嗝,小嗝嗝</span></p>
+      <p
+        begin="01:17:04.400"
+        end="01:17:06.920"><span region="Default">小嗝嗝,小嗝嗝,小嗝嗝</span></p>
+      <p
+        begin="01:17:07.040"
+        end="01:17:08.040"><span region="Default">加油啊</span></p>
+      <p
+        begin="01:17:08.120"
+        end="01:17:10.120"><span region="Default">记得用上我教你的招</span></p>
+      <p
+        begin="01:17:10.200"
+        end="01:17:11.400"><span region="Default">是我教的</span></p>
+      <p
+        begin="01:17:14.000"
+        end="01:17:16.280"><span region="Default">不错啊,热情真高</span></p>
+      <p
+        begin="01:17:35.320"
+        end="01:17:36.600"><span region="Default">换我就选锤子</span></p>
+      <p
+        begin="01:17:36.680"
+        end="01:17:38.720"><span region="Default">别急呀,看就是了</span></p>
+      <p
+        begin="01:17:46.240"
+        end="01:17:47.360"><span region="Default">开始吧</span></p>
+      <p
+        begin="01:18:51.200"
+        end="01:18:52.400"><span region="Default">他在干什么</span></p>
+      <p
+        begin="01:18:54.760"
+        end="01:18:56.120"><span region="Default">我不会伤害你</span></p>
+      <p
+        begin="01:19:04.760"
+        end="01:19:06.120"><span region="Default">我和他们不一样</span></p>
+      <p
+        begin="01:19:19.480"
+        end="01:19:20.720"><span region="Default">停止战斗</span></p>
+      <p
+        begin="01:19:20.800"
+        end="01:19:23.120"><span region="Default">不,你们都应该看看</span></p>
+      <p
+        begin="01:19:24.440"
+        end="01:19:26.160"><span region="Default">它们并不邪恶</span></p>
+      <p
+        begin="01:19:27.680"
+        end="01:19:28.920"><span region="Default">我们不用互相残杀</span></p>
+      <p
+        begin="01:19:30.600"
+        end="01:19:32.680"><span region="Default">我说了,停止战斗</span></p>
+      <p
+        begin="01:19:39.600"
+        end="01:19:40.840"><span region="Default">都让开</span></p>
+      <p
+        begin="01:19:41.640"
+        end="01:19:43.040"><span region="Default">小嗝嗝,快跑</span></p>
+      <p
+        begin="01:19:44.840"
+        end="01:19:46.240"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="01:20:05.720"
+        end="01:20:07.600"><span region="Default">快点儿,鱼脚司,抓住他,爬上来</span></p>
+      <p
+        begin="01:20:07.680"
+        end="01:20:10.000"><span region="Default">小嗝嗝,抓住我的手,快爬上来</span></p>
+      <p
+        begin="01:20:10.080"
+        end="01:20:11.120"><span region="Default">抓住他的手,快一点儿</span></p>
+      <p
+        begin="01:20:19.840"
+        end="01:20:21.560"><span region="Default">阿丝翠德,给我回来</span></p>
+      <p
+        begin="01:20:22.400"
+        end="01:20:23.760"><span region="Default">这是命令</span></p>
+      <p
+        begin="01:20:30.720"
+        end="01:20:32.000"><span region="Default">快跑</span></p>
+      <p
+        begin="01:20:33.120"
+        end="01:20:34.120"><span region="Default">快来</span></p>
+      <p
+        begin="01:20:36.280"
+        end="01:20:37.280"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="01:20:49.600"
+        end="01:20:50.720"><span region="Default">是夜煞</span></p>
+      <p
+        begin="01:20:51.480"
+        end="01:20:54.040"><span region="Default">真的有夜煞,是真的</span></p>
+      <p
+        begin="01:21:20.320"
+        end="01:21:22.280"><span region="Default">可以了,哥们儿,快走</span></p>
+      <p
+        begin="01:21:24.920"
+        end="01:21:26.760"><span region="Default">快上,到它边上去</span></p>
+      <p
+        begin="01:21:30.000"
+        end="01:21:31.560"><span region="Default">小嗝嗝,让开</span></p>
+      <p
+        begin="01:21:35.760"
+        end="01:21:37.080"><span region="Default">住手,这样没有用的</span></p>
+      <p
+        begin="01:21:39.440"
+        end="01:21:40.440"><span region="Default">阿丝翠德</span></p>
+      <p
+        begin="01:21:43.920"
+        end="01:21:44.920"><span region="Default">这里交给我</span></p>
+      <p
+        begin="01:21:47.280"
+        end="01:21:49.160"><span region="Default">斯图依克,它不会伤害你的</span></p>
+      <p
+        begin="01:21:58.760"
+        end="01:21:59.760"><span region="Default">不要</span></p>
+      <p
+        begin="01:22:04.560"
+        end="01:22:05.720"><span region="Default">没牙仔</span></p>
+      <p
+        begin="01:22:06.920"
+        end="01:22:07.920"><span region="Default">不要</span></p>
+      <p
+        begin="01:22:11.080"
+        end="01:22:12.600"><span region="Default">按住它</span></p>
+      <p
+        begin="01:22:14.480"
+        end="01:22:15.600"><span region="Default">抓住它的腿</span></p>
+      <p
+        begin="01:22:15.680"
+        end="01:22:16.840"><span region="Default">别让它起来</span></p>
+      <p
+        begin="01:22:16.920"
+        end="01:22:18.080"><span region="Default">不,别伤害它</span></p>
+      <p
+        begin="01:22:18.160"
+        end="01:22:19.600"><span region="Default">别过来,退后</span></p>
+      <p
+        begin="01:22:25.040"
+        end="01:22:26.040"><span region="Default">至于你</span></p>
+      <p
+        begin="01:22:39.360"
+        end="01:22:40.920"><span region="Default">把它关起来</span></p>
+      <p
+        begin="01:22:47.200"
+        end="01:22:48.480"><span region="Default">我就知道不对劲,爸爸</span></p>
+      <p
+        begin="01:22:48.560"
+        end="01:22:49.920"><span region="Default">-我早该想到的<br/>-爸爸</span></p>
+      <p
+        begin="01:22:50.000"
+        end="01:22:52.640"><span region="Default">我们有约定,我知道,可后来我发现</span></p>
+      <p
+        begin="01:22:52.720"
+        end="01:22:53.840"><span region="Default">这样太荒唐了</span></p>
+      <p
+        begin="01:22:54.720"
+        end="01:22:57.680"><span region="Default">你在训练场的表现都是耍花招</span></p>
+      <p
+        begin="01:22:57.760"
+        end="01:22:58.760"><span region="Default">是假的</span></p>
+      <p
+        begin="01:22:58.840"
+        end="01:23:01.160"><span region="Default">我该早点儿告诉您的,可我不敢</span></p>
+      <p
+        begin="01:23:01.400"
+        end="01:23:02.760"><span region="Default">您想怎么罚我都行</span></p>
+      <p
+        begin="01:23:02.840"
+        end="01:23:04.400"><span region="Default">不要伤害没牙仔</span></p>
+      <p
+        begin="01:23:05.840"
+        end="01:23:07.080"><span region="Default">那条龙</span></p>
+      <p
+        begin="01:23:08.040"
+        end="01:23:09.760"><span region="Default">你现在还担心它</span></p>
+      <p
+        begin="01:23:10.320"
+        end="01:23:12.160"><span region="Default">那么多人差点儿就没命了</span></p>
+      <p
+        begin="01:23:12.240"
+        end="01:23:14.320"><span region="Default">可它不危险,它是在保护我</span></p>
+      <p
+        begin="01:23:14.400"
+        end="01:23:17.640"><span region="Default">恶龙杀死了你妈妈<br/>难道你忘了吗</span></p>
+      <p
+        begin="01:23:19.120"
+        end="01:23:22.360"><span region="Default">看到你替龙说话,你妈妈会怎么想</span></p>
+      <p
+        begin="01:23:22.440"
+        end="01:23:24.240"><span region="Default">它们已经杀了几百个人</span></p>
+      <p
+        begin="01:23:24.320"
+        end="01:23:25.920"><span region="Default">我们也杀了几千条龙</span></p>
+      <p
+        begin="01:23:26.440"
+        end="01:23:28.440"><span region="Default">它们反击是为了活命</span></p>
+      <p
+        begin="01:23:28.520"
+        end="01:23:30.120"><span region="Default">它们偷食物是不得已</span></p>
+      <p
+        begin="01:23:30.200"
+        end="01:23:31.360"><span region="Default">因为不带回贡品</span></p>
+      <p
+        begin="01:23:31.440"
+        end="01:23:32.920"><span region="Default">巨龙就会吃掉它们</span></p>
+      <p
+        begin="01:23:33.280"
+        end="01:23:34.720"><span region="Default">您没去过那座岛</span></p>
+      <p
+        begin="01:23:34.800"
+        end="01:23:36.240"><span region="Default">有一条巨龙,是它们的首领</span></p>
+      <p
+        begin="01:23:36.320"
+        end="01:23:37.720"><span region="Default">那座岛</span></p>
+      <p
+        begin="01:23:39.800"
+        end="01:23:41.160"><span region="Default">你去过龙穴了</span></p>
+      <p
+        begin="01:23:41.920"
+        end="01:23:43.200"><span region="Default">我说龙穴了吗</span></p>
+      <p
+        begin="01:23:44.120"
+        end="01:23:45.560"><span region="Default">你是怎么找到的</span></p>
+      <p
+        begin="01:23:45.640"
+        end="01:23:47.600"><span region="Default">不是我,是没牙仔</span></p>
+      <p
+        begin="01:23:47.680"
+        end="01:23:49.480"><span region="Default">只有龙能去那座岛</span></p>
+      <p
+        begin="01:23:53.080"
+        end="01:23:55.920"><span region="Default">不,爸爸,不要</span></p>
+      <p
+        begin="01:23:56.040"
+        end="01:23:58.840"><span region="Default">那条龙非常强大<br/>我们根本不是对手</span></p>
+      <p
+        begin="01:23:59.520"
+        end="01:24:01.160"><span region="Default">你们不可能赢它的</span></p>
+      <p
+        begin="01:24:01.640"
+        end="01:24:04.320"><span region="Default">就这一次也好,求您了,听我说</span></p>
+      <p
+        begin="01:24:08.520"
+        end="01:24:10.920"><span region="Default">你已经选择了站在它们那边</span></p>
+      <p
+        begin="01:24:12.480"
+        end="01:24:14.480"><span region="Default">你不是维京人</span></p>
+      <p
+        begin="01:24:14.560"
+        end="01:24:16.120"><span region="Default">你也不是我儿子</span></p>
+      <p
+        begin="01:24:25.520"
+        end="01:24:26.760"><span region="Default">准备船只</span></p>
+      <p
+        begin="01:24:27.280"
+        end="01:24:28.840"><span region="Default">明早出发</span></p>
+      <p
+        begin="01:24:53.560"
+        end="01:24:54.920"><span region="Default">往外一点儿</span></p>
+      <p
+        begin="01:24:55.040"
+        end="01:24:56.440"><span region="Default">慢点儿,当心它的头</span></p>
+      <p
+        begin="01:24:56.720"
+        end="01:24:57.840"><span region="Default">慢慢放</span></p>
+      <p
+        begin="01:24:59.840"
+        end="01:25:01.280"><span region="Default">小心点儿</span></p>
+      <p
+        begin="01:25:06.720"
+        end="01:25:08.120"><span region="Default">武器就位</span></p>
+      <p
+        begin="01:25:08.520"
+        end="01:25:10.320"><span region="Default">-有备用的索具吗<br/>-有</span></p>
+      <p
+        begin="01:25:10.400"
+        end="01:25:12.800"><span region="Default">-升起船帆<br/>-遵命</span></p>
+      <p
+        begin="01:25:16.000"
+        end="01:25:17.040"><span region="Default">准备好船桨</span></p>
+      <p
+        begin="01:25:17.120"
+        end="01:25:18.160"><span region="Default">是,族长</span></p>
+      <p
+        begin="01:25:19.760"
+        end="01:25:22.480"><span region="Default">目的地是,地狱之门</span></p>
+      <p
+        begin="01:25:38.920"
+        end="01:25:40.840"><span region="Default">你来带路吧,恶魔</span></p>
+      <p
+        begin="01:26:10.320"
+        end="01:26:11.720"><span region="Default">我想阻止他们</span></p>
+      <p
+        begin="01:26:12.800"
+        end="01:26:14.920"><span region="Default">结果却适得其反</span></p>
+      <p
+        begin="01:26:18.200"
+        end="01:26:19.280"><span region="Default">早知道这样</span></p>
+      <p
+        begin="01:26:20.640"
+        end="01:26:22.920"><span region="Default">还不如当初直接杀了它呢</span></p>
+      <p
+        begin="01:26:25.160"
+        end="01:26:26.680"><span region="Default">这样对大家都好</span></p>
+      <p
+        begin="01:26:27.320"
+        end="01:26:28.640"><span region="Default">是啊</span></p>
+      <p
+        begin="01:26:28.720"
+        end="01:26:30.160"><span region="Default">别人都会杀了它</span></p>
+      <p
+        begin="01:26:33.440"
+        end="01:26:34.960"><span region="Default">你为什么没有</span></p>
+      <p
+        begin="01:26:35.720"
+        end="01:26:37.160"><span region="Default">-为什么<br/>-我不敢杀</span></p>
+      <p
+        begin="01:26:37.240"
+        end="01:26:38.240"><span region="Default">才不是这个理由</span></p>
+      <p
+        begin="01:26:38.320"
+        end="01:26:40.080"><span region="Default">你为什么非要问这个</span></p>
+      <p
+        begin="01:26:40.160"
+        end="01:26:42.160"><span region="Default">因为我想知道你真正的想法</span></p>
+      <p
+        begin="01:26:42.240"
+        end="01:26:44.120"><span region="Default">老天啊,因为我弱小</span></p>
+      <p
+        begin="01:26:44.560"
+        end="01:26:46.360"><span region="Default">因为我是懦夫,我不愿意屠龙</span></p>
+      <p
+        begin="01:26:46.440"
+        end="01:26:48.760"><span region="Default">-原来你是不愿意<br/>-对,我不愿意</span></p>
+      <p
+        begin="01:26:49.280"
+        end="01:26:53.120"><span region="Default">也许千百年来<br/>只有我一个维京人不愿意屠龙</span></p>
+      <p
+        begin="01:26:55.120"
+        end="01:26:56.560"><span region="Default">但能骑龙的也只有你</span></p>
+      <p
+        begin="01:27:03.080"
+        end="01:27:04.080"><span region="Default">回答我</span></p>
+      <p
+        begin="01:27:07.840"
+        end="01:27:09.320"><span region="Default">我不想杀它是因为</span></p>
+      <p
+        begin="01:27:11.280"
+        end="01:27:13.120"><span region="Default">它的眼神充满恐惧</span></p>
+      <p
+        begin="01:27:16.560"
+        end="01:27:17.760"><span region="Default">我看到它</span></p>
+      <p
+        begin="01:27:19.360"
+        end="01:27:20.920"><span region="Default">就像看到自己</span></p>
+      <p
+        begin="01:27:31.320"
+        end="01:27:32.760"><span region="Default">它现在一定也很怕</span></p>
+      <p
+        begin="01:27:39.640"
+        end="01:27:41.240"><span region="Default">你会怎么做呢</span></p>
+      <p
+        begin="01:27:43.560"
+        end="01:27:45.200"><span region="Default">我可能会做傻事吧</span></p>
+      <p
+        begin="01:27:47.320"
+        end="01:27:48.560"><span region="Default">你已经做过傻事了</span></p>
+      <p
+        begin="01:27:54.200"
+        end="01:27:55.240"><span region="Default">那就赌一把</span></p>
+      <p
+        begin="01:27:57.000"
+        end="01:27:58.280"><span region="Default">这还差不多</span></p>
+      <p
+        begin="01:28:04.440"
+        end="01:28:07.800"><span region="Default">报告你们的位置,不要离开太远</span></p>
+      <p
+        begin="01:28:08.400"
+        end="01:28:10.040"><span region="Default">我们跟在船尾不远处</span></p>
+      <p
+        begin="01:28:10.240"
+        end="01:28:11.480"><span region="Default">我们的船在右舷</span></p>
+      <p
+        begin="01:28:12.160"
+        end="01:28:14.560"><span region="Default">它们为什么不攻击我们</span></p>
+      <p
+        begin="01:28:14.640"
+        end="01:28:16.440"><span region="Default">也许它们感觉到了什么</span></p>
+      <p
+        begin="01:28:19.800"
+        end="01:28:21.520"><span region="Default">你是不是挨打有点儿上瘾了</span></p>
+      <p
+        begin="01:28:21.600"
+        end="01:28:23.840"><span region="Default">这次有机会彻底消灭它们</span></p>
+      <p
+        begin="01:28:25.800"
+        end="01:28:27.160"><span region="Default">多亏了小嗝嗝</span></p>
+      <p
+        begin="01:28:28.360"
+        end="01:28:29.840"><span region="Default">你觉得我们需要多久</span></p>
+      <p
+        begin="01:28:41.000"
+        end="01:28:42.280"><span region="Default">我来掌舵</span></p>
+      <p
+        begin="01:28:57.560"
+        end="01:28:59.360"><span region="Default">-收起船桨<br/>-收船桨</span></p>
+      <p
+        begin="01:29:13.520"
+        end="01:29:14.520"><span region="Default">不是,我说</span></p>
+      <p
+        begin="01:29:14.640"
+        end="01:29:18.240"><span region="Default">你刚才在全村人面前把脸都丢光了</span></p>
+      <p
+        begin="01:29:18.320"
+        end="01:29:20.240"><span region="Default">-凭什么听你的<br/>-因为我支持他</span></p>
+      <p
+        begin="01:29:20.320"
+        end="01:29:22.440"><span region="Default">-说得没错<br/>-大家认真点儿</span></p>
+      <p
+        begin="01:29:22.520"
+        end="01:29:25.400"><span region="Default">听着,我爸是好心,可他太固执</span></p>
+      <p
+        begin="01:29:25.600"
+        end="01:29:28.120"><span region="Default">局面已经失控<br/>现在就要靠我们了</span></p>
+      <p
+        begin="01:29:28.200"
+        end="01:29:29.280"><span region="Default">我们?</span></p>
+      <p
+        begin="01:29:29.360"
+        end="01:29:31.360"><span region="Default">我需要你们帮我做一件事</span></p>
+      <p
+        begin="01:29:31.440"
+        end="01:29:33.120"><span region="Default">你们每个人都有特长</span></p>
+      <p
+        begin="01:29:33.520"
+        end="01:29:34.800"><span region="Default">别说了</span></p>
+      <p
+        begin="01:29:34.920"
+        end="01:29:38.040"><span region="Default">你已经找到了天下无敌的最强战神</span></p>
+      <p
+        begin="01:29:38.800"
+        end="01:29:41.200"><span region="Default">-就是我<br/>-你真是不要命,我喜欢</span></p>
+      <p
+        begin="01:29:41.600"
+        end="01:29:43.920"><span region="Default">阿丝翠德,你是最强的战士<br/>你负责领大家</span></p>
+      <p
+        begin="01:29:44.000"
+        end="01:29:45.760"><span region="Default">领我们去哪儿,怎么去</span></p>
+      <p
+        begin="01:29:45.840"
+        end="01:29:48.640"><span region="Default">他们已经开走了村里所有的船</span></p>
+      <p
+        begin="01:29:51.120"
+        end="01:29:52.240"><span region="Default">跟我来</span></p>
+      <p
+        begin="01:29:58.520"
+        end="01:29:59.920"><span region="Default">原来它在这里</span></p>
+      <p
+        begin="01:30:00.000"
+        end="01:30:01.560"><span region="Default">放低调些,准备好</span></p>
+      <p
+        begin="01:30:01.640"
+        end="01:30:02.640"><span region="Default">我们到了</span></p>
+      <p
+        begin="01:30:40.320"
+        end="01:30:41.640"><span region="Default">不要</span></p>
+      <p
+        begin="01:31:01.360"
+        end="01:31:03.120"><span region="Default">小嗝嗝,我</span></p>
+      <p
+        begin="01:31:04.280"
+        end="01:31:05.520"><span region="Default">放松</span></p>
+      <p
+        begin="01:31:08.160"
+        end="01:31:09.160"><span region="Default">没事的</span></p>
+      <p
+        begin="01:31:20.280"
+        end="01:31:21.600"><span region="Default">你要去哪儿</span></p>
+      <p
+        begin="01:31:21.680"
+        end="01:31:23.640"><span region="Default">帮你拿固定用的绳子</span></p>
+      <p
+        begin="01:31:23.920"
+        end="01:31:24.920"><span region="Default">准备好了吗</span></p>
+      <p
+        begin="01:31:25.600"
+        end="01:31:27.200"><span region="Default">今天晚上要飞很久呢</span></p>
+      <p
+        begin="01:31:34.280"
+        end="01:31:35.720"><span region="Default">形成防守阵型</span></p>
+      <p
+        begin="01:31:41.840"
+        end="01:31:43.640"><span region="Default">把斧子都磨锋利点儿</span></p>
+      <p
+        begin="01:31:53.640"
+        end="01:31:54.760"><span region="Default">族长,我们准备好了</span></p>
+      <p
+        begin="01:31:56.840"
+        end="01:31:58.720"><span region="Default">-勇敢战斗<br/>-是,族长</span></p>
+      <p
+        begin="01:32:00.160"
+        end="01:32:01.600"><span region="Default">让家人为你骄傲</span></p>
+      <p
+        begin="01:32:01.680"
+        end="01:32:02.720"><span region="Default">没问题,族长</span></p>
+      <p
+        begin="01:32:05.080"
+        end="01:32:09.600"><span region="Default">今天,我们就要深入龙穴</span></p>
+      <p
+        begin="01:32:09.680"
+        end="01:32:11.280"><span region="Default">把所有恶龙一网打尽</span></p>
+      <p
+        begin="01:32:15.680"
+        end="01:32:19.320"><span region="Default">无论结果如何<br/>我们今天就要做个了结</span></p>
+      <p
+        begin="01:32:20.840"
+        end="01:32:24.240"><span region="Default">一起来送那些恶魔下地狱吧</span></p>
+      <p
+        begin="01:33:36.600"
+        end="01:33:37.600"><span region="Default">发射</span></p>
+      <p
+        begin="01:33:38.840"
+        end="01:33:40.040"><span region="Default">这就完了吗</span></p>
+      <p
+        begin="01:33:40.760"
+        end="01:33:42.000"><span region="Default">我们占领了龙穴</span></p>
+      <p
+        begin="01:33:45.760"
+        end="01:33:47.360"><span region="Default">还没结束</span></p>
+      <p
+        begin="01:33:55.720"
+        end="01:33:57.200"><span region="Default">马上后撤</span></p>
+      <p
+        begin="01:33:57.280"
+        end="01:33:58.800"><span region="Default">退后</span></p>
+      <p
+        begin="01:33:58.920"
+        end="01:34:00.800"><span region="Default">退后,所有人退后</span></p>
+      <p
+        begin="01:34:08.480"
+        end="01:34:09.480"><span region="Default">快撤退</span></p>
+      <p
+        begin="01:34:10.640"
+        end="01:34:11.640"><span region="Default">快跑,快点儿</span></p>
+      <p
+        begin="01:34:32.200"
+        end="01:34:33.200"><span region="Default">当心</span></p>
+      <p
+        begin="01:34:38.720"
+        end="01:34:40.920"><span region="Default">撤回船上去</span></p>
+      <p
+        begin="01:34:41.000"
+        end="01:34:42.000"><span region="Default">不</span></p>
+      <p
+        begin="01:34:54.840"
+        end="01:34:56.440"><span region="Default">让他们去岛的另一边</span></p>
+      <p
+        begin="01:34:56.520"
+        end="01:34:58.120"><span region="Default">是,族长,我们走</span></p>
+      <p
+        begin="01:34:58.200"
+        end="01:35:01.160"><span region="Default">这边,都跟上</span></p>
+      <p
+        begin="01:35:05.640"
+        end="01:35:07.640"><span region="Default">大家快跑</span></p>
+      <p
+        begin="01:35:07.720"
+        end="01:35:09.360"><span region="Default">高伯,你也跟他们走</span></p>
+      <p
+        begin="01:35:09.440"
+        end="01:35:11.520"><span region="Default">为什么,你要去哪儿</span></p>
+      <p
+        begin="01:35:19.200"
+        end="01:35:20.840"><span region="Default">算了,我还是留下来吧</span></p>
+      <p
+        begin="01:35:20.920"
+        end="01:35:23.280"><span region="Default">我看你的眼神有点儿发狠</span></p>
+      <p
+        begin="01:35:23.360"
+        end="01:35:25.000"><span region="Default">吸引巨龙的注意力</span></p>
+      <p
+        begin="01:35:25.080"
+        end="01:35:27.120"><span region="Default">就能给他们多争取点儿时间</span></p>
+      <p
+        begin="01:35:27.200"
+        end="01:35:28.680"><span region="Default">那有我在就更好了</span></p>
+      <p
+        begin="01:35:29.400"
+        end="01:35:31.320"><span region="Default">对,没错,我就是心太软</span></p>
+      <p
+        begin="01:35:32.360"
+        end="01:35:34.760"><span region="Default">不过你的骨头倒是很硬</span></p>
+      <p
+        begin="01:36:03.840"
+        end="01:36:06.920"><span region="Default">别忘了,那条巨龙是它们的老大</span></p>
+      <p
+        begin="01:36:07.040"
+        end="01:36:08.480"><span region="Default">所有的龙都很怕它</span></p>
+      <p
+        begin="01:36:09.000"
+        end="01:36:10.200"><span region="Default">我们要帮它们反抗</span></p>
+      <p
+        begin="01:36:11.600"
+        end="01:36:12.680"><span region="Default">什么</span></p>
+      <p
+        begin="01:36:12.760"
+        end="01:36:14.600"><span region="Default">鱼脚司,报告情况</span></p>
+      <p
+        begin="01:36:15.480"
+        end="01:36:17.360"><span region="Default">它的头部和尾部很坚硬</span></p>
+      <p
+        begin="01:36:17.440"
+        end="01:36:19.560"><span region="Default">擅长冲刺和突袭</span></p>
+      <p
+        begin="01:36:19.640"
+        end="01:36:23.720"><span region="Default">眼睛很小,但鼻孔很大<br/>依赖听觉和嗅觉</span></p>
+      <p
+        begin="01:36:23.800"
+        end="01:36:24.800"><span region="Default">收到</span></p>
+      <p
+        begin="01:36:24.880"
+        end="01:36:26.280"><span region="Default">-阿丝翠德<br/>-好的</span></p>
+      <p
+        begin="01:36:26.360"
+        end="01:36:29.240"><span region="Default">鼻涕粗,鱼脚司<br/>飞到它的盲点</span></p>
+      <p
+        begin="01:36:29.320"
+        end="01:36:31.640"><span region="Default">制造响声,分散它的注意力</span></p>
+      <p
+        begin="01:36:31.920"
+        end="01:36:34.560"><span region="Default">你们两个测量火球射程</span></p>
+      <p
+        begin="01:36:34.640"
+        end="01:36:35.640"><span region="Default">惹它生气</span></p>
+      <p
+        begin="01:36:35.720"
+        end="01:36:37.680"><span region="Default">那我们可是专业的</span></p>
+      <p
+        begin="01:36:39.560"
+        end="01:36:41.120"><span region="Default">都当心点儿,别死了</span></p>
+      <p
+        begin="01:36:51.760"
+        end="01:36:53.840"><span region="Default">这家伙怎么好像没有盲点</span></p>
+      <p
+        begin="01:36:57.440"
+        end="01:36:58.440"><span region="Default">在那里</span></p>
+      <p
+        begin="01:37:04.640"
+        end="01:37:06.000"><span region="Default">哥们儿</span></p>
+      <p
+        begin="01:37:06.480"
+        end="01:37:08.840"><span region="Default">-走吧,我没事<br/>-当心点儿</span></p>
+      <p
+        begin="01:37:13.720"
+        end="01:37:15.720"><span region="Default">我来了</span></p>
+      <p
+        begin="01:37:28.640"
+        end="01:37:29.760"><span region="Default">继续敲</span></p>
+      <p
+        begin="01:37:30.200"
+        end="01:37:32.520"><span region="Default">可是我们的龙听了也头晕</span></p>
+      <p
+        begin="01:37:32.600"
+        end="01:37:34.000"><span region="Default">不</span></p>
+      <p
+        begin="01:37:41.480"
+        end="01:37:43.600"><span region="Default">这边,这边,快</span></p>
+      <p
+        begin="01:37:43.680"
+        end="01:37:45.680"><span region="Default">快啊,大家快跑,跑啊</span></p>
+      <p
+        begin="01:37:46.200"
+        end="01:37:47.520"><span region="Default">那是我儿子吗?</span></p>
+      <p
+        begin="01:37:48.160"
+        end="01:37:50.320"><span region="Default">鼻涕粗,快,扔过来</span></p>
+      <p
+        begin="01:37:52.840"
+        end="01:37:54.040"><span region="Default">别激动</span></p>
+      <p
+        begin="01:37:54.840"
+        end="01:37:56.080"><span region="Default">下去了</span></p>
+      <p
+        begin="01:37:58.920"
+        end="01:37:59.920"><span region="Default">我没事</span></p>
+      <p
+        begin="01:38:01.240"
+        end="01:38:02.720"><span region="Default">我有事</span></p>
+      <p
+        begin="01:38:05.840"
+        end="01:38:07.480"><span region="Default">鱼脚司,看我的</span></p>
+      <p
+        begin="01:38:15.240"
+        end="01:38:16.440"><span region="Default">你怎么了</span></p>
+      <p
+        begin="01:38:16.520"
+        end="01:38:18.200"><span region="Default">眼睛里进东西了吗</span></p>
+      <p
+        begin="01:38:19.360"
+        end="01:38:22.080"><span region="Default">这样才像斩龙手</span></p>
+      <p
+        begin="01:39:38.760"
+        end="01:39:40.080"><span region="Default">我来了,哥们儿</span></p>
+      <p
+        begin="01:39:46.040"
+        end="01:39:47.200"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="01:39:49.760"
+        end="01:39:51.720"><span region="Default">那时候我只是想保护你</span></p>
+      <p
+        begin="01:39:52.920"
+        end="01:39:54.080"><span region="Default">我知道</span></p>
+      <p
+        begin="01:39:55.120"
+        end="01:39:56.720"><span region="Default">这次我来保护您</span></p>
+      <p
+        begin="01:39:59.400"
+        end="01:40:01.400"><span region="Default">无论发生什么</span></p>
+      <p
+        begin="01:40:01.680"
+        end="01:40:04.360"><span region="Default">我很骄傲能有你这个儿子</span></p>
+      <p
+        begin="01:40:09.040"
+        end="01:40:10.360"><span region="Default">有这话就够了</span></p>
+      <p
+        begin="01:40:12.440"
+        end="01:40:13.800"><span region="Default">走吧</span></p>
+      <p
+        begin="01:40:17.560"
+        end="01:40:18.680"><span region="Default">他来了</span></p>
+      <p
+        begin="01:40:19.600"
+        end="01:40:21.760"><span region="Default">你俩去帮鼻涕粗</span></p>
+      <p
+        begin="01:40:21.840"
+        end="01:40:23.000"><span region="Default">我去引开巨龙</span></p>
+      <p
+        begin="01:40:25.160"
+        end="01:40:27.680"><span region="Default">没错,来抓我吧</span></p>
+      <p
+        begin="01:40:30.040"
+        end="01:40:31.040"><span region="Default">鼻涕粗</span></p>
+      <p
+        begin="01:40:34.640"
+        end="01:40:35.680"><span region="Default">跳过来</span></p>
+      <p
+        begin="01:40:36.360"
+        end="01:40:37.760"><span region="Default">你一定是开玩笑吧</span></p>
+      <p
+        begin="01:40:50.840"
+        end="01:40:53.040"><span region="Default">你还真没掉下去</span></p>
+      <p
+        begin="01:40:53.120"
+        end="01:40:54.240"><span region="Default">是啊</span></p>
+      <p
+        begin="01:40:56.840"
+        end="01:40:58.400"><span region="Default">不,别这样</span></p>
+      <p
+        begin="01:40:59.000"
+        end="01:41:00.120"><span region="Default">挺住</span></p>
+      <p
+        begin="01:41:00.200"
+        end="01:41:01.640"><span region="Default">不要怕它</span></p>
+      <p
+        begin="01:41:01.720"
+        end="01:41:02.920"><span region="Default">别听它的</span></p>
+      <p
+        begin="01:41:26.360"
+        end="01:41:27.400"><span region="Default">阿丝翠德</span></p>
+      <p
+        begin="01:41:43.240"
+        end="01:41:44.240"><span region="Default">接到她了吗</span></p>
+      <p
+        begin="01:41:57.880"
+        end="01:41:59.040"><span region="Default">去吧</span></p>
+      <p
+        begin="01:42:01.680"
+        end="01:42:03.240"><span region="Default">我倒要看看</span></p>
+      <p
+        begin="01:42:03.600"
+        end="01:42:05.120"><span region="Default">它是不是也能飞</span></p>
+      <p
+        begin="01:42:19.840"
+        end="01:42:21.080"><span region="Default">它生气了吗</span></p>
+      <p
+        begin="01:42:24.320"
+        end="01:42:25.320"><span region="Default">是的</span></p>
+      <p
+        begin="01:42:39.720"
+        end="01:42:41.800"><span region="Default">接下来,我们玩消失</span></p>
+      <p
+        begin="01:42:47.640"
+        end="01:42:49.680"><span region="Default">它要喷火了</span></p>
+      <p
+        begin="01:42:55.760"
+        end="01:42:57.920"><span region="Default">他还真有当族长的潜力</span></p>
+      <p
+        begin="01:42:58.040"
+        end="01:42:59.040"><span region="Default">是啊</span></p>
+      <p
+        begin="01:43:38.920"
+        end="01:43:39.920"><span region="Default">小心</span></p>
+      <p
+        begin="01:43:43.640"
+        end="01:43:45.120"><span region="Default">好吧,没时间了</span></p>
+      <p
+        begin="01:43:45.200"
+        end="01:43:46.440"><span region="Default">执行最后一步</span></p>
+      <p
+        begin="01:43:52.200"
+        end="01:43:53.560"><span region="Default">你就这点儿本事</span></p>
+      <p
+        begin="01:44:12.000"
+        end="01:44:13.360"><span region="Default">再等一会儿</span></p>
+      <p
+        begin="01:44:13.760"
+        end="01:44:15.040"><span region="Default">我们就反击</span></p>
+      <p
+        begin="01:44:16.600"
+        end="01:44:17.720"><span region="Default">没牙仔,撑住</span></p>
+      <p
+        begin="01:44:20.720"
+        end="01:44:21.760"><span region="Default">现在</span></p>
+      <p
+        begin="01:44:42.480"
+        end="01:44:43.680"><span region="Default">哥们儿,我们</span></p>
+      <p
+        begin="01:44:44.360"
+        end="01:44:45.360"><span region="Default">不</span></p>
+      <p
+        begin="01:45:03.320"
+        end="01:45:04.520"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="01:45:09.440"
+        end="01:45:10.440"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="01:45:11.760"
+        end="01:45:12.800"><span region="Default">儿子</span></p>
+      <p
+        begin="01:45:14.840"
+        end="01:45:16.080"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="01:45:31.000"
+        end="01:45:32.000"><span region="Default">儿子</span></p>
+      <p
+        begin="01:45:44.560"
+        end="01:45:45.760"><span region="Default">对不起</span></p>
+      <p
+        begin="01:46:55.840"
+        end="01:46:56.840"><span region="Default">小嗝嗝</span></p>
+      <p
+        begin="01:47:04.760"
+        end="01:47:06.840"><span region="Default">他还活着</span></p>
+      <p
+        begin="01:47:09.920"
+        end="01:47:11.360"><span region="Default">好耶</span></p>
+      <p
+        begin="01:47:23.760"
+        end="01:47:25.040"><span region="Default">谢谢你</span></p>
+      <p
+        begin="01:47:26.600"
+        end="01:47:28.000"><span region="Default">你救了我儿子</span></p>
+      <p
+        begin="01:47:30.120"
+        end="01:47:32.680"><span region="Default">不过,他少了点儿东西</span></p>
+      <p
+        begin="01:47:48.120"
+        end="01:47:49.400"><span region="Default">没牙仔</span></p>
+      <p
+        begin="01:47:51.520"
+        end="01:47:52.520"><span region="Default">好吧</span></p>
+      <p
+        begin="01:47:58.200"
+        end="01:47:59.240"><span region="Default">我在家里</span></p>
+      <p
+        begin="01:48:01.400"
+        end="01:48:02.920"><span region="Default">你怎么也在我家</span></p>
+      <p
+        begin="01:48:03.480"
+        end="01:48:05.040"><span region="Default">可别被我爸知道了</span></p>
+      <p
+        begin="01:48:06.480"
+        end="01:48:07.480"><span region="Default">糟了</span></p>
+      <p
+        begin="01:48:53.920"
+        end="01:48:54.920"><span region="Default">谢了,哥们儿</span></p>
+      <p
+        begin="01:48:58.840"
+        end="01:49:00.160"><span region="Default">好了,走吧</span></p>
+      <p
+        begin="01:49:29.040"
+        end="01:49:31.040"><span region="Default">没牙仔,待好</span></p>
+      <p
+        begin="01:49:34.280"
+        end="01:49:36.920"><span region="Default">你怎么起床了</span></p>
+      <p
+        begin="01:49:38.400"
+        end="01:49:40.600"><span region="Default">好了,大家坐稳了</span></p>
+      <p
+        begin="01:49:41.360"
+        end="01:49:42.360"><span region="Default">我们走</span></p>
+      <p
+        begin="01:49:51.720"
+        end="01:49:54.160"><span region="Default">接好了</span></p>
+      <p
+        begin="01:49:59.440"
+        end="01:50:00.600"><span region="Default">你在这里呢</span></p>
+      <p
+        begin="01:50:00.680"
+        end="01:50:02.360"><span region="Default">抱歉</span></p>
+      <p
+        begin="01:50:03.320"
+        end="01:50:04.480"><span region="Default">你看怎么样</span></p>
+      <p
+        begin="01:50:05.440"
+        end="01:50:07.320"><span region="Default">村子变样了对不对</span></p>
+      <p
+        begin="01:50:08.120"
+        end="01:50:11.440"><span region="Default">我们飞回来这一路<br/>可遇到了不少麻烦事呢</span></p>
+      <p
+        begin="01:50:11.520"
+        end="01:50:13.160"><span region="Default">等一下</span></p>
+      <p
+        begin="01:50:13.240"
+        end="01:50:14.360"><span region="Default">你们,你们骑龙回来的</span></p>
+      <p
+        begin="01:50:14.440"
+        end="01:50:17.040"><span region="Default">对啊,毕竟那个怪物把船都烧没了</span></p>
+      <p
+        begin="01:50:17.120"
+        end="01:50:18.560"><span region="Default">-小嗝嗝<br/>-我们也别无选</span></p>
+      <p
+        begin="01:50:19.200"
+        end="01:50:21.040"><span region="Default">不,我又干什么了</span></p>
+      <p
+        begin="01:50:22.840"
+        end="01:50:24.120"><span region="Default">这是因为你吓唬我</span></p>
+      <p
+        begin="01:50:24.200"
+        end="01:50:26.080"><span region="Default">你是见面一定要打我吗,还是</span></p>
+      <p
+        begin="01:50:30.120"
+        end="01:50:32.200"><span region="Default">这是,因为你这个人</span></p>
+      <p
+        begin="01:50:32.680"
+        end="01:50:35.440"><span region="Default">你要小心<br/>总是这样我都要习惯了</span></p>
+      <p
+        begin="01:50:35.520"
+        end="01:50:36.520"><span region="Default">是啊</span></p>
+      <p
+        begin="01:50:37.080"
+        end="01:50:41.200"><span region="Default">看来我们所有人都需要学习一下</span></p>
+      <p
+        begin="01:50:42.040"
+        end="01:50:43.760"><span region="Default">您刚指了我整个人</span></p>
+      <p
+        begin="01:50:43.840"
+        end="01:50:46.000"><span region="Default">你的整个人,我也有贡献</span></p>
+      <p
+        begin="01:50:46.840"
+        end="01:50:48.240"><span region="Default">你的新腿是我设计的</span></p>
+      <p
+        begin="01:50:48.320"
+        end="01:50:51.680"><span region="Default">虽然也多少参考了一下你过去的设计</span></p>
+      <p
+        begin="01:50:52.240"
+        end="01:50:53.360"><span region="Default">给你这个</span></p>
+      <p
+        begin="01:50:53.440"
+        end="01:50:55.000"><span region="Default">-欢迎回来<br/>-你把它修好了</span></p>
+      <p
+        begin="01:50:55.080"
+        end="01:50:57.080"><span region="Default">对,我找到了图纸</span></p>
+      <p
+        begin="01:50:57.560"
+        end="01:50:58.560"><span region="Default">设计得不错</span></p>
+      <p
+        begin="01:50:59.080"
+        end="01:51:00.120"><span region="Default">是夜煞</span></p>
+      <p
+        begin="01:51:01.800"
+        end="01:51:03.000"><span region="Default">-它来了<br/>-怎么了</span></p>
+      <p
+        begin="01:51:03.080"
+        end="01:51:04.320"><span region="Default">你想干什么</span></p>
+      <p
+        begin="01:51:04.760"
+        end="01:51:06.200"><span region="Default">想去飞一圈吗</span></p>
+      <p
+        begin="01:51:17.200"
+        end="01:51:18.760"><span region="Default">这就是,博克岛</span></p>
+      <p
+        begin="01:51:21.400"
+        end="01:51:23.120"><span region="Default">很多人经过这里都害怕</span></p>
+      <p
+        begin="01:51:25.000"
+        end="01:51:26.600"><span region="Default">更别提要长住了</span></p>
+      <p
+        begin="01:51:29.040"
+        end="01:51:31.160"><span region="Default">脆弱的人不适合这里</span></p>
+      <p
+        begin="01:51:37.160"
+        end="01:51:39.840"><span region="Default">这里出产的食物硬邦邦的<br/>还没有味道</span></p>
+      <p
+        begin="01:51:41.120"
+        end="01:51:42.360"><span region="Default">加油</span></p>
+      <p
+        begin="01:51:43.400"
+        end="01:51:44.840"><span region="Default">生活在这里的人</span></p>
+      <p
+        begin="01:51:45.360"
+        end="01:51:46.840"><span region="Default">脾气也很臭</span></p>
+      <p
+        begin="01:51:49.600"
+        end="01:51:52.080"><span region="Default">唯一的优点,就是宠物</span></p>
+      <p
+        begin="01:51:53.040"
+        end="01:51:56.440"><span region="Default">其他地方的人都养小马或者小狗</span></p>
+      <p
+        begin="01:51:56.520"
+        end="01:51:57.680"><span region="Default">跟上,哥们儿</span></p>
+      <p
+        begin="01:51:57.760"
+        end="01:51:59.160"><span region="Default">而我们有</span></p>
+      <p
+        begin="01:52:01.920"
+        end="01:52:02.920"><span region="Default">龙</span></p>
+      <p
+        begin="01:52:20.000"
+        end="01:52:23.040"><span region="Default">(改编自克蕾西达考威尔的书)</span></p>
+      <p
+        begin="01:59:41.280"
+        end="01:59:42.280"><span region="Default">谢谢观赏</span></p>
+    </div>
+  </body>
+</tt>

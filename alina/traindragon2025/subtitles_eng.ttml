@@ -1,0 +1,4120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="eng">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:00:29.320"
+        end="00:00:31.120"><span region="Default">This is Berk.</span></p>
+      <p
+        begin="00:00:32.680"
+        end="00:00:35.800"><span region="Default">So far off the map<br/>that it might as well not exist.</span></p>
+      <p
+        begin="00:00:37.360"
+        end="00:00:38.360"><span region="Default">My village</span></p>
+      <p
+        begin="00:00:38.760"
+        end="00:00:40.600"><span region="Default">in a word: sturdy.</span></p>
+      <p
+        begin="00:00:41.160"
+        end="00:00:42.440"><span region="Default">It's been here for generations</span></p>
+      <p
+        begin="00:00:42.520"
+        end="00:00:44.320"><span region="Default">but every single building is new.</span></p>
+      <p
+        begin="00:00:45.200"
+        end="00:00:46.840"><span region="Default">The air is crisp, the water is clean</span></p>
+      <p
+        begin="00:00:46.920"
+        end="00:00:48.600"><span region="Default">and the views are<br/>nothing to complain about.</span></p>
+      <p
+        begin="00:00:49.400"
+        end="00:00:51.800"><span region="Default">The only downsides are the pests.</span></p>
+      <p
+        begin="00:00:59.200"
+        end="00:01:02.600"><span region="Default">You see, most places have<br/>mice or mosquitoes.</span></p>
+      <p
+        begin="00:01:03.400"
+        end="00:01:04.400"><span region="Default">We have...</span></p>
+      <p
+        begin="00:01:09.720"
+        end="00:01:10.720"><span region="Default">Dragons.</span></p>
+      <p
+        begin="00:01:15.360"
+        end="00:01:16.840"><span region="Default">Most people would leave.</span></p>
+      <p
+        begin="00:01:17.400"
+        end="00:01:18.400"><span region="Default">Not us.</span></p>
+      <p
+        begin="00:01:18.920"
+        end="00:01:20.000"><span region="Default">We're Vikings.</span></p>
+      <p
+        begin="00:01:20.400"
+        end="00:01:22.480"><span region="Default">We don't run from fights.<br/>We start them.</span></p>
+      <p
+        begin="00:01:22.560"
+        end="00:01:24.120"><span region="Default">- Hey! Hiccup!<br/>- Evening!</span></p>
+      <p
+        begin="00:01:24.200"
+        end="00:01:26.320"><span region="Default">- Go home!<br/>- I will just as soon as I...</span></p>
+      <p
+        begin="00:01:26.600"
+        end="00:01:28.400"><span region="Default">You're in the way again!</span></p>
+      <p
+        begin="00:01:31.560"
+        end="00:01:33.000"><span region="Default">Hiccup, play dead!</span></p>
+      <p
+        begin="00:01:33.240"
+        end="00:01:35.560"><span region="Default">You see, dragons have been<br/>a bit of a problem.</span></p>
+      <p
+        begin="00:01:36.520"
+        end="00:01:38.880"><span region="Default">Here and, well, everywhere.</span></p>
+      <p
+        begin="00:01:39.160"
+        end="00:01:41.200"><span region="Default">So we decided<br/>to take the fight to them.</span></p>
+      <p
+        begin="00:01:42.200"
+        end="00:01:43.720"><span region="Default">How's that working out for us?</span></p>
+      <p
+        begin="00:01:50.680"
+        end="00:01:51.800"><span region="Default">What are you doing?</span></p>
+      <p
+        begin="00:01:51.880"
+        end="00:01:53.920"><span region="Default">What is he doing out again?</span></p>
+      <p
+        begin="00:01:54.440"
+        end="00:01:55.800"><span region="Default">Get inside. Go on.</span></p>
+      <p
+        begin="00:01:56.800"
+        end="00:01:58.960"><span region="Default">That's Stoick the Vast</span></p>
+      <p
+        begin="00:01:59.040"
+        end="00:02:00.160"><span region="Default">chief of the tribe.</span></p>
+      <p
+        begin="00:02:01.760"
+        end="00:02:02.880"><span region="Default">They say when he was a baby</span></p>
+      <p
+        begin="00:02:02.960"
+        end="00:02:05.320"><span region="Default">he popped a dragon's head<br/>clean off its shoulders.</span></p>
+      <p
+        begin="00:02:05.960"
+        end="00:02:06.960"><span region="Default">Do I believe it?</span></p>
+      <p
+        begin="00:02:09.320"
+        end="00:02:11.080"><span region="Default">- Yes, I do.<br/>- What have we got?</span></p>
+      <p
+        begin="00:02:11.720"
+        end="00:02:14.520"><span region="Default">Gronckles, Nadders,<br/>Zipplebacks, Skrills.</span></p>
+      <p
+        begin="00:02:14.600"
+        end="00:02:16.640"><span region="Default">Snorti spotted a Monstrous Nightmare.</span></p>
+      <p
+        begin="00:02:16.720"
+        end="00:02:17.720"><span region="Default">Any Night Furies?</span></p>
+      <p
+        begin="00:02:17.800"
+        end="00:02:18.800"><span region="Default">None so far, Chief.</span></p>
+      <p
+        begin="00:02:18.880"
+        end="00:02:19.880"><span region="Default">Good.</span></p>
+      <p
+        begin="00:02:20.880"
+        end="00:02:22.320"><span region="Default">- Follow me.<br/>- Right, Chief.</span></p>
+      <p
+        begin="00:02:22.600"
+        end="00:02:24.320"><span region="Default">Come on, you wretches!</span></p>
+      <p
+        begin="00:02:24.400"
+        end="00:02:26.400"><span region="Default">You heard him. Come on, lads.</span></p>
+      <p
+        begin="00:02:29.520"
+        end="00:02:30.840"><span region="Default">Oh. Out again?</span></p>
+      <p
+        begin="00:02:30.920"
+        end="00:02:33.000"><span region="Default">Just pretend I'm not even here.</span></p>
+      <p
+        begin="00:02:33.200"
+        end="00:02:34.920"><span region="Default">I'll be in and out<br/>before you can say...</span></p>
+      <p
+        begin="00:02:35.000"
+        end="00:02:36.400"><span region="Default">Not so fast.</span></p>
+      <p
+        begin="00:02:37.080"
+        end="00:02:38.120"><span region="Default">Come on, please.</span></p>
+      <p
+        begin="00:02:38.760"
+        end="00:02:41.800"><span region="Default">The meathead with attitude<br/>and interchangeable hands is Gobber.</span></p>
+      <p
+        begin="00:02:41.880"
+        end="00:02:43.160"><span region="Default">Here. Go on.</span></p>
+      <p
+        begin="00:02:43.240"
+        end="00:02:45.120"><span region="Default">I've been his apprentice<br/>ever since I was little.</span></p>
+      <p
+        begin="00:02:45.200"
+        end="00:02:46.600"><span region="Default">I'm keeping my eye on you.</span></p>
+      <p
+        begin="00:02:46.680"
+        end="00:02:47.960"><span region="Default">I'm not even supposed to be out here.</span></p>
+      <p
+        begin="00:02:48.800"
+        end="00:02:50.440"><span region="Default">Since when did that ever stop ya?</span></p>
+      <p
+        begin="00:02:53.480"
+        end="00:02:55.440"><span region="Default">- Guard the food stores.<br/>- Aye, Chief.</span></p>
+      <p
+        begin="00:02:55.520"
+        end="00:02:57.400"><span region="Default">- Protect the livestock.<br/>- Aye, Stoick.</span></p>
+      <p
+        begin="00:02:57.480"
+        end="00:02:59.320"><span region="Default">And keep an ear out for Night Furies.</span></p>
+      <p
+        begin="00:03:08.240"
+        end="00:03:09.240"><span region="Default">Hammer.</span></p>
+      <p
+        begin="00:03:17.440"
+        end="00:03:18.440"><span region="Default">Fire brigade!</span></p>
+      <p
+        begin="00:03:18.520"
+        end="00:03:19.920"><span region="Default">Ah, the fire brigade.</span></p>
+      <p
+        begin="00:03:20.000"
+        end="00:03:21.520"><span region="Default">Berk's cool kids.</span></p>
+      <p
+        begin="00:03:21.840"
+        end="00:03:23.520"><span region="Default">They get to be out in the action.</span></p>
+      <p
+        begin="00:03:24.600"
+        end="00:03:26.120"><span region="Default">Guys, out of the way!</span></p>
+      <p
+        begin="00:03:27.600"
+        end="00:03:29.440"><span region="Default">But they're nothing<br/>without their captain</span></p>
+      <p
+        begin="00:03:30.160"
+        end="00:03:32.520"><span region="Default">the shining star of our generation.</span></p>
+      <p
+        begin="00:03:33.040"
+        end="00:03:34.920"><span region="Default">Amazing without even trying.</span></p>
+      <p
+        begin="00:03:36.240"
+        end="00:03:38.000"><span region="Default">The one that smokes them all.</span></p>
+      <p
+        begin="00:03:40.920"
+        end="00:03:41.920"><span region="Default">Astrid.</span></p>
+      <p
+        begin="00:03:55.000"
+        end="00:03:56.000"><span region="Default">What?</span></p>
+      <p
+        begin="00:03:57.440"
+        end="00:03:58.720"><span region="Default">Shouldn't you be in bed?</span></p>
+      <p
+        begin="00:04:02.360"
+        end="00:04:03.400"><span region="Default">Come on, back to work.</span></p>
+      <p
+        begin="00:04:04.880"
+        end="00:04:06.000"><span region="Default">You know, I need to get out there.</span></p>
+      <p
+        begin="00:04:06.360"
+        end="00:04:07.800"><span region="Default">Show my stuff, make my mark.</span></p>
+      <p
+        begin="00:04:08.360"
+        end="00:04:10.600"><span region="Default">You've made plenty of marks,<br/>all in the wrong places.</span></p>
+      <p
+        begin="00:04:10.680"
+        end="00:04:11.680"><span region="Default">Give me two minutes.</span></p>
+      <p
+        begin="00:04:11.760"
+        end="00:04:12.840"><span region="Default">I'll take down a dragon.</span></p>
+      <p
+        begin="00:04:12.920"
+        end="00:04:15.120"><span region="Default">My life will get infinitely better.</span></p>
+      <p
+        begin="00:04:15.880"
+        end="00:04:16.880"><span region="Default">I might even get a girlfriend.</span></p>
+      <p
+        begin="00:04:16.960"
+        end="00:04:18.400"><span region="Default">There's a Zippleback behind you!</span></p>
+      <p
+        begin="00:04:18.480"
+        end="00:04:19.480"><span region="Default">Astrid?</span></p>
+      <p
+        begin="00:04:20.040"
+        end="00:04:21.360"><span region="Default">But she's a real Viking.</span></p>
+      <p
+        begin="00:04:21.440"
+        end="00:04:22.560"><span region="Default">You can't wield a hammer.</span></p>
+      <p
+        begin="00:04:22.640"
+        end="00:04:23.720"><span region="Default">You can't swing an axe.</span></p>
+      <p
+        begin="00:04:24.520"
+        end="00:04:26.240"><span region="Default">You can't even throw one of these.</span></p>
+      <p
+        begin="00:04:26.320"
+        end="00:04:28.680"><span region="Default">See, but this,<br/>this will throw it for me.</span></p>
+      <p
+        begin="00:04:28.760"
+        end="00:04:31.120"><span region="Default">- Another one.<br/>- It's fully redesigned. It's...</span></p>
+      <p
+        begin="00:04:33.800"
+        end="00:04:34.800"><span region="Default">It's...</span></p>
+      <p
+        begin="00:04:36.320"
+        end="00:04:37.320"><span region="Default">double-barreled.</span></p>
+      <p
+        begin="00:04:37.920"
+        end="00:04:39.120"><span region="Default">You see, this right here</span></p>
+      <p
+        begin="00:04:39.560"
+        end="00:04:41.320"><span region="Default">- this is what I'm talking about.<br/>- Okay, this is a mild cal...</span></p>
+      <p
+        begin="00:04:41.400"
+        end="00:04:42.680"><span region="Default">mild calibration issue.</span></p>
+      <p
+        begin="00:04:42.760"
+        end="00:04:44.880"><span region="Default">If you ever want to get out there<br/>and start fighting dragons</span></p>
+      <p
+        begin="00:04:44.960"
+        end="00:04:46.240"><span region="Default">you've gotta stop all of...</span></p>
+      <p
+        begin="00:04:47.120"
+        end="00:04:48.120"><span region="Default">all of this.</span></p>
+      <p
+        begin="00:04:48.920"
+        end="00:04:50.320"><span region="Default">You just gestured to all of me.</span></p>
+      <p
+        begin="00:04:50.400"
+        end="00:04:52.400"><span region="Default">Yeah. Stop being all of you.</span></p>
+      <p
+        begin="00:04:54.440"
+        end="00:04:55.440"><span region="Default">Oh, yeah.</span></p>
+      <p
+        begin="00:04:55.520"
+        end="00:04:57.880"><span region="Default">You, sir, are playing<br/>a dangerous game</span></p>
+      <p
+        begin="00:04:58.280"
+        end="00:04:59.400"><span region="Default">keeping this contained?</span></p>
+      <p
+        begin="00:05:00.080"
+        end="00:05:01.440"><span region="Default">There will be consequences.</span></p>
+      <p
+        begin="00:05:01.800"
+        end="00:05:04.800"><span region="Default">Well, I will take my chances.</span></p>
+      <p
+        begin="00:05:05.640"
+        end="00:05:07.320"><span region="Default">Sword, sharpen. Now.</span></p>
+      <p
+        begin="00:05:09.800"
+        end="00:05:11.240"><span region="Default">One day, I'll get out there.</span></p>
+      <p
+        begin="00:05:12.520"
+        end="00:05:15.920"><span region="Default">Because killing a dragon<br/>is everything around here.</span></p>
+      <p
+        begin="00:05:17.400"
+        end="00:05:18.600"><span region="Default">Gronckles are tough.</span></p>
+      <p
+        begin="00:05:19.080"
+        end="00:05:21.400"><span region="Default">Taking one down<br/>would at least get me noticed.</span></p>
+      <p
+        begin="00:05:24.240"
+        end="00:05:25.240"><span region="Default">A Zippleback?</span></p>
+      <p
+        begin="00:05:25.920"
+        end="00:05:27.520"><span region="Default">Exotic, exciting.</span></p>
+      <p
+        begin="00:05:29.320"
+        end="00:05:31.080"><span region="Default">Two heads, twice the status.</span></p>
+      <p
+        begin="00:05:32.560"
+        end="00:05:34.080"><span region="Default">Lopping off a Nadder's head</span></p>
+      <p
+        begin="00:05:34.160"
+        end="00:05:35.760"><span region="Default">would definitely show them I belong.</span></p>
+      <p
+        begin="00:05:42.080"
+        end="00:05:43.080"><span region="Default">Come on, lads!</span></p>
+      <p
+        begin="00:05:43.520"
+        end="00:05:44.520"><span region="Default">They found the sheep.</span></p>
+      <p
+        begin="00:05:44.720"
+        end="00:05:46.560"><span region="Default">Then let loose<br/>with everything we've got.</span></p>
+      <p
+        begin="00:05:46.640"
+        end="00:05:47.640"><span region="Default">Chief!</span></p>
+      <p
+        begin="00:05:51.440"
+        end="00:05:54.320"><span region="Default">And then there's<br/>the Monstrous Nightmare.</span></p>
+      <p
+        begin="00:05:56.480"
+        end="00:05:57.480"><span region="Default">Reload!</span></p>
+      <p
+        begin="00:05:57.560"
+        end="00:05:59.680"><span region="Default">Only the best Vikings go after those.</span></p>
+      <p
+        begin="00:06:05.280"
+        end="00:06:06.720"><span region="Default">But the ultimate prize</span></p>
+      <p
+        begin="00:06:07.000"
+        end="00:06:09.320"><span region="Default">is the dragon that<br/>no one has ever seen.</span></p>
+      <p
+        begin="00:06:09.880"
+        end="00:06:12.160"><span region="Default">- We call it the...<br/>- Night Fury!</span></p>
+      <p
+        begin="00:06:12.240"
+        end="00:06:13.240"><span region="Default">Jump!</span></p>
+      <p
+        begin="00:06:17.760"
+        end="00:06:19.760"><span region="Default">And we've got a Night Fury.</span></p>
+      <p
+        begin="00:06:19.840"
+        end="00:06:20.920"><span region="Default">Never steals food.</span></p>
+      <p
+        begin="00:06:21.560"
+        end="00:06:22.800"><span region="Default">Never shows itself.</span></p>
+      <p
+        begin="00:06:23.360"
+        end="00:06:24.400"><span region="Default">And never misses.</span></p>
+      <p
+        begin="00:06:28.200"
+        end="00:06:29.800"><span region="Default">Time for old Gobber to take over.</span></p>
+      <p
+        begin="00:06:32.200"
+        end="00:06:33.480"><span region="Default">Stay put here.</span></p>
+      <p
+        begin="00:06:33.840"
+        end="00:06:35.160"><span region="Default">Here. I'm serious.</span></p>
+      <p
+        begin="00:06:35.240"
+        end="00:06:37.520"><span region="Default">No one has ever killed a Night Fury.</span></p>
+      <p
+        begin="00:06:37.600"
+        end="00:06:39.440"><span region="Default">Attack!</span></p>
+      <p
+        begin="00:06:39.520"
+        end="00:06:41.400"><span region="Default">That's why I'm going to be the first.</span></p>
+      <p
+        begin="00:06:43.480"
+        end="00:06:44.960"><span region="Default">You again? Get back inside!</span></p>
+      <p
+        begin="00:06:45.040"
+        end="00:06:47.640"><span region="Default">- I'll make a point of it.<br/>- Gonna get yourself killed, Hiccup!</span></p>
+      <p
+        begin="00:06:47.720"
+        end="00:06:49.200"><span region="Default">I know! Sorry.</span></p>
+      <p
+        begin="00:06:51.200"
+        end="00:06:52.200"><span region="Default">Gobber!</span></p>
+      <p
+        begin="00:06:53.640"
+        end="00:06:54.720"><span region="Default">Here, give me that.</span></p>
+      <p
+        begin="00:07:01.120"
+        end="00:07:02.240"><span region="Default">Mind yourself!</span></p>
+      <p
+        begin="00:07:02.560"
+        end="00:07:04.920"><span region="Default">This Nadder still has<br/>some fire in it.</span></p>
+      <p
+        begin="00:07:15.400"
+        end="00:07:16.400"><span region="Default">Come on.</span></p>
+      <p
+        begin="00:07:16.840"
+        end="00:07:18.640"><span region="Default">Give me something to shoot at.<br/>Give me something to shoot at.</span></p>
+      <p
+        begin="00:07:20.840"
+        end="00:07:22.200"><span region="Default">Come on, show yourself.</span></p>
+      <p
+        begin="00:07:35.520"
+        end="00:07:36.520"><span region="Default">I hit it.</span></p>
+      <p
+        begin="00:07:41.720"
+        end="00:07:42.720"><span region="Default">I hit it!</span></p>
+      <p
+        begin="00:07:42.920"
+        end="00:07:44.320"><span region="Default">Did anybody see that?</span></p>
+      <p
+        begin="00:07:46.440"
+        end="00:07:47.440"><span region="Default">Except for you.</span></p>
+      <p
+        begin="00:07:51.120"
+        end="00:07:52.120"><span region="Default">Oh, Gods.</span></p>
+      <p
+        begin="00:07:54.000"
+        end="00:07:56.800"><span region="Default">Spitelout, do not let that escape.</span></p>
+      <p
+        begin="00:07:57.920"
+        end="00:07:58.920"><span region="Default">Thanks a lot.</span></p>
+      <p
+        begin="00:08:23.520"
+        end="00:08:24.600"><span region="Default">You're all out.</span></p>
+      <p
+        begin="00:08:25.000"
+        end="00:08:26.720"><span region="Default">Let's see what else you're made of.</span></p>
+      <p
+        begin="00:08:44.120"
+        end="00:08:46.120"><span region="Default">Aye, that's what I thought.</span></p>
+      <p
+        begin="00:08:48.280"
+        end="00:08:50.920"><span region="Default">Oh, and there's<br/>one more thing to know.</span></p>
+      <p
+        begin="00:08:53.600"
+        end="00:08:54.600"><span region="Default">Look out!</span></p>
+      <p
+        begin="00:09:04.280"
+        end="00:09:06.120"><span region="Default">Sorry, Dad.</span></p>
+      <p
+        begin="00:09:08.560"
+        end="00:09:09.560"><span region="Default">Watch out!</span></p>
+      <p
+        begin="00:09:22.720"
+        end="00:09:24.120"><span region="Default">Okay, but I hit a Night Fury.</span></p>
+      <p
+        begin="00:09:25.240"
+        end="00:09:26.720"><span region="Default">Dad, this isn't like any other time.</span></p>
+      <p
+        begin="00:09:26.800"
+        end="00:09:28.000"><span region="Default">I mean, I really hit one.</span></p>
+      <p
+        begin="00:09:28.480"
+        end="00:09:30.960"><span region="Default">Aye, a dragon no one's ever seen.</span></p>
+      <p
+        begin="00:09:31.040"
+        end="00:09:33.160"><span region="Default">Because it uses night<br/>as its camouflage.</span></p>
+      <p
+        begin="00:09:33.240"
+        end="00:09:35.080"><span region="Default">If you squint, you can see<br/>it blotting out the stars.</span></p>
+      <p
+        begin="00:09:35.160"
+        end="00:09:36.320"><span region="Default">That's how I shot it down.</span></p>
+      <p
+        begin="00:09:36.400"
+        end="00:09:37.400"><span region="Default">Stop!</span></p>
+      <p
+        begin="00:09:38.440"
+        end="00:09:39.480"><span region="Default">Stop.</span></p>
+      <p
+        begin="00:09:41.080"
+        end="00:09:43.720"><span region="Default">Every time you step outside,<br/>disaster happens.</span></p>
+      <p
+        begin="00:09:43.800"
+        end="00:09:46.600"><span region="Default">Can you not see<br/>that I have bigger problems?</span></p>
+      <p
+        begin="00:09:47.880"
+        end="00:09:49.200"><span region="Default">Winter is almost here</span></p>
+      <p
+        begin="00:09:49.280"
+        end="00:09:51.440"><span region="Default">and I have an entire village to feed.</span></p>
+      <p
+        begin="00:09:51.840"
+        end="00:09:54.400"><span region="Default">Between you and me, the village<br/>could do with a little less feeding.</span></p>
+      <p
+        begin="00:09:55.120"
+        end="00:09:57.120"><span region="Default">This isn't a joke, Hiccup!</span></p>
+      <p
+        begin="00:09:57.800"
+        end="00:10:00.200"><span region="Default">Why can't you follow<br/>the simplest orders?</span></p>
+      <p
+        begin="00:10:00.280"
+        end="00:10:01.920"><span region="Default">Because I can't stop myself.</span></p>
+      <p
+        begin="00:10:02.480"
+        end="00:10:05.920"><span region="Default">Okay? I see a dragon,<br/>and I have to just kill it.</span></p>
+      <p
+        begin="00:10:06.560"
+        end="00:10:08.560"><span region="Default">You know, it's who I am.</span></p>
+      <p
+        begin="00:10:10.360"
+        end="00:10:11.800"><span region="Default">You are many things, son</span></p>
+      <p
+        begin="00:10:12.840"
+        end="00:10:15.120"><span region="Default">but a dragon killer<br/>is not one of them.</span></p>
+      <p
+        begin="00:10:18.520"
+        end="00:10:19.560"><span region="Default">Get back to the house.</span></p>
+      <p
+        begin="00:10:21.080"
+        end="00:10:22.120"><span region="Default">Make sure he stays there.</span></p>
+      <p
+        begin="00:10:23.160"
+        end="00:10:24.960"><span region="Default">How much can one person mess up?</span></p>
+      <p
+        begin="00:10:25.040"
+        end="00:10:27.520"><span region="Default">Anyone else would have been<br/>booted off the island by now.</span></p>
+      <p
+        begin="00:10:27.840"
+        end="00:10:29.960"><span region="Default">I guess being son of the chief<br/>has its privileges.</span></p>
+      <p
+        begin="00:10:30.920"
+        end="00:10:32.080"><span region="Default">If not for the chief, though...</span></p>
+      <p
+        begin="00:10:34.880"
+        end="00:10:38.400"><span region="Default">Anyway, my dad's<br/>super proud of me, so...</span></p>
+      <p
+        begin="00:10:39.560"
+        end="00:10:41.720"><span region="Default">- Dad, I was just talking...<br/>- Don't talk to me in public.</span></p>
+      <p
+        begin="00:10:44.520"
+        end="00:10:45.680"><span region="Default">You know, I really did hit one.</span></p>
+      <p
+        begin="00:10:45.760"
+        end="00:10:46.760"><span region="Default">Course you did, Hiccup.</span></p>
+      <p
+        begin="00:10:47.080"
+        end="00:10:48.240"><span region="Default">He never listens.</span></p>
+      <p
+        begin="00:10:48.320"
+        end="00:10:49.560"><span region="Default">Well, that runs in the family.</span></p>
+      <p
+        begin="00:10:49.640"
+        end="00:10:51.120"><span region="Default">And when he does</span></p>
+      <p
+        begin="00:10:51.840"
+        end="00:10:53.720"><span region="Default">it's always<br/>with some disappointed scowl</span></p>
+      <p
+        begin="00:10:54.520"
+        end="00:10:56.120"><span region="Default">like somebody forgot<br/>the meat in the stew.</span></p>
+      <p
+        begin="00:10:56.640"
+        end="00:10:57.640"><span region="Default">I've seen that look.</span></p>
+      <p
+        begin="00:10:58.000"
+        end="00:11:01.000"><span region="Default">Oi. You're thinking<br/>about this all wrong, eh.</span></p>
+      <p
+        begin="00:11:02.160"
+        end="00:11:03.920"><span region="Default">It's not so much what you look like.</span></p>
+      <p
+        begin="00:11:04.320"
+        end="00:11:06.240"><span region="Default">It's what's inside of you<br/>he can't stand.</span></p>
+      <p
+        begin="00:11:07.640"
+        end="00:11:09.800"><span region="Default">Thank you for summing that up.</span></p>
+      <p
+        begin="00:11:09.880"
+        end="00:11:12.200"><span region="Default">W... Wait. The point is</span></p>
+      <p
+        begin="00:11:12.880"
+        end="00:11:15.120"><span region="Default">stop trying so hard<br/>to be something you're not.</span></p>
+      <p
+        begin="00:11:17.480"
+        end="00:11:19.000"><span region="Default">I just wanna be one of you guys.</span></p>
+      <p
+        begin="00:11:26.360"
+        end="00:11:27.360"><span region="Default">I know you do.</span></p>
+      <p
+        begin="00:11:53.640"
+        end="00:11:56.320"><span region="Default">No one said it would be easy!</span></p>
+      <p
+        begin="00:11:58.720"
+        end="00:12:00.320"><span region="Default">But may I remind you</span></p>
+      <p
+        begin="00:12:00.800"
+        end="00:12:03.080"><span region="Default">we are all descendants</span></p>
+      <p
+        begin="00:12:03.160"
+        end="00:12:05.360"><span region="Default">of the finest dragon fighters</span></p>
+      <p
+        begin="00:12:05.440"
+        end="00:12:08.120"><span region="Default">from everywhere Vikings have traveled</span></p>
+      <p
+        begin="00:12:08.800"
+        end="00:12:10.960"><span region="Default">who gathered here because they knew</span></p>
+      <p
+        begin="00:12:11.040"
+        end="00:12:13.240"><span region="Default">that we were within spitting distance</span></p>
+      <p
+        begin="00:12:13.320"
+        end="00:12:15.520"><span region="Default">of a key dragon's nest.</span></p>
+      <p
+        begin="00:12:16.960"
+        end="00:12:18.760"><span region="Default">If we can just take it</span></p>
+      <p
+        begin="00:12:18.840"
+        end="00:12:21.160"><span region="Default">we can wipe out the devils for good.</span></p>
+      <p
+        begin="00:12:21.240"
+        end="00:12:22.280"><span region="Default">Take it?</span></p>
+      <p
+        begin="00:12:22.520"
+        end="00:12:24.840"><span region="Default">- We can't even find it.<br/>- Exactly.</span></p>
+      <p
+        begin="00:12:24.920"
+        end="00:12:27.400"><span region="Default">This nest is starting to sound<br/>more and more like a fairy tale.</span></p>
+      <p
+        begin="00:12:27.480"
+        end="00:12:28.720"><span region="Default">We're exhausted.</span></p>
+      <p
+        begin="00:12:28.800"
+        end="00:12:30.640"><span region="Default">And what do we have<br/>to show for it, eh?</span></p>
+      <p
+        begin="00:12:30.720"
+        end="00:12:32.840"><span region="Default">- Nothing!<br/>- We have purpose.</span></p>
+      <p
+        begin="00:12:32.920"
+        end="00:12:34.600"><span region="Default">Oh, come on.</span></p>
+      <p
+        begin="00:12:34.920"
+        end="00:12:37.920"><span region="Default">We are the warriors of Berk</span></p>
+      <p
+        begin="00:12:38.000"
+        end="00:12:41.120"><span region="Default">the roughest, toughest tribe<br/>this side of the sun.</span></p>
+      <p
+        begin="00:12:42.800"
+        end="00:12:43.800"><span region="Default">No?</span></p>
+      <p
+        begin="00:12:44.920"
+        end="00:12:45.920"><span region="Default">Phlegma.</span></p>
+      <p
+        begin="00:12:46.920"
+        end="00:12:51.080"><span region="Default">We watched you take down<br/>a Zippleback single-handedly.</span></p>
+      <p
+        begin="00:12:51.720"
+        end="00:12:53.440"><span region="Default">I mean, sure, you lost<br/>your leg in the process</span></p>
+      <p
+        begin="00:12:53.520"
+        end="00:12:55.920"><span region="Default">but you came out on top, didn't you?</span></p>
+      <p
+        begin="00:12:56.320"
+        end="00:12:57.400"><span region="Default">- Well...<br/>- Yes, you did.</span></p>
+      <p
+        begin="00:12:58.040"
+        end="00:13:00.920"><span region="Default">Retcha, your people came<br/>from the Far East.</span></p>
+      <p
+        begin="00:13:01.120"
+        end="00:13:04.600"><span region="Default">Fungi, yours all the way<br/>from... from the Silk Road.</span></p>
+      <p
+        begin="00:13:04.680"
+        end="00:13:08.840"><span region="Default">Loogi, your people came<br/>from the sunbaked coasts of Bláland.</span></p>
+      <p
+        begin="00:13:08.920"
+        end="00:13:10.040"><span region="Default">And look at us.</span></p>
+      <p
+        begin="00:13:10.120"
+        end="00:13:12.120"><span region="Default">We're still here.<br/>We're still fighting.</span></p>
+      <p
+        begin="00:13:12.320"
+        end="00:13:14.520"><span region="Default">We're still watching<br/>each other's backs.</span></p>
+      <p
+        begin="00:13:15.640"
+        end="00:13:18.120"><span region="Default">So are we really gonna<br/>pack up and go home</span></p>
+      <p
+        begin="00:13:18.200"
+        end="00:13:22.400"><span region="Default">while these bloody beasts are<br/>still a threat to all of our lands?</span></p>
+      <p
+        begin="00:13:23.600"
+        end="00:13:24.880"><span region="Default">Is that who we are?</span></p>
+      <p
+        begin="00:13:24.960"
+        end="00:13:25.960"><span region="Default">No.</span></p>
+      <p
+        begin="00:13:26.040"
+        end="00:13:31.720"><span region="Default">- Is it?<br/>- No!</span></p>
+      <p
+        begin="00:13:32.120"
+        end="00:13:33.120"><span region="Default">Is it?</span></p>
+      <p
+        begin="00:13:33.440"
+        end="00:13:34.920"><span region="Default">No, Chief, I guess not.</span></p>
+      <p
+        begin="00:13:35.680"
+        end="00:13:37.000"><span region="Default">That's what I thought.</span></p>
+      <p
+        begin="00:13:40.560"
+        end="00:13:41.560"><span region="Default">Elder Gothi</span></p>
+      <p
+        begin="00:13:42.160"
+        end="00:13:43.160"><span region="Default">give us a sign.</span></p>
+      <p
+        begin="00:13:44.240"
+        end="00:13:47.920"><span region="Default">Do we stand a chance of finding<br/>the nest before the ice sets in?</span></p>
+      <p
+        begin="00:14:06.480"
+        end="00:14:08.000"><span region="Default">Then that's all I need.</span></p>
+      <p
+        begin="00:14:11.040"
+        end="00:14:13.400"><span region="Default">Back into the fog we go.</span></p>
+      <p
+        begin="00:14:14.040"
+        end="00:14:15.040"><span region="Default">All right, everyone.</span></p>
+      <p
+        begin="00:14:15.120"
+        end="00:14:16.520"><span region="Default">Prepare the ships!</span></p>
+      <p
+        begin="00:14:16.600"
+        end="00:14:17.600"><span region="Default">Let's go!</span></p>
+      <p
+        begin="00:14:28.480"
+        end="00:14:31.800"><span region="Default">Do I take my bucket hand<br/>for when they burn our ships</span></p>
+      <p
+        begin="00:14:32.040"
+        end="00:14:34.600"><span region="Default">or my swimming hand<br/>for when they sink them?</span></p>
+      <p
+        begin="00:14:39.560"
+        end="00:14:41.000"><span region="Default">Not so fast, Gobber.</span></p>
+      <p
+        begin="00:14:43.400"
+        end="00:14:45.640"><span region="Default">I don't have time<br/>to train this year's recruits</span></p>
+      <p
+        begin="00:14:45.720"
+        end="00:14:47.200"><span region="Default">so you'll do it.</span></p>
+      <p
+        begin="00:14:48.000"
+        end="00:14:49.000"><span region="Default">The old rite of passage.</span></p>
+      <p
+        begin="00:14:49.520"
+        end="00:14:50.920"><span region="Default">Hiccup's just come of age, hasn't he?</span></p>
+      <p
+        begin="00:14:51.600"
+        end="00:14:52.680"><span region="Default">I meant the others.</span></p>
+      <p
+        begin="00:14:52.760"
+        end="00:14:55.000"><span region="Default">Yeah, so while I'm busy,<br/>he'll cover the stall.</span></p>
+      <p
+        begin="00:14:55.560"
+        end="00:14:58.000"><span region="Default">Molten steel, razor-sharp blades</span></p>
+      <p
+        begin="00:14:58.080"
+        end="00:14:59.160"><span region="Default">lots of time on his hands.</span></p>
+      <p
+        begin="00:14:59.240"
+        end="00:15:00.520"><span region="Default">What could possibly go wrong?</span></p>
+      <p
+        begin="00:15:00.840"
+        end="00:15:02.520"><span region="Default">What am I gonna do with him, Gobber?</span></p>
+      <p
+        begin="00:15:03.600"
+        end="00:15:04.720"><span region="Default">Stick him in training.</span></p>
+      <p
+        begin="00:15:04.800"
+        end="00:15:06.560"><span region="Default">No. I'm serious.</span></p>
+      <p
+        begin="00:15:06.640"
+        end="00:15:07.640"><span region="Default">Yeah, so am I.</span></p>
+      <p
+        begin="00:15:08.360"
+        end="00:15:10.200"><span region="Default">The kid wants this<br/>more than anything.</span></p>
+      <p
+        begin="00:15:10.560"
+        end="00:15:11.600"><span region="Default">Believe it or not</span></p>
+      <p
+        begin="00:15:12.360"
+        end="00:15:14.200"><span region="Default">that young man actually wants<br/>to make you proud.</span></p>
+      <p
+        begin="00:15:14.520"
+        end="00:15:15.920"><span region="Default">But he's got a mind of his own.</span></p>
+      <p
+        begin="00:15:16.800"
+        end="00:15:17.880"><span region="Default">Gets that from his mother.</span></p>
+      <p
+        begin="00:15:18.840"
+        end="00:15:19.840"><span region="Default">Look what happened to her.</span></p>
+      <p
+        begin="00:15:19.920"
+        end="00:15:21.440"><span region="Default">Yeah, 'cause Valka was<br/>the stubborn one.</span></p>
+      <p
+        begin="00:15:21.520"
+        end="00:15:23.400"><span region="Default">- See, when I was a boy,<br/>- Oh, here we go.</span></p>
+      <p
+        begin="00:15:23.480"
+        end="00:15:25.720"><span region="Default">I... I followed orders.<br/>Right? I worked hard.</span></p>
+      <p
+        begin="00:15:25.920"
+        end="00:15:28.600"><span region="Default">Because I believed<br/>in what a... a Viking could do.</span></p>
+      <p
+        begin="00:15:28.840"
+        end="00:15:30.320"><span region="Default">Crush mountains</span></p>
+      <p
+        begin="00:15:30.680"
+        end="00:15:32.920"><span region="Default">level forests, tame seas.</span></p>
+      <p
+        begin="00:15:33.600"
+        end="00:15:37.080"><span region="Default">I knew what I was<br/>and what I had to become.</span></p>
+      <p
+        begin="00:15:37.880"
+        end="00:15:38.920"><span region="Default">Hiccup is...</span></p>
+      <p
+        begin="00:15:39.640"
+        end="00:15:40.840"><span region="Default">He's not that boy.</span></p>
+      <p
+        begin="00:15:41.680"
+        end="00:15:45.200"><span region="Default">What chance does he have<br/>of following in my footsteps?</span></p>
+      <p
+        begin="00:15:46.200"
+        end="00:15:47.200"><span region="Default">Yeah.</span></p>
+      <p
+        begin="00:15:51.680"
+        end="00:15:53.200"><span region="Default">You can't stop him, Stoick.</span></p>
+      <p
+        begin="00:15:54.120"
+        end="00:15:55.520"><span region="Default">You can only prepare him.</span></p>
+      <p
+        begin="00:15:56.040"
+        end="00:15:57.320"><span region="Default">Because the truth is</span></p>
+      <p
+        begin="00:15:57.400"
+        end="00:15:59.520"><span region="Default">we aren't always gonna<br/>be around to protect him.</span></p>
+      <p
+        begin="00:16:00.360"
+        end="00:16:01.800"><span region="Default">He's gonna get out there again.</span></p>
+      <p
+        begin="00:16:03.400"
+        end="00:16:04.720"><span region="Default">He's probably out there now.</span></p>
+      <p
+        begin="00:16:35.840"
+        end="00:16:38.600"><span region="Default">How could I lose an entire dragon?</span></p>
+      <p
+        begin="00:17:37.320"
+        end="00:17:38.320"><span region="Default">I did it.</span></p>
+      <p
+        begin="00:17:40.120"
+        end="00:17:41.120"><span region="Default">I did it!</span></p>
+      <p
+        begin="00:17:50.520"
+        end="00:17:52.000"><span region="Default">Why couldn't you have been dead?</span></p>
+      <p
+        begin="00:17:54.600"
+        end="00:17:55.920"><span region="Default">Now I have to kill you.</span></p>
+      <p
+        begin="00:19:49.840"
+        end="00:19:50.840"><span region="Default">Hiccup?</span></p>
+      <p
+        begin="00:19:51.800"
+        end="00:19:52.800"><span region="Default">Dad.</span></p>
+      <p
+        begin="00:19:55.840"
+        end="00:19:57.720"><span region="Default">Look, I need to talk to you, Dad.</span></p>
+      <p
+        begin="00:20:00.520"
+        end="00:20:02.200"><span region="Default">I need to speak with you, too, son.</span></p>
+      <p
+        begin="00:20:05.560"
+        end="00:20:06.800"><span region="Default">- I've decided I don't want<br/>- I think it's time you learn</span></p>
+      <p
+        begin="00:20:06.880"
+        end="00:20:08.000"><span region="Default">- to fight dragons.<br/>- to fight dragons.</span></p>
+      <p
+        begin="00:20:08.080"
+        end="00:20:09.080"><span region="Default">- What?<br/>- What?</span></p>
+      <p
+        begin="00:20:09.720"
+        end="00:20:11.840"><span region="Default">- Well, you go first.<br/>- No... no. You... You go first.</span></p>
+      <p
+        begin="00:20:12.360"
+        end="00:20:13.520"><span region="Default">You get your wish.</span></p>
+      <p
+        begin="00:20:14.280"
+        end="00:20:15.280"><span region="Default">Dragon Training.</span></p>
+      <p
+        begin="00:20:15.680"
+        end="00:20:16.680"><span region="Default">Start in the morning.</span></p>
+      <p
+        begin="00:20:19.040"
+        end="00:20:20.960"><span region="Default">Oh, man, I really<br/>should've gone first.</span></p>
+      <p
+        begin="00:20:21.040"
+        end="00:20:22.400"><span region="Default">You know, 'cause I was thinking</span></p>
+      <p
+        begin="00:20:22.480"
+        end="00:20:25.400"><span region="Default">we have a surplus<br/>of dragon-fighting Vikings</span></p>
+      <p
+        begin="00:20:25.480"
+        end="00:20:26.960"><span region="Default">but do we have<br/>enough bread-making Vikings</span></p>
+      <p
+        begin="00:20:27.040"
+        end="00:20:28.080"><span region="Default">- or...<br/>- You'll need this.</span></p>
+      <p
+        begin="00:20:28.760"
+        end="00:20:29.760"><span region="Default">Dad...</span></p>
+      <p
+        begin="00:20:30.600"
+        end="00:20:31.800"><span region="Default">I don't wanna fight dragons.</span></p>
+      <p
+        begin="00:20:32.280"
+        end="00:20:34.240"><span region="Default">Come on. Yes, you do.</span></p>
+      <p
+        begin="00:20:34.720"
+        end="00:20:36.120"><span region="Default">No, let me rephrase.</span></p>
+      <p
+        begin="00:20:36.200"
+        end="00:20:37.800"><span region="Default">I can't kill dragons.</span></p>
+      <p
+        begin="00:20:38.040"
+        end="00:20:39.040"><span region="Default">But you will.</span></p>
+      <p
+        begin="00:20:39.480"
+        end="00:20:41.600"><span region="Default">No, I'm very extra sure that I won't.</span></p>
+      <p
+        begin="00:20:41.680"
+        end="00:20:44.000"><span region="Default">It's time, Hiccup.</span></p>
+      <p
+        begin="00:20:47.800"
+        end="00:20:49.120"><span region="Default">Can you not hear me?</span></p>
+      <p
+        begin="00:20:49.200"
+        end="00:20:50.920"><span region="Default">Can you not hear me?</span></p>
+      <p
+        begin="00:20:57.120"
+        end="00:21:00.120"><span region="Default">The Trial of Flame is<br/>where Vikings are made</span></p>
+      <p
+        begin="00:21:01.000"
+        end="00:21:02.400"><span region="Default">where heroes are forged</span></p>
+      <p
+        begin="00:21:02.480"
+        end="00:21:05.000"><span region="Default">where future chiefs are born.</span></p>
+      <p
+        begin="00:21:06.960"
+        end="00:21:08.600"><span region="Default">I'm none of those things.</span></p>
+      <p
+        begin="00:21:10.400"
+        end="00:21:12.240"><span region="Default">I'm not like you, Dad.</span></p>
+      <p
+        begin="00:21:17.400"
+        end="00:21:18.400"><span region="Default">Listen.</span></p>
+      <p
+        begin="00:21:22.440"
+        end="00:21:24.120"><span region="Default">When you carry this axe</span></p>
+      <p
+        begin="00:21:25.120"
+        end="00:21:27.000"><span region="Default">you carry all of us with you</span></p>
+      <p
+        begin="00:21:27.280"
+        end="00:21:28.920"><span region="Default">which means you walk like us</span></p>
+      <p
+        begin="00:21:29.000"
+        end="00:21:32.000"><span region="Default">you talk like us, you think like us.</span></p>
+      <p
+        begin="00:21:32.880"
+        end="00:21:35.520"><span region="Default">No more of this.</span></p>
+      <p
+        begin="00:21:36.560"
+        end="00:21:38.320"><span region="Default">You just gestured to all of me.</span></p>
+      <p
+        begin="00:21:39.520"
+        end="00:21:40.520"><span region="Default">Deal?</span></p>
+      <p
+        begin="00:21:40.600"
+        end="00:21:41.600"><span region="Default">This conversation is feeling</span></p>
+      <p
+        begin="00:21:41.680"
+        end="00:21:43.120"><span region="Default">- very one-sided.<br/>- Deal?</span></p>
+      <p
+        begin="00:21:46.120"
+        end="00:21:47.120"><span region="Default">Deal.</span></p>
+      <p
+        begin="00:21:47.400"
+        end="00:21:48.400"><span region="Default">Good.</span></p>
+      <p
+        begin="00:21:55.120"
+        end="00:21:56.120"><span region="Default">Train hard.</span></p>
+      <p
+        begin="00:21:58.480"
+        end="00:21:59.480"><span region="Default">I'll be back.</span></p>
+      <p
+        begin="00:22:03.400"
+        end="00:22:04.400"><span region="Default">Probably.</span></p>
+      <p
+        begin="00:22:09.200"
+        end="00:22:10.320"><span region="Default">And I'll be here.</span></p>
+      <p
+        begin="00:22:12.600"
+        end="00:22:13.600"><span region="Default">Maybe.</span></p>
+      <p
+        begin="00:22:18.280"
+        end="00:22:21.400"><span region="Default">Welcome to the Trial of Flame.</span></p>
+      <p
+        begin="00:22:35.160"
+        end="00:22:37.200"><span region="Default">The moment<br/>we've all been waiting for.</span></p>
+      <p
+        begin="00:22:37.920"
+        end="00:22:39.960"><span region="Default">I just got to pick<br/>a spot for my statue.</span></p>
+      <p
+        begin="00:22:40.040"
+        end="00:22:42.000"><span region="Default">It's so much bigger from down here.</span></p>
+      <p
+        begin="00:22:42.080"
+        end="00:22:44.080"><span region="Default">Can you guys believe<br/>we're actually standing here?</span></p>
+      <p
+        begin="00:22:44.640"
+        end="00:22:47.240"><span region="Default">This is where Chief Greybile slew<br/>the Whispering Death.</span></p>
+      <p
+        begin="00:22:47.320"
+        end="00:22:49.720"><span region="Default">Yeah, and it's where Chief Tuffnut<br/>will slay everything else.</span></p>
+      <p
+        begin="00:22:49.800"
+        end="00:22:51.480"><span region="Default">- Watch and learn.<br/>- Man, I can't wait</span></p>
+      <p
+        begin="00:22:51.560"
+        end="00:22:53.400"><span region="Default">to get some legendary war wounds.</span></p>
+      <p
+        begin="00:22:53.480"
+        end="00:22:56.120"><span region="Default">Yeah, like a nasty gash<br/>right across my face.</span></p>
+      <p
+        begin="00:22:56.200"
+        end="00:22:57.480"><span region="Default">- Call me boring...<br/>- Boring.</span></p>
+      <p
+        begin="00:22:57.680"
+        end="00:23:01.280"><span region="Default">but I'm just excited to see<br/>some real live dragons up close.</span></p>
+      <p
+        begin="00:23:01.360"
+        end="00:23:04.160"><span region="Default">You know, I could do<br/>without the permanent injuries and...</span></p>
+      <p
+        begin="00:23:04.240"
+        end="00:23:05.320"><span region="Default">Oh, where's the glory in that?</span></p>
+      <p
+        begin="00:23:05.400"
+        end="00:23:07.200"><span region="Default">Yeah, it's only fun<br/>if you get a scar out of it.</span></p>
+      <p
+        begin="00:23:07.480"
+        end="00:23:08.480"><span region="Default">I know, right?</span></p>
+      <p
+        begin="00:23:10.320"
+        end="00:23:12.280"><span region="Default">Pain. Love it.</span></p>
+      <p
+        begin="00:23:12.360"
+        end="00:23:14.720"><span region="Default">Oh, great. Who let him in?</span></p>
+      <p
+        begin="00:23:15.080"
+        end="00:23:17.280"><span region="Default">I guess Daddy pulled<br/>some strings, huh?</span></p>
+      <p
+        begin="00:23:17.360"
+        end="00:23:18.600"><span region="Default">Aren't you two, like,<br/>a little old to be here?</span></p>
+      <p
+        begin="00:23:18.680"
+        end="00:23:19.680"><span region="Default">- Ouch.<br/>- Wait</span></p>
+      <p
+        begin="00:23:19.760"
+        end="00:23:21.400"><span region="Default">- what'd you say, whippersnapper?<br/>- What'd you say? Say it again!</span></p>
+      <p
+        begin="00:23:22.680"
+        end="00:23:23.800"><span region="Default">Yeah, touchy subject.</span></p>
+      <p
+        begin="00:23:23.880"
+        end="00:23:25.920"><span region="Default">They've flunked Dragon Training<br/>a few times.</span></p>
+      <p
+        begin="00:23:26.360"
+        end="00:23:28.000"><span region="Default">It was four times, actually.</span></p>
+      <p
+        begin="00:23:28.080"
+        end="00:23:29.720"><span region="Default">Yeah, and it's called<br/>being held back.</span></p>
+      <p
+        begin="00:23:29.800"
+        end="00:23:31.600"><span region="Default">As in too valuable to let go of.</span></p>
+      <p
+        begin="00:23:31.680"
+        end="00:23:33.120"><span region="Default">Real sensitive, Hiccup.</span></p>
+      <p
+        begin="00:23:34.280"
+        end="00:23:35.320"><span region="Default">Nice name, by the way.</span></p>
+      <p
+        begin="00:23:35.720"
+        end="00:23:37.200"><span region="Default">Your name is Snotlout.</span></p>
+      <p
+        begin="00:23:37.280"
+        end="00:23:38.280"><span region="Default">Exactly.</span></p>
+      <p
+        begin="00:23:38.440"
+        end="00:23:40.000"><span region="Default">It's a manly Viking name.</span></p>
+      <p
+        begin="00:23:40.520"
+        end="00:23:41.800"><span region="Default">Translates from the ancient texts</span></p>
+      <p
+        begin="00:23:41.880"
+        end="00:23:43.440"><span region="Default">as "one who beateth the snot</span></p>
+      <p
+        begin="00:23:43.520"
+        end="00:23:44.520"><span region="Default">- out of a--"<br/>- Shut up.</span></p>
+      <p
+        begin="00:23:44.720"
+        end="00:23:45.920"><span region="Default">Let's get started.</span></p>
+      <p
+        begin="00:23:46.400"
+        end="00:23:47.400"><span region="Default">Bloody kids.</span></p>
+      <p
+        begin="00:23:48.840"
+        end="00:23:52.040"><span region="Default">You are now the latest to join<br/>this time-honored tradition.</span></p>
+      <p
+        begin="00:23:52.440"
+        end="00:23:54.440"><span region="Default">Every toe biter born into our tribe</span></p>
+      <p
+        begin="00:23:54.560"
+        end="00:23:56.400"><span region="Default">must one day survive this arena</span></p>
+      <p
+        begin="00:23:56.480"
+        end="00:23:59.000"><span region="Default">if they ever hope to do battle<br/>alongside the rest of us.</span></p>
+      <p
+        begin="00:24:00.600"
+        end="00:24:01.920"><span region="Default">It will be grueling.</span></p>
+      <p
+        begin="00:24:04.640"
+        end="00:24:07.360"><span region="Default">And it will be very, very dangerous.</span></p>
+      <p
+        begin="00:24:09.200"
+        end="00:24:12.880"><span region="Default">But whoever does best<br/>will win the title of Top Slayer.</span></p>
+      <p
+        begin="00:24:14.560"
+        end="00:24:15.560"><span region="Default">And with it...</span></p>
+      <p
+        begin="00:24:17.040"
+        end="00:24:18.800"><span region="Default">And with it, the honor</span></p>
+      <p
+        begin="00:24:19.200"
+        end="00:24:22.200"><span region="Default">of killing their first dragon<br/>in front of the entire village.</span></p>
+      <p
+        begin="00:24:22.920"
+        end="00:24:24.520"><span region="Default">There is no greater glory.</span></p>
+      <p
+        begin="00:24:25.840"
+        end="00:24:26.840"><span region="Default">What?</span></p>
+      <p
+        begin="00:24:27.320"
+        end="00:24:29.040"><span region="Default">Hiccup already killed a Night Fury</span></p>
+      <p
+        begin="00:24:29.120"
+        end="00:24:31.400"><span region="Default">so does that, like, what,<br/>disqualify him or...</span></p>
+      <p
+        begin="00:24:31.480"
+        end="00:24:32.920"><span region="Default">Oh, ignore him.</span></p>
+      <p
+        begin="00:24:33.720"
+        end="00:24:34.760"><span region="Default">You're skinny.</span></p>
+      <p
+        begin="00:24:35.200"
+        end="00:24:36.200"><span region="Default">You're weak.</span></p>
+      <p
+        begin="00:24:36.760"
+        end="00:24:38.200"><span region="Default">That'll make you less of a target.</span></p>
+      <p
+        begin="00:24:39.000"
+        end="00:24:40.400"><span region="Default">They'll see you as slim pickings.</span></p>
+      <p
+        begin="00:24:40.480"
+        end="00:24:41.480"><span region="Default">Not worth the effort.</span></p>
+      <p
+        begin="00:24:42.240"
+        end="00:24:43.920"><span region="Default">They'll go after the more...</span></p>
+      <p
+        begin="00:24:45.080"
+        end="00:24:46.880"><span region="Default">Viking-like teens instead.</span></p>
+      <p
+        begin="00:24:48.280"
+        end="00:24:49.400"><span region="Default">Behind these doors</span></p>
+      <p
+        begin="00:24:49.720"
+        end="00:24:52.320"><span region="Default">are just a few of the many species<br/>you will learn to fight.</span></p>
+      <p
+        begin="00:24:52.720"
+        end="00:24:53.800"><span region="Default">The Deadly Nadder.</span></p>
+      <p
+        begin="00:24:54.080"
+        end="00:24:55.240"><span region="Default">Attack, eight, armor, 16.</span></p>
+      <p
+        begin="00:24:56.040"
+        end="00:24:57.080"><span region="Default">The Hideous Zippleback.</span></p>
+      <p
+        begin="00:24:57.160"
+        end="00:24:58.560"><span region="Default">Plus 11 stealth, times two.</span></p>
+      <p
+        begin="00:24:58.640"
+        end="00:24:59.920"><span region="Default">The Monstrous Nightmare.</span></p>
+      <p
+        begin="00:25:00.000"
+        end="00:25:01.920"><span region="Default">- Firepower, 15.<br/>- The Terrible Terror.</span></p>
+      <p
+        begin="00:25:02.000"
+        end="00:25:03.800"><span region="Default">- Attack, eight, venom, 12!<br/>- Will you stop that?</span></p>
+      <p
+        begin="00:25:05.080"
+        end="00:25:06.400"><span region="Default">You big bag of wool.</span></p>
+      <p
+        begin="00:25:08.800"
+        end="00:25:11.200"><span region="Default">And finally, the gruesome Gronckle.</span></p>
+      <p
+        begin="00:25:12.000"
+        end="00:25:13.200"><span region="Default">Jaw strength, eight.</span></p>
+      <p
+        begin="00:25:16.680"
+        end="00:25:17.720"><span region="Default">Hey, big guy!</span></p>
+      <p
+        begin="00:25:18.440"
+        end="00:25:20.960"><span region="Default">Aren't you gonna, like,<br/>teach us something first?</span></p>
+      <p
+        begin="00:25:21.040"
+        end="00:25:22.400"><span region="Default">I believe in learning on the job!</span></p>
+      <p
+        begin="00:25:27.640"
+        end="00:25:29.400"><span region="Default">Today is all about defense!</span></p>
+      <p
+        begin="00:25:30.880"
+        end="00:25:32.360"><span region="Default">If you get blasted, you're out!</span></p>
+      <p
+        begin="00:25:32.440"
+        end="00:25:33.720"><span region="Default">Or, you know, dead.</span></p>
+      <p
+        begin="00:25:34.400"
+        end="00:25:35.640"><span region="Default">So, what's the first thing<br/>you're gonna need?</span></p>
+      <p
+        begin="00:25:35.720"
+        end="00:25:37.640"><span region="Default">- A shield!<br/>- Shield, yes. Go!</span></p>
+      <p
+        begin="00:25:37.720"
+        end="00:25:39.000"><span region="Default">- Out of my way.<br/>- That one's mine!</span></p>
+      <p
+        begin="00:25:39.080"
+        end="00:25:41.520"><span region="Default">Shield is your most<br/>important piece of equipment.</span></p>
+      <p
+        begin="00:25:43.280"
+        end="00:25:46.320"><span region="Default">If you have to choose<br/>between a weapon and a shield...</span></p>
+      <p
+        begin="00:25:46.880"
+        end="00:25:48.040"><span region="Default">Just put it down.</span></p>
+      <p
+        begin="00:25:48.400"
+        end="00:25:49.560"><span region="Default">Take the shield.</span></p>
+      <p
+        begin="00:25:49.680"
+        end="00:25:51.440"><span region="Default">- Give it! Find your own shield!<br/>- Mine, mine, mine!</span></p>
+      <p
+        begin="00:25:56.200"
+        end="00:25:58.320"><span region="Default">Ruffnut, Tuffnut, you're out.</span></p>
+      <p
+        begin="00:25:59.840"
+        end="00:26:02.520"><span region="Default">Shields are good<br/>for another thing: noise.</span></p>
+      <p
+        begin="00:26:02.880"
+        end="00:26:05.520"><span region="Default">Make plenty of it<br/>to throw off the dragon's aim.</span></p>
+      <p
+        begin="00:26:08.120"
+        end="00:26:11.320"><span region="Default">Remember, all dragons have<br/>a limited number of blasts.</span></p>
+      <p
+        begin="00:26:11.640"
+        end="00:26:13.000"><span region="Default">How many does a Gronckle have?</span></p>
+      <p
+        begin="00:26:13.840"
+        end="00:26:15.720"><span region="Default">- Six!<br/>- Six, yes.</span></p>
+      <p
+        begin="00:26:16.040"
+        end="00:26:17.400"><span region="Default">That's one for each of ya.</span></p>
+      <p
+        begin="00:26:17.480"
+        end="00:26:19.080"><span region="Default">Although, interesting tidbit</span></p>
+      <p
+        begin="00:26:19.160"
+        end="00:26:21.400"><span region="Default">rocks from different regions<br/>vary in mineral comp--</span></p>
+      <p
+        begin="00:26:25.400"
+        end="00:26:26.640"><span region="Default">What are you do...<br/>What are you doing?</span></p>
+      <p
+        begin="00:26:27.000"
+        end="00:26:28.360"><span region="Default">What are you doing? Get in there!</span></p>
+      <p
+        begin="00:26:30.400"
+        end="00:26:31.720"><span region="Default">Fishlegs, you're out.</span></p>
+      <p
+        begin="00:26:33.080"
+        end="00:26:34.400"><span region="Default">- Four shots left.<br/>- Yeah.</span></p>
+      <p
+        begin="00:26:34.480"
+        end="00:26:36.400"><span region="Default">We're pretty much gonna be<br/>the stars of this thing.</span></p>
+      <p
+        begin="00:26:36.640"
+        end="00:26:38.280"><span region="Default">Almost like we were meant<br/>to be together.</span></p>
+      <p
+        begin="00:26:38.360"
+        end="00:26:39.880"><span region="Default">It's an elimination game, genius.</span></p>
+      <p
+        begin="00:26:39.960"
+        end="00:26:41.200"><span region="Default">There's only one Top Slayer.</span></p>
+      <p
+        begin="00:26:44.560"
+        end="00:26:46.040"><span region="Default">Snotlout, you're done.</span></p>
+      <p
+        begin="00:26:46.880"
+        end="00:26:47.880"><span region="Default">Three shots.</span></p>
+      <p
+        begin="00:26:48.520"
+        end="00:26:50.560"><span region="Default">Looks like it's just you and me, huh?</span></p>
+      <p
+        begin="00:26:50.640"
+        end="00:26:52.080"><span region="Default">Nope. Just me.</span></p>
+      <p
+        begin="00:26:53.120"
+        end="00:26:54.920"><span region="Default">Hey! Eyes on me!</span></p>
+      <p
+        begin="00:27:02.000"
+        end="00:27:03.000"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:27:03.640"
+        end="00:27:04.800"><span region="Default">Well done, Astrid.</span></p>
+      <p
+        begin="00:27:04.880"
+        end="00:27:05.920"><span region="Default">Two shots left.</span></p>
+      <p
+        begin="00:27:07.440"
+        end="00:27:08.440"><span region="Default">Oh, come on.</span></p>
+      <p
+        begin="00:27:10.000"
+        end="00:27:11.120"><span region="Default">Hiccup, you're out.</span></p>
+      <p
+        begin="00:27:11.680"
+        end="00:27:13.520"><span region="Default">- One shot left.<br/>- Hey, watch it!</span></p>
+      <p
+        begin="00:27:15.640"
+        end="00:27:16.640"><span region="Default">Hiccup!</span></p>
+      <p
+        begin="00:27:19.920"
+        end="00:27:21.080"><span region="Default">End of lesson.</span></p>
+      <p
+        begin="00:27:25.640"
+        end="00:27:27.800"><span region="Default">Back to bed, you overgrown sausage.</span></p>
+      <p
+        begin="00:27:35.240"
+        end="00:27:40.120"><span region="Default">Remember, a dragon<br/>will always, always...</span></p>
+      <p
+        begin="00:27:41.680"
+        end="00:27:43.000"><span region="Default">go for the kill.</span></p>
+      <p
+        begin="00:27:57.400"
+        end="00:27:58.600"><span region="Default">So, why didn't you?</span></p>
+      <p
+        begin="00:29:02.400"
+        end="00:29:03.400"><span region="Default">Okay.</span></p>
+      <p
+        begin="00:30:10.080"
+        end="00:30:11.320"><span region="Default">Let's review, shall we?</span></p>
+      <p
+        begin="00:30:12.480"
+        end="00:30:14.320"><span region="Default">Where did Astrid go wrong<br/>in the ring today?</span></p>
+      <p
+        begin="00:30:14.600"
+        end="00:30:16.120"><span region="Default">I mistimed my somersault dive.</span></p>
+      <p
+        begin="00:30:16.200"
+        end="00:30:17.840"><span region="Default">It was sloppy.<br/>It threw off my reverse tumble.</span></p>
+      <p
+        begin="00:30:18.160"
+        end="00:30:19.840"><span region="Default">- Yeah. We noticed.<br/>- Hey.</span></p>
+      <p
+        begin="00:30:20.320"
+        end="00:30:21.640"><span region="Default">Back off my girl.</span></p>
+      <p
+        begin="00:30:22.200"
+        end="00:30:23.320"><span region="Default">All right? She's trying her best.</span></p>
+      <p
+        begin="00:30:23.400"
+        end="00:30:25.520"><span region="Default">Yeah. Don't beat yourself up.<br/>You'll get it.</span></p>
+      <p
+        begin="00:30:25.960"
+        end="00:30:27.520"><span region="Default">Just follow my lead next time!</span></p>
+      <p
+        begin="00:30:27.920"
+        end="00:30:28.920"><span region="Default">Astrid's right.</span></p>
+      <p
+        begin="00:30:29.520"
+        end="00:30:31.000"><span region="Default">You've gotta be tough on yourselves.</span></p>
+      <p
+        begin="00:30:31.520"
+        end="00:30:33.200"><span region="Default">All it takes is one weak link.</span></p>
+      <p
+        begin="00:30:35.760"
+        end="00:30:36.760"><span region="Default">You made it, then?</span></p>
+      <p
+        begin="00:30:38.800"
+        end="00:30:40.920"><span region="Default">You gotta start taking this seriously</span></p>
+      <p
+        begin="00:30:41.520"
+        end="00:30:43.440"><span region="Default">because we are living<br/>in a battleground.</span></p>
+      <p
+        begin="00:30:43.520"
+        end="00:30:46.240"><span region="Default">And in case you haven't noticed,<br/>the other side is winning.</span></p>
+      <p
+        begin="00:30:46.320"
+        end="00:30:48.320"><span region="Default">You're gonna need<br/>every advantage you can get.</span></p>
+      <p
+        begin="00:30:48.520"
+        end="00:30:50.680"><span region="Default">So, if you haven't done your homework</span></p>
+      <p
+        begin="00:30:50.760"
+        end="00:30:52.320"><span region="Default">allow me to present to you...</span></p>
+      <p
+        begin="00:30:57.960"
+        end="00:30:59.000"><span region="Default">The Book of Dragons.</span></p>
+      <p
+        begin="00:31:00.760"
+        end="00:31:03.240"><span region="Default">Everything we know<br/>about every dragon we know of.</span></p>
+      <p
+        begin="00:31:04.520"
+        end="00:31:07.160"><span region="Default">Each of your tribes brought<br/>their wisdom and experience</span></p>
+      <p
+        begin="00:31:07.240"
+        end="00:31:08.240"><span region="Default">to these pages.</span></p>
+      <p
+        begin="00:31:09.600"
+        end="00:31:11.120"><span region="Default">It's our most hallowed possession.</span></p>
+      <p
+        begin="00:31:14.000"
+        end="00:31:15.440"><span region="Default">No dragon raids tonight</span></p>
+      <p
+        begin="00:31:15.520"
+        end="00:31:16.520"><span region="Default">so study up.</span></p>
+      <p
+        begin="00:31:18.240"
+        end="00:31:19.240"><span region="Default">You mean read?</span></p>
+      <p
+        begin="00:31:19.640"
+        end="00:31:21.320"><span region="Default">I've read it like a hundred times.</span></p>
+      <p
+        begin="00:31:21.400"
+        end="00:31:24.360"><span region="Default">There's a Scauldron that sprays<br/>your face with boiling water.</span></p>
+      <p
+        begin="00:31:24.440"
+        end="00:31:26.600"><span region="Default">And then there's another...</span></p>
+      <p
+        begin="00:31:26.960"
+        end="00:31:28.560"><span region="Default">Why would I read words</span></p>
+      <p
+        begin="00:31:28.640"
+        end="00:31:31.560"><span region="Default">when I can just kill the stuff<br/>the words tell me stuff about?</span></p>
+      <p
+        begin="00:31:31.640"
+        end="00:31:33.200"><span region="Default">Right? I mean, like,<br/>I'm the kind of guy</span></p>
+      <p
+        begin="00:31:33.280"
+        end="00:31:35.720"><span region="Default">that other guys write<br/>word books about.</span></p>
+      <p
+        begin="00:31:36.840"
+        end="00:31:37.840"><span region="Default">Boys!</span></p>
+      <p
+        begin="00:31:38.200"
+        end="00:31:39.200"><span region="Default">Don't worry, though. I'm here</span></p>
+      <p
+        begin="00:31:39.280"
+        end="00:31:41.280"><span region="Default">for all of your dragon-related<br/>inquiries, okay?</span></p>
+      <p
+        begin="00:31:41.360"
+        end="00:31:44.800"><span region="Default">Theories, stats.<br/>I've even made cards...</span></p>
+      <p
+        begin="00:31:46.560"
+        end="00:31:47.560"><span region="Default">You can ask me anything.</span></p>
+      <p
+        begin="00:31:47.640"
+        end="00:31:48.640"><span region="Default">- Stop following me.<br/>- Here.</span></p>
+      <p
+        begin="00:31:48.720"
+        end="00:31:49.760"><span region="Default">How about now? Try me now.</span></p>
+      <p
+        begin="00:31:49.840"
+        end="00:31:51.000"><span region="Default">Absolutely not.</span></p>
+      <p
+        begin="00:31:59.360"
+        end="00:32:00.360"><span region="Default">So...</span></p>
+      <p
+        begin="00:32:01.200"
+        end="00:32:04.000"><span region="Default">sounds like a gruesome,<br/>grisly, good time, huh?</span></p>
+      <p
+        begin="00:32:05.320"
+        end="00:32:06.640"><span region="Default">- Read it.<br/>- You know...</span></p>
+      <p
+        begin="00:32:08.400"
+        end="00:32:10.440"><span region="Default">maybe they're not as bad<br/>as we think they are.</span></p>
+      <p
+        begin="00:32:13.160"
+        end="00:32:15.320"><span region="Default">Are you actually insane,<br/>or do you just act that way?</span></p>
+      <p
+        begin="00:32:15.400"
+        end="00:32:17.400"><span region="Default">Is there... Is there a third option?</span></p>
+      <p
+        begin="00:32:19.160"
+        end="00:32:21.120"><span region="Default">Wiping out dragons is why we're here.</span></p>
+      <p
+        begin="00:32:21.360"
+        end="00:32:23.400"><span region="Default">It's why the best of our tribes<br/>came together.</span></p>
+      <p
+        begin="00:32:24.080"
+        end="00:32:26.560"><span region="Default">Because yes, dragons<br/>are as bad as we think.</span></p>
+      <p
+        begin="00:32:26.640"
+        end="00:32:28.040"><span region="Default">Yeah, I know. I'm just saying</span></p>
+      <p
+        begin="00:32:29.040"
+        end="00:32:30.440"><span region="Default">maybe we're part of the problem.</span></p>
+      <p
+        begin="00:32:31.120"
+        end="00:32:32.600"><span region="Default">You know, moving in on their lands</span></p>
+      <p
+        begin="00:32:32.920"
+        end="00:32:33.920"><span region="Default">eating their food.</span></p>
+      <p
+        begin="00:32:38.880"
+        end="00:32:39.880"><span region="Default">Wow.</span></p>
+      <p
+        begin="00:32:40.560"
+        end="00:32:42.400"><span region="Default">You live in a different world,<br/>don't you?</span></p>
+      <p
+        begin="00:32:43.400"
+        end="00:32:45.040"><span region="Default">- What?<br/>- Just coast by</span></p>
+      <p
+        begin="00:32:45.120"
+        end="00:32:46.400"><span region="Default">taking it all for granted.</span></p>
+      <p
+        begin="00:32:47.080"
+        end="00:32:48.600"><span region="Default">- Well, I don't think that...<br/>- Never having to work for anything</span></p>
+      <p
+        begin="00:32:48.680"
+        end="00:32:50.040"><span region="Default">never struggling to get a foot up.</span></p>
+      <p
+        begin="00:32:50.440"
+        end="00:32:51.440"><span region="Default">Well, guess what?</span></p>
+      <p
+        begin="00:32:52.080"
+        end="00:32:54.000"><span region="Default">I come from nothing.</span></p>
+      <p
+        begin="00:32:54.200"
+        end="00:32:57.800"><span region="Default">No chief for a dad,<br/>no handouts, no excuses.</span></p>
+      <p
+        begin="00:32:58.160"
+        end="00:32:59.400"><span region="Default">I'm not afraid of hard work.<br/>I'm willing to do</span></p>
+      <p
+        begin="00:32:59.480"
+        end="00:33:00.800"><span region="Default">whatever it takes<br/>to get the job done</span></p>
+      <p
+        begin="00:33:00.880"
+        end="00:33:03.040"><span region="Default">which, in this case, means<br/>wiping out the dragons</span></p>
+      <p
+        begin="00:33:03.120"
+        end="00:33:04.600"><span region="Default">for the good of everyone.</span></p>
+      <p
+        begin="00:33:05.400"
+        end="00:33:06.520"><span region="Default">Yeah.</span></p>
+      <p
+        begin="00:33:07.720"
+        end="00:33:08.720"><span region="Default">You know what else?</span></p>
+      <p
+        begin="00:33:09.160"
+        end="00:33:11.240"><span region="Default">I'm... I'm afraid... afraid to ask.</span></p>
+      <p
+        begin="00:33:14.120"
+        end="00:33:16.120"><span region="Default">I've got my eye<br/>on that big house of yours.</span></p>
+      <p
+        begin="00:33:17.560"
+        end="00:33:19.000"><span region="Default">I'm gonna be chief one day.</span></p>
+      <p
+        begin="00:33:20.640"
+        end="00:33:22.200"><span region="Default">I... I don't doubt it.</span></p>
+      <p
+        begin="00:33:23.360"
+        end="00:33:25.120"><span region="Default">Actually, I think<br/>my dad would be thrilled.</span></p>
+      <p
+        begin="00:33:26.120"
+        end="00:33:27.840"><span region="Default">Besides, you're the kid<br/>he always hoped for.</span></p>
+      <p
+        begin="00:33:27.920"
+        end="00:33:28.920"><span region="Default">Instead, he got...</span></p>
+      <p
+        begin="00:33:30.600"
+        end="00:33:31.600"><span region="Default">all this.</span></p>
+      <p
+        begin="00:33:33.800"
+        end="00:33:35.120"><span region="Default">Stay out of my way, Hiccup.</span></p>
+      <p
+        begin="00:33:50.640"
+        end="00:33:52.320"><span region="Default">"Dragon classifications."</span></p>
+      <p
+        begin="00:33:52.840"
+        end="00:33:55.720"><span region="Default">"Strike class.<br/>Fear class. Mystery class."</span></p>
+      <p
+        begin="00:33:59.120"
+        end="00:34:00.200"><span region="Default">"Thunderdrum.</span></p>
+      <p
+        begin="00:34:00.480"
+        end="00:34:02.600"><span region="Default">When startled, the Thunderdrum<br/>produces a concussive sound</span></p>
+      <p
+        begin="00:34:02.680"
+        end="00:34:04.400"><span region="Default">that can kill a man at close range.</span></p>
+      <p
+        begin="00:34:04.680"
+        end="00:34:06.360"><span region="Default">Extremely dangerous. Kill on sight.</span></p>
+      <p
+        begin="00:34:07.080"
+        end="00:34:08.120"><span region="Default">Timberjack.</span></p>
+      <p
+        begin="00:34:08.400"
+        end="00:34:10.400"><span region="Default">Skrill. Whispering Death.</span></p>
+      <p
+        begin="00:34:10.600"
+        end="00:34:12.600"><span region="Default">Burns its victims.<br/>Buries its victims.</span></p>
+      <p
+        begin="00:34:12.680"
+        end="00:34:13.760"><span region="Default">Chokes its victims.</span></p>
+      <p
+        begin="00:34:13.840"
+        end="00:34:15.120"><span region="Default">Turns its victims inside out.</span></p>
+      <p
+        begin="00:34:15.200"
+        end="00:34:17.600"><span region="Default">Extremely dangerous.<br/>Extremely dangerous.</span></p>
+      <p
+        begin="00:34:17.680"
+        end="00:34:20.000"><span region="Default">Kill on sight.<br/>Kill on sight. Kill on sight."</span></p>
+      <p
+        begin="00:34:21.720"
+        end="00:34:22.760"><span region="Default">"Night Fury.</span></p>
+      <p
+        begin="00:34:24.360"
+        end="00:34:26.600"><span region="Default">Size: unknown. Speed: unknown.</span></p>
+      <p
+        begin="00:34:26.960"
+        end="00:34:29.400"><span region="Default">The unholy offspring<br/>of lightning and death itself.</span></p>
+      <p
+        begin="00:34:29.760"
+        end="00:34:32.120"><span region="Default">Never engage this dragon."</span></p>
+      <p
+        begin="00:34:43.800"
+        end="00:34:46.000"><span region="Default">I can almost smell them.</span></p>
+      <p
+        begin="00:34:54.000"
+        end="00:34:55.080"><span region="Default">Take us in...</span></p>
+      <p
+        begin="00:34:56.400"
+        end="00:34:57.800"><span region="Default">to Helheim's Gate.</span></p>
+      <p
+        begin="00:34:58.640"
+        end="00:34:59.800"><span region="Default">Here we go again.</span></p>
+      <p
+        begin="00:35:00.520"
+        end="00:35:01.800"><span region="Default">Hard to port!</span></p>
+      <p
+        begin="00:35:08.600"
+        end="00:35:11.600"><span region="Default">Set the oars! Furl the sails!</span></p>
+      <p
+        begin="00:35:11.680"
+        end="00:35:12.720"><span region="Default">All together.</span></p>
+      <p
+        begin="00:35:14.800"
+        end="00:35:16.640"><span region="Default">Higher! Pull!</span></p>
+      <p
+        begin="00:36:01.880"
+        end="00:36:02.920"><span region="Default">We're not alone!</span></p>
+      <p
+        begin="00:36:03.000"
+        end="00:36:04.480"><span region="Default">- Look up!<br/>- Watch your heads!</span></p>
+      <p
+        begin="00:36:19.560"
+        end="00:36:21.120"><span region="Default">Turn back!</span></p>
+      <p
+        begin="00:36:21.440"
+        end="00:36:22.440"><span region="Default">They're everywhere!</span></p>
+      <p
+        begin="00:36:25.520"
+        end="00:36:26.920"><span region="Default">Hey, I just...</span></p>
+      <p
+        begin="00:36:27.440"
+        end="00:36:28.640"><span region="Default">I just happened to notice</span></p>
+      <p
+        begin="00:36:28.720"
+        end="00:36:30.600"><span region="Default">that the book had<br/>nothing on Night Furies.</span></p>
+      <p
+        begin="00:36:31.480"
+        end="00:36:33.200"><span region="Default">Is there maybe, like...<br/>like, another book?</span></p>
+      <p
+        begin="00:36:34.360"
+        end="00:36:35.520"><span region="Default">Maybe, like, a Night Fury pamph--</span></p>
+      <p
+        begin="00:36:37.360"
+        end="00:36:38.360"><span region="Default">Focus, Hiccup.</span></p>
+      <p
+        begin="00:36:39.320"
+        end="00:36:40.480"><span region="Default">You're not even trying.</span></p>
+      <p
+        begin="00:36:41.320"
+        end="00:36:42.720"><span region="Default">Today is about attack.</span></p>
+      <p
+        begin="00:36:43.120"
+        end="00:36:45.720"><span region="Default">Nadders are quick<br/>and light on their feet.</span></p>
+      <p
+        begin="00:36:46.080"
+        end="00:36:49.200"><span region="Default">Your job is to be<br/>quicker and lighter.</span></p>
+      <p
+        begin="00:36:57.480"
+        end="00:36:58.480"><span region="Default">Sorry!</span></p>
+      <p
+        begin="00:37:00.960"
+        end="00:37:03.720"><span region="Default">I'm really beginning to question<br/>your teaching methods!</span></p>
+      <p
+        begin="00:37:04.480"
+        end="00:37:05.840"><span region="Default">Look for its blind spot.</span></p>
+      <p
+        begin="00:37:05.920"
+        end="00:37:07.320"><span region="Default">Every dragon has one.</span></p>
+      <p
+        begin="00:37:07.400"
+        end="00:37:10.120"><span region="Default">Find it, hide in it, then strike.</span></p>
+      <p
+        begin="00:37:13.440"
+        end="00:37:14.720"><span region="Default">Do you ever bathe?</span></p>
+      <p
+        begin="00:37:14.800"
+        end="00:37:17.200"><span region="Default">If you don't like it,<br/>go find your own blind spot. Go!</span></p>
+      <p
+        begin="00:37:19.000"
+        end="00:37:20.080"><span region="Default">Blind spot, yes.</span></p>
+      <p
+        begin="00:37:20.160"
+        end="00:37:21.720"><span region="Default">Deaf spot, not so much.</span></p>
+      <p
+        begin="00:37:22.880"
+        end="00:37:24.840"><span region="Default">I am hurt. I am very much hurt.</span></p>
+      <p
+        begin="00:37:25.200"
+        end="00:37:27.800"><span region="Default">So, how does one sneak up<br/>on a Night Fury?</span></p>
+      <p
+        begin="00:37:27.880"
+        end="00:37:30.200"><span region="Default">No one has ever met one<br/>and lived to tell the tale.</span></p>
+      <p
+        begin="00:37:30.280"
+        end="00:37:31.280"><span region="Default">Now, get in there!</span></p>
+      <p
+        begin="00:37:31.360"
+        end="00:37:32.840"><span region="Default">Yeah, I know. I'm just saying, like</span></p>
+      <p
+        begin="00:37:32.920"
+        end="00:37:33.960"><span region="Default">- how would--<br/>- Hiccup.</span></p>
+      <p
+        begin="00:37:35.360"
+        end="00:37:36.360"><span region="Default">Down.</span></p>
+      <p
+        begin="00:37:49.400"
+        end="00:37:50.400"><span region="Default">Save yourself!</span></p>
+      <p
+        begin="00:37:50.840"
+        end="00:37:52.120"><span region="Default">I'll take care of this.</span></p>
+      <p
+        begin="00:37:56.080"
+        end="00:37:57.360"><span region="Default">Not my fault, Astrid.</span></p>
+      <p
+        begin="00:37:57.560"
+        end="00:37:59.920"><span region="Default">I got distracted<br/>by the light in your eyes!</span></p>
+      <p
+        begin="00:38:28.680"
+        end="00:38:30.480"><span region="Default">Wait! Just let me...</span></p>
+      <p
+        begin="00:38:46.680"
+        end="00:38:48.600"><span region="Default">Yes. Well done, Astrid.</span></p>
+      <p
+        begin="00:38:49.080"
+        end="00:38:51.680"><span region="Default">Nothing like giving them<br/>a taste of their own medicine, eh?</span></p>
+      <p
+        begin="00:38:51.920"
+        end="00:38:54.760"><span region="Default">Also, "Well done, Snotlout,<br/>with the assist,"</span></p>
+      <p
+        begin="00:38:54.840"
+        end="00:38:55.840"><span region="Default">right? What a team!</span></p>
+      <p
+        begin="00:38:56.120"
+        end="00:38:58.120"><span region="Default">Is anyone taking this seriously?</span></p>
+      <p
+        begin="00:38:58.280"
+        end="00:38:59.360"><span region="Default">Take it seriously.</span></p>
+      <p
+        begin="00:38:59.440"
+        end="00:39:00.440"><span region="Default">'Cause in case you forgot</span></p>
+      <p
+        begin="00:39:00.520"
+        end="00:39:02.800"><span region="Default">our parents' war is<br/>about to become ours!</span></p>
+      <p
+        begin="00:39:07.760"
+        end="00:39:09.160"><span region="Default">Figure out which side you're on.</span></p>
+      <p
+        begin="00:40:30.200"
+        end="00:40:31.200"><span region="Default">Toothless.</span></p>
+      <p
+        begin="00:40:32.280"
+        end="00:40:33.360"><span region="Default">I could've sworn you had...</span></p>
+      <p
+        begin="00:40:36.680"
+        end="00:40:37.680"><span region="Default">teeth.</span></p>
+      <p
+        begin="00:40:41.840"
+        end="00:40:43.920"><span region="Default">I... I don't have any more.</span></p>
+      <p
+        begin="00:41:05.000"
+        end="00:41:06.000"><span region="Default">Thanks?</span></p>
+      <p
+        begin="00:41:14.440"
+        end="00:41:15.920"><span region="Default">Oh, come on. You're kidding, right?</span></p>
+      <p
+        begin="00:45:05.240"
+        end="00:45:06.920"><span region="Default">And then he turned and grabbed me arm</span></p>
+      <p
+        begin="00:45:07.000"
+        end="00:45:08.520"><span region="Default">and with one twist</span></p>
+      <p
+        begin="00:45:09.040"
+        end="00:45:11.720"><span region="Default">he took my hand clean off<br/>and he swallowed it whole.</span></p>
+      <p
+        begin="00:45:12.600"
+        end="00:45:14.320"><span region="Default">Yeah, he must have spread<br/>the word around</span></p>
+      <p
+        begin="00:45:14.400"
+        end="00:45:17.600"><span region="Default">'cause within a month,<br/>another one had taken my leg.</span></p>
+      <p
+        begin="00:45:17.680"
+        end="00:45:18.720"><span region="Default">Probably a Skrill.</span></p>
+      <p
+        begin="00:45:19.120"
+        end="00:45:21.480"><span region="Default">Serrated teeth, jaw strength 17.</span></p>
+      <p
+        begin="00:45:21.560"
+        end="00:45:23.400"><span region="Default">I'll avenge<br/>your fallen limbs, big guy.</span></p>
+      <p
+        begin="00:45:23.720"
+        end="00:45:26.480"><span region="Default">I'll chop off the hands and feet<br/>of every dragon that I see.</span></p>
+      <p
+        begin="00:45:26.560"
+        end="00:45:27.560"><span region="Default">Nah.</span></p>
+      <p
+        begin="00:45:29.280"
+        end="00:45:30.880"><span region="Default">It's the wings and the tail you want.</span></p>
+      <p
+        begin="00:45:31.240"
+        end="00:45:33.200"><span region="Default">If they can't fly,<br/>they can't get away.</span></p>
+      <p
+        begin="00:45:33.840"
+        end="00:45:36.400"><span region="Default">A downed dragon is a dead dragon.</span></p>
+      <p
+        begin="00:45:37.080"
+        end="00:45:39.440"><span region="Default">Anyone can get by<br/>without the other bits.</span></p>
+      <p
+        begin="00:45:39.520"
+        end="00:45:41.000"><span region="Default">I'm gonna lose all of my limbs.</span></p>
+      <p
+        begin="00:45:41.320"
+        end="00:45:43.920"><span region="Default">I volunteer Ruffnut<br/>to lose at least one limb.</span></p>
+      <p
+        begin="00:45:44.880"
+        end="00:45:45.880"><span region="Default">What?</span></p>
+      <p
+        begin="00:45:45.960"
+        end="00:45:47.320"><span region="Default">We're twins. Your pain is my pain.</span></p>
+      <p
+        begin="00:45:47.840"
+        end="00:45:48.880"><span region="Default">You're twins?</span></p>
+      <p
+        begin="00:45:48.960"
+        end="00:45:50.800"><span region="Default">Even our own mother<br/>can't tell us apart.</span></p>
+      <p
+        begin="00:45:50.880"
+        end="00:45:51.920"><span region="Default">It's uncanny.</span></p>
+      <p
+        begin="00:45:53.360"
+        end="00:45:55.920"><span region="Default">There we go.<br/>Astrid's got the right idea.</span></p>
+      <p
+        begin="00:45:56.400"
+        end="00:45:58.000"><span region="Default">Get your sleep while you can.</span></p>
+      <p
+        begin="00:45:58.760"
+        end="00:46:00.320"><span region="Default">Soon, Stoick will be back.</span></p>
+      <p
+        begin="00:46:00.600"
+        end="00:46:03.320"><span region="Default">And one of you will be chosen<br/>to kill the dragon.</span></p>
+      <p
+        begin="00:46:03.840"
+        end="00:46:06.200"><span region="Default">Question is, who?</span></p>
+      <p
+        begin="00:46:45.200"
+        end="00:46:46.320"><span region="Default">Toothless!</span></p>
+      <p
+        begin="00:46:48.480"
+        end="00:46:49.480"><span region="Default">Brought breakfast.</span></p>
+      <p
+        begin="00:46:56.920"
+        end="00:46:57.920"><span region="Default">What do you think, bud?</span></p>
+      <p
+        begin="00:46:59.120"
+        end="00:47:00.120"><span region="Default">Okay.</span></p>
+      <p
+        begin="00:47:01.800"
+        end="00:47:02.840"><span region="Default">We got some cod...</span></p>
+      <p
+        begin="00:47:04.720"
+        end="00:47:05.720"><span region="Default">some salmon</span></p>
+      <p
+        begin="00:47:06.440"
+        end="00:47:08.480"><span region="Default">and a whole smoked eel.</span></p>
+      <p
+        begin="00:47:10.720"
+        end="00:47:12.320"><span region="Default">No eel! Scratch the eel!</span></p>
+      <p
+        begin="00:47:15.000"
+        end="00:47:17.920"><span region="Default">Yeah, I... can't say<br/>I love it, either.</span></p>
+      <p
+        begin="00:47:23.160"
+        end="00:47:24.160"><span region="Default">That's it.</span></p>
+      <p
+        begin="00:47:24.720"
+        end="00:47:26.000"><span region="Default">Stick to the good stuff.</span></p>
+      <p
+        begin="00:47:27.120"
+        end="00:47:29.720"><span region="Default">I'll just be back here...</span></p>
+      <p
+        begin="00:47:30.920"
+        end="00:47:32.440"><span region="Default">minding my own business.</span></p>
+      <p
+        begin="00:47:35.920"
+        end="00:47:36.920"><span region="Default">Okay.</span></p>
+      <p
+        begin="00:47:55.480"
+        end="00:47:56.480"><span region="Default">Okay.</span></p>
+      <p
+        begin="00:47:57.240"
+        end="00:47:58.240"><span region="Default">Okay.</span></p>
+      <p
+        begin="00:48:02.520"
+        end="00:48:03.840"><span region="Default">Okay. Not bad.</span></p>
+      <p
+        begin="00:48:04.480"
+        end="00:48:05.480"><span region="Default">It could work.</span></p>
+      <p
+        begin="00:48:05.560"
+        end="00:48:07.120"><span region="Default">If it's... Whoa! Okay!</span></p>
+      <p
+        begin="00:48:07.200"
+        end="00:48:09.440"><span region="Default">Toothless, no! Oh, Gods!</span></p>
+      <p
+        begin="00:48:12.360"
+        end="00:48:14.400"><span region="Default">Toothless! Oh, Gods!</span></p>
+      <p
+        begin="00:48:25.520"
+        end="00:48:26.960"><span region="Default">It's working!</span></p>
+      <p
+        begin="00:48:35.680"
+        end="00:48:37.400"><span region="Default">Yeah!</span></p>
+      <p
+        begin="00:48:39.000"
+        end="00:48:41.040"><span region="Default">Today is all about teamwork.</span></p>
+      <p
+        begin="00:48:41.800"
+        end="00:48:44.400"><span region="Default">If you work together,<br/>you might just survive.</span></p>
+      <p
+        begin="00:48:46.360"
+        end="00:48:50.080"><span region="Default">You see, a wet dragon head<br/>cannot light its fire.</span></p>
+      <p
+        begin="00:48:50.400"
+        end="00:48:53.120"><span region="Default">But a Hideous Zippleback<br/>is extra tricky</span></p>
+      <p
+        begin="00:48:53.200"
+        end="00:48:54.720"><span region="Default">'cause one head breathes gas</span></p>
+      <p
+        begin="00:48:54.800"
+        end="00:48:56.120"><span region="Default">and the other head lights it.</span></p>
+      <p
+        begin="00:48:56.440"
+        end="00:48:58.680"><span region="Default">Your job is to know which is which.</span></p>
+      <p
+        begin="00:48:59.520"
+        end="00:49:00.520"><span region="Default">Good luck.</span></p>
+      <p
+        begin="00:49:03.960"
+        end="00:49:07.520"><span region="Default">Razor-sharp fangs that inject<br/>venom for predigestion.</span></p>
+      <p
+        begin="00:49:08.080"
+        end="00:49:09.640"><span region="Default">Prefers to keep its victims...</span></p>
+      <p
+        begin="00:49:11.000"
+        end="00:49:12.080"><span region="Default">conscious.</span></p>
+      <p
+        begin="00:49:12.360"
+        end="00:49:14.320"><span region="Default">You know, I'm kind of glad<br/>we got partnered.</span></p>
+      <p
+        begin="00:49:15.880"
+        end="00:49:17.800"><span region="Default">Us girls got to stick together.</span></p>
+      <p
+        begin="00:49:18.520"
+        end="00:49:20.160"><span region="Default">- Until I have to take you out.<br/>- Shush.</span></p>
+      <p
+        begin="00:49:20.240"
+        end="00:49:22.000"><span region="Default">I think<br/>I've pretty much won Astrid over.</span></p>
+      <p
+        begin="00:49:22.320"
+        end="00:49:23.840"><span region="Default">I mean, she can barely<br/>even look at me.</span></p>
+      <p
+        begin="00:49:24.800"
+        end="00:49:26.600"><span region="Default">You came to the right man for advice.</span></p>
+      <p
+        begin="00:49:26.680"
+        end="00:49:28.240"><span region="Default">- I didn't ask--<br/>- If there's one thing</span></p>
+      <p
+        begin="00:49:28.320"
+        end="00:49:30.720"><span region="Default">the Viking girl brain<br/>can't resist, it's...</span></p>
+      <p
+        begin="00:49:31.600"
+        end="00:49:32.600"><span region="Default">Look out!</span></p>
+      <p
+        begin="00:49:33.840"
+        end="00:49:36.280"><span region="Default">- Hey!<br/>- It's us, geniuses.</span></p>
+      <p
+        begin="00:49:36.360"
+        end="00:49:37.360"><span region="Default">Lightning reflexes.</span></p>
+      <p
+        begin="00:49:37.440"
+        end="00:49:38.840"><span region="Default">I see hideous heads, I strike.</span></p>
+      <p
+        begin="00:49:39.680"
+        end="00:49:40.680"><span region="Default">Ow.</span></p>
+      <p
+        begin="00:49:41.800"
+        end="00:49:43.600"><span region="Default">Make that one hideous head, Astrid.</span></p>
+      <p
+        begin="00:49:48.160"
+        end="00:49:49.200"><span region="Default">Save yourselves!</span></p>
+      <p
+        begin="00:49:50.520"
+        end="00:49:52.680"><span region="Default">Also known to toy with its victims</span></p>
+      <p
+        begin="00:49:52.840"
+        end="00:49:54.280"><span region="Default">dismembering them limb from limb.</span></p>
+      <p
+        begin="00:49:54.360"
+        end="00:49:56.280"><span region="Default">Will you please stop that?</span></p>
+      <p
+        begin="00:49:58.720"
+        end="00:49:59.720"><span region="Default">Fishlegs!</span></p>
+      <p
+        begin="00:50:02.680"
+        end="00:50:03.680"><span region="Default">Wrong head.</span></p>
+      <p
+        begin="00:50:07.480"
+        end="00:50:08.720"><span region="Default">Get out of there, Hiccup!</span></p>
+      <p
+        begin="00:50:10.680"
+        end="00:50:11.680"><span region="Default">Oh, come on.</span></p>
+      <p
+        begin="00:50:21.760"
+        end="00:50:23.720"><span region="Default">Yeah. Back!</span></p>
+      <p
+        begin="00:50:25.520"
+        end="00:50:27.840"><span region="Default">Run... Hiccup.</span></p>
+      <p
+        begin="00:50:27.920"
+        end="00:50:30.240"><span region="Default">Don't make me tell you again! Yeah.</span></p>
+      <p
+        begin="00:50:30.640"
+        end="00:50:32.400"><span region="Default">Yeah, that's right. Back in your pen.</span></p>
+      <p
+        begin="00:50:35.440"
+        end="00:50:37.840"><span region="Default">Now, think about what you've done.</span></p>
+      <p
+        begin="00:50:55.440"
+        end="00:50:58.200"><span region="Default">So, are we done today?</span></p>
+      <p
+        begin="00:50:58.640"
+        end="00:51:00.840"><span region="Default">Just because I have<br/>some things I need to...</span></p>
+      <p
+        begin="00:51:02.080"
+        end="00:51:03.920"><span region="Default">Yeah, I'm gonna...<br/>I'm gonna see you guys tomorrow.</span></p>
+      <p
+        begin="00:51:14.400"
+        end="00:51:15.400"><span region="Default">Hey.</span></p>
+      <p
+        begin="00:51:15.560"
+        end="00:51:16.560"><span region="Default">Oh, come on.</span></p>
+      <p
+        begin="00:51:17.080"
+        end="00:51:18.080"><span region="Default">Just try it!</span></p>
+      <p
+        begin="00:51:30.120"
+        end="00:51:31.120"><span region="Default">I'm gonna die!</span></p>
+      <p
+        begin="00:51:33.040"
+        end="00:51:34.040"><span region="Default">No!</span></p>
+      <p
+        begin="00:51:35.680"
+        end="00:51:36.840"><span region="Default">No, please!</span></p>
+      <p
+        begin="00:51:37.320"
+        end="00:51:39.120"><span region="Default">Just kind of angle yourself!</span></p>
+      <p
+        begin="00:51:45.800"
+        end="00:51:46.800"><span region="Default">No!</span></p>
+      <p
+        begin="00:51:49.480"
+        end="00:51:51.040"><span region="Default">Oh, come on!</span></p>
+      <p
+        begin="00:52:07.160"
+        end="00:52:09.320"><span region="Default">- Out of my way.<br/>- Move... move!</span></p>
+      <p
+        begin="00:52:09.400"
+        end="00:52:11.480"><span region="Default">Watch yourselves.<br/>Get in its blind spot.</span></p>
+      <p
+        begin="00:52:11.560"
+        end="00:52:12.800"><span region="Default">I got it! It's mine!</span></p>
+      <p
+        begin="00:52:12.880"
+        end="00:52:14.320"><span region="Default">No, don't bring it over here!</span></p>
+      <p
+        begin="00:52:27.400"
+        end="00:52:28.600"><span region="Default">Little guy. What is his name again?</span></p>
+      <p
+        begin="00:52:28.680"
+        end="00:52:30.320"><span region="Default">- I don't remember.<br/>- Hey. Slow down.</span></p>
+      <p
+        begin="00:52:30.400"
+        end="00:52:32.640"><span region="Default">- Are you trying to show us up?<br/>- No.</span></p>
+      <p
+        begin="00:52:32.720"
+        end="00:52:34.440"><span region="Default">I've never seen someone<br/>take down a Gronckle like that.</span></p>
+      <p
+        begin="00:52:34.520"
+        end="00:52:36.240"><span region="Default">I mean, I do it all the time,<br/>but how did you learn?</span></p>
+      <p
+        begin="00:52:36.320"
+        end="00:52:38.200"><span region="Default">Learn what? What exactly was that?</span></p>
+      <p
+        begin="00:52:38.280"
+        end="00:52:39.800"><span region="Default">Okay, see, I'd love to explain.</span></p>
+      <p
+        begin="00:52:39.880"
+        end="00:52:42.440"><span region="Default">It's just, I left my axe<br/>back in... in the ring.</span></p>
+      <p
+        begin="00:52:42.760"
+        end="00:52:44.760"><span region="Default">Who's a good boy? Who's a good boy?</span></p>
+      <p
+        begin="00:52:44.840"
+        end="00:52:46.000"><span region="Default">Okay.</span></p>
+      <p
+        begin="00:52:46.400"
+        end="00:52:49.320"><span region="Default">Yeah, yeah? You itchy?<br/>Is that the spot?</span></p>
+      <p
+        begin="00:53:22.880"
+        end="00:53:23.920"><span region="Default">Hiccup.</span></p>
+      <p
+        begin="00:53:27.840"
+        end="00:53:28.840"><span region="Default">Yo, there he is.</span></p>
+      <p
+        begin="00:53:29.640"
+        end="00:53:30.640"><span region="Default">Hey, Hiccup.</span></p>
+      <p
+        begin="00:53:31.960"
+        end="00:53:33.240"><span region="Default">- Okay.<br/>- Hiccup. Wait.</span></p>
+      <p
+        begin="00:53:33.320"
+        end="00:53:34.880"><span region="Default">- I have a proper question.<br/>- So I'm thinking that...</span></p>
+      <p
+        begin="00:53:35.000"
+        end="00:53:37.160"><span region="Default">All it needs to be is<br/>you and me in the ring.</span></p>
+      <p
+        begin="00:53:45.480"
+        end="00:53:46.800"><span region="Default">A Terrible Terror!</span></p>
+      <p
+        begin="00:53:55.320"
+        end="00:53:56.520"><span region="Default">It's like the size of my...</span></p>
+      <p
+        begin="00:53:58.080"
+        end="00:53:59.520"><span region="Default">Get it off... get it off!</span></p>
+      <p
+        begin="00:55:40.520"
+        end="00:55:41.840"><span region="Default">And the other ships?</span></p>
+      <p
+        begin="00:55:53.760"
+        end="00:55:54.760"><span region="Default">Dad!</span></p>
+      <p
+        begin="00:55:55.320"
+        end="00:55:56.320"><span region="Default">I got it.</span></p>
+      <p
+        begin="00:55:57.160"
+        end="00:55:58.160"><span region="Default">I missed you.</span></p>
+      <p
+        begin="00:55:58.400"
+        end="00:56:00.000"><span region="Default">In, like, a super manly way.</span></p>
+      <p
+        begin="00:56:00.520"
+        end="00:56:02.680"><span region="Default">I got so much to tell you<br/>about the Trial of Flame.</span></p>
+      <p
+        begin="00:56:02.760"
+        end="00:56:04.400"><span region="Default">It's basically between... Dad?</span></p>
+      <p
+        begin="00:56:06.080"
+        end="00:56:07.080"><span region="Default">Dad?</span></p>
+      <p
+        begin="00:56:08.640"
+        end="00:56:10.720"><span region="Default">Da... Okay, I'll see you at home!</span></p>
+      <p
+        begin="00:56:12.080"
+        end="00:56:13.520"><span region="Default">So, no nest, then?</span></p>
+      <p
+        begin="00:56:13.840"
+        end="00:56:15.000"><span region="Default">Not even close.</span></p>
+      <p
+        begin="00:56:16.320"
+        end="00:56:18.120"><span region="Default">I hope you had more success.</span></p>
+      <p
+        begin="00:56:18.360"
+        end="00:56:21.480"><span region="Default">Well, if by success, you mean<br/>your parenting troubles are over</span></p>
+      <p
+        begin="00:56:21.560"
+        end="00:56:23.520"><span region="Default">then yeah.</span></p>
+      <p
+        begin="00:56:24.680"
+        end="00:56:26.000"><span region="Default">Did you hear the news, Chief?</span></p>
+      <p
+        begin="00:56:26.480"
+        end="00:56:27.920"><span region="Default">Everyone is so relieved.</span></p>
+      <p
+        begin="00:56:28.440"
+        end="00:56:29.800"><span region="Default">Good riddance to old Hiccup.</span></p>
+      <p
+        begin="00:56:30.120"
+        end="00:56:32.520"><span region="Default">Aye. No one will miss that nuisance.</span></p>
+      <p
+        begin="00:56:34.960"
+        end="00:56:36.120"><span region="Default">Hiccup is...</span></p>
+      <p
+        begin="00:56:37.640"
+        end="00:56:38.640"><span region="Default">gone?</span></p>
+      <p
+        begin="00:56:39.160"
+        end="00:56:42.200"><span region="Default">Yeah. Yeah, most afternoons,<br/>but who can blame him?</span></p>
+      <p
+        begin="00:56:42.280"
+        end="00:56:44.120"><span region="Default">The life of a celebrity<br/>can be very rough.</span></p>
+      <p
+        begin="00:56:44.200"
+        end="00:56:45.720"><span region="Default">He can barely walk<br/>through the village</span></p>
+      <p
+        begin="00:56:45.800"
+        end="00:56:48.320"><span region="Default">without being swarmed<br/>by his army of new fans.</span></p>
+      <p
+        begin="00:56:49.720"
+        end="00:56:51.120"><span region="Default">Who would've thought he has this...</span></p>
+      <p
+        begin="00:56:52.360"
+        end="00:56:53.520"><span region="Default">way with the beasts?</span></p>
+      <p
+        begin="00:57:06.160"
+        end="00:57:07.280"><span region="Default">All right, bud.</span></p>
+      <p
+        begin="00:57:07.680"
+        end="00:57:09.520"><span region="Default">We're gonna take this nice and slow.</span></p>
+      <p
+        begin="00:57:12.040"
+        end="00:57:13.040"><span region="Default">Here we go.</span></p>
+      <p
+        begin="00:57:13.240"
+        end="00:57:14.240"><span region="Default">Position three.</span></p>
+      <p
+        begin="00:57:14.400"
+        end="00:57:15.400"><span region="Default">No, four.</span></p>
+      <p
+        begin="00:57:31.120"
+        end="00:57:32.120"><span region="Default">You ready?</span></p>
+      <p
+        begin="00:57:46.720"
+        end="00:57:47.880"><span region="Default">Come on. Come on.</span></p>
+      <p
+        begin="00:58:03.320"
+        end="00:58:04.840"><span region="Default">Yeah, look at us!</span></p>
+      <p
+        begin="00:58:08.920"
+        end="00:58:10.600"><span region="Default">My fault. My fault.</span></p>
+      <p
+        begin="00:58:11.560"
+        end="00:58:12.720"><span region="Default">Yeah, yeah, I'm on it.</span></p>
+      <p
+        begin="00:58:13.520"
+        end="00:58:14.520"><span region="Default">Position five.</span></p>
+      <p
+        begin="00:58:17.520"
+        end="00:58:18.520"><span region="Default">Come on, bud.</span></p>
+      <p
+        begin="00:58:23.240"
+        end="00:58:24.600"><span region="Default">Yeah. Go, baby!</span></p>
+      <p
+        begin="00:58:25.640"
+        end="00:58:27.320"><span region="Default">Oh, this is amazing!</span></p>
+      <p
+        begin="00:58:27.560"
+        end="00:58:28.720"><span region="Default">The wind in my...</span></p>
+      <p
+        begin="00:58:29.320"
+        end="00:58:30.400"><span region="Default">Cheat sheet!</span></p>
+      <p
+        begin="00:58:30.520"
+        end="00:58:31.920"><span region="Default">Stop!</span></p>
+      <p
+        begin="00:58:36.520"
+        end="00:58:38.200"><span region="Default">Oh, Gods!</span></p>
+      <p
+        begin="00:59:43.960"
+        end="00:59:45.040"><span region="Default">Yeah!</span></p>
+      <p
+        begin="00:59:57.080"
+        end="00:59:58.880"><span region="Default">- Son!<br/>- Dad! You're back.</span></p>
+      <p
+        begin="00:59:59.880"
+        end="01:00:01.120"><span region="Default">Okay, Gobber's not here</span></p>
+      <p
+        begin="01:00:01.200"
+        end="01:00:02.440"><span region="Default">- so...<br/>- I know.</span></p>
+      <p
+        begin="01:00:05.520"
+        end="01:00:07.040"><span region="Default">Came looking for you.</span></p>
+      <p
+        begin="01:00:07.120"
+        end="01:00:09.440"><span region="Default">You... You did? Why?</span></p>
+      <p
+        begin="01:00:09.520"
+        end="01:00:11.400"><span region="Default">You've been keeping secrets.</span></p>
+      <p
+        begin="01:00:11.600"
+        end="01:00:12.600"><span region="Default">I have?</span></p>
+      <p
+        begin="01:00:12.680"
+        end="01:00:15.640"><span region="Default">Just how long did you think<br/>you could hide it from me?</span></p>
+      <p
+        begin="01:00:16.720"
+        end="01:00:18.200"><span region="Default">I... I don't even know<br/>what you're talking...</span></p>
+      <p
+        begin="01:00:18.280"
+        end="01:00:24.120"><span region="Default">Nothing happens on this island<br/>without me hearing about it.</span></p>
+      <p
+        begin="01:00:25.160"
+        end="01:00:30.200"><span region="Default">So, let's talk about that dragon.</span></p>
+      <p
+        begin="01:00:30.280"
+        end="01:00:31.400"><span region="Default">Oh, Gods, Dad.</span></p>
+      <p
+        begin="01:00:31.840"
+        end="01:00:33.600"><span region="Default">I'm... I'm so sorry.</span></p>
+      <p
+        begin="01:00:33.800"
+        end="01:00:36.840"><span region="Default">I... I was gonna tell you sooner.<br/>I just didn't know...</span></p>
+      <p
+        begin="01:00:42.920"
+        end="01:00:44.080"><span region="Default">You're not upset?</span></p>
+      <p
+        begin="01:00:44.480"
+        end="01:00:46.320"><span region="Default">What? What?</span></p>
+      <p
+        begin="01:00:46.400"
+        end="01:00:48.120"><span region="Default">I was hoping for this.</span></p>
+      <p
+        begin="01:00:48.480"
+        end="01:00:50.160"><span region="Default">- You were?<br/>- Oh, yes.</span></p>
+      <p
+        begin="01:00:50.240"
+        end="01:00:53.080"><span region="Default">And believe me, it only gets better.</span></p>
+      <p
+        begin="01:00:53.160"
+        end="01:00:57.280"><span region="Default">Just wait till you spill<br/>a Nadder's guts for the first time.</span></p>
+      <p
+        begin="01:00:57.360"
+        end="01:01:01.720"><span region="Default">Or... Or mount your first<br/>Gronckle head on a spear.</span></p>
+      <p
+        begin="01:01:02.120"
+        end="01:01:03.360"><span region="Default">What a feeling.</span></p>
+      <p
+        begin="01:01:04.120"
+        end="01:01:06.120"><span region="Default">You really had me going there, son.</span></p>
+      <p
+        begin="01:01:06.560"
+        end="01:01:10.040"><span region="Default">All those years of the worst Viking</span></p>
+      <p
+        begin="01:01:10.120"
+        end="01:01:11.720"><span region="Default">Berk has ever seen.</span></p>
+      <p
+        begin="01:01:12.680"
+        end="01:01:14.200"><span region="Default">Odin, it was rough.</span></p>
+      <p
+        begin="01:01:14.280"
+        end="01:01:15.800"><span region="Default">I almost gave up on you.</span></p>
+      <p
+        begin="01:01:15.880"
+        end="01:01:19.080"><span region="Default">And all the while,<br/>you were holding out on me.</span></p>
+      <p
+        begin="01:01:19.880"
+        end="01:01:21.720"><span region="Default">Thor almighty.</span></p>
+      <p
+        begin="01:01:22.160"
+        end="01:01:23.160"><span region="Default">Who would have thought that</span></p>
+      <p
+        begin="01:01:23.240"
+        end="01:01:26.920"><span region="Default">Dragon Training would have been<br/>your place to shine, huh?</span></p>
+      <p
+        begin="01:01:27.800"
+        end="01:01:29.520"><span region="Default">You might even win Top Slayer.</span></p>
+      <p
+        begin="01:01:30.320"
+        end="01:01:31.600"><span region="Default">Just like your old man.</span></p>
+      <p
+        begin="01:01:32.040"
+        end="01:01:33.040"><span region="Default">Who knows?</span></p>
+      <p
+        begin="01:01:34.000"
+        end="01:01:37.200"><span region="Default">You know, actually,<br/>with you doing so well in the ring...</span></p>
+      <p
+        begin="01:01:37.840"
+        end="01:01:39.600"><span region="Default">- I'm gonna... Okay.<br/>- Sit.</span></p>
+      <p
+        begin="01:01:39.680"
+        end="01:01:42.840"><span region="Default">We finally have<br/>something to talk about.</span></p>
+      <p
+        begin="01:01:50.160"
+        end="01:01:51.160"><span region="Default">So, I...</span></p>
+      <p
+        begin="01:02:01.960"
+        end="01:02:03.600"><span region="Default">Oh. Oh, I...</span></p>
+      <p
+        begin="01:02:04.400"
+        end="01:02:05.600"><span region="Default">I brought you something...</span></p>
+      <p
+        begin="01:02:06.920"
+        end="01:02:08.520"><span region="Default">to...</span></p>
+      <p
+        begin="01:02:09.200"
+        end="01:02:11.800"><span region="Default">keep you safe in the ring.</span></p>
+      <p
+        begin="01:02:14.640"
+        end="01:02:17.200"><span region="Default">Your mother would've<br/>wanted you to have it.</span></p>
+      <p
+        begin="01:02:18.080"
+        end="01:02:19.800"><span region="Default">Wow. Thanks.</span></p>
+      <p
+        begin="01:02:20.240"
+        end="01:02:21.720"><span region="Default">It's half of her breastplate.</span></p>
+      <p
+        begin="01:02:23.600"
+        end="01:02:24.640"><span region="Default">Matching set.</span></p>
+      <p
+        begin="01:02:25.280"
+        end="01:02:26.280"><span region="Default">Keeps her...</span></p>
+      <p
+        begin="01:02:27.760"
+        end="01:02:29.120"><span region="Default">It keeps her close, you know?</span></p>
+      <p
+        begin="01:02:31.440"
+        end="01:02:32.920"><span region="Default">Wear it proudly, son.</span></p>
+      <p
+        begin="01:02:33.320"
+        end="01:02:35.640"><span region="Default">You've held up your end of the deal.</span></p>
+      <p
+        begin="01:02:42.080"
+        end="01:02:44.000"><span region="Default">- Yeah.<br/>- Yeah. Tired.</span></p>
+      <p
+        begin="01:02:44.080"
+        end="01:02:46.520"><span region="Default">- Yeah, I'm gonna get some sleep.<br/>- Good talk.</span></p>
+      <p
+        begin="01:02:46.600"
+        end="01:02:48.600"><span region="Default">- Big day tomorrow.<br/>- Yeah. Just... The Trial of Flame</span></p>
+      <p
+        begin="01:02:48.680"
+        end="01:02:50.920"><span region="Default">- and it takes a lot out of you.<br/>- Yeah, Trial of Flames... Flame.</span></p>
+      <p
+        begin="01:02:51.120"
+        end="01:02:52.160"><span region="Default">- Good luck with that.<br/>- Yeah, thank you, thank you</span></p>
+      <p
+        begin="01:02:52.240"
+        end="01:02:53.840"><span region="Default">- I hope you like the...<br/>- for the... the breast hat.</span></p>
+      <p
+        begin="01:02:53.920"
+        end="01:02:55.520"><span region="Default">- hat. Yeah.<br/>- Yeah.</span></p>
+      <p
+        begin="01:02:56.720"
+        end="01:02:59.120"><span region="Default">Okay, well, good night.</span></p>
+      <p
+        begin="01:03:08.000"
+        end="01:03:09.160"><span region="Default">No more of your tricks.</span></p>
+      <p
+        begin="01:03:09.240"
+        end="01:03:11.000"><span region="Default">I'm taking Top Slayer today.</span></p>
+      <p
+        begin="01:03:11.080"
+        end="01:03:13.720"><span region="Default">Yeah, yeah, okay. It's all yours.<br/>Top... Top Slay away.</span></p>
+      <p
+        begin="01:03:14.680"
+        end="01:03:15.680"><span region="Default">Sorry.</span></p>
+      <p
+        begin="01:03:36.480"
+        end="01:03:38.440"><span region="Default">Last chance. Make it count.</span></p>
+      <p
+        begin="01:03:45.000"
+        end="01:03:46.000"><span region="Default">Come on!</span></p>
+      <p
+        begin="01:03:46.080"
+        end="01:03:47.120"><span region="Default">Go on, Astrid!</span></p>
+      <p
+        begin="01:03:47.200"
+        end="01:03:48.800"><span region="Default">- You got it! Go on!<br/>- Come on, Hiccup!</span></p>
+      <p
+        begin="01:03:48.880"
+        end="01:03:49.920"><span region="Default">Come on!</span></p>
+      <p
+        begin="01:03:54.640"
+        end="01:03:55.640"><span region="Default">No!</span></p>
+      <p
+        begin="01:03:56.000"
+        end="01:03:58.280"><span region="Default">Son of a half-troll, rat-eating...</span></p>
+      <p
+        begin="01:03:58.360"
+        end="01:04:00.000"><span region="Default">Glad to see<br/>she's handling it gracefully.</span></p>
+      <p
+        begin="01:04:00.280"
+        end="01:04:01.280"><span region="Default">You!</span></p>
+      <p
+        begin="01:04:06.760"
+        end="01:04:07.760"><span region="Default">Okay.</span></p>
+      <p
+        begin="01:04:07.840"
+        end="01:04:09.720"><span region="Default">- Later.<br/>- Hey, hey. Not so fast.</span></p>
+      <p
+        begin="01:04:09.800"
+        end="01:04:11.200"><span region="Default">No, I can't. I'm gonna be late for...</span></p>
+      <p
+        begin="01:04:11.280"
+        end="01:04:13.000"><span region="Default">What? Late for what, exactly?</span></p>
+      <p
+        begin="01:04:13.080"
+        end="01:04:14.320"><span region="Default">- Another year,<br/>- Shut up.</span></p>
+      <p
+        begin="01:04:14.400"
+        end="01:04:17.120"><span region="Default">and another Trial of Flame<br/>has come to an end.</span></p>
+      <p
+        begin="01:04:18.120"
+        end="01:04:20.520"><span region="Default">Elder Gothi has made her decision.</span></p>
+      <p
+        begin="01:04:22.600"
+        end="01:04:27.120"><span region="Default">The new Top Slayer will be...</span></p>
+      <p
+        begin="01:04:41.600"
+        end="01:04:42.600"><span region="Default">Hiccup?</span></p>
+      <p
+        begin="01:04:48.880"
+        end="01:04:50.120"><span region="Default">You've done it, Hiccup.</span></p>
+      <p
+        begin="01:04:50.200"
+        end="01:04:51.600"><span region="Default">You won the Trial of Flame.</span></p>
+      <p
+        begin="01:04:51.920"
+        end="01:04:53.120"><span region="Default">You get to kill the dragon!</span></p>
+      <p
+        begin="01:04:53.280"
+        end="01:04:54.600"><span region="Default">That's my boy!</span></p>
+      <p
+        begin="01:04:59.080"
+        end="01:05:01.240"><span region="Default">Hiccup, you won!</span></p>
+      <p
+        begin="01:05:04.360"
+        end="01:05:05.360"><span region="Default">Yeah.</span></p>
+      <p
+        begin="01:05:06.080"
+        end="01:05:07.200"><span region="Default">Hooray me.</span></p>
+      <p
+        begin="01:05:07.400"
+        end="01:05:09.200"><span region="Default">I can't wait to...</span></p>
+      <p
+        begin="01:05:09.280"
+        end="01:05:11.000"><span region="Default">Beat it and never come back.</span></p>
+      <p
+        begin="01:05:11.400"
+        end="01:05:12.720"><span region="Default">All right, bud. Time's up.</span></p>
+      <p
+        begin="01:05:13.760"
+        end="01:05:15.000"><span region="Default">My thoughts exactly.</span></p>
+      <p
+        begin="01:05:15.480"
+        end="01:05:16.640"><span region="Default">What are you...</span></p>
+      <p
+        begin="01:05:17.200"
+        end="01:05:18.400"><span region="Default">What are you doing here?</span></p>
+      <p
+        begin="01:05:18.720"
+        end="01:05:20.000"><span region="Default">Looking for answers.</span></p>
+      <p
+        begin="01:05:20.760"
+        end="01:05:21.920"><span region="Default">What are you doing here?</span></p>
+      <p
+        begin="01:05:22.200"
+        end="01:05:23.520"><span region="Default">Who's bud? Your trainer?</span></p>
+      <p
+        begin="01:05:23.880"
+        end="01:05:24.960"><span region="Default">Did he dress you up in this?</span></p>
+      <p
+        begin="01:05:25.880"
+        end="01:05:28.640"><span region="Default">I know this looks suspicious<br/>but funnily enough, I...</span></p>
+      <p
+        begin="01:05:29.640"
+        end="01:05:31.480"><span region="Default">You're right! You're right. I...</span></p>
+      <p
+        begin="01:05:31.560"
+        end="01:05:33.720"><span region="Default">I'm through with the lies.<br/>I've been making outfits</span></p>
+      <p
+        begin="01:05:33.800"
+        end="01:05:36.240"><span region="Default">so you got me.<br/>It's time everybody knew.</span></p>
+      <p
+        begin="01:05:36.320"
+        end="01:05:37.320"><span region="Default">Just take me back.</span></p>
+      <p
+        begin="01:05:39.280"
+        end="01:05:40.360"><span region="Default">Why would you do that?</span></p>
+      <p
+        begin="01:05:40.440"
+        end="01:05:41.760"><span region="Default">That's for the lies.</span></p>
+      <p
+        begin="01:05:43.160"
+        end="01:05:45.560"><span region="Default">And that's for everything else.</span></p>
+      <p
+        begin="01:05:47.760"
+        end="01:05:48.760"><span region="Default">Oh, no.</span></p>
+      <p
+        begin="01:05:49.480"
+        end="01:05:51.080"><span region="Default">Run. Run!</span></p>
+      <p
+        begin="01:05:51.160"
+        end="01:05:52.600"><span region="Default">- No! No.<br/>- What...</span></p>
+      <p
+        begin="01:05:52.880"
+        end="01:05:55.000"><span region="Default">Toothless, no! Stop. It's okay.</span></p>
+      <p
+        begin="01:05:55.400"
+        end="01:05:57.320"><span region="Default">She's a friend. She's a friend.</span></p>
+      <p
+        begin="01:06:02.000"
+        end="01:06:04.320"><span region="Default">Toothless, Astrid. Astrid, Toothless.</span></p>
+      <p
+        begin="01:06:04.960"
+        end="01:06:05.960"><span region="Default">The...</span></p>
+      <p
+        begin="01:06:06.800"
+        end="01:06:07.800"><span region="Default">The Night Fury.</span></p>
+      <p
+        begin="01:06:13.560"
+        end="01:06:14.560"><span region="Default">I wouldn't.</span></p>
+      <p
+        begin="01:06:19.360"
+        end="01:06:20.360"><span region="Default">We're dead.</span></p>
+      <p
+        begin="01:06:22.720"
+        end="01:06:25.000"><span region="Default">Hey. Where do you think you're going?</span></p>
+      <p
+        begin="01:06:54.840"
+        end="01:06:57.520"><span region="Default">Hiccup! Get me down from here!</span></p>
+      <p
+        begin="01:06:57.600"
+        end="01:06:59.000"><span region="Default">You have to give me<br/>a chance to explain.</span></p>
+      <p
+        begin="01:06:59.080"
+        end="01:07:01.280"><span region="Default">I'm not listening<br/>to anything you have to say.</span></p>
+      <p
+        begin="01:07:01.360"
+        end="01:07:02.400"><span region="Default">Then I won't speak.</span></p>
+      <p
+        begin="01:07:03.120"
+        end="01:07:04.120"><span region="Default">Just let us show you.</span></p>
+      <p
+        begin="01:07:04.960"
+        end="01:07:06.720"><span region="Default">Please, Astrid.</span></p>
+      <p
+        begin="01:07:18.160"
+        end="01:07:19.280"><span region="Default">What is this?</span></p>
+      <p
+        begin="01:07:20.720"
+        end="01:07:21.760"><span region="Default">It's my design.</span></p>
+      <p
+        begin="01:07:22.600"
+        end="01:07:24.320"><span region="Default">Yeah. Pretty much the co-captain.</span></p>
+      <p
+        begin="01:07:27.240"
+        end="01:07:28.600"><span region="Default">Then let's get this over with.</span></p>
+      <p
+        begin="01:07:29.880"
+        end="01:07:30.880"><span region="Default">You got it.</span></p>
+      <p
+        begin="01:07:31.440"
+        end="01:07:33.720"><span region="Default">Toothless, let's take her down.</span></p>
+      <p
+        begin="01:07:35.200"
+        end="01:07:36.200"><span region="Default">Gently.</span></p>
+      <p
+        begin="01:07:37.680"
+        end="01:07:38.680"><span region="Default">Nothing to be afraid of.</span></p>
+      <p
+        begin="01:07:46.000"
+        end="01:07:47.040"><span region="Default">Oh, nice touch!</span></p>
+      <p
+        begin="01:07:50.600"
+        end="01:07:52.240"><span region="Default">I thought you were his co-captain!</span></p>
+      <p
+        begin="01:07:52.320"
+        end="01:07:54.680"><span region="Default">I am! It's a temporary<br/>dragon malfunction!</span></p>
+      <p
+        begin="01:07:58.160"
+        end="01:08:00.120"><span region="Default">We worked out<br/>a whole system, remember?</span></p>
+      <p
+        begin="01:08:01.880"
+        end="01:08:04.320"><span region="Default">If we survive, I'm gonna kill you!</span></p>
+      <p
+        begin="01:08:08.720"
+        end="01:08:10.320"><span region="Default">And now the spinning!</span></p>
+      <p
+        begin="01:08:10.720"
+        end="01:08:13.520"><span region="Default">Thank you for nothing,<br/>you useless reptile.</span></p>
+      <p
+        begin="01:08:13.600"
+        end="01:08:15.600"><span region="Default">Please just make it stop.</span></p>
+      <p
+        begin="01:08:17.720"
+        end="01:08:19.920"><span region="Default">I'm clearly not the one in control!</span></p>
+      <p
+        begin="01:08:20.160"
+        end="01:08:21.320"><span region="Default">Then I'm sorry!</span></p>
+      <p
+        begin="01:08:21.960"
+        end="01:08:23.720"><span region="Default">Toothless, I'm sorry!</span></p>
+      <p
+        begin="01:10:02.120"
+        end="01:10:03.120"><span region="Default">Fine.</span></p>
+      <p
+        begin="01:10:05.000"
+        end="01:10:06.320"><span region="Default">You made your point.</span></p>
+      <p
+        begin="01:10:09.000"
+        end="01:10:11.440"><span region="Default">It doesn't change the fact<br/>you have to kill one tomorrow.</span></p>
+      <p
+        begin="01:10:13.880"
+        end="01:10:14.920"><span region="Default">But if we can change your mind...</span></p>
+      <p
+        begin="01:10:15.000"
+        end="01:10:16.000"><span region="Default">What?</span></p>
+      <p
+        begin="01:10:16.080"
+        end="01:10:18.040"><span region="Default">You gonna take everyone up<br/>for a magical ride?</span></p>
+      <p
+        begin="01:10:21.400"
+        end="01:10:24.120"><span region="Default">It won't erase<br/>what they've done to us, Hiccup.</span></p>
+      <p
+        begin="01:10:25.200"
+        end="01:10:27.000"><span region="Default">They hunt us, steal our food.</span></p>
+      <p
+        begin="01:10:27.080"
+        end="01:10:28.400"><span region="Default">And one of them took my mom.</span></p>
+      <p
+        begin="01:10:29.080"
+        end="01:10:30.320"><span region="Default">But do we just keep<br/>killing one another?</span></p>
+      <p
+        begin="01:10:30.400"
+        end="01:10:31.680"><span region="Default">As opposed to...</span></p>
+      <p
+        begin="01:10:33.240"
+        end="01:10:34.240"><span region="Default">I don't know.</span></p>
+      <p
+        begin="01:10:36.080"
+        end="01:10:38.240"><span region="Default">But you botched our escape plan,<br/>so I'm gonna need a minute.</span></p>
+      <p
+        begin="01:10:42.920"
+        end="01:10:46.120"><span region="Default">Well, I might not snitch on you.</span></p>
+      <p
+        begin="01:10:47.440"
+        end="01:10:49.520"><span region="Default">And we might not drop you in the sea.</span></p>
+      <p
+        begin="01:10:53.520"
+        end="01:10:55.320"><span region="Default">Bud? What's up?</span></p>
+      <p
+        begin="01:10:56.240"
+        end="01:10:57.240"><span region="Default">What is it?</span></p>
+      <p
+        begin="01:10:57.760"
+        end="01:10:58.800"><span region="Default">Hey. Hey.</span></p>
+      <p
+        begin="01:11:01.720"
+        end="01:11:02.720"><span region="Default">Get down!</span></p>
+      <p
+        begin="01:11:05.120"
+        end="01:11:06.680"><span region="Default">Toothless, get us out of here.</span></p>
+      <p
+        begin="01:11:12.720"
+        end="01:11:14.320"><span region="Default">It looks like<br/>they're hauling in their kill.</span></p>
+      <p
+        begin="01:11:15.640"
+        end="01:11:17.000"><span region="Default">Then what does that make us?</span></p>
+      <p
+        begin="01:11:52.480"
+        end="01:11:53.840"><span region="Default">The dragons' nest.</span></p>
+      <p
+        begin="01:11:54.880"
+        end="01:11:57.240"><span region="Default">Oh, what my dad wouldn't give<br/>to find this.</span></p>
+      <p
+        begin="01:12:30.040"
+        end="01:12:31.480"><span region="Default">What is that?</span></p>
+      <p
+        begin="01:12:34.320"
+        end="01:12:35.840"><span region="Default">All right, bud, time to go.</span></p>
+      <p
+        begin="01:12:44.880"
+        end="01:12:47.120"><span region="Default">I can't believe it took<br/>this long to figure it out.</span></p>
+      <p
+        begin="01:12:47.560"
+        end="01:12:48.920"><span region="Default">It all makes sense now.</span></p>
+      <p
+        begin="01:12:49.360"
+        end="01:12:51.520"><span region="Default">It's like a giant beehive.</span></p>
+      <p
+        begin="01:12:51.840"
+        end="01:12:53.920"><span region="Default">They're the workers,<br/>and that's their queen.</span></p>
+      <p
+        begin="01:12:54.120"
+        end="01:12:55.160"><span region="Default">Their alpha.</span></p>
+      <p
+        begin="01:12:55.240"
+        end="01:12:56.440"><span region="Default">It controls them.</span></p>
+      <p
+        begin="01:12:57.480"
+        end="01:12:58.480"><span region="Default">We gotta find your dad.</span></p>
+      <p
+        begin="01:12:58.560"
+        end="01:12:59.640"><span region="Default">No, no, no, not yet.</span></p>
+      <p
+        begin="01:13:00.200"
+        end="01:13:01.200"><span region="Default">They'll...</span></p>
+      <p
+        begin="01:13:01.520"
+        end="01:13:02.720"><span region="Default">They'll kill Toothless.</span></p>
+      <p
+        begin="01:13:04.440"
+        end="01:13:05.440"><span region="Default">Astrid</span></p>
+      <p
+        begin="01:13:06.000"
+        end="01:13:08.520"><span region="Default">we have to think<br/>this through carefully.</span></p>
+      <p
+        begin="01:13:10.680"
+        end="01:13:13.800"><span region="Default">Hiccup, we just discovered<br/>the dragons' nest</span></p>
+      <p
+        begin="01:13:14.600"
+        end="01:13:16.120"><span region="Default">and you want to keep it a secret?</span></p>
+      <p
+        begin="01:13:16.480"
+        end="01:13:18.600"><span region="Default">To protect your pet dragon?</span></p>
+      <p
+        begin="01:13:19.680"
+        end="01:13:20.880"><span region="Default">Are you serious?</span></p>
+      <p
+        begin="01:13:22.320"
+        end="01:13:23.320"><span region="Default">Yes.</span></p>
+      <p
+        begin="01:13:32.800"
+        end="01:13:33.800"><span region="Default">Okay.</span></p>
+      <p
+        begin="01:13:35.520"
+        end="01:13:37.720"><span region="Default">Then what do we do?</span></p>
+      <p
+        begin="01:13:41.840"
+        end="01:13:43.240"><span region="Default">Just give me until tomorrow.</span></p>
+      <p
+        begin="01:13:43.800"
+        end="01:13:44.800"><span region="Default">I'll figure it out.</span></p>
+      <p
+        begin="01:13:48.680"
+        end="01:13:50.000"><span region="Default">That's for kidnapping me.</span></p>
+      <p
+        begin="01:13:50.600"
+        end="01:13:51.640"><span region="Default">Hey, are you gonna...</span></p>
+      <p
+        begin="01:13:54.560"
+        end="01:13:57.240"><span region="Default">And that's for everything else.</span></p>
+      <p
+        begin="01:14:07.800"
+        end="01:14:08.800"><span region="Default">What?</span></p>
+      <p
+        begin="01:14:19.880"
+        end="01:14:24.000"><span region="Default">Well, I can finally show<br/>my face in public again!</span></p>
+      <p
+        begin="01:14:27.960"
+        end="01:14:28.960"><span region="Default">All right.</span></p>
+      <p
+        begin="01:14:29.280"
+        end="01:14:30.920"><span region="Default">If someone had told me</span></p>
+      <p
+        begin="01:14:31.320"
+        end="01:14:33.000"><span region="Default">that in a few short weeks</span></p>
+      <p
+        begin="01:14:33.440"
+        end="01:14:37.600"><span region="Default">Hiccup would've gone<br/>from being, well, Hiccup...</span></p>
+      <p
+        begin="01:14:40.000"
+        end="01:14:43.240"><span region="Default">to placing first<br/>in the Trial of Flame</span></p>
+      <p
+        begin="01:14:43.320"
+        end="01:14:46.040"><span region="Default">I mean, I would've tied them<br/>to a mast and shipped them off</span></p>
+      <p
+        begin="01:14:46.120"
+        end="01:14:47.760"><span region="Default">for fear they'd gone mad.</span></p>
+      <p
+        begin="01:14:49.000"
+        end="01:14:50.080"><span region="Default">And you know it.</span></p>
+      <p
+        begin="01:14:53.400"
+        end="01:14:54.480"><span region="Default">But here we are.</span></p>
+      <p
+        begin="01:14:56.640"
+        end="01:15:00.120"><span region="Default">My son has won<br/>the title of Top Slayer.</span></p>
+      <p
+        begin="01:15:01.520"
+        end="01:15:03.600"><span region="Default">No one is more surprised...</span></p>
+      <p
+        begin="01:15:06.720"
+        end="01:15:09.200"><span region="Default">or more proud than I am.</span></p>
+      <p
+        begin="01:15:11.320"
+        end="01:15:15.240"><span region="Default">Today, my boy becomes a warrior.</span></p>
+      <p
+        begin="01:15:16.280"
+        end="01:15:20.120"><span region="Default">Today, he becomes one of us!</span></p>
+      <p
+        begin="01:15:20.200"
+        end="01:15:23.360"><span region="Default">Yeah!</span></p>
+      <p
+        begin="01:15:23.440"
+        end="01:15:24.480"><span region="Default">Yeah!</span></p>
+      <p
+        begin="01:15:25.680"
+        end="01:15:26.680"><span region="Default">Yeah!</span></p>
+      <p
+        begin="01:15:27.920"
+        end="01:15:28.920"><span region="Default">Yeah!</span></p>
+      <p
+        begin="01:15:29.720"
+        end="01:15:37.680"><span region="Default">Hiccup!</span></p>
+      <p
+        begin="01:15:37.760"
+        end="01:15:44.800"><span region="Default">Hiccup!</span></p>
+      <p
+        begin="01:15:44.880"
+        end="01:15:45.880"><span region="Default">Hiccup!</span></p>
+      <p
+        begin="01:15:45.960"
+        end="01:15:47.320"><span region="Default">Watch out for that dragon.</span></p>
+      <p
+        begin="01:15:49.440"
+        end="01:15:51.040"><span region="Default">It's not the dragon<br/>I'm worried about.</span></p>
+      <p
+        begin="01:15:54.480"
+        end="01:15:55.600"><span region="Default">Look</span></p>
+      <p
+        begin="01:15:55.680"
+        end="01:15:56.880"><span region="Default">I'm gonna try<br/>to put an end to all this</span></p>
+      <p
+        begin="01:15:56.960"
+        end="01:15:58.720"><span region="Default">but if something goes wrong<br/>in there, just...</span></p>
+      <p
+        begin="01:16:00.840"
+        end="01:16:01.840"><span region="Default">don't get involved.</span></p>
+      <p
+        begin="01:16:02.520"
+        end="01:16:04.000"><span region="Default">My dad respects you too much.</span></p>
+      <p
+        begin="01:16:09.120"
+        end="01:16:10.120"><span region="Default">Yeah.</span></p>
+      <p
+        begin="01:16:10.800"
+        end="01:16:11.800"><span region="Default">But...</span></p>
+      <p
+        begin="01:16:12.720"
+        end="01:16:14.400"><span region="Default">you have something I don't.</span></p>
+      <p
+        begin="01:16:15.400"
+        end="01:16:18.320"><span region="Default">Something none of us have.</span></p>
+      <p
+        begin="01:16:20.080"
+        end="01:16:21.080"><span region="Default">So...</span></p>
+      <p
+        begin="01:16:21.840"
+        end="01:16:23.280"><span region="Default">I'm going to stand by you...</span></p>
+      <p
+        begin="01:16:24.760"
+        end="01:16:25.800"><span region="Default">come what may.</span></p>
+      <p
+        begin="01:16:29.200"
+        end="01:16:30.320"><span region="Default">Come what may.</span></p>
+      <p
+        begin="01:16:32.640"
+        end="01:16:33.640"><span region="Default">It's time, Hiccup.</span></p>
+      <p
+        begin="01:16:37.240"
+        end="01:16:38.320"><span region="Default">Knock him dead, son.</span></p>
+      <p
+        begin="01:16:48.960"
+        end="01:16:56.760"><span region="Default">Hiccup!</span></p>
+      <p
+        begin="01:16:56.880"
+        end="01:17:04.760"><span region="Default">Hiccup!</span></p>
+      <p
+        begin="01:17:04.840"
+        end="01:17:07.000"><span region="Default">Hiccup!</span></p>
+      <p
+        begin="01:17:07.080"
+        end="01:17:08.080"><span region="Default">Go, Hiccup!</span></p>
+      <p
+        begin="01:17:08.160"
+        end="01:17:10.160"><span region="Default">Show 'em everything I taught you!</span></p>
+      <p
+        begin="01:17:10.240"
+        end="01:17:11.360"><span region="Default">Should've been me.</span></p>
+      <p
+        begin="01:17:13.760"
+        end="01:17:14.760"><span region="Default">All right?</span></p>
+      <p
+        begin="01:17:15.200"
+        end="01:17:16.280"><span region="Default">Good crowd, isn't it?</span></p>
+      <p
+        begin="01:17:16.360"
+        end="01:17:22.000"><span region="Default">Hiccup!</span></p>
+      <p
+        begin="01:17:35.320"
+        end="01:17:36.400"><span region="Default">I would have gone with the hammer.</span></p>
+      <p
+        begin="01:17:36.480"
+        end="01:17:38.600"><span region="Default">Just... Just give him a chance.</span></p>
+      <p
+        begin="01:17:46.280"
+        end="01:17:47.280"><span region="Default">I'm ready.</span></p>
+      <p
+        begin="01:18:51.200"
+        end="01:18:52.400"><span region="Default">What is he doing?</span></p>
+      <p
+        begin="01:18:54.840"
+        end="01:18:56.200"><span region="Default">I'm not gonna hurt you.</span></p>
+      <p
+        begin="01:19:04.880"
+        end="01:19:06.040"><span region="Default">I'm not one of them.</span></p>
+      <p
+        begin="01:19:19.560"
+        end="01:19:20.760"><span region="Default">Stop the fight.</span></p>
+      <p
+        begin="01:19:20.840"
+        end="01:19:21.840"><span region="Default">No.</span></p>
+      <p
+        begin="01:19:22.120"
+        end="01:19:23.640"><span region="Default">You all need to see this.</span></p>
+      <p
+        begin="01:19:24.480"
+        end="01:19:26.000"><span region="Default">They're not what we think they are.</span></p>
+      <p
+        begin="01:19:27.600"
+        end="01:19:28.920"><span region="Default">We don't have to kill them.</span></p>
+      <p
+        begin="01:19:30.440"
+        end="01:19:32.800"><span region="Default">I said stop the fight!</span></p>
+      <p
+        begin="01:19:39.720"
+        end="01:19:40.720"><span region="Default">Out of my way!</span></p>
+      <p
+        begin="01:19:41.840"
+        end="01:19:43.200"><span region="Default">Get out of there, Hiccup!</span></p>
+      <p
+        begin="01:19:44.840"
+        end="01:19:45.840"><span region="Default">Hiccup!</span></p>
+      <p
+        begin="01:20:00.080"
+        end="01:20:01.080"><span region="Default">No!</span></p>
+      <p
+        begin="01:20:05.760"
+        end="01:20:07.600"><span region="Default">- Quick, quick! Grab his hand!<br/>- Climb up!</span></p>
+      <p
+        begin="01:20:07.680"
+        end="01:20:09.120"><span region="Default">- Hiccup, grab my hand!<br/>- Get over here!</span></p>
+      <p
+        begin="01:20:09.200"
+        end="01:20:10.800"><span region="Default">Get over here, man!<br/>Just grab his hand!</span></p>
+      <p
+        begin="01:20:19.760"
+        end="01:20:21.520"><span region="Default">Astrid, get back here!</span></p>
+      <p
+        begin="01:20:22.440"
+        end="01:20:23.720"><span region="Default">That's an order!</span></p>
+      <p
+        begin="01:20:30.600"
+        end="01:20:31.680"><span region="Default">Run!</span></p>
+      <p
+        begin="01:20:32.920"
+        end="01:20:33.920"><span region="Default">Come on!</span></p>
+      <p
+        begin="01:20:36.320"
+        end="01:20:37.320"><span region="Default">Hiccup!</span></p>
+      <p
+        begin="01:20:49.520"
+        end="01:20:50.520"><span region="Default">Night Fury.</span></p>
+      <p
+        begin="01:20:51.160"
+        end="01:20:52.720"><span region="Default">Night Fury!</span></p>
+      <p
+        begin="01:20:52.800"
+        end="01:20:54.080"><span region="Default">He's real!</span></p>
+      <p
+        begin="01:21:02.720"
+        end="01:21:03.960"><span region="Default">Night Fury!</span></p>
+      <p
+        begin="01:21:20.400"
+        end="01:21:22.080"><span region="Default">All right, bud. Go on. Go.</span></p>
+      <p
+        begin="01:21:24.960"
+        end="01:21:26.840"><span region="Default">Go, go! Get to the side of him!</span></p>
+      <p
+        begin="01:21:30.120"
+        end="01:21:31.400"><span region="Default">Get out of the way, Hiccup!</span></p>
+      <p
+        begin="01:21:35.840"
+        end="01:21:37.200"><span region="Default">No, stop.<br/>You're only making it worse!</span></p>
+      <p
+        begin="01:21:39.480"
+        end="01:21:40.480"><span region="Default">Astrid!</span></p>
+      <p
+        begin="01:21:43.960"
+        end="01:21:44.960"><span region="Default">I got it. Go!</span></p>
+      <p
+        begin="01:21:47.280"
+        end="01:21:49.080"><span region="Default">Stoick, he won't hurt you.</span></p>
+      <p
+        begin="01:21:54.560"
+        end="01:21:56.000"><span region="Default">Get around it!</span></p>
+      <p
+        begin="01:21:58.920"
+        end="01:21:59.920"><span region="Default">No!</span></p>
+      <p
+        begin="01:22:04.760"
+        end="01:22:05.760"><span region="Default">Toothless!</span></p>
+      <p
+        begin="01:22:06.800"
+        end="01:22:07.800"><span region="Default">Don't.</span></p>
+      <p
+        begin="01:22:11.000"
+        end="01:22:12.200"><span region="Default">Take it down!</span></p>
+      <p
+        begin="01:22:14.480"
+        end="01:22:15.640"><span region="Default">Grab its legs!</span></p>
+      <p
+        begin="01:22:16.080"
+        end="01:22:18.040"><span region="Default">- Hold it down!<br/>- No! No, don't hurt him!</span></p>
+      <p
+        begin="01:22:18.120"
+        end="01:22:19.640"><span region="Default">Stay back!</span></p>
+      <p
+        begin="01:22:25.160"
+        end="01:22:26.160"><span region="Default">And you.</span></p>
+      <p
+        begin="01:22:39.440"
+        end="01:22:40.680"><span region="Default">Put it with the others.</span></p>
+      <p
+        begin="01:22:47.360"
+        end="01:22:48.480"><span region="Default">- I should have known!<br/>- Dad.</span></p>
+      <p
+        begin="01:22:48.560"
+        end="01:22:49.920"><span region="Default">- I should have seen the signs.<br/>- Dad!</span></p>
+      <p
+        begin="01:22:50.000"
+        end="01:22:52.200"><span region="Default">- We had a deal!<br/>- I know, but that was before...</span></p>
+      <p
+        begin="01:22:52.760"
+        end="01:22:54.120"><span region="Default">It's all so messed up.</span></p>
+      <p
+        begin="01:22:54.680"
+        end="01:22:58.680"><span region="Default">So everything in the ring,<br/>what, a trick? A lie?</span></p>
+      <p
+        begin="01:22:58.760"
+        end="01:23:01.040"><span region="Default">No, I should have told you<br/>before now.</span></p>
+      <p
+        begin="01:23:01.520"
+        end="01:23:02.840"><span region="Default">Take that out on me, it's my fault</span></p>
+      <p
+        begin="01:23:02.920"
+        end="01:23:04.320"><span region="Default">but please don't hurt Toothless.</span></p>
+      <p
+        begin="01:23:05.920"
+        end="01:23:07.000"><span region="Default">The dragon?</span></p>
+      <p
+        begin="01:23:08.040"
+        end="01:23:09.680"><span region="Default">That's what you're worried about?</span></p>
+      <p
+        begin="01:23:10.400"
+        end="01:23:12.200"><span region="Default">Not the people you almost killed?</span></p>
+      <p
+        begin="01:23:12.280"
+        end="01:23:14.400"><span region="Default">He's not dangerous.<br/>He was protecting me.</span></p>
+      <p
+        begin="01:23:14.480"
+        end="01:23:17.520"><span region="Default">They took your mother,<br/>for Gods' sake!</span></p>
+      <p
+        begin="01:23:19.160"
+        end="01:23:22.440"><span region="Default">If she could see you now<br/>standing there with them</span></p>
+      <p
+        begin="01:23:22.520"
+        end="01:23:24.200"><span region="Default">when they've killed hundreds of us.</span></p>
+      <p
+        begin="01:23:24.280"
+        end="01:23:25.920"><span region="Default">And we've killed thousands of them!</span></p>
+      <p
+        begin="01:23:26.440"
+        end="01:23:28.000"><span region="Default">They defend themselves. That's all.</span></p>
+      <p
+        begin="01:23:28.520"
+        end="01:23:30.200"><span region="Default">They raid us because they have to.</span></p>
+      <p
+        begin="01:23:30.280"
+        end="01:23:31.360"><span region="Default">If they don't bring enough food back</span></p>
+      <p
+        begin="01:23:31.440"
+        end="01:23:32.680"><span region="Default">they'll be eaten themselves!</span></p>
+      <p
+        begin="01:23:33.320"
+        end="01:23:34.800"><span region="Default">There's something else<br/>on their island.</span></p>
+      <p
+        begin="01:23:34.880"
+        end="01:23:36.320"><span region="Default">A dragon like I've never seen.</span></p>
+      <p
+        begin="01:23:36.400"
+        end="01:23:37.400"><span region="Default">Their island?</span></p>
+      <p
+        begin="01:23:39.960"
+        end="01:23:41.200"><span region="Default">You've been to the nest.</span></p>
+      <p
+        begin="01:23:42.040"
+        end="01:23:43.040"><span region="Default">Did I say nest?</span></p>
+      <p
+        begin="01:23:44.080"
+        end="01:23:45.640"><span region="Default">How did you find it?</span></p>
+      <p
+        begin="01:23:45.720"
+        end="01:23:47.520"><span region="Default">I didn't. Toothless did.</span></p>
+      <p
+        begin="01:23:47.760"
+        end="01:23:49.520"><span region="Default">Only a dragon can find the island.</span></p>
+      <p
+        begin="01:23:53.040"
+        end="01:23:55.720"><span region="Default">No. Dad, no.</span></p>
+      <p
+        begin="01:23:56.040"
+        end="01:23:57.040"><span region="Default">You don't know<br/>what you're up against.</span></p>
+      <p
+        begin="01:23:57.120"
+        end="01:23:58.480"><span region="Default">This is nothing like<br/>you've ever seen.</span></p>
+      <p
+        begin="01:23:59.600"
+        end="01:24:01.040"><span region="Default">You can't win this one!</span></p>
+      <p
+        begin="01:24:01.600"
+        end="01:24:04.360"><span region="Default">For once in your life,<br/>would you please just listen to me?</span></p>
+      <p
+        begin="01:24:08.520"
+        end="01:24:10.920"><span region="Default">You've thrown your lot in with them.</span></p>
+      <p
+        begin="01:24:12.600"
+        end="01:24:13.920"><span region="Default">You're not one of us.</span></p>
+      <p
+        begin="01:24:14.600"
+        end="01:24:15.920"><span region="Default">You're not my son.</span></p>
+      <p
+        begin="01:24:25.600"
+        end="01:24:26.800"><span region="Default">Ready the ships!</span></p>
+      <p
+        begin="01:24:27.320"
+        end="01:24:28.720"><span region="Default">We sail at dawn!</span></p>
+      <p
+        begin="01:24:51.360"
+        end="01:24:53.280"><span region="Default">Dragon to the port side!</span></p>
+      <p
+        begin="01:24:56.720"
+        end="01:24:58.440"><span region="Default">Forward on the leading line!</span></p>
+      <p
+        begin="01:24:58.520"
+        end="01:24:59.800"><span region="Default">Swing it out slightly!</span></p>
+      <p
+        begin="01:24:59.880"
+        end="01:25:01.520"><span region="Default">Here she comes! Easy!</span></p>
+      <p
+        begin="01:25:02.000"
+        end="01:25:03.120"><span region="Default">Careful with the head.</span></p>
+      <p
+        begin="01:25:04.160"
+        end="01:25:06.280"><span region="Default">- One more.<br/>- Oh, careful now.</span></p>
+      <p
+        begin="01:25:06.360"
+        end="01:25:08.120"><span region="Default">- Hey.<br/>- Weapons loaded!</span></p>
+      <p
+        begin="01:25:08.480"
+        end="01:25:09.760"><span region="Default">Spare rigging aboard?</span></p>
+      <p
+        begin="01:25:09.840"
+        end="01:25:12.000"><span region="Default">- Aye.<br/>- Hoist the sails!</span></p>
+      <p
+        begin="01:25:12.080"
+        end="01:25:13.080"><span region="Default">Aye, Chief.</span></p>
+      <p
+        begin="01:25:16.120"
+        end="01:25:18.000"><span region="Default">- Ready the oars.<br/>- Aye, Stoick.</span></p>
+      <p
+        begin="01:25:19.520"
+        end="01:25:22.400"><span region="Default">We set sail for Helheim's Gate!</span></p>
+      <p
+        begin="01:25:39.000"
+        end="01:25:41.000"><span region="Default">Lead us home, devil.</span></p>
+      <p
+        begin="01:26:10.400"
+        end="01:26:11.720"><span region="Default">I tried to stop them.</span></p>
+      <p
+        begin="01:26:12.880"
+        end="01:26:14.800"><span region="Default">I ended up giving them<br/>exactly what they wanted.</span></p>
+      <p
+        begin="01:26:18.320"
+        end="01:26:19.400"><span region="Default">I should've just...</span></p>
+      <p
+        begin="01:26:20.720"
+        end="01:26:22.720"><span region="Default">I should've killed him<br/>when I found him in those woods.</span></p>
+      <p
+        begin="01:26:25.240"
+        end="01:26:26.600"><span region="Default">It would have been<br/>better for everyone.</span></p>
+      <p
+        begin="01:26:27.360"
+        end="01:26:28.360"><span region="Default">Yeah.</span></p>
+      <p
+        begin="01:26:28.720"
+        end="01:26:30.000"><span region="Default">The rest of us would have done it.</span></p>
+      <p
+        begin="01:26:33.400"
+        end="01:26:34.520"><span region="Default">So, why didn't you?</span></p>
+      <p
+        begin="01:26:35.680"
+        end="01:26:36.680"><span region="Default">- Why didn't you?<br/>- I don't know.</span></p>
+      <p
+        begin="01:26:36.760"
+        end="01:26:38.160"><span region="Default">- I couldn't.<br/>- That's not an answer.</span></p>
+      <p
+        begin="01:26:38.240"
+        end="01:26:39.800"><span region="Default">Why is this so important<br/>to you all of a sudden?</span></p>
+      <p
+        begin="01:26:40.080"
+        end="01:26:42.200"><span region="Default">Because I want to remember<br/>what you say right now.</span></p>
+      <p
+        begin="01:26:42.280"
+        end="01:26:44.120"><span region="Default">For the love of...<br/>Because I was weak.</span></p>
+      <p
+        begin="01:26:44.480"
+        end="01:26:46.440"><span region="Default">Because I was a coward,<br/>because I wouldn't kill a dragon.</span></p>
+      <p
+        begin="01:26:46.520"
+        end="01:26:48.520"><span region="Default">- You said "wouldn't" that time.<br/>- Whatever! I wouldn't!</span></p>
+      <p
+        begin="01:26:49.320"
+        end="01:26:51.760"><span region="Default">I'm the first Viking<br/>in who knows how long</span></p>
+      <p
+        begin="01:26:51.840"
+        end="01:26:53.120"><span region="Default">who wouldn't kill a dragon.</span></p>
+      <p
+        begin="01:26:55.200"
+        end="01:26:56.760"><span region="Default">First to ride one, though.</span></p>
+      <p
+        begin="01:27:03.160"
+        end="01:27:04.160"><span region="Default">So?</span></p>
+      <p
+        begin="01:27:07.880"
+        end="01:27:09.320"><span region="Default">I wouldn't kill him because...</span></p>
+      <p
+        begin="01:27:11.400"
+        end="01:27:13.200"><span region="Default">he looked<br/>just as frightened as I was.</span></p>
+      <p
+        begin="01:27:16.680"
+        end="01:27:17.800"><span region="Default">When I looked at him...</span></p>
+      <p
+        begin="01:27:19.600"
+        end="01:27:20.920"><span region="Default">I saw myself.</span></p>
+      <p
+        begin="01:27:31.320"
+        end="01:27:32.800"><span region="Default">Bet he's really frightened now.</span></p>
+      <p
+        begin="01:27:39.720"
+        end="01:27:41.200"><span region="Default">What are you gonna do about it?</span></p>
+      <p
+        begin="01:27:43.720"
+        end="01:27:45.200"><span region="Default">Probably something stupid.</span></p>
+      <p
+        begin="01:27:47.360"
+        end="01:27:48.600"><span region="Default">Well, you've already done that.</span></p>
+      <p
+        begin="01:27:54.360"
+        end="01:27:55.360"><span region="Default">Then something crazy.</span></p>
+      <p
+        begin="01:27:57.040"
+        end="01:27:58.520"><span region="Default">That's more like it.</span></p>
+      <p
+        begin="01:28:04.440"
+        end="01:28:05.920"><span region="Default">Sound your positions.</span></p>
+      <p
+        begin="01:28:06.200"
+        end="01:28:07.680"><span region="Default">Stay within earshot.</span></p>
+      <p
+        begin="01:28:08.400"
+        end="01:28:10.120"><span region="Default">One length to your stern.</span></p>
+      <p
+        begin="01:28:10.200"
+        end="01:28:11.720"><span region="Default">On your starboard flank.</span></p>
+      <p
+        begin="01:28:12.200"
+        end="01:28:14.280"><span region="Default">Why aren't they attacking?</span></p>
+      <p
+        begin="01:28:14.800"
+        end="01:28:16.480"><span region="Default">Maybe they know something we don't.</span></p>
+      <p
+        begin="01:28:19.840"
+        end="01:28:21.480"><span region="Default">Are you just a glutton<br/>for punishment or what?</span></p>
+      <p
+        begin="01:28:21.560"
+        end="01:28:23.800"><span region="Default">We have a fighting chance this time.</span></p>
+      <p
+        begin="01:28:25.880"
+        end="01:28:27.080"><span region="Default">Thanks to Hiccup.</span></p>
+      <p
+        begin="01:28:28.400"
+        end="01:28:29.680"><span region="Default">How long do you think we're gonna--</span></p>
+      <p
+        begin="01:28:40.960"
+        end="01:28:42.280"><span region="Default">Step aside, Drül.</span></p>
+      <p
+        begin="01:28:57.640"
+        end="01:28:59.600"><span region="Default">- Ship the oars!<br/>- Oars in.</span></p>
+      <p
+        begin="01:29:13.560"
+        end="01:29:14.560"><span region="Default">Okay, wait.</span></p>
+      <p
+        begin="01:29:14.680"
+        end="01:29:18.000"><span region="Default">You just disgraced yourself<br/>in front of the whole village.</span></p>
+      <p
+        begin="01:29:18.400"
+        end="01:29:20.240"><span region="Default">- Why would we listen to you?<br/>- 'Cause I said so.</span></p>
+      <p
+        begin="01:29:20.320"
+        end="01:29:22.440"><span region="Default">Exactly. Pay attention, gang.</span></p>
+      <p
+        begin="01:29:22.520"
+        end="01:29:25.360"><span region="Default">Look, my dad means well,<br/>but he's stubborn.</span></p>
+      <p
+        begin="01:29:25.640"
+        end="01:29:27.920"><span region="Default">And he's about to be way in<br/>over his head, so it's up to us.</span></p>
+      <p
+        begin="01:29:28.200"
+        end="01:29:29.200"><span region="Default">Us?</span></p>
+      <p
+        begin="01:29:29.480"
+        end="01:29:31.160"><span region="Default">I can't pull this off<br/>without you guys.</span></p>
+      <p
+        begin="01:29:31.600"
+        end="01:29:33.200"><span region="Default">And you all have<br/>something special to offer.</span></p>
+      <p
+        begin="01:29:33.560"
+        end="01:29:34.560"><span region="Default">Say no more.</span></p>
+      <p
+        begin="01:29:35.040"
+        end="01:29:38.120"><span region="Default">You were wise to seek<br/>the world's most deadly weapon.</span></p>
+      <p
+        begin="01:29:38.800"
+        end="01:29:40.240"><span region="Default">- It's me.<br/>- You've got a wild side</span></p>
+      <p
+        begin="01:29:40.320"
+        end="01:29:41.320"><span region="Default">and I like it.</span></p>
+      <p
+        begin="01:29:41.560"
+        end="01:29:43.480"><span region="Default">Astrid, you're our strongest fighter.<br/>We need you to lead us.</span></p>
+      <p
+        begin="01:29:44.000"
+        end="01:29:45.880"><span region="Default">Lead us where exactly?</span></p>
+      <p
+        begin="01:29:45.960"
+        end="01:29:48.440"><span region="Default">They left with every ship we have.</span></p>
+      <p
+        begin="01:29:51.200"
+        end="01:29:52.240"><span region="Default">Stick with me.</span></p>
+      <p
+        begin="01:29:58.600"
+        end="01:29:59.920"><span region="Default">That's where that went.</span></p>
+      <p
+        begin="01:30:00.000"
+        end="01:30:01.000"><span region="Default">Stay low.</span></p>
+      <p
+        begin="01:30:01.680"
+        end="01:30:02.680"><span region="Default">Be ready.</span></p>
+      <p
+        begin="01:30:40.400"
+        end="01:30:41.520"><span region="Default">We're here.</span></p>
+      <p
+        begin="01:30:59.080"
+        end="01:31:00.080"><span region="Default">No.</span></p>
+      <p
+        begin="01:31:01.440"
+        end="01:31:03.400"><span region="Default">Hiccup, I...</span></p>
+      <p
+        begin="01:31:04.440"
+        end="01:31:05.480"><span region="Default">Relax.</span></p>
+      <p
+        begin="01:31:08.320"
+        end="01:31:09.320"><span region="Default">It's okay.</span></p>
+      <p
+        begin="01:31:20.360"
+        end="01:31:21.400"><span region="Default">Where are you going?</span></p>
+      <p
+        begin="01:31:21.840"
+        end="01:31:23.520"><span region="Default">You're gonna need something<br/>to help you hold on.</span></p>
+      <p
+        begin="01:31:24.080"
+        end="01:31:25.080"><span region="Default">Get ready.</span></p>
+      <p
+        begin="01:31:25.760"
+        end="01:31:26.760"><span region="Default">It's gonna be a long night.</span></p>
+      <p
+        begin="01:31:34.280"
+        end="01:31:36.240"><span region="Default">Form a defensive line.</span></p>
+      <p
+        begin="01:31:41.440"
+        end="01:31:43.840"><span region="Default">Sharpen those axes, lads!</span></p>
+      <p
+        begin="01:31:47.520"
+        end="01:31:48.640"><span region="Default">It's not even.</span></p>
+      <p
+        begin="01:31:51.920"
+        end="01:31:52.920"><span region="Default">Chief.</span></p>
+      <p
+        begin="01:31:53.840"
+        end="01:31:54.840"><span region="Default">Ready, Chief.</span></p>
+      <p
+        begin="01:31:56.800"
+        end="01:31:58.800"><span region="Default">- Stand strong.<br/>- Aye, Stoick.</span></p>
+      <p
+        begin="01:32:00.200"
+        end="01:32:01.560"><span region="Default">Make your people proud.</span></p>
+      <p
+        begin="01:32:01.640"
+        end="01:32:02.920"><span region="Default">We will, Stoick.</span></p>
+      <p
+        begin="01:32:05.120"
+        end="01:32:09.640"><span region="Default">Today, we destroy<br/>the reign of the dragon</span></p>
+      <p
+        begin="01:32:09.720"
+        end="01:32:11.000"><span region="Default">once and for all.</span></p>
+      <p
+        begin="01:32:15.600"
+        end="01:32:19.320"><span region="Default">However this ends,<br/>it ends right here, right now!</span></p>
+      <p
+        begin="01:32:21.000"
+        end="01:32:24.280"><span region="Default">So let's send these devils<br/>back to hell!</span></p>
+      <p
+        begin="01:33:38.960"
+        end="01:33:39.960"><span region="Default">Is that it?</span></p>
+      <p
+        begin="01:33:40.840"
+        end="01:33:42.120"><span region="Default">The nest is ours!</span></p>
+      <p
+        begin="01:33:45.920"
+        end="01:33:47.200"><span region="Default">This isn't over.</span></p>
+      <p
+        begin="01:33:55.640"
+        end="01:33:56.880"><span region="Default">Get clear!</span></p>
+      <p
+        begin="01:33:57.440"
+        end="01:33:58.960"><span region="Default">Fall back!</span></p>
+      <p
+        begin="01:33:59.040"
+        end="01:34:01.000"><span region="Default">Fall back! Everyone, fall back!</span></p>
+      <p
+        begin="01:34:06.960"
+        end="01:34:07.960"><span region="Default">Retreat!</span></p>
+      <p
+        begin="01:34:38.640"
+        end="01:34:40.640"><span region="Default">Get to the ships!</span></p>
+      <p
+        begin="01:34:41.040"
+        end="01:34:42.120"><span region="Default">No!</span></p>
+      <p
+        begin="01:34:54.960"
+        end="01:34:56.360"><span region="Default">Get them<br/>to the far side of the island!</span></p>
+      <p
+        begin="01:34:56.440"
+        end="01:34:58.200"><span region="Default">Aye, Chief. Let's move!</span></p>
+      <p
+        begin="01:34:58.280"
+        end="01:35:00.480"><span region="Default">This way! All of you!</span></p>
+      <p
+        begin="01:35:05.840"
+        end="01:35:07.720"><span region="Default">- Get out of here, lads!<br/>- Follow me!</span></p>
+      <p
+        begin="01:35:07.920"
+        end="01:35:09.480"><span region="Default">Gobber, go with the others.</span></p>
+      <p
+        begin="01:35:09.560"
+        end="01:35:11.600"><span region="Default">Why? Where are you going?</span></p>
+      <p
+        begin="01:35:19.320"
+        end="01:35:20.840"><span region="Default">Actually, I'm gonna stick around.</span></p>
+      <p
+        begin="01:35:20.920"
+        end="01:35:22.600"><span region="Default">You've got<br/>that wild look in your eye.</span></p>
+      <p
+        begin="01:35:23.560"
+        end="01:35:25.080"><span region="Default">I can buy them some time</span></p>
+      <p
+        begin="01:35:25.160"
+        end="01:35:27.160"><span region="Default">if I give that thing<br/>something to hunt.</span></p>
+      <p
+        begin="01:35:27.240"
+        end="01:35:28.800"><span region="Default">And I can double that time.</span></p>
+      <p
+        begin="01:35:29.880"
+        end="01:35:31.640"><span region="Default">I know. I'm a big softy.</span></p>
+      <p
+        begin="01:35:32.360"
+        end="01:35:35.000"><span region="Default">Softest part of you is your teeth.</span></p>
+      <p
+        begin="01:36:03.760"
+        end="01:36:06.880"><span region="Default">Remember, that thing is their queen.</span></p>
+      <p
+        begin="01:36:06.960"
+        end="01:36:08.560"><span region="Default">They're inclined<br/>to do whatever it says.</span></p>
+      <p
+        begin="01:36:09.000"
+        end="01:36:10.320"><span region="Default">We've gotta help them fight back.</span></p>
+      <p
+        begin="01:36:12.880"
+        end="01:36:14.600"><span region="Default">Fishlegs, what do we got?</span></p>
+      <p
+        begin="01:36:15.520"
+        end="01:36:17.400"><span region="Default">Heavily armored skull and tail</span></p>
+      <p
+        begin="01:36:17.480"
+        end="01:36:19.360"><span region="Default">perfect for bashing and crushing.</span></p>
+      <p
+        begin="01:36:19.640"
+        end="01:36:21.960"><span region="Default">Small eyes, large nostrils.</span></p>
+      <p
+        begin="01:36:22.040"
+        end="01:36:23.600"><span region="Default">Relies on hearing and smell.</span></p>
+      <p
+        begin="01:36:23.920"
+        end="01:36:25.440"><span region="Default">Got it. Astrid.</span></p>
+      <p
+        begin="01:36:25.720"
+        end="01:36:29.400"><span region="Default">Okay. Snotlout, Fishlegs,<br/>hang in its blind spot.</span></p>
+      <p
+        begin="01:36:29.480"
+        end="01:36:31.600"><span region="Default">Make some noise. Keep it confused.</span></p>
+      <p
+        begin="01:36:32.200"
+        end="01:36:34.600"><span region="Default">Ruff, Tuff, figure out<br/>its shot limit.</span></p>
+      <p
+        begin="01:36:34.680"
+        end="01:36:35.760"><span region="Default">Make it mad.</span></p>
+      <p
+        begin="01:36:35.840"
+        end="01:36:37.600"><span region="Default">That's our specialty!</span></p>
+      <p
+        begin="01:36:39.560"
+        end="01:36:41.200"><span region="Default">Try not to get killed, guys!</span></p>
+      <p
+        begin="01:36:51.840"
+        end="01:36:54.000"><span region="Default">This thing doesn't have a blind spot.</span></p>
+      <p
+        begin="01:36:57.560"
+        end="01:36:58.560"><span region="Default">There!</span></p>
+      <p
+        begin="01:37:04.760"
+        end="01:37:05.760"><span region="Default">Hey, bud.</span></p>
+      <p
+        begin="01:37:06.520"
+        end="01:37:07.560"><span region="Default">I'm... I'm good.</span></p>
+      <p
+        begin="01:37:07.640"
+        end="01:37:08.720"><span region="Default">Be careful.</span></p>
+      <p
+        begin="01:37:13.800"
+        end="01:37:15.880"><span region="Default">I know, I know,<br/>but I'm... I'm here now.</span></p>
+      <p
+        begin="01:37:28.720"
+        end="01:37:29.920"><span region="Default">Keep hammering!</span></p>
+      <p
+        begin="01:37:30.160"
+        end="01:37:32.400"><span region="Default">But we're confusing our own dragons!</span></p>
+      <p
+        begin="01:37:32.800"
+        end="01:37:34.000"><span region="Default">Oh, no!</span></p>
+      <p
+        begin="01:37:41.560"
+        end="01:37:43.760"><span region="Default">This way! This way! Come on! Come on!</span></p>
+      <p
+        begin="01:37:43.840"
+        end="01:37:45.000"><span region="Default">Guys, keep moving! Keep moving!</span></p>
+      <p
+        begin="01:37:45.080"
+        end="01:37:46.200"><span region="Default">- Come on!<br/>- Go!</span></p>
+      <p
+        begin="01:37:46.280"
+        end="01:37:47.640"><span region="Default">Is that my kid?</span></p>
+      <p
+        begin="01:37:48.040"
+        end="01:37:50.400"><span region="Default">- Snotlout!<br/>- Come on! Throw it!</span></p>
+      <p
+        begin="01:37:52.920"
+        end="01:37:54.000"><span region="Default">Whoa, girl.</span></p>
+      <p
+        begin="01:37:54.920"
+        end="01:37:56.040"><span region="Default">Going down!</span></p>
+      <p
+        begin="01:37:58.960"
+        end="01:37:59.960"><span region="Default">I'm okay.</span></p>
+      <p
+        begin="01:38:01.320"
+        end="01:38:02.360"><span region="Default">Less okay.</span></p>
+      <p
+        begin="01:38:05.800"
+        end="01:38:07.480"><span region="Default">I got you, Fishlegs!</span></p>
+      <p
+        begin="01:38:15.320"
+        end="01:38:16.480"><span region="Default">What's wrong?</span></p>
+      <p
+        begin="01:38:16.560"
+        end="01:38:18.320"><span region="Default">Got something in your eye?</span></p>
+      <p
+        begin="01:38:19.400"
+        end="01:38:22.200"><span region="Default">Yeah! Now, that's a Top Slayer.</span></p>
+      <p
+        begin="01:39:39.000"
+        end="01:39:40.000"><span region="Default">You got it, bud.</span></p>
+      <p
+        begin="01:39:46.120"
+        end="01:39:47.120"><span region="Default">Hiccup.</span></p>
+      <p
+        begin="01:39:49.920"
+        end="01:39:51.840"><span region="Default">I was only trying to protect you.</span></p>
+      <p
+        begin="01:39:52.920"
+        end="01:39:54.000"><span region="Default">I know, Dad.</span></p>
+      <p
+        begin="01:39:55.200"
+        end="01:39:56.480"><span region="Default">Let me return the favor.</span></p>
+      <p
+        begin="01:39:59.520"
+        end="01:40:01.000"><span region="Default">Whatever happens up there</span></p>
+      <p
+        begin="01:40:01.600"
+        end="01:40:04.760"><span region="Default">I'm proud to call you my son.</span></p>
+      <p
+        begin="01:40:09.160"
+        end="01:40:10.400"><span region="Default">And that's all I need.</span></p>
+      <p
+        begin="01:40:12.200"
+        end="01:40:13.200"><span region="Default">Let's go.</span></p>
+      <p
+        begin="01:40:17.480"
+        end="01:40:18.480"><span region="Default">He's up!</span></p>
+      <p
+        begin="01:40:19.800"
+        end="01:40:21.400"><span region="Default">You two get Snotlout.</span></p>
+      <p
+        begin="01:40:21.720"
+        end="01:40:23.000"><span region="Default">I'll distract the queen.</span></p>
+      <p
+        begin="01:40:25.200"
+        end="01:40:27.600"><span region="Default">That's right. Eyes on me.</span></p>
+      <p
+        begin="01:40:29.880"
+        end="01:40:31.000"><span region="Default">Snotlout!</span></p>
+      <p
+        begin="01:40:34.760"
+        end="01:40:35.760"><span region="Default">Now!</span></p>
+      <p
+        begin="01:40:36.000"
+        end="01:40:37.760"><span region="Default">Oh, you have gotta be kidding me.</span></p>
+      <p
+        begin="01:40:51.000"
+        end="01:40:52.600"><span region="Default">I can't believe that worked.</span></p>
+      <p
+        begin="01:40:53.200"
+        end="01:40:54.200"><span region="Default">Yeah.</span></p>
+      <p
+        begin="01:40:57.000"
+        end="01:40:58.440"><span region="Default">No, no, no, girl.</span></p>
+      <p
+        begin="01:40:59.240"
+        end="01:41:01.440"><span region="Default">Fight it! Don't listen to her!</span></p>
+      <p
+        begin="01:41:01.640"
+        end="01:41:02.720"><span region="Default">Shake it off!</span></p>
+      <p
+        begin="01:41:26.440"
+        end="01:41:27.440"><span region="Default">Astrid.</span></p>
+      <p
+        begin="01:41:43.360"
+        end="01:41:44.360"><span region="Default">Did you get her?</span></p>
+      <p
+        begin="01:41:57.800"
+        end="01:41:58.800"><span region="Default">Go.</span></p>
+      <p
+        begin="01:42:01.800"
+        end="01:42:03.000"><span region="Default">That thing has wings.</span></p>
+      <p
+        begin="01:42:03.720"
+        end="01:42:04.960"><span region="Default">Let's see if it can use them.</span></p>
+      <p
+        begin="01:42:19.960"
+        end="01:42:21.120"><span region="Default">You think that did it?</span></p>
+      <p
+        begin="01:42:24.040"
+        end="01:42:25.040"><span region="Default">Yep.</span></p>
+      <p
+        begin="01:42:39.960"
+        end="01:42:41.800"><span region="Default">All right, bud.<br/>It's time to disappear.</span></p>
+      <p
+        begin="01:42:47.840"
+        end="01:42:49.520"><span region="Default">Here it comes!</span></p>
+      <p
+        begin="01:42:55.800"
+        end="01:42:57.600"><span region="Default">Quite the chief you have<br/>in the making there.</span></p>
+      <p
+        begin="01:42:58.160"
+        end="01:42:59.160"><span region="Default">Aye.</span></p>
+      <p
+        begin="01:43:39.080"
+        end="01:43:40.080"><span region="Default">Watch out!</span></p>
+      <p
+        begin="01:43:43.800"
+        end="01:43:45.040"><span region="Default">Okay, time's up.</span></p>
+      <p
+        begin="01:43:45.320"
+        end="01:43:46.480"><span region="Default">Let's see if this works.</span></p>
+      <p
+        begin="01:43:52.200"
+        end="01:43:53.600"><span region="Default">Is that all you've got?</span></p>
+      <p
+        begin="01:44:12.080"
+        end="01:44:13.320"><span region="Default">Stay with me, bud!</span></p>
+      <p
+        begin="01:44:13.720"
+        end="01:44:15.120"><span region="Default">Just a little bit longer!</span></p>
+      <p
+        begin="01:44:16.600"
+        end="01:44:17.800"><span region="Default">Hold, Toothless!</span></p>
+      <p
+        begin="01:44:20.760"
+        end="01:44:21.760"><span region="Default">Now!</span></p>
+      <p
+        begin="01:44:42.600"
+        end="01:44:44.720"><span region="Default">Yeah, bud, we... No!</span></p>
+      <p
+        begin="01:45:03.480"
+        end="01:45:04.600"><span region="Default">Hiccup!</span></p>
+      <p
+        begin="01:45:09.520"
+        end="01:45:10.640"><span region="Default">Hiccup?</span></p>
+      <p
+        begin="01:45:11.720"
+        end="01:45:12.840"><span region="Default">Son?</span></p>
+      <p
+        begin="01:45:14.960"
+        end="01:45:16.320"><span region="Default">Hiccup!</span></p>
+      <p
+        begin="01:45:31.000"
+        end="01:45:32.120"><span region="Default">Oh, son.</span></p>
+      <p
+        begin="01:45:44.560"
+        end="01:45:46.000"><span region="Default">I'm so sorry.</span></p>
+      <p
+        begin="01:46:55.840"
+        end="01:46:56.840"><span region="Default">Hiccup.</span></p>
+      <p
+        begin="01:47:04.800"
+        end="01:47:05.800"><span region="Default">He's alive.</span></p>
+      <p
+        begin="01:47:06.320"
+        end="01:47:07.320"><span region="Default">He's alive!</span></p>
+      <p
+        begin="01:47:10.000"
+        end="01:47:11.360"><span region="Default">Yeah!</span></p>
+      <p
+        begin="01:47:12.360"
+        end="01:47:13.360"><span region="Default">Yes!</span></p>
+      <p
+        begin="01:47:23.880"
+        end="01:47:25.240"><span region="Default">Thank you...</span></p>
+      <p
+        begin="01:47:26.600"
+        end="01:47:28.240"><span region="Default">for saving my son.</span></p>
+      <p
+        begin="01:47:30.160"
+        end="01:47:32.800"><span region="Default">Well, you know, most of him.</span></p>
+      <p
+        begin="01:47:48.200"
+        end="01:47:49.400"><span region="Default">Hey, Toothless.</span></p>
+      <p
+        begin="01:47:51.600"
+        end="01:47:52.600"><span region="Default">Okay.</span></p>
+      <p
+        begin="01:47:58.160"
+        end="01:47:59.480"><span region="Default">I'm in my house.</span></p>
+      <p
+        begin="01:48:01.560"
+        end="01:48:03.000"><span region="Default">You're in my house.</span></p>
+      <p
+        begin="01:48:03.520"
+        end="01:48:05.000"><span region="Default">Does my dad know you're here?</span></p>
+      <p
+        begin="01:48:06.480"
+        end="01:48:07.480"><span region="Default">Come on.</span></p>
+      <p
+        begin="01:48:53.960"
+        end="01:48:54.960"><span region="Default">Thanks, bud.</span></p>
+      <p
+        begin="01:48:58.880"
+        end="01:49:00.040"><span region="Default">Okay, here we go.</span></p>
+      <p
+        begin="01:49:29.120"
+        end="01:49:31.360"><span region="Default">Toothless, stay.</span></p>
+      <p
+        begin="01:49:34.440"
+        end="01:49:37.000"><span region="Default">Hey! Shouldn't you be in bed?</span></p>
+      <p
+        begin="01:49:38.480"
+        end="01:49:40.680"><span region="Default">Okay. Hold on tight, guys.</span></p>
+      <p
+        begin="01:49:41.480"
+        end="01:49:42.480"><span region="Default">Here we go.</span></p>
+      <p
+        begin="01:49:51.840"
+        end="01:49:53.840"><span region="Default">Hey! Hey! There you go!</span></p>
+      <p
+        begin="01:49:59.320"
+        end="01:50:01.520"><span region="Default">- There he is!<br/>- Okay.</span></p>
+      <p
+        begin="01:50:03.360"
+        end="01:50:04.520"><span region="Default">So, what do you think?</span></p>
+      <p
+        begin="01:50:05.720"
+        end="01:50:07.400"><span region="Default">A few changes since you've been out.</span></p>
+      <p
+        begin="01:50:08.160"
+        end="01:50:11.320"><span region="Default">Flying back here was<br/>quite an experience</span></p>
+      <p
+        begin="01:50:11.400"
+        end="01:50:12.840"><span region="Default">- let me tell you.<br/>- Wait, wait, you...</span></p>
+      <p
+        begin="01:50:13.320"
+        end="01:50:14.480"><span region="Default">you rode a dragon?</span></p>
+      <p
+        begin="01:50:14.560"
+        end="01:50:17.360"><span region="Default">Well... Well, that monster burned<br/>all of our ships, so...</span></p>
+      <p
+        begin="01:50:17.440"
+        end="01:50:18.720"><span region="Default">- Hiccup!<br/>- we didn't really have much of a...</span></p>
+      <p
+        begin="01:50:19.240"
+        end="01:50:21.320"><span region="Default">Oh, no. What'd I do this time?</span></p>
+      <p
+        begin="01:50:22.520"
+        end="01:50:24.160"><span region="Default">- Ow!<br/>- That's for scaring me.</span></p>
+      <p
+        begin="01:50:24.240"
+        end="01:50:26.120"><span region="Default">Okay, is it always gonna<br/>be like this? 'Cause--</span></p>
+      <p
+        begin="01:50:30.160"
+        end="01:50:32.200"><span region="Default">And that's for everything else.</span></p>
+      <p
+        begin="01:50:32.680"
+        end="01:50:35.000"><span region="Default">You know, 'cause...<br/>'cause I... I could get used to that.</span></p>
+      <p
+        begin="01:50:35.960"
+        end="01:50:37.000"><span region="Default">Yep.</span></p>
+      <p
+        begin="01:50:37.080"
+        end="01:50:41.320"><span region="Default">Turns out all we needed<br/>was a little more of this.</span></p>
+      <p
+        begin="01:50:42.120"
+        end="01:50:43.640"><span region="Default">You just gestured to all of me.</span></p>
+      <p
+        begin="01:50:44.040"
+        end="01:50:46.280"><span region="Default">Well, you know, most of ya.</span></p>
+      <p
+        begin="01:50:47.040"
+        end="01:50:48.320"><span region="Default">New leg is my handiwork</span></p>
+      <p
+        begin="01:50:48.400"
+        end="01:50:51.520"><span region="Default">with just a dash of your kooky flair<br/>thrown in for good measure.</span></p>
+      <p
+        begin="01:50:52.200"
+        end="01:50:54.240"><span region="Default">Here we go. Welcome home.</span></p>
+      <p
+        begin="01:50:54.320"
+        end="01:50:55.600"><span region="Default">- You rebuilt it?<br/>- Yeah.</span></p>
+      <p
+        begin="01:50:55.680"
+        end="01:50:56.920"><span region="Default">I found your designs.</span></p>
+      <p
+        begin="01:50:57.640"
+        end="01:50:58.640"><span region="Default">Not too bad.</span></p>
+      <p
+        begin="01:50:59.440"
+        end="01:51:00.440"><span region="Default">Night Fury!</span></p>
+      <p
+        begin="01:51:01.960"
+        end="01:51:03.160"><span region="Default">- Here he is.<br/>- What is it?</span></p>
+      <p
+        begin="01:51:03.440"
+        end="01:51:04.880"><span region="Default">What is it, huh?</span></p>
+      <p
+        begin="01:51:04.960"
+        end="01:51:06.120"><span region="Default">Want to take it for a spin?</span></p>
+      <p
+        begin="01:51:17.240"
+        end="01:51:19.160"><span region="Default">This is Berk.</span></p>
+      <p
+        begin="01:51:21.400"
+        end="01:51:23.200"><span region="Default">You'd have to be crazy to move here.</span></p>
+      <p
+        begin="01:51:25.000"
+        end="01:51:26.920"><span region="Default">Even crazier to stay.</span></p>
+      <p
+        begin="01:51:29.000"
+        end="01:51:30.840"><span region="Default">It's not for the faint of heart.</span></p>
+      <p
+        begin="01:51:37.160"
+        end="01:51:40.200"><span region="Default">Any food that grows here<br/>is tough and tasteless.</span></p>
+      <p
+        begin="01:51:41.080"
+        end="01:51:42.080"><span region="Default">Come on!</span></p>
+      <p
+        begin="01:51:43.280"
+        end="01:51:44.640"><span region="Default">The people that grow here</span></p>
+      <p
+        begin="01:51:45.280"
+        end="01:51:46.440"><span region="Default">are even more so.</span></p>
+      <p
+        begin="01:51:49.520"
+        end="01:51:52.000"><span region="Default">The only upsides are the pets.</span></p>
+      <p
+        begin="01:51:52.960"
+        end="01:51:56.520"><span region="Default">While other places may have<br/>ponies or puppies...</span></p>
+      <p
+        begin="01:51:56.600"
+        end="01:51:57.680"><span region="Default">Come on, bud.</span></p>
+      <p
+        begin="01:51:57.760"
+        end="01:51:58.760"><span region="Default">we have...</span></p>
+      <p
+        begin="01:52:01.880"
+        end="01:52:02.960"><span region="Default">dragons.</span></p>
+    </div>
+  </body>
+</tt>
