@@ -1,34 +1,71 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<MPD availabilityStartTime="1970-01-01T00:00:00.000Z" minBufferTime="PT7.00S" minimumUpdatePeriod="PT6.00S" profiles="urn:mpeg:dash:profile:isoff-live:2011" publishTime="2025-12-29T13:16:07.326Z" suggestedPresentationDelay="PT10S" timeShiftBufferDepth="PT54.00S" type="dynamic" schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd">
-  <Period id="1744406265" start="PT0S">
-    <AdaptationSet bitstreamSwitching="false" contentType="video" id="1" mimeType="video/mp4" segmentAlignment="true">
-      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" default_KID="3bc3f0e5-18ae-d92e-80a9-8118e5bc2c10">
-        <pssh>AAAAK3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAsiAzgwOUjj3JWbBg==</pssh>
-      </ContentProtection>
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" default_KID="3bc3f0e5-18ae-d92e-80a9-8118e5bc2c10" />
-      <SegmentTemplate initialization="https://linearjitp-playback.astro.com.my/dash-wv/linear/809/$RepresentationID$_init.mp4" media="https://linearjitp-playback.astro.com.my/dash-wv/linear/809/$RepresentationID$-$Time$.m4f" startNumber="201873343" timescale="90000">
-        <SegmentTimeline>
-          <S d="540000" r="6" t="159031270199156" />
-          <S d="540265" r="0" t="159031273979156" />
-          <S d="540000" r="0" t="159031274519421" />
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation bandwidth="660000" height="480" width="640" codecs="avc1.4d401f" frameRate="25000/1000" id="165/video-cif-stream-3" />
-      <Representation bandwidth="960000" height="540" width="720" codecs="avc1.640020" frameRate="25000/1000" id="165/video-cif-stream-4" />
-    </AdaptationSet>
-    <AdaptationSet bitstreamSwitching="false" contentType="audio" id="2" lang="may" mimeType="audio/mp4" segmentAlignment="true">
-      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" default_KID="3bc3f0e5-18ae-d92e-80a9-8118e5bc2c10">
-        <pssh>AAAAK3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAsiAzgwOUjj3JWbBg==</pssh>
-      </ContentProtection>
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" default_KID="3bc3f0e5-18ae-d92e-80a9-8118e5bc2c10" />
-      <SegmentTemplate initialization="https://linearjitp-playback.astro.com.my/dash-wv/linear/809/$RepresentationID$_init.mp4" media="https://linearjitp-playback.astro.com.my/dash-wv/linear/809/$RepresentationID$-$Time$.m4f" startNumber="201873343" timescale="90000">
-        <SegmentTimeline>
-          <S d="540000" r="6" t="159031270199156" />
-          <S d="540265" r="0" t="159031273979156" />
-          <S d="540000" r="0" t="159031274519421" />
-        </SegmentTimeline>
-      </SegmentTemplate>
-      <Representation audioSamplingRate="48000" bandwidth="40000" codecs="mp4a.40.5" id="80/video-cif-stream-1" />
-    </AdaptationSet>
-  </Period>
-<BaseURL>https://linearjitp-playback.astro.com.my/dash-wv/linear/809/</BaseURL></MPD>
+<?xml version="1.0" encoding="UTF-8" ?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" 
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+     xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd"
+     profiles="urn:mpeg:dash:profile:isoff-live:2011" 
+     type="dynamic" 
+     availabilityStartTime="2025-11-24T10:15:18Z" 
+     minimumUpdatePeriod="PT4.0S" 
+     minBufferTime="PT4.0S" 
+     publishTime="2025-12-29T13:34:54.867Z" 
+     timeShiftBufferDepth="PT60.0S" 
+     suggestedPresentationDelay="PT4.0S">
+
+    <BaseURL>https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(TV3)/</BaseURL>
+
+    <Period start="PT0S" id="1">
+        <AdaptationSet mimeType="video/mp4" 
+                       startWithSAP="1" 
+                       segmentAlignment="true" 
+                       par="16:9" 
+                       contentType="video">
+            
+            <SegmentTemplate timescale="10000000" 
+                             presentationTimeOffset="0" 
+                             media="$RepresentationID$_Segment-$Time$.m4v" 
+                             initialization="$RepresentationID$_init.m4i">
+                <SegmentTimeline>
+                    <S t="30359289682555" d="40000000" r="14" />
+                </SegmentTimeline>
+            </SegmentTemplate>
+
+            <Representation id="1763979305893item-01item" bandwidth="500000" width="480" height="270" frameRate="25" codecs="avc1.428016" scanType="progressive" sar="1:1" />
+            <Representation id="1763979305893item-02item" bandwidth="1000000" width="640" height="360" frameRate="25" codecs="avc1.4d4020" scanType="progressive" sar="1:1" />
+            <Representation id="1763979305893item-03item" bandwidth="2000000" width="960" height="540" frameRate="25" codecs="avc1.4d4029" scanType="progressive" sar="1:1" />
+            <Representation id="1763979305893item-04item" bandwidth="3000000" width="1280" height="720" frameRate="25" codecs="avc1.640029" scanType="progressive" sar="1:1" />
+            <Representation id="1763979305893item-05item" bandwidth="4000000" width="1920" height="1080" frameRate="25" codecs="avc1.64002a" scanType="progressive" sar="1:1" />
+        </AdaptationSet>
+
+        <AdaptationSet mimeType="audio/mp4" 
+                       startWithSAP="1" 
+                       lang="may" 
+                       segmentAlignment="true" 
+                       contentType="audio">
+            
+            <SegmentTemplate timescale="10000000" 
+                             presentationTimeOffset="0" 
+                             media="$RepresentationID$_Segment-$Time$.m4a" 
+                             initialization="$RepresentationID$_init.m4i">
+                <SegmentTimeline>
+                    <S t="30359289908777" d="40106667" />
+                    <S t="30359330015444" d="39680000" />
+                    <S t="30359369695444" d="40106667" />
+                    <S t="30359409802111" d="40106666" />
+                    <S t="30359449908777" d="40106667" />
+                    <S t="30359490015444" d="39680000" />
+                    <S t="30359529695444" d="40106667" />
+                    <S t="30359569802111" d="40106666" />
+                    <S t="30359609908777" d="40106667" />
+                    <S t="30359650015444" d="39680000" />
+                    <S t="30359689695444" d="40106667" />
+                    <S t="30359729802111" d="40106666" />
+                    <S t="30359769908777" d="40106667" />
+                    <S t="30359810015444" d="39680000" />
+                    <S t="30359849695444" d="40106667" />
+                </SegmentTimeline>
+            </SegmentTemplate>
+            
+            <Representation id="1763979305893item-06item" bandwidth="64000" audioSamplingRate="48000" codecs="mp4a.40.2" />
+        </AdaptationSet>
+    </Period>
+</MPD>
