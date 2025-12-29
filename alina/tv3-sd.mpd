@@ -1,58 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" 
-     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-     xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd" 
-     profiles="urn:mpeg:dash:profile:isoff-live:2011" 
-     type="dynamic" 
-     availabilityStartTime="1970-01-01T00:00:00Z" 
-     publishTime="2025-12-29T13:16:07Z" 
-     minimumUpdatePeriod="PT6S" 
-     minBufferTime="PT7S" 
-     suggestedPresentationDelay="PT10S" 
-     timeShiftBufferDepth="PT54S">
-
+<MPD availabilityStartTime="1970-01-01T00:00:00.000Z" minBufferTime="PT7.00S" minimumUpdatePeriod="PT6.00S" profiles="urn:mpeg:dash:profile:isoff-live:2011" publishTime="2025-12-29T13:16:07.326Z" suggestedPresentationDelay="PT10S" timeShiftBufferDepth="PT54.00S" type="dynamic" schemaLocation="urn:mpeg:dash:schema:mpd:2011 http://standards.iso.org/ittf/PubliclyAvailableStandards/MPEG-DASH_schema_files/DASH-MPD.xsd">
   <Period id="1744406265" start="PT0S">
-    
-    <AdaptationSet id="1" contentType="video" mimeType="video/mp4" segmentAlignment="true" bitstreamSwitching="false">
+    <AdaptationSet bitstreamSwitching="false" contentType="video" id="1" mimeType="video/mp4" segmentAlignment="true">
       <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" default_KID="3bc3f0e5-18ae-d92e-80a9-8118e5bc2c10">
         <pssh>AAAAK3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAsiAzgwOUjj3JWbBg==</pssh>
       </ContentProtection>
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" default_KID="3bc3f0e5-18ae-d92e-80a9-8118e5bc2c10"/>
-      
-      <SegmentTemplate timescale="90000" 
-                       initialization="https://linearjitp-playback.astro.com.my/dash-wv/linear/809/$RepresentationID$_init.mp4" 
-                       media="https://linearjitp-playback.astro.com.my/dash-wv/linear/809/$RepresentationID$-$Time$.m4f" 
-                       startNumber="201873343">
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" default_KID="3bc3f0e5-18ae-d92e-80a9-8118e5bc2c10" />
+      <SegmentTemplate initialization="https://linearjitp-playback.astro.com.my/dash-wv/linear/809/$RepresentationID$_init.mp4" media="https://linearjitp-playback.astro.com.my/dash-wv/linear/809/$RepresentationID$-$Time$.m4f" startNumber="201873343" timescale="90000">
         <SegmentTimeline>
-          <S t="159031270199156" d="540000" r="6"/>
-          <S t="159031273979156" d="540265"/>
-          <S t="159031274519421" d="540000"/>
+          <S d="540000" r="6" t="159031270199156" />
+          <S d="540265" r="0" t="159031273979156" />
+          <S d="540000" r="0" t="159031274519421" />
         </SegmentTimeline>
       </SegmentTemplate>
-
-      <Representation id="165/video-cif-stream-3" bandwidth="660000" codecs="avc1.4d401f" width="640" height="480" frameRate="25"/>
-      <Representation id="165/video-cif-stream-4" bandwidth="960000" codecs="avc1.640020" width="720" height="540" frameRate="25"/>
+      <Representation bandwidth="660000" height="480" width="640" codecs="avc1.4d401f" frameRate="25000/1000" id="165/video-cif-stream-3" />
+      <Representation bandwidth="960000" height="540" width="720" codecs="avc1.640020" frameRate="25000/1000" id="165/video-cif-stream-4" />
     </AdaptationSet>
-
-    <AdaptationSet id="2" contentType="audio" mimeType="audio/mp4" lang="may" segmentAlignment="true">
+    <AdaptationSet bitstreamSwitching="false" contentType="audio" id="2" lang="may" mimeType="audio/mp4" segmentAlignment="true">
       <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed" default_KID="3bc3f0e5-18ae-d92e-80a9-8118e5bc2c10">
         <pssh>AAAAK3Bzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAAsiAzgwOUjj3JWbBg==</pssh>
       </ContentProtection>
-      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" default_KID="3bc3f0e5-18ae-d92e-80a9-8118e5bc2c10"/>
-
-      <SegmentTemplate timescale="90000" 
-                       initialization="https://linearjitp-playback.astro.com.my/dash-wv/linear/809/$RepresentationID$_init.mp4" 
-                       media="https://linearjitp-playback.astro.com.my/dash-wv/linear/809/$RepresentationID$-$Time$.m4f" 
-                       startNumber="201873343">
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" default_KID="3bc3f0e5-18ae-d92e-80a9-8118e5bc2c10" />
+      <SegmentTemplate initialization="https://linearjitp-playback.astro.com.my/dash-wv/linear/809/$RepresentationID$_init.mp4" media="https://linearjitp-playback.astro.com.my/dash-wv/linear/809/$RepresentationID$-$Time$.m4f" startNumber="201873343" timescale="90000">
         <SegmentTimeline>
-          <S t="159031270199156" d="540000" r="6"/>
-          <S t="159031273979156" d="540265"/>
-          <S t="159031274519421" d="540000"/>
+          <S d="540000" r="6" t="159031270199156" />
+          <S d="540265" r="0" t="159031273979156" />
+          <S d="540000" r="0" t="159031274519421" />
         </SegmentTimeline>
       </SegmentTemplate>
-      
-      <Representation id="80/video-cif-stream-1" bandwidth="40000" codecs="mp4a.40.5" audioSamplingRate="48000"/>
+      <Representation audioSamplingRate="48000" bandwidth="40000" codecs="mp4a.40.5" id="80/video-cif-stream-1" />
     </AdaptationSet>
-
   </Period>
-</MPD>
+<BaseURL>https://linearjitp-playback.astro.com.my/dash-wv/linear/809/</BaseURL></MPD>
