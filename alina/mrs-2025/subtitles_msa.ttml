@@ -1,0 +1,3175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:03:31.000"
+        end="00:03:32.080"><span region="Default">Terima kasih.</span></p>
+      <p
+        begin="00:03:32.240"
+        end="00:03:33.600"><span region="Default">Kamu kelas berapa?</span></p>
+      <p
+        begin="00:03:33.720"
+        end="00:03:34.920"><span region="Default">Tingkatan dua belas.</span></p>
+      <p
+        begin="00:03:35.720"
+        end="00:03:37.160"><span region="Default">Dan kamu nak jadi apa:</span></p>
+      <p
+        begin="00:03:37.280"
+        end="00:03:38.920"><span region="Default">Jurutera atau Doktor?</span></p>
+      <p
+        begin="00:03:39.400"
+        end="00:03:41.720"><span region="Default">- Belum buat keputusan lagi, pak cik.<br/>- Tak apa, terima kasih.</span></p>
+      <p
+        begin="00:03:41.960"
+        end="00:03:43.320"><span region="Default">Jadi, kamu ada dua orang anak?</span></p>
+      <p
+        begin="00:03:43.800"
+        end="00:03:46.000"><span region="Default">Tidak. Kami ada Lola juga!</span></p>
+      <p
+        begin="00:03:46.880"
+        end="00:03:48.960"><span region="Default">Dia betul-betul layan Lola<br/>seperti anak ketiga kami!</span></p>
+      <p
+        begin="00:03:49.080"
+        end="00:03:50.480"><span region="Default">Dia sangat sayang padanya.</span></p>
+      <p
+        begin="00:03:50.800"
+        end="00:03:53.120"><span region="Default">Anjing sangat setia.</span></p>
+      <p
+        begin="00:03:53.880"
+        end="00:03:54.840"><span region="Default">Richa, masuk.</span></p>
+      <p
+        begin="00:03:55.040"
+        end="00:03:56.040"><span region="Default">Hello.</span></p>
+      <p
+        begin="00:03:57.440"
+        end="00:03:58.240"><span region="Default">Duduk.</span></p>
+      <p
+        begin="00:03:58.720"
+        end="00:03:59.960"><span region="Default">Kami ada seorang anak perempuan juga.</span></p>
+      <p
+        begin="00:04:00.320"
+        end="00:04:02.520"><span region="Default">Panggil dia. Buat panggilan video.</span></p>
+      <p
+        begin="00:04:03.640"
+        end="00:04:06.480"><span region="Default">Dia berkahwin dengan seorang doktor,<br/>dan dia sedang mengandung sekarang.</span></p>
+      <p
+        begin="00:04:08.960"
+        end="00:04:10.360"><span region="Default">Rangkaiannya lemah.</span></p>
+      <p
+        begin="00:04:10.480"
+        end="00:04:11.520"><span region="Default">Kata laluan WiFi?</span></p>
+      <p
+        begin="00:04:11.640"
+        end="00:04:13.840"><span region="Default">A1B2C3D4E5F6</span></p>
+      <p
+        begin="00:04:14.440"
+        end="00:04:15.120"><span region="Default">Apa?</span></p>
+      <p
+        begin="00:04:17.600"
+        end="00:04:18.680"><span region="Default">A1, B-</span></p>
+      <p
+        begin="00:04:19.000"
+        end="00:04:19.760"><span region="Default">2...</span></p>
+      <p
+        begin="00:04:20.200"
+        end="00:04:21.080"><span region="Default">2, C...</span></p>
+      <p
+        begin="00:04:21.280"
+        end="00:04:22.080"><span region="Default">3...</span></p>
+      <p
+        begin="00:04:24.360"
+        end="00:04:25.040"><span region="Default">D?</span></p>
+      <p
+        begin="00:04:26.000"
+        end="00:04:26.760"><span region="Default">4...</span></p>
+      <p
+        begin="00:04:28.240"
+        end="00:04:29.000"><span region="Default">E?</span></p>
+      <p
+        begin="00:04:29.960"
+        end="00:04:30.680"><span region="Default">5...</span></p>
+      <p
+        begin="00:04:32.360"
+        end="00:04:33.240"><span region="Default">F6</span></p>
+      <p
+        begin="00:04:37.240"
+        end="00:04:39.680"><span region="Default">Itu dia, hubungan serta-merta!</span></p>
+      <p
+        begin="00:04:48.880"
+        end="00:04:50.760"><span region="Default">Kamu ada masalah<br/>mencari rumah ini?</span></p>
+      <p
+        begin="00:04:50.920"
+        end="00:04:52.120"><span region="Default">Tak juga.</span></p>
+      <p
+        begin="00:04:52.920"
+        end="00:04:54.640"><span region="Default">Telah membunyikan beberapa loceng yang salah,</span></p>
+      <p
+        begin="00:04:54.760"
+        end="00:04:56.320"><span region="Default">tetapi kami jumpa juga rumah ini.</span></p>
+      <p
+        begin="00:05:00.040"
+        end="00:05:01.520"><span region="Default">Doktor apa kamu ini?</span></p>
+      <p
+        begin="00:05:02.080"
+        end="00:05:03.280"><span region="Default">Doktor anatomi wanita.</span></p>
+      <p
+        begin="00:05:03.480"
+        end="00:05:04.160"><span region="Default">Wah!</span></p>
+      <p
+        begin="00:05:05.000"
+        end="00:05:06.720"><span region="Default">Saya tak pernah jumpa<br/>doktor sakit puan lelaki sebelum ini.</span></p>
+      <p
+        begin="00:05:07.520"
+        end="00:05:09.080"><span region="Default">Itu pujian, kan?</span></p>
+      <p
+        begin="00:05:10.360"
+        end="00:05:11.160"><span region="Default">Ya.</span></p>
+      <p
+        begin="00:05:18.480"
+        end="00:05:20.920"><span region="Default">Saya tak pernah ke sini,<br/>tapi kami selalu makan di luar.</span></p>
+      <p
+        begin="00:05:21.120"
+        end="00:05:22.640"><span region="Default">Saya suka piza.</span></p>
+      <p
+        begin="00:05:22.800"
+        end="00:05:24.400"><span region="Default">Dan kegemaran saya, Cassata!</span></p>
+      <p
+        begin="00:05:25.680"
+        end="00:05:26.840"><span region="Default">Kenapa kamu tak rasa ini!</span></p>
+      <p
+        begin="00:05:27.840"
+        end="00:05:29.080"><span region="Default">Kamu suka apa?</span></p>
+      <p
+        begin="00:05:30.280"
+        end="00:05:32.040"><span region="Default">Saya suka makanan ringkas, masakan rumah.</span></p>
+      <p
+        begin="00:05:32.600"
+        end="00:05:33.800"><span region="Default">Tiada yang setanding dengannya.</span></p>
+      <p
+        begin="00:05:36.000"
+        end="00:05:39.040"><span region="Default">Dalam dengungan lembut pagi yang baru</span></p>
+      <p
+        begin="00:05:40.080"
+        end="00:05:43.840"><span region="Default">Bisikan harapan, seperti embun yang lembut</span></p>
+      <p
+        begin="00:05:44.080"
+        end="00:05:47.440"><span region="Default">Mari kita mengembara bersama</span></p>
+      <p
+        begin="00:05:48.640"
+        end="00:05:50.440"><span region="Default">Selamanya</span></p>
+      <p
+        begin="00:05:52.520"
+        end="00:05:56.440"><span region="Default">Dalam cahaya berseri yang menggembirakan ini</span></p>
+      <p
+        begin="00:05:56.920"
+        end="00:06:00.560"><span region="Default">Semua keinginan kita membara terang</span></p>
+      <p
+        begin="00:06:00.840"
+        end="00:06:03.960"><span region="Default">Mari kita mengembara bersama</span></p>
+      <p
+        begin="00:06:05.480"
+        end="00:06:07.800"><span region="Default">Selamanya</span></p>
+      <p
+        begin="00:06:28.080"
+        end="00:06:29.240"><span region="Default">Selamat datang ke keluarga!</span></p>
+      <p
+        begin="00:06:29.680"
+        end="00:06:30.800"><span region="Default">Kamu anak perempuan kami sekarang.</span></p>
+      <p
+        begin="00:06:31.200"
+        end="00:06:34.040"><span region="Default">Perlahan-lahan terjaga, berkembang</span></p>
+      <p
+        begin="00:06:34.880"
+        end="00:06:37.800"><span region="Default">Kerinduan hati ini yang membara</span></p>
+      <p
+        begin="00:06:39.080"
+        end="00:06:42.320"><span region="Default">Mata berkilauan dengan impian</span></p>
+      <p
+        begin="00:06:43.280"
+        end="00:06:46.720"><span region="Default">Gema dunia yang tak terlihat</span></p>
+      <p
+        begin="00:06:47.440"
+        end="00:06:50.680"><span region="Default">Melampaui alam fantasi</span></p>
+      <p
+        begin="00:06:51.560"
+        end="00:06:55.040"><span region="Default">Penglihatan telah menjadi kenyataan</span></p>
+      <p
+        begin="00:07:26.640"
+        end="00:07:27.680"><span region="Default">Siapa nama kamu?</span></p>
+      <p
+        begin="00:07:27.800"
+        end="00:07:28.880"><span region="Default">- Apa?<br/>- Siapa nama kamu?</span></p>
+      <p
+        begin="00:07:29.000"
+        end="00:07:31.120"><span region="Default">Richa, cepatlah. Cepat.</span></p>
+      <p
+        begin="00:07:34.000"
+        end="00:07:35.240"><span region="Default">Selamat datang!</span></p>
+      <p
+        begin="00:07:38.200"
+        end="00:07:40.480"><span region="Default">- Bukan tangan kiri.<br/>- Maaf.</span></p>
+      <p
+        begin="00:07:44.320"
+        end="00:07:46.160"><span region="Default">Masuk dengan kaki kanan dahulu.</span></p>
+      <p
+        begin="00:07:46.920"
+        end="00:07:50.320"><span region="Default">Dalam desiran lembut pagi yang baru</span></p>
+      <p
+        begin="00:07:51.000"
+        end="00:07:54.600"><span region="Default">Bisikan harapan, seperti embun yang lembut</span></p>
+      <p
+        begin="00:07:55.400"
+        end="00:07:56.520"><span region="Default">Tahniah!</span></p>
+      <p
+        begin="00:07:56.880"
+        end="00:07:58.880"><span region="Default">Mari kita mengembara bersama</span></p>
+      <p
+        begin="00:07:59.560"
+        end="00:08:01.000"><span region="Default">Selamanya</span></p>
+      <p
+        begin="00:08:03.600"
+        end="00:08:05.960"><span region="Default">Dalam cahaya gembira yang berseri ini</span></p>
+      <p
+        begin="00:08:08.800"
+        end="00:08:10.120"><span region="Default">Hidangkan teh di sana.</span></p>
+      <p
+        begin="00:08:11.840"
+        end="00:08:14.520"><span region="Default">Mari kita mengembara bersama</span></p>
+      <p
+        begin="00:08:16.400"
+        end="00:08:18.080"><span region="Default">Selamanya</span></p>
+      <p
+        begin="00:09:54.320"
+        end="00:09:55.640"><span region="Default">Pemproses...</span></p>
+      <p
+        begin="00:10:17.920"
+        end="00:10:20.000"><span region="Default">Maaf, ia kes kecemasan.</span></p>
+      <p
+        begin="00:10:20.400"
+        end="00:10:21.640"><span region="Default">Awak bosan ke?</span></p>
+      <p
+        begin="00:10:24.320"
+        end="00:10:25.440"><span region="Default">Awak akan kotorkan baju!</span></p>
+      <p
+        begin="00:10:25.720"
+        end="00:10:26.240"><span region="Default">Apa?</span></p>
+      <p
+        begin="00:10:26.800"
+        end="00:10:28.360"><span region="Default">Kelopak bunga meninggalkan kesan kotor.</span></p>
+      <p
+        begin="00:10:29.800"
+        end="00:10:32.160"><span region="Default">Dua bahagian jus lemon,<br/>satu bahagian soda penaik.</span></p>
+      <p
+        begin="00:10:32.440"
+        end="00:10:34.400"><span region="Default">Dapur adalah penyelesaian<br/>kepada setiap masalah.</span></p>
+      <p
+        begin="00:10:40.200"
+        end="00:10:42.760"><span region="Default">Fon kepala ini daripada kawan-kawan saya.</span></p>
+      <p
+        begin="00:10:43.280"
+        end="00:10:44.200"><span region="Default">Awak nak ke?</span></p>
+      <p
+        begin="00:10:44.920"
+        end="00:10:45.720"><span region="Default">Tunjukkan.</span></p>
+      <p
+        begin="00:10:52.560"
+        end="00:10:53.360"><span region="Default">Awak simpanlah.</span></p>
+      <p
+        begin="00:10:55.520"
+        end="00:10:56.720"><span region="Default">Apa lagi yang kita dapat?</span></p>
+      <p
+        begin="00:10:57.480"
+        end="00:10:58.640"><span region="Default">Bekas panas,</span></p>
+      <p
+        begin="00:10:59.240"
+        end="00:11:00.560"><span region="Default">bekas panas lagi,</span></p>
+      <p
+        begin="00:11:01.280"
+        end="00:11:02.680"><span region="Default">dan pemproses makanan.</span></p>
+      <p
+        begin="00:11:03.040"
+        end="00:11:04.960"><span region="Default">Nampaknya semua hadiah<br/>adalah untuk awak.</span></p>
+      <p
+        begin="00:11:09.440"
+        end="00:11:10.920"><span region="Default">Macam mana dengan rumah baru awak?</span></p>
+      <p
+        begin="00:11:12.200"
+        end="00:11:13.240"><span region="Default">Cantik.</span></p>
+      <p
+        begin="00:11:13.920"
+        end="00:11:15.000"><span region="Default">Keluarga baru awak?</span></p>
+      <p
+        begin="00:11:17.200"
+        end="00:11:18.160"><span region="Default">Mereka pun baik juga.</span></p>
+      <p
+        begin="00:11:19.560"
+        end="00:11:21.960"><span region="Default">Dan suami baru awak?</span></p>
+      <p
+        begin="00:11:38.240"
+        end="00:11:40.040"><span region="Default">Itu bahagian katil saya.</span></p>
+      <p
+        begin="00:11:48.000"
+        end="00:11:51.200"><span region="Default">Penyaman udara kekal pada 21 darjah.<br/>OK ke?</span></p>
+      <p
+        begin="00:11:51.360"
+        end="00:11:52.240"><span region="Default">Ya.</span></p>
+      <p
+        begin="00:11:58.800"
+        end="00:12:00.080"><span region="Default">Patutkah saya padamkan lampu?</span></p>
+      <p
+        begin="00:12:39.840"
+        end="00:12:41.960"><span region="Default">- Selamat pagi, ibu.<br/>- Selamat pagi, sayang.</span></p>
+      <p
+        begin="00:12:45.880"
+        end="00:12:48.280"><span region="Default">Patutkah saya kisar bawang<br/>dalam pemproses makanan?</span></p>
+      <p
+        begin="00:12:48.400"
+        end="00:12:50.040"><span region="Default">Biarlah satu hadiah perkahwinan<br/>digunakan!</span></p>
+      <p
+        begin="00:12:50.160"
+        end="00:12:51.040"><span region="Default">Biarlah.</span></p>
+      <p
+        begin="00:12:51.240"
+        end="00:12:53.920"><span region="Default">Bapa mertua awak<br/>nak chutney dia dikisar dengan batu.</span></p>
+      <p
+        begin="00:12:54.240"
+        end="00:12:56.840"><span region="Default">Dia kata pengisar tidak menghasilkan<br/>enzim yang sama.</span></p>
+      <p
+        begin="00:12:57.120"
+        end="00:12:58.400"><span region="Default">Enzim?</span></p>
+      <p
+        begin="00:12:59.200"
+        end="00:13:00.080"><span region="Default">Ya.</span></p>
+      <p
+        begin="00:13:00.280"
+        end="00:13:03.760"><span region="Default">Batu pengisar menghancurkan,<br/>sedangkan pengisar hanya memotong.</span></p>
+      <p
+        begin="00:13:04.200"
+        end="00:13:05.680"><span region="Default">Rasanya tak sama.</span></p>
+      <p
+        begin="00:13:05.920"
+        end="00:13:07.680"><span region="Default">Makcik, sayur untuk hari ini.</span></p>
+      <p
+        begin="00:13:07.840"
+        end="00:13:09.840"><span region="Default">Ya. Ambil dari dia.</span></p>
+      <p
+        begin="00:13:10.480"
+        end="00:13:12.560"><span region="Default">Bilas bersih-bersih<br/>dalam air garam, OK?</span></p>
+      <p
+        begin="00:13:12.680"
+        end="00:13:14.680"><span region="Default">Semua racun perosak akan hilang.</span></p>
+      <p
+        begin="00:13:14.800"
+        end="00:13:15.720"><span region="Default">OK.</span></p>
+      <p
+        begin="00:13:19.360"
+        end="00:13:21.320"><span region="Default">Ini hari pertama pengantin<br/>di dapur.</span></p>
+      <p
+        begin="00:13:21.520"
+        end="00:13:22.600"><span region="Default">Dia akan masak halwa!</span></p>
+      <p
+        begin="00:13:22.800"
+        end="00:13:24.400"><span region="Default">Mestilah dia akan masak.</span></p>
+      <p
+        begin="00:13:26.360"
+        end="00:13:28.360"><span region="Default">Semolina ada di sana.</span></p>
+      <p
+        begin="00:13:28.480"
+        end="00:13:29.480"><span region="Default">OK.</span></p>
+      <p
+        begin="00:13:36.800"
+        end="00:13:38.440"><span region="Default">Mummy, mana buah pelaga?</span></p>
+      <p
+        begin="00:13:38.560"
+        end="00:13:40.120"><span region="Default">Di situ, di atas.</span></p>
+      <p
+        begin="00:13:48.520"
+        end="00:13:49.800"><span region="Default">Cantiknya awak!</span></p>
+      <p
+        begin="00:13:50.920"
+        end="00:13:51.920"><span region="Default">Tak secantik awak!</span></p>
+      <p
+        begin="00:13:52.120"
+        end="00:13:53.560"><span region="Default">Nama saya Richa.<br/>Siapa nama awak?</span></p>
+      <p
+        begin="00:13:53.720"
+        end="00:13:54.520"><span region="Default">Saavi.</span></p>
+      <p
+        begin="00:13:54.680"
+        end="00:13:57.560"><span region="Default">Saya kena pergi sekolah sekarang.<br/>Kalau tak, saya akan tolong awak.</span></p>
+      <p
+        begin="00:13:57.800"
+        end="00:13:59.360"><span region="Default">Baiknya! Saya boleh uruskan.</span></p>
+      <p
+        begin="00:13:59.680"
+        end="00:14:02.000"><span region="Default">Awak pandai buat halwa,<br/>atau saya ajar?</span></p>
+      <p
+        begin="00:14:03.040"
+        end="00:14:04.800"><span region="Default">Saya akan cari resipi di internet.</span></p>
+      <p
+        begin="00:14:05.400"
+        end="00:14:08.200"><span region="Default">- Awak darjah berapa?<br/>- Darjah tiga. Awak pula?</span></p>
+      <p
+        begin="00:14:09.520"
+        end="00:14:11.480"><span region="Default">Dalam 'masterclass' dapur!</span></p>
+      <p
+        begin="00:14:43.680"
+        end="00:14:44.880"><span region="Default">Mummy ada di sini!</span></p>
+      <p
+        begin="00:15:10.280"
+        end="00:15:11.280"><span region="Default">Sekejap.</span></p>
+      <p
+        begin="00:15:18.720"
+        end="00:15:19.800"><span region="Default">Macam mana tehnya?</span></p>
+      <p
+        begin="00:15:21.120"
+        end="00:15:22.080"><span region="Default">Sedap.</span></p>
+      <p
+        begin="00:15:22.640"
+        end="00:15:23.640"><span region="Default">"Teh Badam".</span></p>
+      <p
+        begin="00:15:30.320"
+        end="00:15:31.760"><span region="Default">- Apa itu?<br/>- Apa?</span></p>
+      <p
+        begin="00:15:31.960"
+        end="00:15:34.560"><span region="Default">Jangan pandang saya macam tu.<br/>Saya tak pandai semua ni.</span></p>
+      <p
+        begin="00:15:34.960"
+        end="00:15:35.640"><span region="Default">Betul ke?</span></p>
+      <p
+        begin="00:15:35.880"
+        end="00:15:37.960"><span region="Default">Biodata awak kata<br/>yawak pakar membuat roti dan semua tu!</span></p>
+      <p
+        begin="00:15:41.120"
+        end="00:15:42.000"><span region="Default">OK lah.</span></p>
+      <p
+        begin="00:15:44.640"
+        end="00:15:45.800"><span region="Default">Saya pergi bersiap dulu.</span></p>
+      <p
+        begin="00:15:46.920"
+        end="00:15:48.040"><span region="Default">Jumpa nanti, isteri!</span></p>
+      <p
+        begin="00:16:25.680"
+        end="00:16:27.120"><span region="Default">Kamu masih di dapur?</span></p>
+      <p
+        begin="00:16:27.240"
+        end="00:16:30.200"><span region="Default">Kita sekurang-kurangnya boleh<br/>dapatkan kuih-muih dari pasar!</span></p>
+      <p
+        begin="00:16:30.440"
+        end="00:16:33.080"><span region="Default">Kamu mahu kita hidangkan makanan luar<br/>untuk kepulangan anak perempuan kamu?</span></p>
+      <p
+        begin="00:16:33.280"
+        end="00:16:36.520"><span region="Default">Lagipun, Diwakar tidak suka<br/>makanan dari luar.</span></p>
+      <p
+        begin="00:16:36.640"
+        end="00:16:38.600"><span region="Default">Saya pun tak gemar juga!</span></p>
+      <p
+        begin="00:16:39.440"
+        end="00:16:40.320"><span region="Default">Nah, ini dia.</span></p>
+      <p
+        begin="00:16:41.040"
+        end="00:16:43.600"><span region="Default">Cuma satu hari cuti seminggu,<br/>dan banyak sangat jemputan makan tengah hari dan malam.</span></p>
+      <p
+        begin="00:16:43.720"
+        end="00:16:45.840"><span region="Default">Ambil cuti betul-betul kalau begitu.<br/>Pergi bercuti.</span></p>
+      <p
+        begin="00:16:45.960"
+        end="00:16:48.120"><span region="Default">Saya tak boleh, pak cik.<br/>Terlalu banyak kerja.</span></p>
+      <p
+        begin="00:16:48.440"
+        end="00:16:50.240"><span region="Default">Dia sangat bersemangat<br/>tentang kerjanya, Papa.</span></p>
+      <p
+        begin="00:16:50.520"
+        end="00:16:52.160"><span region="Default">Begitu juga dengan Richa kita!</span></p>
+      <p
+        begin="00:16:52.280"
+        end="00:16:53.760"><span region="Default">Betul ke? Tentang apa?</span></p>
+      <p
+        begin="00:16:54.600"
+        end="00:16:55.680"><span region="Default">Menari!</span></p>
+      <p
+        begin="00:16:56.640"
+        end="00:16:57.880"><span region="Default">Makan lagi.</span></p>
+      <p
+        begin="00:16:58.800"
+        end="00:17:01.680"><span region="Default">Mak cik, mak cik ajar dia<br/>buat semua masakan ini ke?</span></p>
+      <p
+        begin="00:17:02.320"
+        end="00:17:03.560"><span region="Default">Saya cuba sedaya upaya!</span></p>
+      <p
+        begin="00:17:04.040"
+        end="00:17:07.120"><span region="Default">Mereka yang sukakan makanan sedap<br/>boleh belajar memasak dengan baik juga.</span></p>
+      <p
+        begin="00:17:07.440"
+        end="00:17:08.600"><span region="Default">Jangan risau.</span></p>
+      <p
+        begin="00:17:09.000"
+        end="00:17:12.880"><span region="Default">Apa yang mummy ini tak dapat ajar,<br/>mummy dia yang satu lagi akan ajar. Betul kan?</span></p>
+      <p
+        begin="00:17:13.240"
+        end="00:17:14.320"><span region="Default">Sudah tentu!</span></p>
+      <p
+        begin="00:17:14.600"
+        end="00:17:15.320"><span region="Default">Mummy!</span></p>
+      <p
+        begin="00:17:19.400"
+        end="00:17:20.960"><span region="Default">Cukup, jangan banyak sangat!<br/>Dia tak akan dapat habiskan semua itu.</span></p>
+      <p
+        begin="00:17:21.080"
+        end="00:17:22.720"><span region="Default">- Kita kongsi dari pinggan saya.<br/>- Tak mungkin.</span></p>
+      <p
+        begin="00:17:22.920"
+        end="00:17:24.640"><span region="Default">Puan sudah masak semuanya<br/>selepas balik dari pejabat.</span></p>
+      <p
+        begin="00:17:24.800"
+        end="00:17:26.680"><span region="Default">Kamu mesti habiskan semuanya, OK?</span></p>
+      <p
+        begin="00:17:27.840"
+        end="00:17:28.960"><span region="Default">Makanlah, kalau begitu.</span></p>
+      <p
+        begin="00:17:30.360"
+        end="00:17:31.440"><span region="Default">Oh ya,</span></p>
+      <p
+        begin="00:17:31.560"
+        end="00:17:34.400"><span region="Default">Vishesh ada sebut yang<br/>kamu buat halwa yang sangat sedap?</span></p>
+      <p
+        begin="00:17:35.080"
+        end="00:17:37.560"><span region="Default">- Kami tak akan balik sebelum rasa!<br/>- Pasti.</span></p>
+      <p
+        begin="00:17:40.800"
+        end="00:17:42.000"><span region="Default">Biarkan pinggan mangkuk itu, mummy.</span></p>
+      <p
+        begin="00:17:42.120"
+        end="00:17:44.000"><span region="Default">Pembantu akan basuh<br/>pada waktu pagi.</span></p>
+      <p
+        begin="00:17:44.120"
+        end="00:17:46.760"><span region="Default">- Dapur tak patut dibiarkan kotor.<br/>- Biar saya tolong, kalau begitu.</span></p>
+      <p
+        begin="00:17:47.000"
+        end="00:17:48.320"><span region="Default">Biarlah untuk hari ini.</span></p>
+      <p
+        begin="00:17:48.520"
+        end="00:17:50.160"><span region="Default">Macam mana makan tengah hari dan malam tadi?</span></p>
+      <p
+        begin="00:17:50.560"
+        end="00:17:52.920"><span region="Default">Saya terlalu kenyang, sebut pasal<br/>makanan pun dah rasa loya.</span></p>
+      <p
+        begin="00:17:53.280"
+        end="00:17:54.160"><span region="Default">Nak saya basuh periuk nasi?</span></p>
+      <p
+        begin="00:17:54.280"
+        end="00:17:55.800"><span region="Default">Tak payah, biar saya basuh.</span></p>
+      <p
+        begin="00:17:56.240"
+        end="00:17:58.480"><span region="Default">Saya buat setiap hari.<br/>Awak pergi rehat.</span></p>
+      <p
+        begin="00:17:59.800"
+        end="00:18:01.440"><span region="Default">- Selamat malam.<br/>- Selamat malam.</span></p>
+      <p
+        begin="00:18:14.040"
+        end="00:18:15.560"><span region="Default">Masa berbulan madu!</span></p>
+      <p
+        begin="00:18:27.880"
+        end="00:18:29.320"><span region="Default">Bukan hari ini. Esok?</span></p>
+      <p
+        begin="00:18:29.640"
+        end="00:18:31.440"><span region="Default">Macam mana kalau saya tak ada<br/>'mood' esok?</span></p>
+      <p
+        begin="00:18:31.720"
+        end="00:18:32.760"><span region="Default">Lusa?</span></p>
+      <p
+        begin="00:18:33.360"
+        end="00:18:35.200"><span region="Default">Kita buat lagi<br/>lusa!</span></p>
+      <p
+        begin="00:18:35.640"
+        end="00:18:37.520"><span region="Default">Saya betul-betul terlebih makan hari ini.</span></p>
+      <p
+        begin="00:18:39.040"
+        end="00:18:41.040"><span region="Default">Seks itu antasid yang hebat!</span></p>
+      <p
+        begin="00:18:45.120"
+        end="00:18:46.880"><span region="Default">Kotak ubat ada di dapur.</span></p>
+      <p
+        begin="00:18:53.440"
+        end="00:18:55.480"><span region="Default">Apa? Pergi, ambil!</span></p>
+      <p
+        begin="00:18:57.560"
+        end="00:19:00.400"><span region="Default">Ingatkan awak nak ambilkan untuk saya,<br/>Encik Doktor!</span></p>
+      <p
+        begin="00:19:09.120"
+        end="00:19:10.280"><span region="Default">Mummy...</span></p>
+      <p
+        begin="00:19:10.680"
+        end="00:19:12.440"><span region="Default">Mana kotak ubat?</span></p>
+      <p
+        begin="00:21:13.200"
+        end="00:21:15.000"><span region="Default">- Selamat pagi, mummy.<br/>- Selamat pagi.</span></p>
+      <p
+        begin="00:21:15.120"
+        end="00:21:16.640"><span region="Default">Wah, mentega segar!</span></p>
+      <p
+        begin="00:21:17.000"
+        end="00:21:18.960"><span region="Default">Saya suka mentega segar.</span></p>
+      <p
+        begin="00:21:20.520"
+        end="00:21:21.720"><span region="Default">Kamu boleh potong sayur-sayuran itu.</span></p>
+      <p
+        begin="00:21:28.400"
+        end="00:21:29.880"><span region="Default">Saiz ini OK?</span></p>
+      <p
+        begin="00:21:30.200"
+        end="00:21:31.520"><span region="Default">Buat lebih kecil.</span></p>
+      <p
+        begin="00:21:31.880"
+        end="00:21:34.440"><span region="Default">Rasa kari bergantung<br/>pada cara kamu potong sayur.</span></p>
+      <p
+        begin="00:22:35.000"
+        end="00:22:36.440"><span region="Default">Biarkan saja, mummy.</span></p>
+      <p
+        begin="00:22:36.680"
+        end="00:22:38.960"><span region="Default">Pembantu rumah boleh bersihkan<br/>bila dia datang.</span></p>
+      <p
+        begin="00:22:39.360"
+        end="00:22:42.320"><span region="Default">Saya tak boleh serahkan dapur<br/>kepada pembantu rumah.</span></p>
+      <p
+        begin="00:22:42.680"
+        end="00:22:44.720"><span region="Default">Perasan tak betapa kerap<br/>dia ambil cuti?</span></p>
+      <p
+        begin="00:23:09.920"
+        end="00:23:10.920"><span region="Default">Richa?</span></p>
+      <p
+        begin="00:23:11.520"
+        end="00:23:12.320"><span region="Default">Ya?</span></p>
+      <p
+        begin="00:23:13.800"
+        end="00:23:15.800"><span region="Default">Pergi cepat.<br/>Periksa apa yang dia mahu.</span></p>
+      <p
+        begin="00:23:16.040"
+        end="00:23:17.360"><span region="Default">Saya akan habiskan masak dan datang.</span></p>
+      <p
+        begin="00:23:18.200"
+        end="00:23:19.560"><span region="Default">Meftal-Spas?</span></p>
+      <p
+        begin="00:23:20.000"
+        end="00:23:22.040"><span region="Default">Ya, kamu boleh ambil.<br/>Cuma jangan terlalu banyak berbaring.</span></p>
+      <p
+        begin="00:23:27.800"
+        end="00:23:29.720"><span region="Default">Endometriosis kamu telah meningkat.</span></p>
+      <p
+        begin="00:23:35.720"
+        end="00:23:37.080"><span region="Default">Richu, semua baju saya.</span></p>
+      <p
+        begin="00:23:47.400"
+        end="00:23:48.840"><span region="Default">Patutkah saya pakaikan kamu juga?</span></p>
+      <p
+        begin="00:23:49.080"
+        end="00:23:50.400"><span region="Default">Silakan.</span></p>
+      <p
+        begin="00:23:52.160"
+        end="00:23:54.240"><span region="Default">Klinik itu ada mesin ultrabunyi.</span></p>
+      <p
+        begin="00:23:54.360"
+        end="00:23:55.640"><span region="Default">Jadi, kenapa yang baru?</span></p>
+      <p
+        begin="00:23:55.760"
+        end="00:23:57.560"><span region="Default">Teknologi telah maju, Papa.</span></p>
+      <p
+        begin="00:23:57.960"
+        end="00:23:59.240"><span region="Default">Kita perlukan mesin 4D.</span></p>
+      <p
+        begin="00:23:59.600"
+        end="00:24:02.520"><span region="Default">Pada masa kini, doktor senior menggaji<br/>2-3 doktor di bawah mereka</span></p>
+      <p
+        begin="00:24:02.840"
+        end="00:24:04.320"><span region="Default">dan hanya menguruskan klinik.</span></p>
+      <p
+        begin="00:24:04.640"
+        end="00:24:06.440"><span region="Default">Amalan tunggal tidak menguntungkan lagi.</span></p>
+      <p
+        begin="00:24:06.800"
+        end="00:24:08.640"><span region="Default">Pesakit melawat klinik<br/>untuk kepakaran perubatan kamu,</span></p>
+      <p
+        begin="00:24:08.760"
+        end="00:24:10.200"><span region="Default">dan kamu mahu menjadi pengurus!</span></p>
+      <p
+        begin="00:24:10.640"
+        end="00:24:12.600"><span region="Default">Adakah kamu belajar MBBS atau MBA?</span></p>
+      <p
+        begin="00:24:13.280"
+        end="00:24:15.320"><span region="Default">Kita mesti bergerak seiring dengan zaman.</span></p>
+      <p
+        begin="00:24:16.920"
+        end="00:24:19.640"><span region="Default">Ayah saya juga dahulu<br/>menjauhi teknologi.</span></p>
+      <p
+        begin="00:24:19.880"
+        end="00:24:21.600"><span region="Default">Sekarang dia menggunakan e-mel<br/>untuk setiap perkara kecil.</span></p>
+      <p
+        begin="00:24:22.520"
+        end="00:24:23.720"><span region="Default">Hidangkan Papa dahulu.</span></p>
+      <p
+        begin="00:24:24.920"
+        end="00:24:26.400"><span region="Default">Jangan dengan tangan kiri kamu.</span></p>
+      <p
+        begin="00:24:26.600"
+        end="00:24:29.120"><span region="Default">Kita tidak memberi sedekah kepada pengemis<br/>dengan tangan kiri!</span></p>
+      <p
+        begin="00:24:29.720"
+        end="00:24:30.800"><span region="Default">Maaf.</span></p>
+      <p
+        begin="00:24:32.280"
+        end="00:24:34.160"><span region="Default">Mummy, kenapa kamu tidak duduk?<br/>Saya akan masak yang lain dan bawakan.</span></p>
+      <p
+        begin="00:24:34.280"
+        end="00:24:35.280"><span region="Default">Kita semua boleh duduk dan makan bersama.</span></p>
+      <p
+        begin="00:24:35.400"
+        end="00:24:37.400"><span region="Default">Bukannya dia perlu<br/>pergi ke klinik dan bekerja!</span></p>
+      <p
+        begin="00:24:37.520"
+        end="00:24:39.680"><span region="Default">Saya hanya fikir alangkah baiknya<br/>untuk kita bersarapan bersama.</span></p>
+      <p
+        begin="00:24:39.800"
+        end="00:24:40.880"><span region="Default">Ambilkan Diwakar roti panas.</span></p>
+      <p
+        begin="00:24:41.000"
+        end="00:24:43.320"><span region="Default">Sebaik sahaja saya berada di klinik,<br/>saya jarang dapat masa untuk minum air.</span></p>
+      <p
+        begin="00:24:43.920"
+        end="00:24:45.680"><span region="Default">Ambil roti itu sebelum hangus.</span></p>
+      <p
+        begin="00:25:08.120"
+        end="00:25:09.200"><span region="Default">Teh.</span></p>
+      <p
+        begin="00:25:17.480"
+        end="00:25:20.040"><span region="Default">Saya pergi dulu, sayang.<br/>Ada pesakit yang menunggu.</span></p>
+      <p
+        begin="00:26:37.400"
+        end="00:26:39.080"><span region="Default">Puan, perlukah saya membersihkan rumah?</span></p>
+      <p
+        begin="00:26:39.680"
+        end="00:26:41.040"><span region="Default">Oh, akhirnya kamu muncul untuk bekerja!</span></p>
+      <p
+        begin="00:26:41.160"
+        end="00:26:42.720"><span region="Default">Isteri saya sakit.</span></p>
+      <p
+        begin="00:26:42.840"
+        end="00:26:45.440"><span region="Default">Isteri kamu sakit<br/>setiap lima belas hari.</span></p>
+      <p
+        begin="00:26:45.840"
+        end="00:26:47.960"><span region="Default">Sama ada tukar kerja kamu,<br/>atau isteri kamu.</span></p>
+      <p
+        begin="00:26:48.080"
+        end="00:26:50.400"><span region="Default">Jangan cakap begitu, puan.<br/>Saya akan membersihkan sekarang juga.</span></p>
+      <p
+        begin="00:26:51.080"
+        end="00:26:53.600"><span region="Default">Dan kamu sudah berhenti mengelap habuk<br/>langsung sekarang!</span></p>
+      <p
+        begin="00:27:01.920"
+        end="00:27:03.680"><span region="Default">Bubbles! Buat langkah yang berbeza di sini.</span></p>
+      <p
+        begin="00:27:03.840"
+        end="00:27:04.920"><span region="Default">Apa yang patut saya buat?</span></p>
+      <p
+        begin="00:27:05.240"
+        end="00:27:07.560"><span region="Default">Dan bila kamu akan datang?<br/>Sertai kami untuk latihan bila-bila masa!</span></p>
+      <p
+        begin="00:27:08.160"
+        end="00:27:09.120"><span region="Default">Macam mana?</span></p>
+      <p
+        begin="00:27:09.320"
+        end="00:27:11.000"><span region="Default">Perjalanan seorang diri mengambil masa tiga jam.</span></p>
+      <p
+        begin="00:27:11.240"
+        end="00:27:14.400"><span region="Default">Kumpulan tarian kamu merindui kamu!<br/>Datang sahaja jumpa kami.</span></p>
+      <p
+        begin="00:27:15.680"
+        end="00:27:17.240"><span region="Default">Ya, OK.<br/>Saya akan fikirkan.</span></p>
+      <p
+        begin="00:27:17.720"
+        end="00:27:19.400"><span region="Default">Anak perempuan kamu perlukan rehat,<br/>mummy.</span></p>
+      <p
+        begin="00:27:19.760"
+        end="00:27:20.960"><span region="Default">Tidak kira berapa banyak saya membantu,</span></p>
+      <p
+        begin="00:27:21.800"
+        end="00:27:23.120"><span region="Default">dia hanya boleh berehat<br/>bila kamu ada di sini.</span></p>
+      <p
+        begin="00:27:23.240"
+        end="00:27:25.320"><span region="Default">Mummy, saya nak cakap dengan mummy<br/>tentang sesuatu.</span></p>
+      <p
+        begin="00:27:25.760"
+        end="00:27:27.320"><span region="Default">Gaul ini betul-betul, ya?</span></p>
+      <p
+        begin="00:27:27.440"
+        end="00:27:29.480"><span region="Default">Luangkan beberapa bulan dengan kami,<br/>tolong!</span></p>
+      <p
+        begin="00:27:29.640"
+        end="00:27:31.000"><span region="Default">Kamu pun akan dapat berehat juga.</span></p>
+      <p
+        begin="00:27:31.080"
+        end="00:27:33.440"><span region="Default">Macam mana saya boleh<br/>tinggalkan semua di sini dan datang?</span></p>
+      <p
+        begin="00:27:33.800"
+        end="00:27:35.600"><span region="Default">Richa boleh uruskan rumah.</span></p>
+      <p
+        begin="00:27:35.840"
+        end="00:27:36.920"><span region="Default">Betul?</span></p>
+      <p
+        begin="00:27:37.520"
+        end="00:27:38.840"><span region="Default">Ya, sudah tentu.</span></p>
+      <p
+        begin="00:27:38.960"
+        end="00:27:41.480"><span region="Default">Saya sedang belajar cara membuat<br/>Galouti Kebab hari ini.</span></p>
+      <p
+        begin="00:27:41.760"
+        end="00:27:42.800"><span region="Default">Kenapa kamu tidak melawat dia?</span></p>
+      <p
+        begin="00:27:42.920"
+        end="00:27:45.120"><span region="Default">Saya pasti dia mengidam<br/>masakan ibunya.</span></p>
+      <p
+        begin="00:27:45.240"
+        end="00:27:46.680"><span region="Default">Terima kasih kerana berkata begitu.</span></p>
+      <p
+        begin="00:27:47.120"
+        end="00:27:48.720"><span region="Default">Saya akan tempah tiket kalau begitu, Mak.</span></p>
+      <p
+        begin="00:27:48.840"
+        end="00:27:50.760"><span region="Default">Saya akan hantar senarai barang<br/>yang saya nak dari sana.</span></p>
+      <p
+        begin="00:28:01.520"
+        end="00:28:03.800"><span region="Default">Semakin lama kamu merendam labu,</span></p>
+      <p
+        begin="00:28:04.040"
+        end="00:28:05.720"><span region="Default">semakin lembut petha itu nanti.</span></p>
+      <p
+        begin="00:28:26.240"
+        end="00:28:28.400"><span region="Default">Tekan perlahan-lahan dari sisi.</span></p>
+      <p
+        begin="00:28:28.920"
+        end="00:28:31.160"><span region="Default">Cepat. Kita ada banyak nak buat.</span></p>
+      <p
+        begin="00:28:41.840"
+        end="00:28:42.800"><span region="Default">Sedapnya!</span></p>
+      <p
+        begin="00:28:42.960"
+        end="00:28:44.960"><span region="Default">Tambahkan sedikit minyak mustard<br/>selepas masak sepenuhnya.</span></p>
+      <p
+        begin="00:28:45.080"
+        end="00:28:47.360"><span region="Default">- Berapa banyak?<br/>- Satu atau dua sudu besar.</span></p>
+      <p
+        begin="00:28:52.280"
+        end="00:28:53.960"><span region="Default">Nah, berikan ini kepada Papa.</span></p>
+      <p
+        begin="00:28:55.280"
+        end="00:28:56.600"><span region="Default">Papa, ladoo untuk Papa.</span></p>
+      <p
+        begin="00:29:38.600"
+        end="00:29:39.840"><span region="Default">Kamu boleh uruskan semuanya di sini?</span></p>
+      <p
+        begin="00:29:39.960"
+        end="00:29:42.080"><span region="Default">Bolehkah kita pergi, Ma?<br/>Kita sudah lewat.</span></p>
+      <p
+        begin="00:29:42.480"
+        end="00:29:45.000"><span region="Default">- Ambil ini. Simpan dalam dompet kamu.<br/>- OK.</span></p>
+      <p
+        begin="00:29:45.480"
+        end="00:29:46.800"><span region="Default">Mari pergi.</span></p>
+      <p
+        begin="00:30:21.080"
+        end="00:30:22.400"><span region="Default">Selamat pagi, Papa.</span></p>
+      <p
+        begin="00:30:22.640"
+        end="00:30:23.880"><span region="Default">Ini teh Papa.</span></p>
+      <p
+        begin="00:30:24.320"
+        end="00:30:26.120"><span region="Default">Saya belum buang air besar lagi.</span></p>
+      <p
+        begin="00:30:28.400"
+        end="00:30:31.640"><span region="Default">Ibu mertua kamu beri saya<br/>air biji karom setiap pagi.</span></p>
+      <p
+        begin="00:30:40.280"
+        end="00:30:42.240"><span region="Default">Papa, air Papa.</span></p>
+      <p
+        begin="00:32:26.000"
+        end="00:32:29.000"><span region="Default">Saya masak sayur<br/>dengan gula Melaka dan asam jawa hari ini.</span></p>
+      <p
+        begin="00:32:29.360"
+        end="00:32:31.160"><span region="Default">Makanan manis awal pagi?</span></p>
+      <p
+        begin="00:32:31.520"
+        end="00:32:32.640"><span region="Default">Bagus.</span></p>
+      <p
+        begin="00:32:35.000"
+        end="00:32:36.480"><span region="Default">- Tiada phulka ke?<br/>- Ada.</span></p>
+      <p
+        begin="00:32:36.680"
+        end="00:32:39.200"><span region="Default">Bukan roti, saya mahu phulka.<br/>Panas dari dapur.</span></p>
+      <p
+        begin="00:32:39.360"
+        end="00:32:40.280"><span region="Default">Sebentar.</span></p>
+      <p
+        begin="00:32:47.480"
+        end="00:32:49.080"><span region="Default">- Sayang?<br/>- Ya?</span></p>
+      <p
+        begin="00:32:49.680"
+        end="00:32:51.600"><span region="Default">- Ada dadih?<br/>- Ada.</span></p>
+      <p
+        begin="00:32:52.880"
+        end="00:32:54.240"><span region="Default">Ambilkan untuk saya, tolong.</span></p>
+      <p
+        begin="00:33:04.440"
+        end="00:33:06.720"><span region="Default">Richu, cepat!</span></p>
+      <p
+        begin="00:33:07.160"
+        end="00:33:09.200"><span region="Default">- Papa sedang menunggu.<br/>- Ya!</span></p>
+      <p
+        begin="00:33:18.440"
+        end="00:33:19.680"><span region="Default">- Sayang...<br/>- Ya?</span></p>
+      <p
+        begin="00:33:19.800"
+        end="00:33:21.920"><span region="Default">Cencaluk ini bukan ditumbuk dengan batu,<br/>bukan?</span></p>
+      <p
+        begin="00:33:22.880"
+        end="00:33:24.680"><span region="Default">Tidak Papa, saya buat dengan pengisar.</span></p>
+      <p
+        begin="00:33:26.040"
+        end="00:33:29.480"><span region="Default">Menumbuk cencaluk dengan batu<br/>membuat tangan rasa terbakar, saya tahu.</span></p>
+      <p
+        begin="00:33:30.080"
+        end="00:33:31.160"><span region="Default">Tidak mengapa.</span></p>
+      <p
+        begin="00:33:31.640"
+        end="00:33:33.920"><span region="Default">Berapa banyak yang kamu boleh uruskan seorang diri,<br/>lagi pun.</span></p>
+      <p
+        begin="00:33:34.280"
+        end="00:33:35.960"><span region="Default">Ibu mertua kamu sudah biasa dengannya.</span></p>
+      <p
+        begin="00:33:46.160"
+        end="00:33:47.160"><span region="Default">Suami awak dah pergi kerja, sayang!</span></p>
+      <p
+        begin="00:33:47.280"
+        end="00:33:49.040"><span region="Default">Beri saya ucapan selamat tinggal yang manis<br/>dengan senyuman sekarang.</span></p>
+      <p
+        begin="00:33:50.040"
+        end="00:33:51.320"><span region="Default">Saya berbau busuk.</span></p>
+      <p
+        begin="00:33:51.480"
+        end="00:33:52.800"><span region="Default">Awak berbau seperti dapur...</span></p>
+      <p
+        begin="00:33:53.120"
+        end="00:33:55.040"><span region="Default">Dan itu bau yang paling seksi<br/>di dunia.</span></p>
+      <p
+        begin="00:33:55.280"
+        end="00:33:56.240"><span region="Default">Bye.</span></p>
+      <p
+        begin="00:35:07.440"
+        end="00:35:08.640"><span region="Default">Daging kambing untuk makan tengah hari.</span></p>
+      <p
+        begin="00:35:08.760"
+        end="00:35:10.040"><span region="Default">Saheb yang hantar.</span></p>
+      <p
+        begin="00:35:36.560"
+        end="00:35:39.080"><span region="Default">Saya seorang yang cantik menawan</span></p>
+      <p
+        begin="00:35:40.160"
+        end="00:35:42.480"><span region="Default">Semua mata tertumpu pada saya</span></p>
+      <p
+        begin="00:35:43.520"
+        end="00:35:45.720"><span region="Default">Pegang erat jantungmu</span></p>
+      <p
+        begin="00:35:46.320"
+        end="00:35:48.320"><span region="Default">Agar tidak terlepas</span></p>
+      <p
+        begin="00:35:57.200"
+        end="00:35:59.600"><span region="Default">Saya seorang yang cantik menawan</span></p>
+      <p
+        begin="00:36:05.240"
+        end="00:36:06.440"><span region="Default">Richa?</span></p>
+      <p
+        begin="00:36:08.720"
+        end="00:36:11.120"><span region="Default">Pegang erat jantungmu</span></p>
+      <p
+        begin="00:36:11.480"
+        end="00:36:13.560"><span region="Default">Agar tidak terlepas</span></p>
+      <p
+        begin="00:36:24.200"
+        end="00:36:25.400"><span region="Default">Richa?</span></p>
+      <p
+        begin="00:36:26.600"
+        end="00:36:28.800"><span region="Default">Apa gunanya kecantikan</span></p>
+      <p
+        begin="00:36:30.440"
+        end="00:36:34.560"><span region="Default">Tanpa kesetiaan</span></p>
+      <p
+        begin="00:36:42.920"
+        end="00:36:44.720"><span region="Default">Berikan sedikit perhatian, sayang.</span></p>
+      <p
+        begin="00:36:44.960"
+        end="00:36:46.880"><span region="Default">Saya dah panggil awak dari tadi.</span></p>
+      <p
+        begin="00:36:47.240"
+        end="00:36:49.320"><span region="Default">Ya, Papa.<br/>Papa perlukan apa-apa?</span></p>
+      <p
+        begin="00:36:51.200"
+        end="00:36:53.240"><span region="Default">Tak. Saya akan ambil sendiri.</span></p>
+      <p
+        begin="00:37:09.120"
+        end="00:37:09.960"><span region="Default">Sediakan makan tengah hari saya.</span></p>
+      <p
+        begin="00:37:10.080"
+        end="00:37:12.680"><span region="Default">Tuan, makan tengah hari belum siap.<br/>Perlukah saya pesan sesuatu?</span></p>
+      <p
+        begin="00:37:13.280"
+        end="00:37:15.600"><span region="Default">Tak, biarkan sahaja.<br/>Buatkan saya kopi hitam.</span></p>
+      <p
+        begin="00:37:16.400"
+        end="00:37:19.760"><span region="Default">Pengantin baru tu ambil masa<br/>untuk menyesuaikan diri, kan?</span></p>
+      <p
+        begin="00:37:20.960"
+        end="00:37:22.880"><span region="Default">- Ambilkan saya air.<br/>- Baik, Tuan.</span></p>
+      <p
+        begin="00:37:39.320"
+        end="00:37:40.520"><span region="Default">Maaf, Papa.</span></p>
+      <p
+        begin="00:37:42.920"
+        end="00:37:44.480"><span region="Default">Dagingnya lambat masak.</span></p>
+      <p
+        begin="00:37:47.720"
+        end="00:37:49.400"><span region="Default">Walaupun dah empat kali berbunyi.</span></p>
+      <p
+        begin="00:37:51.680"
+        end="00:37:53.600"><span region="Default">Kamu masak ini dalam periuk tekanan?</span></p>
+      <p
+        begin="00:37:53.960"
+        end="00:37:55.040"><span region="Default">Ya.</span></p>
+      <p
+        begin="00:37:56.040"
+        end="00:37:59.000"><span region="Default">Kalau begitu, ini nasi minyak, bukan biryani.</span></p>
+      <p
+        begin="00:37:59.760"
+        end="00:38:03.920"><span region="Default">Dum Pukht Biryani<br/>dimasak dengan api perlahan.</span></p>
+      <p
+        begin="00:38:04.440"
+        end="00:38:05.720"><span region="Default">Perlahan-lahan.</span></p>
+      <p
+        begin="00:38:06.080"
+        end="00:38:06.920"><span region="Default">Ya.</span></p>
+      <p
+        begin="00:38:07.800"
+        end="00:38:08.960"><span region="Default">Dengan sabar.</span></p>
+      <p
+        begin="00:38:09.320"
+        end="00:38:11.600"><span region="Default">- Ya.<br/>- Lapis demi lapis.</span></p>
+      <p
+        begin="00:38:12.000"
+        end="00:38:13.400"><span region="Default">Nak raita?</span></p>
+      <p
+        begin="00:38:18.240"
+        end="00:38:19.280"><span region="Default">Terima kasih.</span></p>
+      <p
+        begin="00:38:38.480"
+        end="00:38:40.440"><span region="Default">Saya kerja dua belas jam setiap hari.</span></p>
+      <p
+        begin="00:38:40.800"
+        end="00:38:42.960"><span region="Default">Saya patut dapat makan tengah hari tepat pada waktunya,<br/>sekurang-kurangnya.</span></p>
+      <p
+        begin="00:38:43.920"
+        end="00:38:45.920"><span region="Default">Saya jarang ada masa untuk makan<br/>antara pesakit.</span></p>
+      <p
+        begin="00:38:48.240"
+        end="00:38:50.280"><span region="Default">Saya hanya minum enam kopi hitam hari ini.</span></p>
+      <p
+        begin="00:38:54.320"
+        end="00:38:55.920"><span region="Default">Boleh saya dapat makan malam sekarang?</span></p>
+      <p
+        begin="00:38:58.680"
+        end="00:39:00.360"><span region="Default">Dan phulka panas, tolong.</span></p>
+      <p
+        begin="00:39:00.840"
+        end="00:39:04.320"><span region="Default">Meena, takkan kamu tak ajar pembantu kamu<br/>macam mana nak masak biryani dalam periuk?</span></p>
+      <p
+        begin="00:39:04.680"
+        end="00:39:06.600"><span region="Default">Buatlah dengan nasi minyak<br/>untuk beberapa minggu, ya.</span></p>
+      <p
+        begin="00:39:07.520"
+        end="00:39:09.680"><span region="Default">Kami akan uruskan buat masa ini, tentu...</span></p>
+      <p
+        begin="00:39:10.200"
+        end="00:39:12.560"><span region="Default">Tapi Richa mesti diajar<br/>macam mana nak uruskan rumah.</span></p>
+      <p
+        begin="00:39:12.800"
+        end="00:39:16.320"><span region="Default">Sekurang-kurangnya suruh dia<br/>lap habuk rumah betul-betul.</span></p>
+      <p
+        begin="00:39:16.680"
+        end="00:39:18.480"><span region="Default">Kalau alahan saya melarat,</span></p>
+      <p
+        begin="00:39:18.720"
+        end="00:39:20.680"><span region="Default">Saya akan dimasukkan ke wad<br/>di hospital kita sendiri!</span></p>
+      <p
+        begin="00:40:16.240"
+        end="00:40:17.960"><span region="Default">Hai, hello, namaste,<br/>Sat Sri Akal!</span></p>
+      <p
+        begin="00:40:18.080"
+        end="00:40:21.000"><span region="Default">Selamat kembali ke saluran kegemaran anda,<br/>Dapur King Kalra!</span></p>
+      <p
+        begin="00:40:21.360"
+        end="00:40:24.360"><span region="Default">Resipi istimewa hari ini ialah<br/>biryani Dum Pukht.</span></p>
+      <p
+        begin="00:40:24.680"
+        end="00:40:26.760"><span region="Default">Membuat biryani Dum Pukht<br/>adalah satu seni,</span></p>
+      <p
+        begin="00:40:27.000"
+        end="00:40:30.600"><span region="Default">yang memerlukan kedua-dua<br/>teknik dan kasih sayang.</span></p>
+      <p
+        begin="00:40:31.480"
+        end="00:40:34.960"><span region="Default">Jadi pertama sekali, untuk membuat<br/>biryani yang lazat dan berperisa:</span></p>
+      <p
+        begin="00:40:35.520"
+        end="00:40:39.960"><span region="Default">Perap ayam<br/>dalam pes halia-bawang putih,</span></p>
+      <p
+        begin="00:40:40.200"
+        end="00:40:41.920"><span region="Default">dadih dan chutney.</span></p>
+      <p
+        begin="00:40:43.440"
+        end="00:40:44.440"><span region="Default">Betul!</span></p>
+      <p
+        begin="00:40:44.600"
+        end="00:40:46.480"><span region="Default">Sekarang gaul ketiga-tiganya dengan baik.</span></p>
+      <p
+        begin="00:40:48.560"
+        end="00:40:51.680"><span region="Default">Merebus nasi dengan cara yang betul<br/>sangat penting.</span></p>
+      <p
+        begin="00:40:52.040"
+        end="00:40:54.040"><span region="Default">Ingat jangan terlalu masak nasi.</span></p>
+      <p
+        begin="00:40:54.400"
+        end="00:40:56.960"><span region="Default">Setiap butir nasi harus berasingan.</span></p>
+      <p
+        begin="00:41:01.400"
+        end="00:41:03.600"><span region="Default">Bawang adalah satu lagi<br/>bahan penting.</span></p>
+      <p
+        begin="00:41:03.960"
+        end="00:41:05.760"><span region="Default">Ia mesti dihiris halus.</span></p>
+      <p
+        begin="00:41:13.440"
+        end="00:41:14.400"><span region="Default">Macam tu.</span></p>
+      <p
+        begin="00:41:18.440"
+        end="00:41:20.600"><span region="Default">Masak ayam dengan api perlahan.</span></p>
+      <p
+        begin="00:41:20.760"
+        end="00:41:22.760"><span region="Default">Biarkan ia mereneh perlahan-lahan.</span></p>
+      <p
+        begin="00:41:24.360"
+        end="00:41:26.320"><span region="Default">Kemudian dalam periuk,<br/>masukkan satu lapisan ayam</span></p>
+      <p
+        begin="00:41:26.440"
+        end="00:41:27.600"><span region="Default">dan kemudian satu lapisan nasi.</span></p>
+      <p
+        begin="00:41:27.720"
+        end="00:41:32.760"><span region="Default">Kemudian satu lagi lapisan ayam<br/>dan satu lagi lapisan nasi...</span></p>
+      <p
+        begin="00:41:35.640"
+        end="00:41:38.560"><span region="Default">Sekarang tutup periuk dengan rapat.</span></p>
+      <p
+        begin="00:41:39.680"
+        end="00:41:41.200"><span region="Default">Anda boleh berehat sekarang.</span></p>
+      <p
+        begin="00:41:41.440"
+        end="00:41:44.040"><span region="Default">Biryani Dum Pukht<br/>akan siap sebentar lagi.</span></p>
+      <p
+        begin="00:41:44.600"
+        end="00:41:47.240"><span region="Default">Dan jangan lupa<br/>bahan yang paling penting:</span></p>
+      <p
+        begin="00:41:49.480"
+        end="00:41:51.040"><span region="Default">Sejumput kasih sayang anda!</span></p>
+      <p
+        begin="00:42:21.680"
+        end="00:42:23.120"><span region="Default">Macam mana, Papa?</span></p>
+      <p
+        begin="00:42:26.840"
+        end="00:42:27.920"><span region="Default">Ada raita?</span></p>
+      <p
+        begin="00:42:28.120"
+        end="00:42:29.000"><span region="Default">Ya.</span></p>
+      <p
+        begin="00:42:42.080"
+        end="00:42:43.160"><span region="Default">Kurang garam.</span></p>
+      <p
+        begin="00:44:10.520"
+        end="00:44:12.600"><span region="Default">Ada banyak lebihan biryani<br/>dari makan tengah hari.</span></p>
+      <p
+        begin="00:44:12.880"
+        end="00:44:14.480"><span region="Default">Mari kita makan sesuatu yang ringan<br/>untuk makan malam, ya.</span></p>
+      <p
+        begin="00:44:14.640"
+        end="00:44:16.440"><span region="Default">Tapi banyak sangat biryani lagi.</span></p>
+      <p
+        begin="00:44:16.680"
+        end="00:44:18.120"><span region="Default">Saya buat dengan penuh kasih sayang.</span></p>
+      <p
+        begin="00:44:18.320"
+        end="00:44:20.600"><span region="Default">Sebab itu saya terlebih makan...</span></p>
+      <p
+        begin="00:44:21.160"
+        end="00:44:22.600"><span region="Default">Boleh kita makan kadhi-phulka?</span></p>
+      <p
+        begin="00:44:28.360"
+        end="00:44:29.960"><span region="Default">Saya tak ada pembantu, Mak.</span></p>
+      <p
+        begin="00:44:30.320"
+        end="00:44:32.520"><span region="Default">Diwakar penat bila<br/>dia balik dari kerja,</span></p>
+      <p
+        begin="00:44:32.880"
+        end="00:44:34.240"><span region="Default">dan kerja di rumah ini<br/>tak pernah habis.</span></p>
+      <p
+        begin="00:44:34.560"
+        end="00:44:36.400"><span region="Default">Kamu kena belajar<br/>untuk uruskannya, Richu.</span></p>
+      <p
+        begin="00:44:36.640"
+        end="00:44:37.880"><span region="Default">Saya sedang cuba.</span></p>
+      <p
+        begin="00:44:38.600"
+        end="00:44:41.080"><span region="Default">Papa pun tak suka<br/>apa yang saya masak.</span></p>
+      <p
+        begin="00:44:42.280"
+        end="00:44:43.480"><span region="Default">Patutkah saya suruh mereka<br/>upah tukang masak?</span></p>
+      <p
+        begin="00:44:43.600"
+        end="00:44:44.360"><span region="Default">Sst!</span></p>
+      <p
+        begin="00:44:44.600"
+        end="00:44:45.800"><span region="Default">Kamu baru kahwin.</span></p>
+      <p
+        begin="00:44:46.400"
+        end="00:44:47.760"><span region="Default">Bersabar dulu.</span></p>
+      <p
+        begin="00:44:47.960"
+        end="00:44:50.800"><span region="Default">Selepas beberapa waktu,<br/>cadangkan dengan berhemah.</span></p>
+      <p
+        begin="00:44:51.640"
+        end="00:44:55.440"><span region="Default">Saya akhirnya makan lebihan<br/>atau buang banyak makanan.</span></p>
+      <p
+        begin="00:44:55.720"
+        end="00:44:57.200"><span region="Default">Tak boleh ke kamu agak sukatan dengan betul?</span></p>
+      <p
+        begin="00:44:58.800"
+        end="00:45:00.160"><span region="Default">Sukatan dah betul, mak.</span></p>
+      <p
+        begin="00:45:00.440"
+        end="00:45:01.720"><span region="Default">Tak guna cakap dengan kamu.</span></p>
+      <p
+        begin="00:45:01.840"
+        end="00:45:02.800"><span region="Default">OK, bye.</span></p>
+      <p
+        begin="00:45:16.920"
+        end="00:45:18.360"><span region="Default">- Ya, Richu.<br/>- Ibu...</span></p>
+      <p
+        begin="00:45:18.760"
+        end="00:45:20.560"><span region="Default">kunyit dimasukkan<br/>dalam dadih atau dalam kuali?</span></p>
+      <p
+        begin="00:45:25.200"
+        end="00:45:26.960"><span region="Default">Tidak, saya sudah selesai. Terima kasih.</span></p>
+      <p
+        begin="00:47:30.080"
+        end="00:47:30.960"><span region="Default">Air?</span></p>
+      <p
+        begin="00:47:36.280"
+        end="00:47:37.160"><span region="Default">Selesai!</span></p>
+      <p
+        begin="00:47:37.960"
+        end="00:47:38.960"><span region="Default">Terima kasih.</span></p>
+      <p
+        begin="00:47:39.720"
+        end="00:47:41.560"><span region="Default">Ibu saya tidak memakai bindi.</span></p>
+      <p
+        begin="00:47:41.760"
+        end="00:47:44.720"><span region="Default">Dia kata bindi hanya<br/>untuk wanita yang bertuah.</span></p>
+      <p
+        begin="00:47:45.240"
+        end="00:47:46.280"><span region="Default">Kenapa begitu?</span></p>
+      <p
+        begin="00:47:46.560"
+        end="00:47:48.280"><span region="Default">Semua orang ada tuah.</span></p>
+      <p
+        begin="00:47:48.560"
+        end="00:47:49.640"><span region="Default">Kamu tak tahu apa-apa.</span></p>
+      <p
+        begin="00:47:49.760"
+        end="00:47:53.320"><span region="Default">Wanita tanpa suami<br/>tidak bertuah.</span></p>
+      <p
+        begin="00:47:58.120"
+        end="00:47:59.440"><span region="Default">Kamu darjah 3, kan?</span></p>
+      <p
+        begin="00:48:00.760"
+        end="00:48:02.240"><span region="Default">Kamu tahu apa itu<br/>nombor perdana?</span></p>
+      <p
+        begin="00:48:03.400"
+        end="00:48:06.760"><span region="Default">Nombor yang tidak boleh dipecahkan,<br/>kecuali dengan dirinya sendiri.</span></p>
+      <p
+        begin="00:48:07.080"
+        end="00:48:08.560"><span region="Default">Lima, tujuh...</span></p>
+      <p
+        begin="00:48:08.800"
+        end="00:48:10.600"><span region="Default">Sebelas, tiga belas.</span></p>
+      <p
+        begin="00:48:14.280"
+        end="00:48:16.480"><span region="Default">Itulah ibu kamu.</span></p>
+      <p
+        begin="00:48:16.840"
+        end="00:48:18.120"><span region="Default">Dia Nombor Perdana yang kukuh.</span></p>
+      <p
+        begin="00:48:18.320"
+        end="00:48:20.080"><span region="Default">Jadi ibu saya bertuah?</span></p>
+      <p
+        begin="00:48:20.560"
+        end="00:48:21.520"><span region="Default">Tidak.</span></p>
+      <p
+        begin="00:48:23.480"
+        end="00:48:25.080"><span region="Default">Kerana dia sendiri<br/>adalah pembawa tuah!</span></p>
+      <p
+        begin="00:48:26.640"
+        end="00:48:27.560"><span region="Default">Sekarang cepat.</span></p>
+      <p
+        begin="00:48:27.840"
+        end="00:48:29.640"><span region="Default">Pergi, menang dan balik. OK?</span></p>
+      <p
+        begin="00:48:34.280"
+        end="00:48:35.320"><span region="Default">Ayuh, sekarang.</span></p>
+      <p
+        begin="00:48:35.480"
+        end="00:48:36.720"><span region="Default">Kamu akan lewat.</span></p>
+      <p
+        begin="00:48:53.720"
+        end="00:48:54.880"><span region="Default">Diwakar!</span></p>
+      <p
+        begin="00:48:56.440"
+        end="00:48:57.440"><span region="Default">Diwakar!</span></p>
+      <p
+        begin="00:49:06.560"
+        end="00:49:07.400"><span region="Default">Hai.</span></p>
+      <p
+        begin="00:49:07.520"
+        end="00:49:08.960"><span region="Default">Akhirnya jawab juga!</span></p>
+      <p
+        begin="00:49:09.160"
+        end="00:49:10.720"><span region="Default">Ingatkan kau takkan jawab langsung.</span></p>
+      <p
+        begin="00:49:11.040"
+        end="00:49:12.280"><span region="Default">Aku tak nak cakap dengan kau.</span></p>
+      <p
+        begin="00:49:12.480"
+        end="00:49:13.680"><span region="Default">Habis tu, kenapa kau telefon?</span></p>
+      <p
+        begin="00:49:13.920"
+        end="00:49:15.120"><span region="Default">Sebab aku ada berita baik.</span></p>
+      <p
+        begin="00:49:15.320"
+        end="00:49:16.480"><span region="Default">Cepatlah cerita!</span></p>
+      <p
+        begin="00:49:16.680"
+        end="00:49:18.440"><span region="Default">Persembahan aku<br/>telah terpilih dalam Kamaani.</span></p>
+      <p
+        begin="00:49:18.560"
+        end="00:49:20.240"><span region="Default">Kredit koreografi pertama aku!</span></p>
+      <p
+        begin="00:49:20.360"
+        end="00:49:21.360"><span region="Default">Wah!</span></p>
+      <p
+        begin="00:49:22.400"
+        end="00:49:24.240"><span region="Default">Itu berita baik!</span></p>
+      <p
+        begin="00:49:24.600"
+        end="00:49:25.560"><span region="Default">Bila latihan bermula?</span></p>
+      <p
+        begin="00:49:25.680"
+        end="00:49:26.960"><span region="Default">Kami dah mula pun.</span></p>
+      <p
+        begin="00:49:27.520"
+        end="00:49:30.160"><span region="Default">Aku dah telefon kau sejak dua minggu lepas.<br/>Kau je yang tak jawab!</span></p>
+      <p
+        begin="00:49:30.280"
+        end="00:49:32.200"><span region="Default">Jadi kami teruskan<br/>dan mulakan latihan.</span></p>
+      <p
+        begin="00:49:33.160"
+        end="00:49:35.440"><span region="Default">Kami kena berlatih setiap hari.</span></p>
+      <p
+        begin="00:49:35.720"
+        end="00:49:36.560"><span region="Default">Ya...</span></p>
+      <p
+        begin="00:49:37.280"
+        end="00:49:39.320"><span region="Default">Agak sukar<br/>untuk aku sertai korang.</span></p>
+      <p
+        begin="00:49:39.600"
+        end="00:49:40.760"><span region="Default">Aku dah agak dah.</span></p>
+      <p
+        begin="00:49:40.960"
+        end="00:49:42.600"><span region="Default">Tapi datanglah tengok<br/>persembahan kami sekurang-kurangnya.</span></p>
+      <p
+        begin="00:49:42.720"
+        end="00:49:43.680"><span region="Default">Hei, tolong pujuk dia!</span></p>
+      <p
+        begin="00:49:43.800"
+        end="00:49:45.360"><span region="Default">Hai, Richa. Apa khabar?</span></p>
+      <p
+        begin="00:49:45.600"
+        end="00:49:46.800"><span region="Default">Datanglah dengan suami awak.</span></p>
+      <p
+        begin="00:49:47.040"
+        end="00:49:48.640"><span region="Default">Saya tak nak bosan seorang diri!</span></p>
+      <p
+        begin="00:49:50.680"
+        end="00:49:53.680"><span region="Default">Diwakar tak ada masa cuti<br/>dari rumah jagaan.</span></p>
+      <p
+        begin="00:49:54.440"
+        end="00:49:55.640"><span region="Default">Puan, hari Ahadlah!</span></p>
+      <p
+        begin="00:49:55.880"
+        end="00:49:57.080"><span region="Default">Tak ada alasan.</span></p>
+      <p
+        begin="00:49:59.440"
+        end="00:50:01.000"><span region="Default">Banyaknya gula<br/>yang kamu letak dalam teh!</span></p>
+      <p
+        begin="00:50:01.600"
+        end="00:50:02.960"><span region="Default">Macam mana saya nak kurangkan berat badan?</span></p>
+      <p
+        begin="00:50:03.600"
+        end="00:50:05.960"><span region="Default">Richa, pelan diet dia<br/>bertukar setiap minggu.</span></p>
+      <p
+        begin="00:50:06.520"
+        end="00:50:08.000"><span region="Default">Kamu beritahu saya apa yang perlu dibuat!</span></p>
+      <p
+        begin="00:50:10.320"
+        end="00:50:11.600"><span region="Default">Jadi, ini janji, kan?</span></p>
+      <p
+        begin="00:50:14.320"
+        end="00:50:18.000"><span region="Default">Richu, kamu tak jawab panggilan,<br/>kamu tak datang untuk latihan,</span></p>
+      <p
+        begin="00:50:18.120"
+        end="00:50:20.680"><span region="Default">kamu pun tak aktif di media sosial...<br/>Kamu okey, kan?</span></p>
+      <p
+        begin="00:50:21.720"
+        end="00:50:22.840"><span region="Default">Saya okey.</span></p>
+      <p
+        begin="00:50:23.200"
+        end="00:50:25.520"><span region="Default">Okey, balik rumah untuk makan malam<br/>selepas persembahan.</span></p>
+      <p
+        begin="00:50:25.840"
+        end="00:50:27.440"><span region="Default">Macam zaman dahulu kala?</span></p>
+      <p
+        begin="00:50:27.920"
+        end="00:50:29.840"><span region="Default">- Okey. Okey, jumpa lagi.<br/>- Jumpa lagi!</span></p>
+      <p
+        begin="00:50:51.240"
+        end="00:50:53.040"><span region="Default">Papa, persembahan<br/>yang saya koreografikan di sekolah...</span></p>
+      <p
+        begin="00:50:53.160"
+        end="00:50:54.560"><span region="Default">Papa ada video dia?</span></p>
+      <p
+        begin="00:50:54.840"
+        end="00:50:55.640"><span region="Default">Sayang...</span></p>
+      <p
+        begin="00:50:56.520"
+        end="00:50:58.000"><span region="Default">Saya akan telefon Papa balik.</span></p>
+      <p
+        begin="00:50:58.120"
+        end="00:50:59.000"><span region="Default">Ya?</span></p>
+      <p
+        begin="00:50:59.120"
+        end="00:51:02.960"><span region="Default">Mesin basuh<br/>tak hilangkan kesan peluh.</span></p>
+      <p
+        begin="00:51:04.600"
+        end="00:51:06.560"><span region="Default">Dua bahagian jus lemon,<br/>satu bahagian soda penaik.</span></p>
+      <p
+        begin="00:51:06.680"
+        end="00:51:08.680"><span region="Default">Dapur adalah penyelesaian<br/>kepada setiap masalah.</span></p>
+      <p
+        begin="00:51:09.160"
+        end="00:51:11.000"><span region="Default">- Ya, sayang.<br/>- Saya akan basuh.</span></p>
+      <p
+        begin="00:51:11.280"
+        end="00:51:13.800"><span region="Default">Basuh perlahan-lahan. Ini kurta kegemaran saya.</span></p>
+      <p
+        begin="00:51:14.040"
+        end="00:51:15.480"><span region="Default">Ya, saya akan jaga.</span></p>
+      <p
+        begin="00:51:39.800"
+        end="00:51:42.040"><span region="Default">Diwakar. Saya dah hantar mesej.</span></p>
+      <p
+        begin="00:51:42.400"
+        end="00:51:43.840"><span region="Default">Kamu tak panggil tukang paip pun...</span></p>
+      <p
+        begin="00:51:45.120"
+        end="00:51:47.160"><span region="Default">Seorang wakil perubatan bagi saya<br/>tablet ini.</span></p>
+      <p
+        begin="00:51:47.480"
+        end="00:51:49.520"><span region="Default">Kamu ambil lah.<br/>Saya dah ada satu.</span></p>
+      <p
+        begin="00:51:51.280"
+        end="00:51:52.480"><span region="Default">Tukang paip belum datang lagi.</span></p>
+      <p
+        begin="00:51:52.680"
+        end="00:51:55.800"><span region="Default">Dan bolehkah kita ambil pembantu rumah<br/>untuk bantu kerja rumah?</span></p>
+      <p
+        begin="00:51:55.920"
+        end="00:51:57.080"><span region="Default">Kenapa?</span></p>
+      <p
+        begin="00:51:57.680"
+        end="00:51:59.680"><span region="Default">Ved Prakash datang<br/>untuk mop dan bersihkan, kan?</span></p>
+      <p
+        begin="00:52:00.120"
+        end="00:52:02.560"><span region="Default">Ya, tapi saya nak<br/>mula kerja sendiri.</span></p>
+      <p
+        begin="00:52:02.680"
+        end="00:52:04.760"><span region="Default">Saya tak ada masa untuk itu sekarang.</span></p>
+      <p
+        begin="00:52:05.280"
+        end="00:52:06.480"><span region="Default">Kerja apa?</span></p>
+      <p
+        begin="00:52:09.120"
+        end="00:52:11.080"><span region="Default">Awak tahu saya sebahagian daripada kumpulan tarian.</span></p>
+      <p
+        begin="00:52:11.360"
+        end="00:52:13.800"><span region="Default">Bubbles baru dapat rancangan sendiri<br/>di Kamaani.</span></p>
+      <p
+        begin="00:52:15.040"
+        end="00:52:17.560"><span region="Default">Kerja ni ada gaji ke?</span></p>
+      <p
+        begin="00:52:18.280"
+        end="00:52:19.880"><span region="Default">Atau saja-saja suka?</span></p>
+      <p
+        begin="00:52:21.960"
+        end="00:52:24.120"><span region="Default">Ada gaji kalau saya usahakan.</span></p>
+      <p
+        begin="00:52:25.840"
+        end="00:52:28.560"><span region="Default">Richu, saya dah jumpa 50-60 pesakit<br/>sepanjang hari...</span></p>
+      <p
+        begin="00:52:28.800"
+        end="00:52:30.960"><span region="Default">Dan awak tambahkan lagi beban saya<br/>bila saya balik rumah.</span></p>
+      <p
+        begin="00:52:31.400"
+        end="00:52:33.000"><span region="Default">Boleh tak saya tarik nafas sekejap?</span></p>
+      <p
+        begin="00:53:48.920"
+        end="00:53:51.200"><span region="Default">Sayang, dah siap ke?</span></p>
+      <p
+        begin="00:53:51.600"
+        end="00:53:53.800"><span region="Default">Saya kena basuh pinggan mangkuk.</span></p>
+      <p
+        begin="00:55:10.800"
+        end="00:55:12.560"><span region="Default">Awak pergi mana semalaman, Richu?</span></p>
+      <p
+        begin="00:55:13.160"
+        end="00:55:14.520"><span region="Default">Saya datang bulan.</span></p>
+      <p
+        begin="00:55:16.200"
+        end="00:55:17.120"><span region="Default">Apa?</span></p>
+      <p
+        begin="00:55:18.120"
+        end="00:55:19.440"><span region="Default">Maksud saya, sejak bila?</span></p>
+      <p
+        begin="00:55:19.920"
+        end="00:55:21.120"><span region="Default">Baru je.</span></p>
+      <p
+        begin="00:55:22.960"
+        end="00:55:25.200"><span region="Default">Saya ingat kita dah<br/>buat semua dengan betul...</span></p>
+      <p
+        begin="00:55:25.760"
+        end="00:55:27.320"><span region="Default">supaya awak mengandung.</span></p>
+      <p
+        begin="00:55:28.960"
+        end="00:55:30.160"><span region="Default">Kenapa awak tenung saya?</span></p>
+      <p
+        begin="00:55:30.400"
+        end="00:55:31.720"><span region="Default">Saya bergurau je.</span></p>
+      <p
+        begin="00:55:32.040"
+        end="00:55:33.440"><span region="Default">Awak pergi dapur ke?</span></p>
+      <p
+        begin="00:55:33.560"
+        end="00:55:35.480"><span region="Default">- Tak, saya nak pergi sekarang.<br/>- Tak payah!</span></p>
+      <p
+        begin="00:55:35.720"
+        end="00:55:37.720"><span region="Default">Jangan masuk dapur<br/>selama 4-5 hari.</span></p>
+      <p
+        begin="00:55:38.160"
+        end="00:55:39.080"><span region="Default">Kenapa?</span></p>
+      <p
+        begin="00:55:39.560"
+        end="00:55:41.040"><span region="Default">Sebab awak perlukan rehat.</span></p>
+      <p
+        begin="00:55:41.520"
+        end="00:55:42.520"><span region="Default">Awak rehatlah.</span></p>
+      <p
+        begin="00:55:42.640"
+        end="00:55:44.200"><span region="Default">Saya akan fikirkan sarapan.</span></p>
+      <p
+        begin="00:55:45.280"
+        end="00:55:46.400"><span region="Default">Saya akan kembali.</span></p>
+      <p
+        begin="00:55:46.600"
+        end="00:55:48.800"><span region="Default">Saya perlukan tuala wanita.</span></p>
+      <p
+        begin="00:55:49.560"
+        end="00:55:51.120"><span region="Default">Jururawat akan ambilkan untuk kamu.</span></p>
+      <p
+        begin="00:56:37.680"
+        end="00:56:38.640"><span region="Default">Tolong bertenang!</span></p>
+      <p
+        begin="00:56:40.000"
+        end="00:56:41.080"><span region="Default">Saya akan lap habuk.</span></p>
+      <p
+        begin="00:56:41.880"
+        end="00:56:43.400"><span region="Default">Papa ada alahan habuk.</span></p>
+      <p
+        begin="00:56:43.520"
+        end="00:56:46.280"><span region="Default">Jangan risau.<br/>Saya akan pastikan semuanya bersih berkilat.</span></p>
+      <p
+        begin="00:56:46.480"
+        end="00:56:48.880"><span region="Default">Wanita di rumah ini<br/>sukar nak berehat, selalu.</span></p>
+      <p
+        begin="00:56:49.200"
+        end="00:56:50.600"><span region="Default">Berehatlah selama lima hari.</span></p>
+      <p
+        begin="00:56:52.320"
+        end="00:56:53.600"><span region="Default">Adakah kamu jururawat di klinik?</span></p>
+      <p
+        begin="00:56:53.760"
+        end="00:56:55.200"><span region="Default">Tidak, saya penyapu sampah di sana.</span></p>
+      <p
+        begin="00:56:55.560"
+        end="00:56:57.120"><span region="Default">Tapi saya boleh buat pertolongan cemas.</span></p>
+      <p
+        begin="00:56:58.400"
+        end="00:57:00.600"><span region="Default">Bolehkah kamu carikan pembantu rumah<br/>untuk membantu di rumah ini?</span></p>
+      <p
+        begin="00:57:00.840"
+        end="00:57:02.160"><span region="Default">Saya ada ramai sangat.</span></p>
+      <p
+        begin="00:57:02.320"
+        end="00:57:03.640"><span region="Default">Semua mereka berhenti.</span></p>
+      <p
+        begin="00:57:04.280"
+        end="00:57:06.200"><span region="Default">Orang di rumah ini<br/>banyak merungut.</span></p>
+      <p
+        begin="00:57:09.160"
+        end="00:57:10.520"><span region="Default">Saya benci nak cakap, tapi...</span></p>
+      <p
+        begin="00:57:10.720"
+        end="00:57:14.720"><span region="Default">mencari kesalahan, diskriminasi kasta...<br/>Berleluasa di sini.</span></p>
+      <p
+        begin="00:57:15.360"
+        end="00:57:16.960"><span region="Default">Saya dari kasta yang berbeza, kamu tahu.</span></p>
+      <p
+        begin="00:57:17.360"
+        end="00:57:18.800"><span region="Default">Saya tidak percaya semua ini.</span></p>
+      <p
+        begin="00:57:20.000"
+        end="00:57:21.600"><span region="Default">Ataupun dalam kenajisan haid.</span></p>
+      <p
+        begin="00:57:21.800"
+        end="00:57:23.120"><span region="Default">Dan kamu pun tak patut percaya!</span></p>
+      <p
+        begin="00:57:23.280"
+        end="00:57:26.720"><span region="Default">Lagipun, wanita seperti saya<br/>tak mampu bercuti lima hari!</span></p>
+      <p
+        begin="00:57:27.080"
+        end="00:57:28.520"><span region="Default">Saya tak beritahu sesiapa<br/>bila saya datang bulan.</span></p>
+      <p
+        begin="00:57:28.800"
+        end="00:57:30.160"><span region="Default">Bukannya ada sesiapa yang tanya pun!</span></p>
+      <p
+        begin="00:57:32.280"
+        end="00:57:33.720"><span region="Default">Kamu benar-benar nombor perdana.</span></p>
+      <p
+        begin="00:57:34.040"
+        end="00:57:34.720"><span region="Default">Apa?</span></p>
+      <p
+        begin="00:57:36.200"
+        end="00:57:37.600"><span region="Default">Anak perempuan kamu sangat cantik.</span></p>
+      <p
+        begin="00:57:37.760"
+        end="00:57:39.560"><span region="Default">Dia sangat memuja kamu!</span></p>
+      <p
+        begin="00:57:39.760"
+        end="00:57:41.920"><span region="Default">"Saya nak membesar<br/>macam Richa Didi..."</span></p>
+      <p
+        begin="00:57:42.040"
+        end="00:57:45.560"><span region="Default">"Richa Didi itu,<br/>Richa Didi ini..."</span></p>
+      <p
+        begin="00:57:45.680"
+        end="00:57:47.760"><span region="Default">Dia memuji kamu<br/>sepanjang hari!</span></p>
+      <p
+        begin="00:57:50.600"
+        end="00:57:52.200"><span region="Default">Siapa yang akan memasak?</span></p>
+      <p
+        begin="00:57:52.480"
+        end="00:57:54.360"><span region="Default">Saya! Siapa lagi?</span></p>
+      <p
+        begin="00:57:54.760"
+        end="00:57:55.920"><span region="Default">Bapa mertuamu berkata:</span></p>
+      <p
+        begin="00:57:56.040"
+        end="00:57:57.840"><span region="Default">"Api dapur sangat kuat."</span></p>
+      <p
+        begin="00:57:57.960"
+        end="00:57:59.840"><span region="Default">"Ia membersihkan segala kekotoran!"</span></p>
+      <p
+        begin="00:58:10.320"
+        end="00:58:12.200"><span region="Default">Papan berderit</span></p>
+      <p
+        begin="00:58:12.320"
+        end="00:58:14.000"><span region="Default">Bot bocor</span></p>
+      <p
+        begin="00:58:14.240"
+        end="00:58:17.000"><span region="Default">Bagaimana kita berlayar mengharunginya, sahabat?</span></p>
+      <p
+        begin="00:58:18.160"
+        end="00:58:20.000"><span region="Default">Tiada siapa yang mendengar rungutanmu</span></p>
+      <p
+        begin="00:58:20.120"
+        end="00:58:21.880"><span region="Default">Sambil kau menjamu selera</span></p>
+      <p
+        begin="00:58:22.080"
+        end="00:58:24.880"><span region="Default">Kamu semua OK, wahai lelaki?</span></p>
+      <p
+        begin="00:58:26.000"
+        end="00:58:27.880"><span region="Default">Senyap sang bijaksana</span></p>
+      <p
+        begin="00:58:28.000"
+        end="00:58:29.800"><span region="Default">Sementara tempayan kosong bergegar</span></p>
+      <p
+        begin="00:58:29.920"
+        end="00:58:32.800"><span region="Default">Begitulah kata pepatah lama</span></p>
+      <p
+        begin="00:58:33.840"
+        end="00:58:36.840"><span region="Default">Tersekat-sekat dan bergegar, bot bergoyang</span></p>
+      <p
+        begin="00:58:37.760"
+        end="00:58:40.520"><span region="Default">Tersekat-sekat dan bergegar, bot bergoyang</span></p>
+      <p
+        begin="00:59:28.720"
+        end="00:59:31.040"><span region="Default">- Sudah berapa hari?<br/>- Empat, tuan.</span></p>
+      <p
+        begin="00:59:53.240"
+        end="00:59:56.760"><span region="Default">Kisah lapuk ini<br/>diberi kepada kita sejak dahulu kala</span></p>
+      <p
+        begin="00:59:57.160"
+        end="00:59:59.160"><span region="Default">Tidak sedar ia adalah palsu</span></p>
+      <p
+        begin="01:00:01.080"
+        end="01:00:04.360"><span region="Default">Raja dan permaisuri,<br/>hidup bahagia selama-lamanya</span></p>
+      <p
+        begin="01:00:05.040"
+        end="01:00:07.520"><span region="Default">Semua orang tertipu dengan penipuan ini</span></p>
+      <p
+        begin="01:00:08.120"
+        end="01:00:09.360"><span region="Default">Tersekat-sekat dan bergegar</span></p>
+      <p
+        begin="01:00:12.040"
+        end="01:00:13.120"><span region="Default">Bot bergoyang</span></p>
+      <p
+        begin="01:00:15.920"
+        end="01:00:17.880"><span region="Default">Tersekat-sekat dan bergegar</span></p>
+      <p
+        begin="01:00:19.840"
+        end="01:00:20.640"><span region="Default">Bot bergoyang</span></p>
+      <p
+        begin="01:00:20.760"
+        end="01:00:23.560"><span region="Default">Tersengguk dan terhentak, bot bergoncang.</span></p>
+      <p
+        begin="01:01:15.000"
+        end="01:01:16.440"><span region="Default">Saya akan lakukan pembedahan terbuka.</span></p>
+      <p
+        begin="01:01:16.560"
+        end="01:01:18.240"><span region="Default">Itu pilihan terbaik<br/>untuk kes-kes malignan.</span></p>
+      <p
+        begin="01:01:18.680"
+        end="01:01:20.880"><span region="Default">Apa yang kamu perlukan<br/>adalah pakar bius yang bagus.</span></p>
+      <p
+        begin="01:01:21.400"
+        end="01:01:23.200"><span region="Default">Bercakap dengan Dr. Pathak.</span></p>
+      <p
+        begin="01:01:24.920"
+        end="01:01:26.560"><span region="Default">Anaknya baru sahaja menyertai klinik itu.</span></p>
+      <p
+        begin="01:01:27.080"
+        end="01:01:29.200"><span region="Default">Bercakap dengan Dr. Pathak yang lebih senior, percayalah.</span></p>
+      <p
+        begin="01:01:29.360"
+        end="01:01:30.520"><span region="Default">Macam mana rasanya?</span></p>
+      <p
+        begin="01:01:32.040"
+        end="01:01:34.120"><span region="Default">Dal-peetha yang saya buat.<br/>Kamu suka?</span></p>
+      <p
+        begin="01:01:34.360"
+        end="01:01:36.760"><span region="Default">Perlu bakat sebenar untuk<br/>merencahkan resipi istimewa Ibu.</span></p>
+      <p
+        begin="01:01:38.520"
+        end="01:01:39.560"><span region="Default">Saya bergurau sahaja!</span></p>
+      <p
+        begin="01:01:40.200"
+        end="01:01:41.280"><span region="Default">Okey sahaja.</span></p>
+      <p
+        begin="01:01:47.200"
+        end="01:01:49.480"><span region="Default">Saya mahu bincangkan sesuatu<br/>dengan kamu berdua.</span></p>
+      <p
+        begin="01:01:51.720"
+        end="01:01:52.720"><span region="Default">Tentu, beritahu kami.</span></p>
+      <p
+        begin="01:01:53.560"
+        end="01:01:55.680"><span region="Default">Saya bercadang untuk memohon pekerjaan.</span></p>
+      <p
+        begin="01:01:55.880"
+        end="01:01:56.840"><span region="Default">Pekerjaan?</span></p>
+      <p
+        begin="01:01:58.080"
+        end="01:01:59.680"><span region="Default">Kenapa kamu perlukan pekerjaan?</span></p>
+      <p
+        begin="01:02:00.600"
+        end="01:02:01.680"><span region="Default">Papa betul.</span></p>
+      <p
+        begin="01:02:02.000"
+        end="01:02:04.400"><span region="Default">Seorang kaki kerja sudah cukup<br/>untuk rumah ini.</span></p>
+      <p
+        begin="01:02:05.120"
+        end="01:02:06.120"><span region="Default">Betul, Papa?</span></p>
+      <p
+        begin="01:02:08.240"
+        end="01:02:09.520"><span region="Default">Pekerjaan apa?</span></p>
+      <p
+        begin="01:02:10.040"
+        end="01:02:11.800"><span region="Default">- Mengajar.<br/>- Mengajar?</span></p>
+      <p
+        begin="01:02:12.440"
+        end="01:02:13.440"><span region="Default">Tetapi apa yang kamu akan ajar?</span></p>
+      <p
+        begin="01:02:13.560"
+        end="01:02:14.800"><span region="Default">Saya akan menjadi guru tarian.</span></p>
+      <p
+        begin="01:02:15.520"
+        end="01:02:17.240"><span region="Default">Ia pekerjaan sambilan<br/>di sebuah sekolah berdekatan.</span></p>
+      <p
+        begin="01:02:17.720"
+        end="01:02:18.640"><span region="Default">Guru tarian?</span></p>
+      <p
+        begin="01:02:18.760"
+        end="01:02:20.040"><span region="Default">Saya menari sejak kecil.</span></p>
+      <p
+        begin="01:02:20.160"
+        end="01:02:21.720"><span region="Default">Saya sudah mengajar sejak empat tahun.</span></p>
+      <p
+        begin="01:02:22.080"
+        end="01:02:23.800"><span region="Default">Dan saya juga mempunyai kumpulan tarian sendiri.</span></p>
+      <p
+        begin="01:02:24.040"
+        end="01:02:25.800"><span region="Default">Tetapi ia hanya hobi, kan?</span></p>
+      <p
+        begin="01:02:26.120"
+        end="01:02:27.800"><span region="Default">Siapa yang mengubah hobi menjadi pekerjaan?</span></p>
+      <p
+        begin="01:02:28.120"
+        end="01:02:30.760"><span region="Default">Ya, dan ia tidak sesuai<br/>dengan reputasi keluarga kita.</span></p>
+      <p
+        begin="01:02:36.360"
+        end="01:02:37.920"><span region="Default">Dal-peetha itu okey.</span></p>
+      <p
+        begin="01:02:44.800"
+        end="01:02:45.720"><span region="Default">Dengar...</span></p>
+      <p
+        begin="01:02:46.000"
+        end="01:02:47.240"><span region="Default">Jangan mohon sekarang.</span></p>
+      <p
+        begin="01:02:49.080"
+        end="01:02:51.280"><span region="Default">Saya akan bercakap dengan Ayah jika kamu mahu.</span></p>
+      <p
+        begin="01:02:54.000"
+        end="01:02:57.280"><span region="Default">Lagipun, kamu perlu berhenti<br/>selepas mengandung nanti.</span></p>
+      <p
+        begin="01:02:58.400"
+        end="01:02:59.280"><span region="Default">Betul?</span></p>
+      <p
+        begin="01:03:05.760"
+        end="01:03:06.840"><span region="Default">Senyum.</span></p>
+      <p
+        begin="01:03:20.360"
+        end="01:03:22.040"><span region="Default">Richu, tengok siapa yang datang!</span></p>
+      <p
+        begin="01:03:22.240"
+        end="01:03:23.440"><span region="Default">Kita ada tetamu!</span></p>
+      <p
+        begin="01:03:23.800"
+        end="01:03:24.320"><span region="Default">Ya?</span></p>
+      <p
+        begin="01:03:24.440"
+        end="01:03:27.200"><span region="Default">Saya bawakan mangga organik untuk kamu,<br/>dari ladang terus!</span></p>
+      <p
+        begin="01:03:28.000"
+        end="01:03:29.400"><span region="Default">Nampak sedap, kan!</span></p>
+      <p
+        begin="01:03:29.520"
+        end="01:03:31.960"><span region="Default">Macam mana kamu ingat<br/>nak melawat kami hari ini?</span></p>
+      <p
+        begin="01:03:32.240"
+        end="01:03:33.000"><span region="Default">Saya ada mesyuarat di Delhi,</span></p>
+      <p
+        begin="01:03:33.120"
+        end="01:03:34.600"><span region="Default">jadi saya fikir, apa salahnya<br/>bermalam di sini!</span></p>
+      <p
+        begin="01:03:34.720"
+        end="01:03:36.680"><span region="Default">Satu malam sahaja?<br/>Ayolah, kita keluarga!</span></p>
+      <p
+        begin="01:03:36.920"
+        end="01:03:38.640"><span region="Default">Tak ada masa, kawan!<br/>Kamu tahu macam mana.</span></p>
+      <p
+        begin="01:03:38.760"
+        end="01:03:41.520"><span region="Default">Saya ada bawa kuih-muih segar!<br/>Cubalah.</span></p>
+      <p
+        begin="01:03:44.640"
+        end="01:03:46.400"><span region="Default">Tengok siapa yang datang!</span></p>
+      <p
+        begin="01:03:46.760"
+        end="01:03:48.320"><span region="Default">Saya pasti kamu tak<br/>kenal saya.</span></p>
+      <p
+        begin="01:03:48.760"
+        end="01:03:50.960"><span region="Default">Saya yakin dia tak kenal.<br/>Cuba teka siapa saya?</span></p>
+      <p
+        begin="01:03:51.600"
+        end="01:03:53.920"><span region="Default">Sepupu Diwakar, Tunnu bhaiyya<br/>dan isteri kamu Binni bhabhi.</span></p>
+      <p
+        begin="01:03:54.200"
+        end="01:03:55.440"><span region="Default">Hebat!</span></p>
+      <p
+        begin="01:03:56.760"
+        end="01:03:58.200"><span region="Default">Itu anak kami, Guddu.</span></p>
+      <p
+        begin="01:03:58.400"
+        end="01:03:59.800"><span region="Default">Guddu, beri salam pada semua.</span></p>
+      <p
+        begin="01:04:00.640"
+        end="01:04:02.920"><span region="Default">Bagaimana kalau secawan teh pekat<br/>untuk semua orang?</span></p>
+      <p
+        begin="01:04:03.040"
+        end="01:04:04.720"><span region="Default">Saya nak lemon shikanji.</span></p>
+      <p
+        begin="01:04:04.840"
+        end="01:04:06.720"><span region="Default">- Panas sangat di luar untuk minum teh.<br/>- Tak boleh minum teh ke?</span></p>
+      <p
+        begin="01:04:06.840"
+        end="01:04:08.160"><span region="Default">Berapa banyak benda yang dia akan buat?</span></p>
+      <p
+        begin="01:04:08.280"
+        end="01:04:10.880"><span region="Default">Jangan risau.<br/>Dia boleh buat sekelip mata.</span></p>
+      <p
+        begin="01:04:11.280"
+        end="01:04:12.800"><span region="Default">Guddu nak apa?</span></p>
+      <p
+        begin="01:04:13.080"
+        end="01:04:13.720"><span region="Default">Kopi ais!</span></p>
+      <p
+        begin="01:04:13.840"
+        end="01:04:15.720"><span region="Default">Tak ada kopi ais untuk kamu.<br/>Minum shikanji lemon!</span></p>
+      <p
+        begin="01:04:17.480"
+        end="01:04:18.640"><span region="Default">Richa?</span></p>
+      <p
+        begin="01:04:18.840"
+        end="01:04:20.400"><span region="Default">Kopi panas untuk saya.</span></p>
+      <p
+        begin="01:04:40.480"
+        end="01:04:43.000"><span region="Default">Ini patut diraikan!<br/>Betul tak?</span></p>
+      <p
+        begin="01:04:43.520"
+        end="01:04:45.640"><span region="Default">Untuk Tunnu bhaiyya,<br/>dan idea dia yang hebat.</span></p>
+      <p
+        begin="01:04:45.760"
+        end="01:04:47.920"><span region="Default">Seperti biasa!</span></p>
+      <p
+        begin="01:04:49.520"
+        end="01:04:53.800"><span region="Default">Sekarang dah senja.<br/>Kita dah lepas waktu untuk ini, kan?</span></p>
+      <p
+        begin="01:04:54.040"
+        end="01:04:56.360"><span region="Default">Sekarang dia dah buat,<br/>kenapa kamu tak minum?</span></p>
+      <p
+        begin="01:04:56.480"
+        end="01:04:58.640"><span region="Default">Sekarang kita minum wiski!</span></p>
+      <p
+        begin="01:05:00.400"
+        end="01:05:01.440"><span region="Default">OK, baiklah.</span></p>
+      <p
+        begin="01:05:01.760"
+        end="01:05:04.320"><span region="Default">Memandangkan kamu dah berusaha sangat,<br/>saya akan rasa sikit.</span></p>
+      <p
+        begin="01:05:04.440"
+        end="01:05:05.560"><span region="Default">Tak apalah, terima kasih.</span></p>
+      <p
+        begin="01:05:12.280"
+        end="01:05:14.840"><span region="Default">Membuat shikanji adalah satu seni.</span></p>
+      <p
+        begin="01:05:16.920"
+        end="01:05:19.440"><span region="Default">Shikanji tak boleh dibuat<br/>seperti air limau.</span></p>
+      <p
+        begin="01:05:20.040"
+        end="01:05:21.000"><span region="Default">Betul tak?</span></p>
+      <p
+        begin="01:05:21.440"
+        end="01:05:23.840"><span region="Default">Airnya mesti<br/>sejuk betul-betul.</span></p>
+      <p
+        begin="01:05:24.080"
+        end="01:05:26.080"><span region="Default">Gulanya mesti sempurna.</span></p>
+      <p
+        begin="01:05:26.240"
+        end="01:05:28.000"><span region="Default">Secubit garam hitam,</span></p>
+      <p
+        begin="01:05:28.120"
+        end="01:05:29.480"><span region="Default">secubit jintan putih,</span></p>
+      <p
+        begin="01:05:29.680"
+        end="01:05:31.640"><span region="Default">dan sedikit lada hitam.</span></p>
+      <p
+        begin="01:05:32.120"
+        end="01:05:34.360"><span region="Default">Itulah shikanji yang sebenar.<br/>Tapi, percubaan yang baik!</span></p>
+      <p
+        begin="01:05:34.480"
+        end="01:05:36.920"><span region="Default">Ini rumah,<br/>bukan restoran!</span></p>
+      <p
+        begin="01:05:37.520"
+        end="01:05:40.520"><span region="Default">Isteri yang berpendapatan<br/>selalu ada sikap!</span></p>
+      <p
+        begin="01:05:41.680"
+        end="01:05:43.720"><span region="Default">OK, beritahu saya,<br/>apa yang kamu mahu untuk makan malam?</span></p>
+      <p
+        begin="01:05:43.920"
+        end="01:05:45.840"><span region="Default">- Makan malam sudah siap.<br/>- Ved Prakash akan membawa daging kambing.</span></p>
+      <p
+        begin="01:05:45.960"
+        end="01:05:47.640"><span region="Default">Kalau begitu, saya akan masak kari kambing malam ini,</span></p>
+      <p
+        begin="01:05:47.760"
+        end="01:05:49.000"><span region="Default">diikuti dengan shikanji istimewa saya!</span></p>
+      <p
+        begin="01:05:49.200"
+        end="01:05:51.120"><span region="Default">Yang betul punya.<br/>Macam mana?</span></p>
+      <p
+        begin="01:05:51.280"
+        end="01:05:52.240"><span region="Default">Tidak, tidak!</span></p>
+      <p
+        begin="01:05:52.360"
+        end="01:05:53.920"><span region="Default">Tolonglah, jangan.<br/>Kami akan masak makan malam.</span></p>
+      <p
+        begin="01:05:54.040"
+        end="01:05:55.960"><span region="Default">Bertenang, Binny!</span></p>
+      <p
+        begin="01:05:56.320"
+        end="01:05:58.200"><span region="Default">Kamu semua berehat,<br/>lelaki akan masak malam ini!</span></p>
+      <p
+        begin="01:05:58.320"
+        end="01:05:59.040"><span region="Default">OK?</span></p>
+      <p
+        begin="01:05:59.160"
+        end="01:06:01.640"><span region="Default">Richa, saya perlukan 7-8 biji bawang,<br/>dicincang halus.</span></p>
+      <p
+        begin="01:06:01.920"
+        end="01:06:04.040"><span region="Default">Sedikit pes halia-bawang putih,</span></p>
+      <p
+        begin="01:06:04.360"
+        end="01:06:05.640"><span region="Default">5-6 biji tomato, dicincang...</span></p>
+      <p
+        begin="01:06:05.800"
+        end="01:06:07.480"><span region="Default">Adakah kamu tahu cara<br/>memerap daging kambing?</span></p>
+      <p
+        begin="01:06:07.600"
+        end="01:06:09.880"><span region="Default">Binny, perap daging itu,<br/>boleh?</span></p>
+      <p
+        begin="01:06:10.160"
+        end="01:06:11.960"><span region="Default">Dan panggil kami dalam 30 minit.</span></p>
+      <p
+        begin="01:06:12.320"
+        end="01:06:14.120"><span region="Default">Kedua-dua beradik<br/>akan masak malam ini!</span></p>
+      <p
+        begin="01:06:14.240"
+        end="01:06:16.480"><span region="Default">Sudah diputuskan. Sorak!</span></p>
+      <p
+        begin="01:06:49.760"
+        end="01:06:51.040"><span region="Default">Ya Tuhan!</span></p>
+      <p
+        begin="01:06:52.120"
+        end="01:06:53.640"><span region="Default">Inilah sebenarnya<br/>yang saya takuti.</span></p>
+      <p
+        begin="01:06:53.920"
+        end="01:06:55.040"><span region="Default">Boleh saya bantu?</span></p>
+      <p
+        begin="01:06:55.160"
+        end="01:06:56.760"><span region="Default">Tidak, saya boleh uruskan.</span></p>
+      <p
+        begin="01:06:56.960"
+        end="01:06:58.360"><span region="Default">Kamu perlu bangun awal<br/>esok, pula.</span></p>
+      <p
+        begin="01:06:58.480"
+        end="01:06:59.840"><span region="Default">- Kamu pasti?<br/>- Ya.</span></p>
+      <p
+        begin="01:07:00.440"
+        end="01:07:02.640"><span region="Default">Kamu tidak akan biasa<br/>dengan dapur ini, pula.</span></p>
+      <p
+        begin="01:07:02.880"
+        end="01:07:04.480"><span region="Default">Mummy! Mummy!</span></p>
+      <p
+        begin="01:07:04.760"
+        end="01:07:05.800"><span region="Default">Saya datang!</span></p>
+      <p
+        begin="01:07:12.520"
+        end="01:07:13.240"><span region="Default">Richu!</span></p>
+      <p
+        begin="01:07:13.360"
+        end="01:07:14.920"><span region="Default">Tiga shikanji, cepat!</span></p>
+      <p
+        begin="01:07:15.200"
+        end="01:07:16.200"><span region="Default">Richu?</span></p>
+      <p
+        begin="01:07:17.080"
+        end="01:07:18.200"><span region="Default">Saya ambilkan!</span></p>
+      <p
+        begin="01:08:41.440"
+        end="01:08:42.640"><span region="Default">Richa, sayang?</span></p>
+      <p
+        begin="01:08:45.880"
+        end="01:08:47.000"><span region="Default">Kamu hendak ke mana?</span></p>
+      <p
+        begin="01:08:49.440"
+        end="01:08:50.480"><span region="Default">Ya, Papa.</span></p>
+      <p
+        begin="01:08:50.760"
+        end="01:08:53.200"><span region="Default">Saya hendak pergi temuduga kerja.</span></p>
+      <p
+        begin="01:08:54.680"
+        end="01:08:56.720"><span region="Default">Bukankah saya sudah menasihatimu<br/>untuk tidak mengejar kerjaya?</span></p>
+      <p
+        begin="01:08:58.600"
+        end="01:08:59.880"><span region="Default">Ingat tak?</span></p>
+      <p
+        begin="01:09:00.360"
+        end="01:09:01.840"><span region="Default">Kamu tahu, ibu mertuamu...</span></p>
+      <p
+        begin="01:09:03.520"
+        end="01:09:05.240"><span region="Default">Dia ada PhD,</span></p>
+      <p
+        begin="01:09:05.640"
+        end="01:09:06.920"><span region="Default">dalam bidang Ekonomi.</span></p>
+      <p
+        begin="01:09:08.200"
+        end="01:09:12.520"><span region="Default">Tetapi rumah dan anak-anak<br/>selalu menjadi keutamaan pertamanya.</span></p>
+      <p
+        begin="01:09:13.520"
+        end="01:09:16.560"><span region="Default">Sekarang lihat - Diwakar seorang doktor,<br/>dan Divya sudah stabil.</span></p>
+      <p
+        begin="01:09:17.240"
+        end="01:09:18.560"><span region="Default">Ini kerja sambilan, Papa.</span></p>
+      <p
+        begin="01:09:18.680"
+        end="01:09:20.520"><span region="Default">Saya sudah siapkan<br/>makan tengah hari dan sarapan</span></p>
+      <p
+        begin="01:09:20.640"
+        end="01:09:22.000"><span region="Default">dan sudah buat kerja pembersihan juga.</span></p>
+      <p
+        begin="01:09:22.120"
+        end="01:09:24.120"><span region="Default">Saya akan uruskan kedua-duanya,<br/>kerja dan rumah.</span></p>
+      <p
+        begin="01:09:24.720"
+        end="01:09:25.920"><span region="Default">Kita belum ada anak lagi-</span></p>
+      <p
+        begin="01:09:26.040"
+        end="01:09:28.560"><span region="Default">Itulah masalahnya<br/>dengan generasi kamu.</span></p>
+      <p
+        begin="01:09:29.080"
+        end="01:09:31.320"><span region="Default">Kamu meremehkan<br/>jam biologi.</span></p>
+      <p
+        begin="01:09:32.920"
+        end="01:09:36.800"><span region="Default">"Richa Kumar,<br/>alamat Dr Ashwin Kumar."</span></p>
+      <p
+        begin="01:09:36.920"
+        end="01:09:39.440"><span region="Default">Itu alamat yang kamu tulis<br/>dalam permohonan kamu, kan?</span></p>
+      <p
+        begin="01:09:43.320"
+        end="01:09:44.280"><span region="Default">Jadi...</span></p>
+      <p
+        begin="01:09:44.400"
+        end="01:09:47.560"><span region="Default">Kamu di bawah jagaan saya,<br/>bukan?</span></p>
+      <p
+        begin="01:09:59.320"
+        end="01:10:00.240"><span region="Default">Papa...</span></p>
+      <p
+        begin="01:11:37.560"
+        end="01:11:40.400"><span region="Default">Tahu tak, dia sebabnya<br/>saya belajar menari!</span></p>
+      <p
+        begin="01:11:42.880"
+        end="01:11:45.200"><span region="Default">Saya yang dorong dia<br/>masuk kumpulan itu!</span></p>
+      <p
+        begin="01:11:45.960"
+        end="01:11:48.400"><span region="Default">Sekarang saya buat koreografi solo,<br/>ini semua berkat dia.</span></p>
+      <p
+        begin="01:11:49.240"
+        end="01:11:51.240"><span region="Default">Dan sekarang, dia sendiri<br/>telah hilang dari pandangan!</span></p>
+      <p
+        begin="01:11:51.440"
+        end="01:11:52.600"><span region="Default">Bila kamu akan kembali?</span></p>
+      <p
+        begin="01:11:52.720"
+        end="01:11:54.360"><span region="Default">Kami sangat rindukan kamu!</span></p>
+      <p
+        begin="01:11:54.720"
+        end="01:11:56.000"><span region="Default">Ya, kamu patut pergi.</span></p>
+      <p
+        begin="01:11:56.240"
+        end="01:11:57.880"><span region="Default">Kamu boleh melawat mereka<br/>seminggu sekali, sekurang-kurangnya.</span></p>
+      <p
+        begin="01:11:58.000"
+        end="01:11:58.720"><span region="Default">Betul ke?</span></p>
+      <p
+        begin="01:11:58.840"
+        end="01:12:00.720"><span region="Default">Adakah kamu pergi ke klinik<br/>seminggu sekali?</span></p>
+      <p
+        begin="01:12:00.920"
+        end="01:12:02.000"><span region="Default">Harapnya begitu!</span></p>
+      <p
+        begin="01:12:02.880"
+        end="01:12:04.040"><span region="Default">Tapi itu kerja saya.</span></p>
+      <p
+        begin="01:12:04.240"
+        end="01:12:05.920"><span region="Default">- Dan menari itu kerja mereka.<br/>- Betul.</span></p>
+      <p
+        begin="01:12:06.040"
+        end="01:12:08.520"><span region="Default">Bukan itu sahaja -<br/>itu panggilan jiwa mereka.</span></p>
+      <p
+        begin="01:12:12.520"
+        end="01:12:13.920"><span region="Default">Hei, relaks.</span></p>
+      <p
+        begin="01:12:15.360"
+        end="01:12:17.120"><span region="Default">Habiskan wain kamu.<br/>Saya akan kemaskan ini.</span></p>
+      <p
+        begin="01:12:17.600"
+        end="01:12:18.560"><span region="Default">Wah!</span></p>
+      <p
+        begin="01:12:19.000"
+        end="01:12:20.680"><span region="Default">Kamu sangat membantu di sini!</span></p>
+      <p
+        begin="01:12:22.400"
+        end="01:12:23.440"><span region="Default">Jadi?</span></p>
+      <p
+        begin="01:12:24.440"
+        end="01:12:25.560"><span region="Default">Takkan saya tak bantu kamu di rumah?</span></p>
+      <p
+        begin="01:12:26.080"
+        end="01:12:27.200"><span region="Default">Bantu?</span></p>
+      <p
+        begin="01:12:27.840"
+        end="01:12:31.120"><span region="Default">Lupakan bantu di dapur,<br/>dia tak bergerak pun!</span></p>
+      <p
+        begin="01:12:32.320"
+        end="01:12:34.120"><span region="Default">Dia datang makan<br/>dengan ayahnya</span></p>
+      <p
+        begin="01:12:34.320"
+        end="01:12:35.960"><span region="Default">dan ikut dia keluar<br/>bila dah selesai!</span></p>
+      <p
+        begin="01:12:38.600"
+        end="01:12:40.360"><span region="Default">'Richu, phulka panas!'</span></p>
+      <p
+        begin="01:12:40.520"
+        end="01:12:41.840"><span region="Default">'Richu, baju!'</span></p>
+      <p
+        begin="01:12:41.960"
+        end="01:12:43.480"><span region="Default">'Richu, teh!'</span></p>
+      <p
+        begin="01:12:44.840"
+        end="01:12:47.400"><span region="Default">Saya pun kerja seorang diri<br/>di klinik.</span></p>
+      <p
+        begin="01:12:48.120"
+        end="01:12:49.320"><span region="Default">Adakah kamu bantu saya di sana?</span></p>
+      <p
+        begin="01:12:49.440"
+        end="01:12:50.120"><span region="Default">Betul ke?</span></p>
+      <p
+        begin="01:12:50.240"
+        end="01:12:52.240"><span region="Default">Macamlah awak akan benarkan saya<br/>keluar bekerja?</span></p>
+      <p
+        begin="01:12:53.000"
+        end="01:12:55.400"><span region="Default">Awak dah jumpa tukang masak dan pembantu rumah<br/>untuk kerja percuma, kan!</span></p>
+      <p
+        begin="01:12:57.000"
+        end="01:12:58.280"><span region="Default">Semua, cassata?</span></p>
+      <p
+        begin="01:12:58.520"
+        end="01:12:59.640"><span region="Default">Khas untuk Richa.</span></p>
+      <p
+        begin="01:12:59.840"
+        end="01:13:01.800"><span region="Default">Ya, sila.<br/>Satu potongan besar untuk saya.</span></p>
+      <p
+        begin="01:13:02.200"
+        end="01:13:03.320"><span region="Default">Itu kegemaran dia.</span></p>
+      <p
+        begin="01:13:13.080"
+        end="01:13:14.320"><span region="Default">Awak mabuk ke?</span></p>
+      <p
+        begin="01:13:15.120"
+        end="01:13:16.320"><span region="Default">Apa yang awak cakapkan ni?</span></p>
+      <p
+        begin="01:13:16.560"
+        end="01:13:18.920"><span region="Default">Saya kahwini awak untuk dapatkan<br/>tukang masak dan pembantu percuma?</span></p>
+      <p
+        begin="01:13:22.800"
+        end="01:13:24.280"><span region="Default">Saya bergurau je, Diwakar.</span></p>
+      <p
+        begin="01:13:24.480"
+        end="01:13:25.960"><span region="Default">Adakah sebab ini<br/>yang awak bawa saya ke sini?</span></p>
+      <p
+        begin="01:13:26.400"
+        end="01:13:28.760"><span region="Default">Untuk menghina saya di depan<br/>kawan awak dan suaminya?</span></p>
+      <p
+        begin="01:13:29.560"
+        end="01:13:30.360"><span region="Default">Diwakar, tolonglah.</span></p>
+      <p
+        begin="01:13:30.560"
+        end="01:13:32.040"><span region="Default">Saya seorang doktor yang dihormati.</span></p>
+      <p
+        begin="01:13:33.280"
+        end="01:13:34.720"><span region="Default">Adakah itu cara<br/>awak akan bercakap tentang saya?</span></p>
+      <p
+        begin="01:13:35.320"
+        end="01:13:36.560"><span region="Default">Tolong, boleh kita bincang nanti?</span></p>
+      <p
+        begin="01:13:36.960"
+        end="01:13:38.400"><span region="Default">- Semua?<br/>- Ya?</span></p>
+      <p
+        begin="01:13:38.880"
+        end="01:13:40.520"><span region="Default">Tak payah susah-susah dengan pinggan mangkuk.</span></p>
+      <p
+        begin="01:13:40.880"
+        end="01:13:41.960"><span region="Default">Saya akan masukkan dalam mesin basuh pinggan mangkuk nanti.</span></p>
+      <p
+        begin="01:13:42.520"
+        end="01:13:44.320"><span region="Default">Ya, OK.</span></p>
+      <p
+        begin="01:13:49.960"
+        end="01:13:51.560"><span region="Default">Ini potongan yang besar.<br/>Saya takkan dapat habiskan.</span></p>
+      <p
+        begin="01:13:51.680"
+        end="01:13:52.640"><span region="Default">Kenapa kamu berdua tak kongsi?</span></p>
+      <p
+        begin="01:13:52.840"
+        end="01:13:54.640"><span region="Default">Cinta bertambah kuat<br/>jika kamu berkongsi pinggan.</span></p>
+      <p
+        begin="01:13:57.720"
+        end="01:13:58.680"><span region="Default">Diwakar?</span></p>
+      <p
+        begin="01:13:58.960"
+        end="01:14:00.600"><span region="Default">Tak, saya dah kenyang.</span></p>
+      <p
+        begin="01:14:01.920"
+        end="01:14:03.000"><span region="Default">Dia boleh habiskan.</span></p>
+      <p
+        begin="01:14:03.200"
+        end="01:14:05.000"><span region="Default">Sudah tentu, dia boleh makan<br/>satu kotak cassata.</span></p>
+      <p
+        begin="01:14:05.160"
+        end="01:14:06.440"><span region="Default">Ambillah.</span></p>
+      <p
+        begin="01:14:09.400"
+        end="01:14:10.760"><span region="Default">Untuk awak, Sayang.</span></p>
+      <p
+        begin="01:14:38.000"
+        end="01:14:39.040"><span region="Default">Diwakar?</span></p>
+      <p
+        begin="01:14:39.960"
+        end="01:14:43.200"><span region="Default">Pasangan tak sepatutnya tidur<br/>dalam keadaan marah begini.</span></p>
+      <p
+        begin="01:14:48.240"
+        end="01:14:50.080"><span region="Default">Bergaduhlah dengan saya jika mahu,</span></p>
+      <p
+        begin="01:14:51.120"
+        end="01:14:52.760"><span region="Default">marah saya, tapi berbicaralah dengan saya.</span></p>
+      <p
+        begin="01:14:57.280"
+        end="01:14:59.600"><span region="Default">Adakah saya benar-benar melayan awak seperti<br/>orang gaji yang tidak dibayar?</span></p>
+      <p
+        begin="01:15:00.240"
+        end="01:15:03.240"><span region="Default">Tak bolehkah kita lupakan hal ini?<br/>Tiada siapa pun yang mendengarnya.</span></p>
+      <p
+        begin="01:15:03.600"
+        end="01:15:04.800"><span region="Default">Saya dengar.</span></p>
+      <p
+        begin="01:15:11.400"
+        end="01:15:13.280"><span region="Default">Awak rasa awak ada buat silap?</span></p>
+      <p
+        begin="01:15:19.120"
+        end="01:15:20.720"><span region="Default">Kalau begitu, mungkin, maaf?</span></p>
+      <p
+        begin="01:15:22.120"
+        end="01:15:23.240"><span region="Default">Maaf.</span></p>
+      <p
+        begin="01:15:40.640"
+        end="01:15:42.080"><span region="Default">Macam mana aiskrim tadi?</span></p>
+      <p
+        begin="01:15:44.280"
+        end="01:15:45.520"><span region="Default">OK-OK.</span></p>
+      <p
+        begin="01:15:48.600"
+        end="01:15:49.720"><span region="Default">OK sahaja?</span></p>
+      <p
+        begin="01:15:52.720"
+        end="01:15:56.560"><span region="Default">Awak habiskan semuanya,<br/>tak tawarkan saya pun sedikit!</span></p>
+      <p
+        begin="01:17:21.000"
+        end="01:17:22.000"><span region="Default">Richa...</span></p>
+      <p
+        begin="01:17:22.680"
+        end="01:17:23.720"><span region="Default">Diwakar?</span></p>
+      <p
+        begin="01:17:23.840"
+        end="01:17:26.640"><span region="Default">Ved Prakash beritahu saya yang<br/>masalah kebocoran itu sudah lama.</span></p>
+      <p
+        begin="01:17:27.080"
+        end="01:17:28.760"><span region="Default">Kita kena tukar keseluruhan paip.</span></p>
+      <p
+        begin="01:17:28.920"
+        end="01:17:30.480"><span region="Default">Tolong suruh seseorang baiki ini.</span></p>
+      <p
+        begin="01:17:30.880"
+        end="01:17:33.680"><span region="Default">Tolong kemaskan beg saya,<br/>saya nak pergi persidangan.</span></p>
+      <p
+        begin="01:17:48.040"
+        end="01:17:49.920"><span region="Default">Hari jadi Papa<br/>sebaik sahaja saya balik nanti.</span></p>
+      <p
+        begin="01:17:50.240"
+        end="01:17:52.000"><span region="Default">Kawan-kawan dia akan datang untuk makan tengah hari.</span></p>
+      <p
+        begin="01:17:52.640"
+        end="01:17:54.400"><span region="Default">Makanannya mesti sedap, OK?</span></p>
+      <p
+        begin="01:17:55.080"
+        end="01:17:56.440"><span region="Default">Saya akan usahakan menunya.</span></p>
+      <p
+        begin="01:17:57.960"
+        end="01:17:59.600"><span region="Default">Beg dah siap dikemas.<br/>Perlu apa-apa lagi?</span></p>
+      <p
+        begin="01:18:00.840"
+        end="01:18:01.760"><span region="Default">Ya.</span></p>
+      <p
+        begin="01:18:02.720"
+        end="01:18:04.320"><span region="Default">Saya perlukan sesuatu yang lain<br/>daripada awak.</span></p>
+      <p
+        begin="01:18:05.480"
+        end="01:18:07.040"><span region="Default">Teksi takkan sampai<br/>dalam masa dua puluh minit lagi...</span></p>
+      <p
+        begin="01:18:07.160"
+        end="01:18:08.240"><span region="Default">Diwakar, tolonglah.</span></p>
+      <p
+        begin="01:18:08.680"
+        end="01:18:10.360"><span region="Default">Jangan bazirkan<br/>waktu subur awak.</span></p>
+      <p
+        begin="01:18:10.920"
+        end="01:18:12.120"><span region="Default">Diwakar, tolonglah!</span></p>
+      <p
+        begin="01:18:13.360"
+        end="01:18:14.320"><span region="Default">Apa yang berlaku?</span></p>
+      <p
+        begin="01:18:18.440"
+        end="01:18:19.480"><span region="Default">Semuanya baik-baik saja?</span></p>
+      <p
+        begin="01:18:23.240"
+        end="01:18:24.600"><span region="Default">Kenapa dengan kamu, Richa?</span></p>
+      <p
+        begin="01:18:26.520"
+        end="01:18:27.520"><span region="Default">Apa masalahnya?</span></p>
+      <p
+        begin="01:18:32.040"
+        end="01:18:33.960"><span region="Default">Saya bercakap dengan kamu!<br/>Apa yang sedang berlaku?</span></p>
+      <p
+        begin="01:18:36.800"
+        end="01:18:38.520"><span region="Default">Adakah seks hanya untuk membuat bayi?</span></p>
+      <p
+        begin="01:18:39.800"
+        end="01:18:40.920"><span region="Default">Kita sudah berkahwin...</span></p>
+      <p
+        begin="01:18:41.720"
+        end="01:18:43.000"><span region="Default">Perancangan keluarga<br/>itu penting, kan?</span></p>
+      <p
+        begin="01:18:43.360"
+        end="01:18:45.520"><span region="Default">Perancangan? Macam ini?</span></p>
+      <p
+        begin="01:18:46.280"
+        end="01:18:47.680"><span region="Default">Dengan melakukan seks mekanikal?</span></p>
+      <p
+        begin="01:18:50.200"
+        end="01:18:51.240"><span region="Default">Apa maksud kamu?</span></p>
+      <p
+        begin="01:18:53.080"
+        end="01:18:54.920"><span region="Default">Macam mana kamu tak sedar, Diwakar?</span></p>
+      <p
+        begin="01:18:55.520"
+        end="01:18:57.680"><span region="Default">Saya rasa sakit! Tak nampak ke?</span></p>
+      <p
+        begin="01:18:58.760"
+        end="01:19:00.440"><span region="Default">Jadi, seks dengan saya pun<br/>sakit sekarang?</span></p>
+      <p
+        begin="01:19:00.560"
+        end="01:19:01.440"><span region="Default">Ya!</span></p>
+      <p
+        begin="01:19:02.720"
+        end="01:19:04.040"><span region="Default">Seks tak sepatutnya jadi tugas.</span></p>
+      <p
+        begin="01:19:04.320"
+        end="01:19:06.200"><span region="Default">Macam kamu habiskan,<br/>dan 'tugas selesai'!</span></p>
+      <p
+        begin="01:19:07.920"
+        end="01:19:09.400"><span region="Default">Mana keintiman, Diwakar?</span></p>
+      <p
+        begin="01:19:09.600"
+        end="01:19:10.880"><span region="Default">Bagaimana dengan foreplay?</span></p>
+      <p
+        begin="01:19:11.640"
+        end="01:19:13.000"><span region="Default">Saya pun ada keinginan!</span></p>
+      <p
+        begin="01:19:14.160"
+        end="01:19:15.920"><span region="Default">Kamu terus naik<br/>dan mulakan!</span></p>
+      <p
+        begin="01:19:16.360"
+        end="01:19:18.480"><span region="Default">Dan sebaik sahaja kamu selesai...</span></p>
+      <p
+        begin="01:19:22.400"
+        end="01:19:23.240"><span region="Default">Jadi...</span></p>
+      <p
+        begin="01:19:25.200"
+        end="01:19:26.760"><span region="Default">Kamu agak berpengalaman!</span></p>
+      <p
+        begin="01:19:27.600"
+        end="01:19:28.880"><span region="Default">Pakar seks, ya?</span></p>
+      <p
+        begin="01:19:38.800"
+        end="01:19:39.960"><span region="Default">Keinginan...</span></p>
+      <p
+        begin="01:19:42.640"
+        end="01:19:44.480"><span region="Default">Kamu ingat kamu layak diingini?</span></p>
+      <p
+        begin="01:19:47.200"
+        end="01:19:48.720"><span region="Default">Kamu berbau dapur!</span></p>
+      <p
+        begin="01:19:51.880"
+        end="01:19:53.760"><span region="Default">Pernah tengok<br/>cermin baru-baru ini?</span></p>
+      <p
+        begin="01:19:55.720"
+        end="01:19:56.880"><span region="Default">"Seks mekanikal!"</span></p>
+      <p
+        begin="01:20:12.360"
+        end="01:20:13.320"><span region="Default">Richa?</span></p>
+      <p
+        begin="01:20:15.720"
+        end="01:20:17.760"><span region="Default">Saya di sini untuk menggantikan<br/>ibu mertua awak hari ini!</span></p>
+      <p
+        begin="01:20:17.920"
+        end="01:20:19.360"><span region="Default">Saya bawakan makanan pagi<br/>Karwa Chauth untuk awak.</span></p>
+      <p
+        begin="01:20:19.640"
+        end="01:20:20.920"><span region="Default">Namaste, Mak Cik.</span></p>
+      <p
+        begin="01:20:21.280"
+        end="01:20:23.520"><span region="Default">Dah pilih nak pakai apa<br/>esok?</span></p>
+      <p
+        begin="01:20:23.840"
+        end="01:20:25.840"><span region="Default">Makan banyak malam ni.</span></p>
+      <p
+        begin="01:20:26.080"
+        end="01:20:27.880"><span region="Default">Esok, awak tak boleh<br/>minum air pun.</span></p>
+      <p
+        begin="01:20:28.000"
+        end="01:20:29.000"><span region="Default">- Guddu...<br/>- Ya?</span></p>
+      <p
+        begin="01:20:29.120"
+        end="01:20:31.640"><span region="Default">Awak dulu pandai buat<br/>sabudana khichdi, kan?</span></p>
+      <p
+        begin="01:20:31.760"
+        end="01:20:33.240"><span region="Default">- Ya!<br/>- Tolong buat esok.</span></p>
+      <p
+        begin="01:20:33.520"
+        end="01:20:36.200"><span region="Default">Baiklah, saya akan buat.<br/>Saya juga ada bawakan jambu batu untuk awak.</span></p>
+      <p
+        begin="01:20:36.400"
+        end="01:20:38.560"><span region="Default">- Saya akan buat kari daripadanya.<br/>- Hebat.</span></p>
+      <p
+        begin="01:20:38.760"
+        end="01:20:40.160"><span region="Default">Richa, tolong saya sekejap.</span></p>
+      <p
+        begin="01:20:40.360"
+        end="01:20:42.360"><span region="Default">Potong jambu batu tu sekarang.</span></p>
+      <p
+        begin="01:20:42.760"
+        end="01:20:43.640"><span region="Default">Saya pergi ambil serbuk mangga.</span></p>
+      <p
+        begin="01:20:46.160"
+        end="01:20:48.000"><span region="Default">Apa kata awak rehat sekejap?<br/>Biar saya uruskan ini.</span></p>
+      <p
+        begin="01:20:48.120"
+        end="01:20:49.680"><span region="Default">Saya datang sini nak tolong awak!</span></p>
+      <p
+        begin="01:20:49.880"
+        end="01:20:51.600"><span region="Default">Saya bertugas sebagai ibu mertua,<br/>ingat?</span></p>
+      <p
+        begin="01:21:05.080"
+        end="01:21:06.360"><span region="Default">Richa?</span></p>
+      <p
+        begin="01:21:06.760"
+        end="01:21:09.800"><span region="Default">Dapur yang bersih,<br/>rumah yang lebih makmur.</span></p>
+      <p
+        begin="01:21:10.080"
+        end="01:21:11.120"><span region="Default">Ya, Mak Cik.</span></p>
+      <p
+        begin="01:21:11.240"
+        end="01:21:13.240"><span region="Default">Keseluruhan saluran paip<br/>perlu ditukar.</span></p>
+      <p
+        begin="01:21:18.840"
+        end="01:21:19.800"><span region="Default">Eeks!</span></p>
+      <p
+        begin="01:21:19.920"
+        end="01:21:21.800"><span region="Default">Botol ini berminyak.</span></p>
+      <p
+        begin="01:21:24.640"
+        end="01:21:25.920"><span region="Default">- Mak Cik!<br/>- Ya?</span></p>
+      <p
+        begin="01:21:26.120"
+        end="01:21:27.640"><span region="Default">Ini ayam<br/>untuk makan malam ini.</span></p>
+      <p
+        begin="01:21:28.160"
+        end="01:21:31.400"><span region="Default">Dan kacang pis untuk esok<br/>dan lusa.</span></p>
+      <p
+        begin="01:21:41.560"
+        end="01:21:42.520"><span region="Default">Richa...</span></p>
+      <p
+        begin="01:21:42.960"
+        end="01:21:44.560"><span region="Default">Ini resipi ayam saya.</span></p>
+      <p
+        begin="01:21:44.920"
+        end="01:21:46.840"><span region="Default">Saya suka memasak.</span></p>
+      <p
+        begin="01:21:47.200"
+        end="01:21:50.040"><span region="Default">Saya ajar ibu mertua kamu<br/>memasak juga.</span></p>
+      <p
+        begin="01:21:56.320"
+        end="01:21:57.880"><span region="Default">Saya suka menari.</span></p>
+      <p
+        begin="01:21:58.200"
+        end="01:21:59.280"><span region="Default">Menari?</span></p>
+      <p
+        begin="01:21:59.640"
+        end="01:22:01.000"><span region="Default">Tarian apa?</span></p>
+      <p
+        begin="01:22:01.240"
+        end="01:22:02.120"><span region="Default">Saya seorang penari.</span></p>
+      <p
+        begin="01:22:02.240"
+        end="01:22:03.920"><span region="Default">Saya ada kumpulan tarian juga.</span></p>
+      <p
+        begin="01:22:04.280"
+        end="01:22:05.600"><span region="Default">Mari saya tunjukkan.</span></p>
+      <p
+        begin="01:22:07.040"
+        end="01:22:07.840"><span region="Default">Lihat.</span></p>
+      <p
+        begin="01:22:19.040"
+        end="01:22:20.600"><span region="Default">Itu mesti Diwakar.</span></p>
+      <p
+        begin="01:22:21.880"
+        end="01:22:23.200"><span region="Default">Diwakar!</span></p>
+      <p
+        begin="01:22:24.600"
+        end="01:22:25.640"><span region="Default">Lihatlah kamu.</span></p>
+      <p
+        begin="01:22:25.920"
+        end="01:22:28.400"><span region="Default">Orang bertambah berat badan selepas berkahwin,<br/>dan kamu semakin kurus!</span></p>
+      <p
+        begin="01:22:30.040"
+        end="01:22:32.920"><span region="Default">Apa boleh buat, Mak Cik -<br/>dia sapu semua makanan!</span></p>
+      <p
+        begin="01:22:33.040"
+        end="01:22:37.000"><span region="Default">Tolong ambil ubat tepat pada masanya<br/>semasa puasa Karwa Chauth.</span></p>
+      <p
+        begin="01:22:37.120"
+        end="01:22:39.280"><span region="Default">Melangkau ubat satu hari<br/>tidak akan membunuh saya!</span></p>
+      <p
+        begin="01:23:02.240"
+        end="01:23:04.840"><span region="Default">- Berpuasa baik untuk kesihatan.<br/>- Ya.</span></p>
+      <p
+        begin="01:23:05.800"
+        end="01:23:09.560"><span region="Default">Semua tradisi kita seperti Karwa Chauth<br/>difikirkan dengan baik.</span></p>
+      <p
+        begin="01:23:10.320"
+        end="01:23:14.600"><span region="Default">Setiap tradisi disokong<br/>dengan alasan saintifik.</span></p>
+      <p
+        begin="01:23:14.840"
+        end="01:23:16.520"><span region="Default">Kamu betul sekali.</span></p>
+      <p
+        begin="01:23:16.760"
+        end="01:23:19.400"><span region="Default">- Nak chutney tomato-jaggery?<br/>- Ya, silakan.</span></p>
+      <p
+        begin="01:23:24.680"
+        end="01:23:27.320"><span region="Default">- Kenapa kamu tak latih dia?<br/>- Dia akan belajar nanti.</span></p>
+      <p
+        begin="01:23:54.640"
+        end="01:23:56.240"><span region="Default">- Kamu OK?<br/>- Ya.</span></p>
+      <p
+        begin="01:23:56.440"
+        end="01:24:00.080"><span region="Default">- Cuma tekanan darah dan diabetes saya.<br/>- Saya ambilkan ubat kamu.</span></p>
+      <p
+        begin="01:24:00.320"
+        end="01:24:02.440"><span region="Default">Tak mungkin! Tak ada ubat.</span></p>
+      <p
+        begin="01:24:03.440"
+        end="01:24:04.720"><span region="Default">Saya berpuasa!</span></p>
+      <p
+        begin="01:24:05.200"
+        end="01:24:09.240"><span region="Default">Berpuasa tak patut wajib.<br/>Makan ubat kamu.</span></p>
+      <p
+        begin="01:24:09.360"
+        end="01:24:11.680"><span region="Default">Saya tak ada masalah berpuasa!</span></p>
+      <p
+        begin="01:24:11.880"
+        end="01:24:13.280"><span region="Default">Saya dah buat bertahun-tahun.</span></p>
+      <p
+        begin="01:24:13.440"
+        end="01:24:16.320"><span region="Default">Generasi kamu<br/>tak ada semangat!</span></p>
+      <p
+        begin="01:24:17.960"
+        end="01:24:19.600"><span region="Default">Fokus pada puasa kamu sendiri.</span></p>
+      <p
+        begin="01:24:22.920"
+        end="01:24:26.760"><span region="Default">Mak mentua kamu beritahu saya<br/>yang kamu curi-curi makan masa memasak?</span></p>
+      <p
+        begin="01:24:27.400"
+        end="01:24:30.840"><span region="Default">Saya harap kamu tak<br/>menghabiskan semua paneer</span></p>
+      <p
+        begin="01:24:30.960"
+        end="01:24:32.680"><span region="Default">dan hidangkan kami<br/>kari kosong saja!</span></p>
+      <p
+        begin="01:24:33.400"
+        end="01:24:35.120"><span region="Default">Sekarang pergi simpan ubat tu balik.</span></p>
+      <p
+        begin="01:25:36.400"
+        end="01:25:39.080"><span region="Default">Cuba tengok! Adakah saya nampak macam nombor perdana?</span></p>
+      <p
+        begin="01:25:40.520"
+        end="01:25:41.480"><span region="Default">Sudah tentu.</span></p>
+      <p
+        begin="01:25:41.600"
+        end="01:25:42.960"><span region="Default">Kamu pun nombor perdana juga!</span></p>
+      <p
+        begin="01:25:45.320"
+        end="01:25:46.280"><span region="Default">Kamu rasa?</span></p>
+      <p
+        begin="01:25:46.400"
+        end="01:25:47.200"><span region="Default">Ya!</span></p>
+      <p
+        begin="01:25:50.480"
+        end="01:25:52.560"><span region="Default">- Kamu ingat nombor perdana?<br/>- Ya.</span></p>
+      <p
+        begin="01:25:52.960"
+        end="01:25:55.160"><span region="Default">Satu, tiga, lima,<br/>tujuh, sebelas...</span></p>
+      <p
+        begin="01:25:55.400"
+        end="01:25:58.480"><span region="Default">Nombor yang tak boleh dipecahkan<br/>kecuali dengan diri sendiri.</span></p>
+      <p
+        begin="01:26:02.560"
+        end="01:26:03.600"><span region="Default">Richa!</span></p>
+      <p
+        begin="01:26:10.280"
+        end="01:26:11.440"><span region="Default">Apa ni?</span></p>
+      <p
+        begin="01:26:14.320"
+        end="01:26:16.160"><span region="Default">Ini video lama, Diwakar.</span></p>
+      <p
+        begin="01:26:17.040"
+        end="01:26:18.640"><span region="Default">Kamu tahu tentangnya.</span></p>
+      <p
+        begin="01:26:20.040"
+        end="01:26:21.440"><span region="Default">Saya ingat ini peribadi.</span></p>
+      <p
+        begin="01:26:21.680"
+        end="01:26:24.360"><span region="Default">Saya tak berapa mahir<br/>dengan media sosial.</span></p>
+      <p
+        begin="01:26:26.400"
+        end="01:26:27.680"><span region="Default">Ini tak nampak bagus.</span></p>
+      <p
+        begin="01:26:28.240"
+        end="01:26:29.400"><span region="Default">Padamkan.</span></p>
+      <p
+        begin="01:26:37.320"
+        end="01:26:38.560"><span region="Default">Saya tak akan.</span></p>
+      <p
+        begin="01:26:39.800"
+        end="01:26:41.760"><span region="Default">Jika kamu mahu tinggal di rumah ini,</span></p>
+      <p
+        begin="01:26:42.480"
+        end="01:26:44.040"><span region="Default">kamu mesti ikut peraturannya.</span></p>
+      <p
+        begin="01:26:46.080"
+        end="01:26:47.320"><span region="Default">Hapuskan mereka, atau-</span></p>
+      <p
+        begin="01:26:47.880"
+        end="01:26:48.920"><span region="Default">Atau apa?</span></p>
+      <p
+        begin="01:26:49.760"
+        end="01:26:50.760"><span region="Default">Apa yang akan kamu lakukan?</span></p>
+      <p
+        begin="01:27:38.760"
+        end="01:27:39.960"><span region="Default">Sentuh kakinya.</span></p>
+      <p
+        begin="01:27:46.040"
+        end="01:27:47.520"><span region="Default">Berikan dia seteguk air.</span></p>
+      <p
+        begin="01:27:55.040"
+        end="01:27:57.520"><span region="Default">Tahniah!<br/>Karwa Chauth pertama kamu!</span></p>
+      <p
+        begin="01:27:57.960"
+        end="01:27:59.200"><span region="Default">Mari pergi duduk.</span></p>
+      <p
+        begin="01:28:38.920"
+        end="01:28:39.920"><span region="Default">Diwakar!</span></p>
+      <p
+        begin="01:28:40.160"
+        end="01:28:41.560"><span region="Default">Makcik, sekurang-kurangnya tinggallah<br/>untuk majlis ini?</span></p>
+      <p
+        begin="01:28:41.680"
+        end="01:28:44.280"><span region="Default">Tidak. Kerja saya di sini sudah selesai.</span></p>
+      <p
+        begin="01:28:44.400"
+        end="01:28:46.360"><span region="Default">Saya ada rumah tangga sendiri untuk diuruskan!</span></p>
+      <p
+        begin="01:28:57.280"
+        end="01:28:58.080"><span region="Default">Ved!</span></p>
+      <p
+        begin="01:28:59.080"
+        end="01:29:00.200"><span region="Default">Ambil lebih banyak belon.</span></p>
+      <p
+        begin="01:29:28.600"
+        end="01:29:30.360"><span region="Default">Encik Mehta, sila datang!</span></p>
+      <p
+        begin="01:29:30.760"
+        end="01:29:32.480"><span region="Default">Oh, kamu tak sepatutnya...</span></p>
+      <p
+        begin="01:29:33.040"
+        end="01:29:35.280"><span region="Default">- Terima kasih, terima kasih banyak.<br/>- Selamat hari jadi!</span></p>
+      <p
+        begin="01:29:35.400"
+        end="01:29:37.280"><span region="Default">Encik Agarwal, apa khabar?</span></p>
+      <p
+        begin="01:29:37.400"
+        end="01:29:40.160"><span region="Default">Kamu tak perlu...<br/>Terima kasih banyak.</span></p>
+      <p
+        begin="01:29:40.280"
+        end="01:29:43.120"><span region="Default">Baiknya kamu datang!<br/>Terima kasih.</span></p>
+      <p
+        begin="01:29:43.240"
+        end="01:29:45.360"><span region="Default">Bunga yang cantik!<br/>Terima kasih banyak.</span></p>
+      <p
+        begin="01:29:45.880"
+        end="01:29:47.960"><span region="Default">Ambil ini.<br/>Di mana jurugambar?</span></p>
+      <p
+        begin="01:29:48.600"
+        end="01:29:49.960"><span region="Default">Di mana dia?</span></p>
+      <p
+        begin="01:29:50.280"
+        end="01:29:52.880"><span region="Default">Ved Prakash?<br/>Di mana jurugambar?</span></p>
+      <p
+        begin="01:29:53.600"
+        end="01:29:54.840"><span region="Default">Ambil gambar.</span></p>
+      <p
+        begin="01:29:55.600"
+        end="01:29:58.440"><span region="Default">Selamat Hari Jadi kepada kamu!</span></p>
+      <p
+        begin="01:29:58.640"
+        end="01:30:01.240"><span region="Default">Kamu dah 65, orang tua!</span></p>
+      <p
+        begin="01:30:37.560"
+        end="01:30:40.240"><span region="Default">Jika kita semua bersatu,<br/>negara kita tidak akan terkalahkan!</span></p>
+      <p
+        begin="01:30:40.440"
+        end="01:30:41.040"><span region="Default">Betul sekali.</span></p>
+      <p
+        begin="01:30:41.160"
+        end="01:30:44.240"><span region="Default">Kalau begitu,<br/>kenapa kamu nak pindah ke luar negara?</span></p>
+      <p
+        begin="01:30:44.360"
+        end="01:30:45.360"><span region="Default">Soalan yang bagus.</span></p>
+      <p
+        begin="01:30:45.560"
+        end="01:30:46.560"><span region="Default">Terlalu panas di sini.</span></p>
+      <p
+        begin="01:30:46.680"
+        end="01:30:49.160"><span region="Default">Itu mengingatkan saya...<br/>Shikanji? Shikanji?</span></p>
+      <p
+        begin="01:30:49.280"
+        end="01:30:50.040"><span region="Default">Dengan gin?</span></p>
+      <p
+        begin="01:30:50.160"
+        end="01:30:53.240"><span region="Default">Bukan gin sahaja,<br/>Ia sesuai dengan vodka, cili hijau</span></p>
+      <p
+        begin="01:30:53.360"
+        end="01:30:54.760"><span region="Default">- Manis, masin, sebut sahaja!<br/>- Tapi Tunnu Bhaiyya...</span></p>
+      <p
+        begin="01:30:54.880"
+        end="01:30:56.400"><span region="Default">Mari kita angkat tangan.</span></p>
+      <p
+        begin="01:30:56.520"
+        end="01:30:57.800"><span region="Default">Siapa nak shikanji?</span></p>
+      <p
+        begin="01:30:59.120"
+        end="01:31:01.760"><span region="Default">- Satu, dua, tiga, empat...<br/>- Satu untuk saya juga!</span></p>
+      <p
+        begin="01:31:01.880"
+        end="01:31:04.600"><span region="Default">Semua orang dahaga sekarang!</span></p>
+      <p
+        begin="01:31:08.360"
+        end="01:31:10.160"><span region="Default">Bhabhi, mereka minta<br/>sembilan gelas air limau.</span></p>
+      <p
+        begin="01:31:10.280"
+        end="01:31:11.680"><span region="Default">Dua manis dan masin,<br/>tiga manis,</span></p>
+      <p
+        begin="01:31:11.800"
+        end="01:31:14.200"><span region="Default">dua masin, empat tanpa ais,<br/>dan satu dengan cili hijau.</span></p>
+      <p
+        begin="01:31:42.040"
+        end="01:31:44.480"><span region="Default">Diwakar, tengok langkah ni!</span></p>
+      <p
+        begin="01:31:47.400"
+        end="01:31:49.000"><span region="Default">Apa yang kamu buat,<br/>Tunnu Bhaiyya?</span></p>
+      <p
+        begin="01:31:50.080"
+        end="01:31:51.520"><span region="Default">Kamu tak ada media sosial ke?</span></p>
+      <p
+        begin="01:31:51.920"
+        end="01:31:53.840"><span region="Default">Itu gerakan tarian<br/>isteri kamu!</span></p>
+      <p
+        begin="01:32:02.240"
+        end="01:32:04.080"><span region="Default">Ayuh!</span></p>
+      <p
+        begin="01:32:22.160"
+        end="01:32:24.040"><span region="Default">Bukankah saya dah suruh kamu<br/>padam video-video tu?</span></p>
+      <p
+        begin="01:32:24.720"
+        end="01:32:26.560"><span region="Default">Kamu dah memalukan saya<br/>di depan semua orang!</span></p>
+      <p
+        begin="01:32:27.480"
+        end="01:32:29.120"><span region="Default">Dan mana shikanji<br/>ni!</span></p>
+      <p
+        begin="01:32:32.440"
+        end="01:32:33.720"><span region="Default">Semua orang dah tunggu!</span></p>
+      <p
+        begin="01:34:16.520"
+        end="01:34:19.280"><span region="Default">Kamu dah gila ke, Richa?<br/>Kamu perlukan tamparan yang kuat!</span></p>
+      <p
+        begin="01:35:30.000"
+        end="01:35:31.560"><span region="Default">Sayang, itu rumah kamu sekarang.</span></p>
+      <p
+        begin="01:35:31.760"
+        end="01:35:35.520"><span region="Default">Siapa keluar dari rumah mereka<br/>kerana isu kecil macam ni?</span></p>
+      <p
+        begin="01:35:37.520"
+        end="01:35:40.360"><span region="Default">Saya akan ikut kamu.<br/>Cakap maaf sahaja.</span></p>
+      <p
+        begin="01:35:41.000"
+        end="01:35:42.800"><span region="Default">Kakak, bila kamu sampai?</span></p>
+      <p
+        begin="01:35:43.440"
+        end="01:35:44.880"><span region="Default">Panas betul di luar.</span></p>
+      <p
+        begin="01:35:45.800"
+        end="01:35:48.440"><span region="Default">Bertenang, Richu.</span></p>
+      <p
+        begin="01:35:49.280"
+        end="01:35:50.880"><span region="Default">Pergi, minum air sejuk.</span></p>
+      <p
+        begin="01:35:51.920"
+        end="01:35:53.440"><span region="Default">Dan ambilkan untuk abang kamu juga.</span></p>
+      <p
+        begin="01:35:53.720"
+        end="01:35:55.160"><span region="Default">- Pergi.<br/>- Saya tak nak.</span></p>
+      <p
+        begin="01:35:55.600"
+        end="01:35:57.400"><span region="Default">Kenapa saya perlu?<br/>Tak boleh dia ambil sendiri ke?</span></p>
+      <p
+        begin="01:35:59.600"
+        end="01:36:02.000"><span region="Default">Ibu bapa macam kamu<br/>yang memanjakan anak lelaki!</span></p>
+      <p
+        begin="01:36:02.320"
+        end="01:36:03.560"><span region="Default">Apa masalahnya, sayang?</span></p>
+      <p
+        begin="01:36:03.680"
+        end="01:36:05.800"><span region="Default">Jangan merendah-rendahkan saya!<br/>Saya anak perempuan awak!</span></p>
+      <p
+        begin="01:36:06.480"
+        end="01:36:07.800"><span region="Default">Sayang itu, sayang ini!</span></p>
+      <p
+        begin="01:36:08.080"
+        end="01:36:10.720"><span region="Default">Anak perempuan berhak mendapat<br/>kasih sayang dan hormat yang sama seperti anak lelaki!</span></p>
+      <p
+        begin="01:37:05.280"
+        end="01:37:07.800"><span region="Default">Maaf, phulka yang pertama<br/>agak hangus...</span></p>
+      <p
+        begin="01:37:08.560"
+        end="01:37:11.400"><span region="Default">Tak apa.<br/>Percubaan pertama memang selalu salah.</span></p>
+      <p
+        begin="01:37:12.000"
+        end="01:37:13.920"><span region="Default">Kali kedua mesti menjadi!</span></p>
+      <p
+        begin="01:37:30.280"
+        end="01:37:34.000"><span region="Default">Saya dah tinggalkan semuanya di belakang</span></p>
+      <p
+        begin="01:37:35.800"
+        end="01:37:37.160"><span region="Default">Bindi.</span></p>
+      <p
+        begin="01:37:38.400"
+        end="01:37:41.360"><span region="Default">Perjalanan ini milik saya</span></p>
+      <p
+        begin="01:37:41.480"
+        end="01:37:43.080"><span region="Default">- Kamu semua dah bersedia?<br/>- Ya.</span></p>
+      <p
+        begin="01:37:43.200"
+        end="01:37:45.160"><span region="Default">Panaskan badan sikit.</span></p>
+      <p
+        begin="01:37:46.200"
+        end="01:37:49.240"><span region="Default">Hari ini aku melangkah<br/>ke dunia sendiri</span></p>
+      <p
+        begin="01:37:49.360"
+        end="01:37:51.880"><span region="Default">Wah, siapa yang bagi kau jambangan bunga tu?</span></p>
+      <p
+        begin="01:37:52.560"
+        end="01:37:54.760"><span region="Default">Aku yang beli. Untuk diri sendiri.</span></p>
+      <p
+        begin="01:37:57.200"
+        end="01:37:59.880"><span region="Default">Ia hilang</span></p>
+      <p
+        begin="01:38:02.120"
+        end="01:38:04.920"><span region="Default">Ditinggalkan tanpa nama</span></p>
+      <p
+        begin="01:38:07.720"
+        end="01:38:10.840"><span region="Default">Nama milikku sendiri</span></p>
+      <p
+        begin="01:38:31.840"
+        end="01:38:34.560"><span region="Default">Kita akan bangkit seperti phoenix</span></p>
+      <p
+        begin="01:38:34.680"
+        end="01:38:36.760"><span region="Default">Setiap kali kita jatuh</span></p>
+      <p
+        begin="01:38:37.320"
+        end="01:38:40.200"><span region="Default">Kita akan mekar menjadi musim bunga</span></p>
+      <p
+        begin="01:38:40.320"
+        end="01:38:42.200"><span region="Default">Kita akan berikan segalanya</span></p>
+      <p
+        begin="01:38:43.400"
+        end="01:38:47.080"><span region="Default">Kenapa tidak menjadi teman jiwa sendiri?</span></p>
+      <p
+        begin="01:38:48.880"
+        end="01:38:52.840"><span region="Default">Tiada siapa pun selain kau yang tentukan takdirmu</span></p>
+      <p
+        begin="01:38:53.440"
+        end="01:38:57.200"><span region="Default">Belajar untuk percayakan hati kau</span></p>
+      <p
+        begin="01:38:58.960"
+        end="01:39:01.640"><span region="Default">Kita akan bangkit seperti phoenix</span></p>
+      <p
+        begin="01:39:01.760"
+        end="01:39:03.760"><span region="Default">Setiap kali kita jatuh</span></p>
+      <p
+        begin="01:39:04.440"
+        end="01:39:07.360"><span region="Default">Kita akan mekar menjadi musim bunga</span></p>
+      <p
+        begin="01:39:07.480"
+        end="01:39:09.240"><span region="Default">Kita akan berikan segalanya</span></p>
+      <p
+        begin="01:39:37.240"
+        end="01:39:39.560"><span region="Default">Mengaburkan penglihatanmu</span></p>
+      <p
+        begin="01:39:39.680"
+        end="01:39:42.000"><span region="Default">Apabila kegelapan menyelinap masuk</span></p>
+      <p
+        begin="01:39:42.640"
+        end="01:39:44.960"><span region="Default">Terangi jalanmu</span></p>
+      <p
+        begin="01:39:45.080"
+        end="01:39:47.240"><span region="Default">Dengan cahaya di dalam diri</span></p>
+      <p
+        begin="01:39:47.800"
+        end="01:39:51.480"><span region="Default">Kau adalah api yang menyala</span></p>
+      <p
+        begin="01:39:51.840"
+        end="01:39:55.520"><span region="Default">Kau adalah raungan yang bergema</span></p>
+      <p
+        begin="01:39:56.600"
+        end="01:40:00.000"><span region="Default">Jauh merentasi setiap tanah</span></p>
+      <p
+        begin="01:40:01.320"
+        end="01:40:04.000"><span region="Default">Kita akan bangkit seperti phoenix</span></p>
+      <p
+        begin="01:40:04.120"
+        end="01:40:06.080"><span region="Default">Setiap kali kita jatuh</span></p>
+      <p
+        begin="01:40:06.760"
+        end="01:40:09.760"><span region="Default">Kita akan mekar menjadi musim bunga</span></p>
+      <p
+        begin="01:40:09.880"
+        end="01:40:11.800"><span region="Default">Kita akan berikan segalanya</span></p>
+      <p
+        begin="01:40:36.920"
+        end="01:40:39.400"><span region="Default">Sekian lama kau menyimpan api</span></p>
+      <p
+        begin="01:40:39.520"
+        end="01:40:41.920"><span region="Default">Membara di dalam dirimu</span></p>
+      <p
+        begin="01:40:42.280"
+        end="01:40:44.600"><span region="Default">Kini ia menunjukkan jalan</span></p>
+      <p
+        begin="01:40:44.720"
+        end="01:40:47.200"><span region="Default">Ketika kau keluar<br/>dari bayang-bayangmu</span></p>
+      <p
+        begin="01:40:47.720"
+        end="01:40:49.520"><span region="Default">Percikannya berkedip-kedip</span></p>
+      <p
+        begin="01:40:50.400"
+        end="01:40:52.040"><span region="Default">Seperti bulan terbit</span></p>
+      <p
+        begin="01:40:53.120"
+        end="01:40:55.280"><span region="Default">Lihat, saksikanlah</span></p>
+      <p
+        begin="01:40:55.800"
+        end="01:40:58.160"><span region="Default">Sesuatu yang sangat indah</span></p>
+      <p
+        begin="01:40:58.280"
+        end="01:41:00.760"><span region="Default">Kita akan bangkit seperti phoenix</span></p>
+      <p
+        begin="01:41:00.880"
+        end="01:41:02.440"><span region="Default">Setiap kali kita jatuh</span></p>
+      <p
+        begin="01:41:03.480"
+        end="01:41:06.040"><span region="Default">Kita akan mekar menjadi musim bunga</span></p>
+      <p
+        begin="01:41:06.400"
+        end="01:41:08.160"><span region="Default">Kita akan berikan segalanya</span></p>
+    </div>
+  </body>
+</tt>

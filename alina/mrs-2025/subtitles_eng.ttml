@@ -1,0 +1,3175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tt
+  xmlns="http://www.w3.org/ns/ttml"
+  xmlns:ttm="http://www.w3.org/ns/ttml#metadata"
+  xmlns:tts="http://www.w3.org/ns/ttml#styling"
+  xmlns:ttp="http://www.w3.org/ns/ttml#parameter"
+  ttp:cellResolution="384 288"
+  xml:lang="eng">
+  <head>
+    <layout>
+      <region xml:id="Default"
+        tts:origin="3% 0%"
+        tts:extent="97% 97%"
+        tts:displayAlign="after"
+        tts:textAlign="center"
+        tts:fontSize="16c"
+        tts:fontFamily="Arial"
+        tts:overflow="visible" />
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p
+        begin="00:03:31.000"
+        end="00:03:32.080"><span region="Default">Thank you.</span></p>
+      <p
+        begin="00:03:32.240"
+        end="00:03:33.600"><span region="Default">Which class are you in?</span></p>
+      <p
+        begin="00:03:33.720"
+        end="00:03:34.920"><span region="Default">Twelfth.</span></p>
+      <p
+        begin="00:03:35.720"
+        end="00:03:37.160"><span region="Default">And what do you want to be:</span></p>
+      <p
+        begin="00:03:37.280"
+        end="00:03:38.920"><span region="Default">Engineer or Doctor?</span></p>
+      <p
+        begin="00:03:39.400"
+        end="00:03:41.720"><span region="Default">- Haven't decided yet, uncle.<br/>- No, thank you.</span></p>
+      <p
+        begin="00:03:41.960"
+        end="00:03:43.320"><span region="Default">So, you have two children?</span></p>
+      <p
+        begin="00:03:43.800"
+        end="00:03:46.000"><span region="Default">No. We have Lola too!</span></p>
+      <p
+        begin="00:03:46.880"
+        end="00:03:48.960"><span region="Default">He really treats Lola<br/>like our third child!</span></p>
+      <p
+        begin="00:03:49.080"
+        end="00:03:50.480"><span region="Default">He's really fond of her.</span></p>
+      <p
+        begin="00:03:50.800"
+        end="00:03:53.120"><span region="Default">Dogs are very loyal.</span></p>
+      <p
+        begin="00:03:53.880"
+        end="00:03:54.840"><span region="Default">Richa, come in.</span></p>
+      <p
+        begin="00:03:55.040"
+        end="00:03:56.040"><span region="Default">Hello.</span></p>
+      <p
+        begin="00:03:57.440"
+        end="00:03:58.240"><span region="Default">Sit.</span></p>
+      <p
+        begin="00:03:58.720"
+        end="00:03:59.960"><span region="Default">We have a daughter too.</span></p>
+      <p
+        begin="00:04:00.320"
+        end="00:04:02.520"><span region="Default">Call her. Do a video call.</span></p>
+      <p
+        begin="00:04:03.640"
+        end="00:04:06.480"><span region="Default">She's married to a doctor,<br/>and she's expecting now.</span></p>
+      <p
+        begin="00:04:08.960"
+        end="00:04:10.360"><span region="Default">The network is poor.</span></p>
+      <p
+        begin="00:04:10.480"
+        end="00:04:11.520"><span region="Default">WiFi password?</span></p>
+      <p
+        begin="00:04:11.640"
+        end="00:04:13.840"><span region="Default">A1B2C3D4E5F6</span></p>
+      <p
+        begin="00:04:14.440"
+        end="00:04:15.120"><span region="Default">What?</span></p>
+      <p
+        begin="00:04:17.600"
+        end="00:04:18.680"><span region="Default">A1, B-</span></p>
+      <p
+        begin="00:04:19.000"
+        end="00:04:19.760"><span region="Default">2...</span></p>
+      <p
+        begin="00:04:20.200"
+        end="00:04:21.080"><span region="Default">2,C...</span></p>
+      <p
+        begin="00:04:21.280"
+        end="00:04:22.080"><span region="Default">3...</span></p>
+      <p
+        begin="00:04:24.360"
+        end="00:04:25.040"><span region="Default">D?</span></p>
+      <p
+        begin="00:04:26.000"
+        end="00:04:26.760"><span region="Default">4...</span></p>
+      <p
+        begin="00:04:28.240"
+        end="00:04:29.000"><span region="Default">E?</span></p>
+      <p
+        begin="00:04:29.960"
+        end="00:04:30.680"><span region="Default">5...</span></p>
+      <p
+        begin="00:04:32.360"
+        end="00:04:33.240"><span region="Default">F6</span></p>
+      <p
+        begin="00:04:37.240"
+        end="00:04:39.680"><span region="Default">Now that's an instant connection!</span></p>
+      <p
+        begin="00:04:48.880"
+        end="00:04:50.760"><span region="Default">Did you have trouble<br/>finding the house?</span></p>
+      <p
+        begin="00:04:50.920"
+        end="00:04:52.120"><span region="Default">Not really.</span></p>
+      <p
+        begin="00:04:52.920"
+        end="00:04:54.640"><span region="Default">Rang a couple of wrong bells,</span></p>
+      <p
+        begin="00:04:54.760"
+        end="00:04:56.320"><span region="Default">but we found the house.</span></p>
+      <p
+        begin="00:05:00.040"
+        end="00:05:01.520"><span region="Default">What kind of doctor are you?</span></p>
+      <p
+        begin="00:05:02.080"
+        end="00:05:03.280"><span region="Default">Doctor of female anatomy.</span></p>
+      <p
+        begin="00:05:03.480"
+        end="00:05:04.160"><span region="Default">Wow!</span></p>
+      <p
+        begin="00:05:05.000"
+        end="00:05:06.720"><span region="Default">I've never met<br/>a male gynac before.</span></p>
+      <p
+        begin="00:05:07.520"
+        end="00:05:09.080"><span region="Default">It's a compliment, right?</span></p>
+      <p
+        begin="00:05:10.360"
+        end="00:05:11.160"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:05:18.480"
+        end="00:05:20.920"><span region="Default">I've never been here,<br/>but we eat out often.</span></p>
+      <p
+        begin="00:05:21.120"
+        end="00:05:22.640"><span region="Default">I love pizza.</span></p>
+      <p
+        begin="00:05:22.800"
+        end="00:05:24.400"><span region="Default">And my favorite, Cassata!</span></p>
+      <p
+        begin="00:05:25.680"
+        end="00:05:26.840"><span region="Default">Why don't you taste this!</span></p>
+      <p
+        begin="00:05:27.840"
+        end="00:05:29.080"><span region="Default">What do you like?</span></p>
+      <p
+        begin="00:05:30.280"
+        end="00:05:32.040"><span region="Default">I like simple, home-cooked food.</span></p>
+      <p
+        begin="00:05:32.600"
+        end="00:05:33.800"><span region="Default">Nothing quite like it.</span></p>
+      <p
+        begin="00:05:36.000"
+        end="00:05:39.040"><span region="Default">In the soft hum of a morning anew</span></p>
+      <p
+        begin="00:05:40.080"
+        end="00:05:43.840"><span region="Default">Whispers of hope, like gentle dew</span></p>
+      <p
+        begin="00:05:44.080"
+        end="00:05:47.440"><span region="Default">Let's journey together</span></p>
+      <p
+        begin="00:05:48.640"
+        end="00:05:50.440"><span region="Default">Forever</span></p>
+      <p
+        begin="00:05:52.520"
+        end="00:05:56.440"><span region="Default">In this joyous radiant light</span></p>
+      <p
+        begin="00:05:56.920"
+        end="00:06:00.560"><span region="Default">All our desires burn bright</span></p>
+      <p
+        begin="00:06:00.840"
+        end="00:06:03.960"><span region="Default">Let's journey together</span></p>
+      <p
+        begin="00:06:05.480"
+        end="00:06:07.800"><span region="Default">Forever</span></p>
+      <p
+        begin="00:06:28.080"
+        end="00:06:29.240"><span region="Default">Welcome to the family!</span></p>
+      <p
+        begin="00:06:29.680"
+        end="00:06:30.800"><span region="Default">You're our daughter now.</span></p>
+      <p
+        begin="00:06:31.200"
+        end="00:06:34.040"><span region="Default">Slowly awakening, unfurling</span></p>
+      <p
+        begin="00:06:34.880"
+        end="00:06:37.800"><span region="Default">This heart's fervent longing</span></p>
+      <p
+        begin="00:06:39.080"
+        end="00:06:42.320"><span region="Default">Eyes bubbling with dreams</span></p>
+      <p
+        begin="00:06:43.280"
+        end="00:06:46.720"><span region="Default">Echoes of a world unseen</span></p>
+      <p
+        begin="00:06:47.440"
+        end="00:06:50.680"><span region="Default">Beyond the realm of fantasy</span></p>
+      <p
+        begin="00:06:51.560"
+        end="00:06:55.040"><span region="Default">Visions have become reality</span></p>
+      <p
+        begin="00:07:26.640"
+        end="00:07:27.680"><span region="Default">What's your name?</span></p>
+      <p
+        begin="00:07:27.800"
+        end="00:07:28.880"><span region="Default">- What?<br/>- What's your name?</span></p>
+      <p
+        begin="00:07:29.000"
+        end="00:07:31.120"><span region="Default">Richa, come on. Hurry up.</span></p>
+      <p
+        begin="00:07:34.000"
+        end="00:07:35.240"><span region="Default">Welcome!</span></p>
+      <p
+        begin="00:07:38.200"
+        end="00:07:40.480"><span region="Default">- Not your left hand.<br/>- Sorry.</span></p>
+      <p
+        begin="00:07:44.320"
+        end="00:07:46.160"><span region="Default">Enter with your right foot forward.</span></p>
+      <p
+        begin="00:07:46.920"
+        end="00:07:50.320"><span region="Default">In the soft hum of a morning anew</span></p>
+      <p
+        begin="00:07:51.000"
+        end="00:07:54.600"><span region="Default">Whispers of hope, like gentle dew</span></p>
+      <p
+        begin="00:07:55.400"
+        end="00:07:56.520"><span region="Default">Congratulations!</span></p>
+      <p
+        begin="00:07:56.880"
+        end="00:07:58.880"><span region="Default">Let's journey together</span></p>
+      <p
+        begin="00:07:59.560"
+        end="00:08:01.000"><span region="Default">Forever</span></p>
+      <p
+        begin="00:08:03.600"
+        end="00:08:05.960"><span region="Default">In this joyous radiant light</span></p>
+      <p
+        begin="00:08:08.800"
+        end="00:08:10.120"><span region="Default">Serve the tea there.</span></p>
+      <p
+        begin="00:08:11.840"
+        end="00:08:14.520"><span region="Default">Let's journey together</span></p>
+      <p
+        begin="00:08:16.400"
+        end="00:08:18.080"><span region="Default">Forever</span></p>
+      <p
+        begin="00:09:54.320"
+        end="00:09:55.640"><span region="Default">Processor...</span></p>
+      <p
+        begin="00:10:17.920"
+        end="00:10:20.000"><span region="Default">Sorry, it was an emergency case.</span></p>
+      <p
+        begin="00:10:20.400"
+        end="00:10:21.640"><span region="Default">Were you bored?</span></p>
+      <p
+        begin="00:10:24.320"
+        end="00:10:25.440"><span region="Default">You'll stain your clothes!</span></p>
+      <p
+        begin="00:10:25.720"
+        end="00:10:26.240"><span region="Default">What?</span></p>
+      <p
+        begin="00:10:26.800"
+        end="00:10:28.360"><span region="Default">Flower petals leave stains.</span></p>
+      <p
+        begin="00:10:29.800"
+        end="00:10:32.160"><span region="Default">Two parts lemon juice,<br/>one part baking soda.</span></p>
+      <p
+        begin="00:10:32.440"
+        end="00:10:34.400"><span region="Default">The kitchen is the solution<br/>to every problem.</span></p>
+      <p
+        begin="00:10:40.200"
+        end="00:10:42.760"><span region="Default">These headphones are<br/>from my friends.</span></p>
+      <p
+        begin="00:10:43.280"
+        end="00:10:44.200"><span region="Default">Do you want them?</span></p>
+      <p
+        begin="00:10:44.920"
+        end="00:10:45.720"><span region="Default">Show me.</span></p>
+      <p
+        begin="00:10:52.560"
+        end="00:10:53.360"><span region="Default">You keep them.</span></p>
+      <p
+        begin="00:10:55.520"
+        end="00:10:56.720"><span region="Default">What else did we get?</span></p>
+      <p
+        begin="00:10:57.480"
+        end="00:10:58.640"><span region="Default">A hot-case,</span></p>
+      <p
+        begin="00:10:59.240"
+        end="00:11:00.560"><span region="Default">another hot-case,</span></p>
+      <p
+        begin="00:11:01.280"
+        end="00:11:02.680"><span region="Default">and a food processor.</span></p>
+      <p
+        begin="00:11:03.040"
+        end="00:11:04.960"><span region="Default">Looks like all the gifts<br/>are for you.</span></p>
+      <p
+        begin="00:11:09.440"
+        end="00:11:10.920"><span region="Default">How do you like your new house?</span></p>
+      <p
+        begin="00:11:12.200"
+        end="00:11:13.240"><span region="Default">It's nice.</span></p>
+      <p
+        begin="00:11:13.920"
+        end="00:11:15.000"><span region="Default">Your new family?</span></p>
+      <p
+        begin="00:11:17.200"
+        end="00:11:18.160"><span region="Default">They're nice too.</span></p>
+      <p
+        begin="00:11:19.560"
+        end="00:11:21.960"><span region="Default">And your new husband?</span></p>
+      <p
+        begin="00:11:38.240"
+        end="00:11:40.040"><span region="Default">That's my side of the bed.</span></p>
+      <p
+        begin="00:11:48.000"
+        end="00:11:51.200"><span region="Default">The AC stays at 21 degrees.<br/>Is that OK?</span></p>
+      <p
+        begin="00:11:51.360"
+        end="00:11:52.240"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:11:58.800"
+        end="00:12:00.080"><span region="Default">Shall I turn off the lights?</span></p>
+      <p
+        begin="00:12:39.840"
+        end="00:12:41.960"><span region="Default">- Good morning, mummy.<br/>- Good morning, dear.</span></p>
+      <p
+        begin="00:12:45.880"
+        end="00:12:48.280"><span region="Default">Should I grind the onions<br/>in the food processor?</span></p>
+      <p
+        begin="00:12:48.400"
+        end="00:12:50.040"><span region="Default">Let one wedding gift<br/>be put to some use!</span></p>
+      <p
+        begin="00:12:50.160"
+        end="00:12:51.040"><span region="Default">Let it be.</span></p>
+      <p
+        begin="00:12:51.240"
+        end="00:12:53.920"><span region="Default">Your father-in-law<br/>wants his chutney stone-ground.</span></p>
+      <p
+        begin="00:12:54.240"
+        end="00:12:56.840"><span region="Default">He says a mixer doesn't produce<br/>the same enzymes.</span></p>
+      <p
+        begin="00:12:57.120"
+        end="00:12:58.400"><span region="Default">Enzymes?</span></p>
+      <p
+        begin="00:12:59.200"
+        end="00:13:00.080"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:13:00.280"
+        end="00:13:03.760"><span region="Default">A grindstone crushes,<br/>whereas a mixer just chops.</span></p>
+      <p
+        begin="00:13:04.200"
+        end="00:13:05.680"><span region="Default">The flavour isn't the same.</span></p>
+      <p
+        begin="00:13:05.920"
+        end="00:13:07.680"><span region="Default">Aunty, veggies for today.</span></p>
+      <p
+        begin="00:13:07.840"
+        end="00:13:09.840"><span region="Default">Yes. Take it from her.</span></p>
+      <p
+        begin="00:13:10.480"
+        end="00:13:12.560"><span region="Default">Rinse them well<br/>in salt water, OK?</span></p>
+      <p
+        begin="00:13:12.680"
+        end="00:13:14.680"><span region="Default">All the pesticides will be washed off.</span></p>
+      <p
+        begin="00:13:14.800"
+        end="00:13:15.720"><span region="Default">OK.</span></p>
+      <p
+        begin="00:13:19.360"
+        end="00:13:21.320"><span region="Default">It's the bride's first day<br/>in the kitchen.</span></p>
+      <p
+        begin="00:13:21.520"
+        end="00:13:22.600"><span region="Default">She will cook halwa!</span></p>
+      <p
+        begin="00:13:22.800"
+        end="00:13:24.400"><span region="Default">Of course she will.</span></p>
+      <p
+        begin="00:13:26.360"
+        end="00:13:28.360"><span region="Default">The semolina is kept there.</span></p>
+      <p
+        begin="00:13:28.480"
+        end="00:13:29.480"><span region="Default">OK.</span></p>
+      <p
+        begin="00:13:36.800"
+        end="00:13:38.440"><span region="Default">Mummy, where's the cardamon?</span></p>
+      <p
+        begin="00:13:38.560"
+        end="00:13:40.120"><span region="Default">Right there, above.</span></p>
+      <p
+        begin="00:13:48.520"
+        end="00:13:49.800"><span region="Default">You're so pretty!</span></p>
+      <p
+        begin="00:13:50.920"
+        end="00:13:51.920"><span region="Default">Not as much as you!</span></p>
+      <p
+        begin="00:13:52.120"
+        end="00:13:53.560"><span region="Default">My name's Richa.<br/>What's yours?</span></p>
+      <p
+        begin="00:13:53.720"
+        end="00:13:54.520"><span region="Default">Saavi.</span></p>
+      <p
+        begin="00:13:54.680"
+        end="00:13:57.560"><span region="Default">I have to go to school now.<br/>or else I would help you.</span></p>
+      <p
+        begin="00:13:57.800"
+        end="00:13:59.360"><span region="Default">So sweet! I'll manage.</span></p>
+      <p
+        begin="00:13:59.680"
+        end="00:14:02.000"><span region="Default">Can you make halwa,<br/>or shall I teach you?</span></p>
+      <p
+        begin="00:14:03.040"
+        end="00:14:04.800"><span region="Default">I'll look up the recipe online.</span></p>
+      <p
+        begin="00:14:05.400"
+        end="00:14:08.200"><span region="Default">- Which class are you in?<br/>- Third. And you?</span></p>
+      <p
+        begin="00:14:09.520"
+        end="00:14:11.480"><span region="Default">In the kitchen 'masterclass'!</span></p>
+      <p
+        begin="00:14:43.680"
+        end="00:14:44.880"><span region="Default">Mummy's right here!</span></p>
+      <p
+        begin="00:15:10.280"
+        end="00:15:11.280"><span region="Default">One second.</span></p>
+      <p
+        begin="00:15:18.720"
+        end="00:15:19.800"><span region="Default">How's the tea?</span></p>
+      <p
+        begin="00:15:21.120"
+        end="00:15:22.080"><span region="Default">Nice.</span></p>
+      <p
+        begin="00:15:22.640"
+        end="00:15:23.640"><span region="Default">"Almond tea".</span></p>
+      <p
+        begin="00:15:30.320"
+        end="00:15:31.760"><span region="Default">- What is it?<br/>- What?</span></p>
+      <p
+        begin="00:15:31.960"
+        end="00:15:34.560"><span region="Default">Don't look at me like that.<br/>I'm not a pro at all this.</span></p>
+      <p
+        begin="00:15:34.960"
+        end="00:15:35.640"><span region="Default">Really?</span></p>
+      <p
+        begin="00:15:35.880"
+        end="00:15:37.960"><span region="Default">Your biodata said<br/>you're an expert baker and all!</span></p>
+      <p
+        begin="00:15:41.120"
+        end="00:15:42.000"><span region="Default">OK then.</span></p>
+      <p
+        begin="00:15:44.640"
+        end="00:15:45.800"><span region="Default">I'll go get dressed.</span></p>
+      <p
+        begin="00:15:46.920"
+        end="00:15:48.040"><span region="Default">See you later, wifey!</span></p>
+      <p
+        begin="00:16:25.680"
+        end="00:16:27.120"><span region="Default">You're still in the kitchen?</span></p>
+      <p
+        begin="00:16:27.240"
+        end="00:16:30.200"><span region="Default">We could've at least<br/>gotten sweets from the market!</span></p>
+      <p
+        begin="00:16:30.440"
+        end="00:16:33.080"><span region="Default">You want us to serve outside food<br/>for your daughter's homecoming?</span></p>
+      <p
+        begin="00:16:33.280"
+        end="00:16:36.520"><span region="Default">Anyway, Diwakar doesn't like<br/>food from outside.</span></p>
+      <p
+        begin="00:16:36.640"
+        end="00:16:38.600"><span region="Default">I'm not fond of it either!</span></p>
+      <p
+        begin="00:16:39.440"
+        end="00:16:40.320"><span region="Default">Here you go.</span></p>
+      <p
+        begin="00:16:41.040"
+        end="00:16:43.600"><span region="Default">Just one day off a week,<br/>and so many lunch and dinner invites.</span></p>
+      <p
+        begin="00:16:43.720"
+        end="00:16:45.840"><span region="Default">Take a proper leave then.<br/>Go for a vacation.</span></p>
+      <p
+        begin="00:16:45.960"
+        end="00:16:48.120"><span region="Default">I can't, uncle.<br/>There's too much work.</span></p>
+      <p
+        begin="00:16:48.440"
+        end="00:16:50.240"><span region="Default">He's very passionate<br/>about his work, Papa.</span></p>
+      <p
+        begin="00:16:50.520"
+        end="00:16:52.160"><span region="Default">Well, so is our Richa!</span></p>
+      <p
+        begin="00:16:52.280"
+        end="00:16:53.760"><span region="Default">Really? About what?</span></p>
+      <p
+        begin="00:16:54.600"
+        end="00:16:55.680"><span region="Default">Dancing!</span></p>
+      <p
+        begin="00:16:56.640"
+        end="00:16:57.880"><span region="Default">Have some more.</span></p>
+      <p
+        begin="00:16:58.800"
+        end="00:17:01.680"><span region="Default">Aunty, did you train her<br/>to make all these dishes?</span></p>
+      <p
+        begin="00:17:02.320"
+        end="00:17:03.560"><span region="Default">I did try my best!</span></p>
+      <p
+        begin="00:17:04.040"
+        end="00:17:07.120"><span region="Default">Those who love good food<br/>can learn how to cook well too.</span></p>
+      <p
+        begin="00:17:07.440"
+        end="00:17:08.600"><span region="Default">No worries.</span></p>
+      <p
+        begin="00:17:09.000"
+        end="00:17:12.880"><span region="Default">What this mummy couldn't teach her,<br/>her other mummy will. Right?</span></p>
+      <p
+        begin="00:17:13.240"
+        end="00:17:14.320"><span region="Default">Of course!</span></p>
+      <p
+        begin="00:17:14.600"
+        end="00:17:15.320"><span region="Default">Mummy!</span></p>
+      <p
+        begin="00:17:19.400"
+        end="00:17:20.960"><span region="Default">No more, please!<br/>She won't be able to eat all that.</span></p>
+      <p
+        begin="00:17:21.080"
+        end="00:17:22.720"><span region="Default">- We'll share from my plate.<br/>- No way.</span></p>
+      <p
+        begin="00:17:22.920"
+        end="00:17:24.640"><span region="Default">Madam has cooked everything<br/>after coming back from office.</span></p>
+      <p
+        begin="00:17:24.800"
+        end="00:17:26.680"><span region="Default">You must finish everything, OK?</span></p>
+      <p
+        begin="00:17:27.840"
+        end="00:17:28.960"><span region="Default">Eat, then.</span></p>
+      <p
+        begin="00:17:30.360"
+        end="00:17:31.440"><span region="Default">By the way,</span></p>
+      <p
+        begin="00:17:31.560"
+        end="00:17:34.400"><span region="Default">Vishesh mentioned that<br/>you make amazing halwa?</span></p>
+      <p
+        begin="00:17:35.080"
+        end="00:17:37.560"><span region="Default">- We won't leave without tasting some!<br/>- For sure.</span></p>
+      <p
+        begin="00:17:40.800"
+        end="00:17:42.000"><span region="Default">Let the dishes be, mummy.</span></p>
+      <p
+        begin="00:17:42.120"
+        end="00:17:44.000"><span region="Default">The maid will wash them<br/>in the morning.</span></p>
+      <p
+        begin="00:17:44.120"
+        end="00:17:46.760"><span region="Default">- The kitchen shouldn't be left dirty.<br/>- Let me help you, then.</span></p>
+      <p
+        begin="00:17:47.000"
+        end="00:17:48.320"><span region="Default">Let it be for today.</span></p>
+      <p
+        begin="00:17:48.520"
+        end="00:17:50.160"><span region="Default">How was lunch and dinner?</span></p>
+      <p
+        begin="00:17:50.560"
+        end="00:17:52.920"><span region="Default">I'm so stuffed, even the mention<br/>of food is making me nauseous.</span></p>
+      <p
+        begin="00:17:53.280"
+        end="00:17:54.160"><span region="Default">Shall I wash the cooker?</span></p>
+      <p
+        begin="00:17:54.280"
+        end="00:17:55.800"><span region="Default">No, I'll wash it.</span></p>
+      <p
+        begin="00:17:56.240"
+        end="00:17:58.480"><span region="Default">I do it everyday.<br/>You go and get some rest.</span></p>
+      <p
+        begin="00:17:59.800"
+        end="00:18:01.440"><span region="Default">- Good night.<br/>- Good night.</span></p>
+      <p
+        begin="00:18:14.040"
+        end="00:18:15.560"><span region="Default">It's honeymoon time!</span></p>
+      <p
+        begin="00:18:27.880"
+        end="00:18:29.320"><span region="Default">Not today. Tomorrow?</span></p>
+      <p
+        begin="00:18:29.640"
+        end="00:18:31.440"><span region="Default">What if I'm not<br/>in the mood tomorrow?</span></p>
+      <p
+        begin="00:18:31.720"
+        end="00:18:32.760"><span region="Default">Day after tomorrow?</span></p>
+      <p
+        begin="00:18:33.360"
+        end="00:18:35.200"><span region="Default">We'll do it again<br/>day after tomorrow!</span></p>
+      <p
+        begin="00:18:35.640"
+        end="00:18:37.520"><span region="Default">I've really overeaten today.</span></p>
+      <p
+        begin="00:18:39.040"
+        end="00:18:41.040"><span region="Default">Sex is a great antacid!</span></p>
+      <p
+        begin="00:18:45.120"
+        end="00:18:46.880"><span region="Default">The medicine box is in the kitchen.</span></p>
+      <p
+        begin="00:18:53.440"
+        end="00:18:55.480"><span region="Default">What? Go, get it!</span></p>
+      <p
+        begin="00:18:57.560"
+        end="00:19:00.400"><span region="Default">I thought you'd get it for me,<br/>Mr Doctor!</span></p>
+      <p
+        begin="00:19:09.120"
+        end="00:19:10.280"><span region="Default">Mummy...</span></p>
+      <p
+        begin="00:19:10.680"
+        end="00:19:12.440"><span region="Default">Where's the medicine box?</span></p>
+      <p
+        begin="00:21:13.200"
+        end="00:21:15.000"><span region="Default">- Good morning, mummy.<br/>- Good morning.</span></p>
+      <p
+        begin="00:21:15.120"
+        end="00:21:16.640"><span region="Default">Wow, fresh butter!</span></p>
+      <p
+        begin="00:21:17.000"
+        end="00:21:18.960"><span region="Default">I love fresh butter.</span></p>
+      <p
+        begin="00:21:20.520"
+        end="00:21:21.720"><span region="Default">You can chop those vegetables.</span></p>
+      <p
+        begin="00:21:28.400"
+        end="00:21:29.880"><span region="Default">Is this size OK?</span></p>
+      <p
+        begin="00:21:30.200"
+        end="00:21:31.520"><span region="Default">Make it smaller.</span></p>
+      <p
+        begin="00:21:31.880"
+        end="00:21:34.440"><span region="Default">The curry's flavour depends<br/>on how you cut the vegetable.</span></p>
+      <p
+        begin="00:22:35.000"
+        end="00:22:36.440"><span region="Default">Let it be, mummy.</span></p>
+      <p
+        begin="00:22:36.680"
+        end="00:22:38.960"><span region="Default">The maid can clean it<br/>when she comes.</span></p>
+      <p
+        begin="00:22:39.360"
+        end="00:22:42.320"><span region="Default">I can't leave the kitchen<br/>to the maid.</span></p>
+      <p
+        begin="00:22:42.680"
+        end="00:22:44.720"><span region="Default">Noticed how often<br/>she's on leave?</span></p>
+      <p
+        begin="00:23:09.920"
+        end="00:23:10.920"><span region="Default">Richa?</span></p>
+      <p
+        begin="00:23:11.520"
+        end="00:23:12.320"><span region="Default">Yes?</span></p>
+      <p
+        begin="00:23:13.800"
+        end="00:23:15.800"><span region="Default">Go, quick.<br/>Check what he wants.</span></p>
+      <p
+        begin="00:23:16.040"
+        end="00:23:17.360"><span region="Default">I'll finish cooking and come.</span></p>
+      <p
+        begin="00:23:18.200"
+        end="00:23:19.560"><span region="Default">Meftal-Spas?</span></p>
+      <p
+        begin="00:23:20.000"
+        end="00:23:22.040"><span region="Default">Yes, you can take it.<br/>Just don't lie down too much.</span></p>
+      <p
+        begin="00:23:27.800"
+        end="00:23:29.720"><span region="Default">Your Endometriosis has increased.</span></p>
+      <p
+        begin="00:23:35.720"
+        end="00:23:37.080"><span region="Default">Richu, all my clothes.</span></p>
+      <p
+        begin="00:23:47.400"
+        end="00:23:48.840"><span region="Default">Shall I dress you up too?</span></p>
+      <p
+        begin="00:23:49.080"
+        end="00:23:50.400"><span region="Default">Be my guest.</span></p>
+      <p
+        begin="00:23:52.160"
+        end="00:23:54.240"><span region="Default">The clinic has an ultrasound machine.</span></p>
+      <p
+        begin="00:23:54.360"
+        end="00:23:55.640"><span region="Default">So, why a new one?</span></p>
+      <p
+        begin="00:23:55.760"
+        end="00:23:57.560"><span region="Default">Technology has advanced, Papa.</span></p>
+      <p
+        begin="00:23:57.960"
+        end="00:23:59.240"><span region="Default">We need a 4D machine.</span></p>
+      <p
+        begin="00:23:59.600"
+        end="00:24:02.520"><span region="Default">Nowadays, senior doctors hire<br/>2-3 doctors under them</span></p>
+      <p
+        begin="00:24:02.840"
+        end="00:24:04.320"><span region="Default">and just manage the clinic.</span></p>
+      <p
+        begin="00:24:04.640"
+        end="00:24:06.440"><span region="Default">Single practice isn't lucrative anymore.</span></p>
+      <p
+        begin="00:24:06.800"
+        end="00:24:08.640"><span region="Default">Patients visit the clinic<br/>for your medical expertise,</span></p>
+      <p
+        begin="00:24:08.760"
+        end="00:24:10.200"><span region="Default">and you want to be a manager!</span></p>
+      <p
+        begin="00:24:10.640"
+        end="00:24:12.600"><span region="Default">Did you study MBBS or MBA?</span></p>
+      <p
+        begin="00:24:13.280"
+        end="00:24:15.320"><span region="Default">One must move with the times.</span></p>
+      <p
+        begin="00:24:16.920"
+        end="00:24:19.640"><span region="Default">My father too used to<br/>shun technology before.</span></p>
+      <p
+        begin="00:24:19.880"
+        end="00:24:21.600"><span region="Default">Now he uses email<br/>for every little thing.</span></p>
+      <p
+        begin="00:24:22.520"
+        end="00:24:23.720"><span region="Default">Serve Papa first.</span></p>
+      <p
+        begin="00:24:24.920"
+        end="00:24:26.400"><span region="Default">Not with your left hand.</span></p>
+      <p
+        begin="00:24:26.600"
+        end="00:24:29.120"><span region="Default">We don't even give a beggar alms<br/>with the left hand!</span></p>
+      <p
+        begin="00:24:29.720"
+        end="00:24:30.800"><span region="Default">Sorry.</span></p>
+      <p
+        begin="00:24:32.280"
+        end="00:24:34.160"><span region="Default">Mummy, why don't you sit?<br/>I'll cook the rest and get it.</span></p>
+      <p
+        begin="00:24:34.280"
+        end="00:24:35.280"><span region="Default">We can all sit and eat together.</span></p>
+      <p
+        begin="00:24:35.400"
+        end="00:24:37.400"><span region="Default">It's not like she has to<br/>go to the clinic and work!</span></p>
+      <p
+        begin="00:24:37.520"
+        end="00:24:39.680"><span region="Default">I just thought it would be nice<br/>for us to have breakfast together.</span></p>
+      <p
+        begin="00:24:39.800"
+        end="00:24:40.880"><span region="Default">Get Diwakar a hot roti.</span></p>
+      <p
+        begin="00:24:41.000"
+        end="00:24:43.320"><span region="Default">Once I'm at the clinic,<br/>I barely get time to drink water.</span></p>
+      <p
+        begin="00:24:43.920"
+        end="00:24:45.680"><span region="Default">Get the roti before it burns.</span></p>
+      <p
+        begin="00:25:08.120"
+        end="00:25:09.200"><span region="Default">Tea.</span></p>
+      <p
+        begin="00:25:17.480"
+        end="00:25:20.040"><span region="Default">I'll get going, wifey.<br/>There are patients waiting.</span></p>
+      <p
+        begin="00:26:37.400"
+        end="00:26:39.080"><span region="Default">Madam, shall I clean the house?</span></p>
+      <p
+        begin="00:26:39.680"
+        end="00:26:41.040"><span region="Default">Oh, you finally turned up to work!</span></p>
+      <p
+        begin="00:26:41.160"
+        end="00:26:42.720"><span region="Default">My wife was sick.</span></p>
+      <p
+        begin="00:26:42.840"
+        end="00:26:45.440"><span region="Default">Your wife falls sick<br/>every fifteen days.</span></p>
+      <p
+        begin="00:26:45.840"
+        end="00:26:47.960"><span region="Default">Either change your job,<br/>or your wife.</span></p>
+      <p
+        begin="00:26:48.080"
+        end="00:26:50.400"><span region="Default">Don't say that, madam.<br/>I'll clean up right away.</span></p>
+      <p
+        begin="00:26:51.080"
+        end="00:26:53.600"><span region="Default">And you've stopped dusting<br/>altogether now!</span></p>
+      <p
+        begin="00:27:01.920"
+        end="00:27:03.680"><span region="Default">Bubbles! Do a different step here.</span></p>
+      <p
+        begin="00:27:03.840"
+        end="00:27:04.920"><span region="Default">What should I do?</span></p>
+      <p
+        begin="00:27:05.240"
+        end="00:27:07.560"><span region="Default">And when will you come?<br/>Join us for rehearsals sometime!</span></p>
+      <p
+        begin="00:27:08.160"
+        end="00:27:09.120"><span region="Default">How?</span></p>
+      <p
+        begin="00:27:09.320"
+        end="00:27:11.000"><span region="Default">Travelling alone takes three hours.</span></p>
+      <p
+        begin="00:27:11.240"
+        end="00:27:14.400"><span region="Default">Your dance troupe misses you!<br/>Just come meet us.</span></p>
+      <p
+        begin="00:27:15.680"
+        end="00:27:17.240"><span region="Default">Yeah, OK.<br/>I'll figure it out.</span></p>
+      <p
+        begin="00:27:17.720"
+        end="00:27:19.400"><span region="Default">Your daughter needs rest,<br/>mummy.</span></p>
+      <p
+        begin="00:27:19.760"
+        end="00:27:20.960"><span region="Default">No matter how much I help,</span></p>
+      <p
+        begin="00:27:21.800"
+        end="00:27:23.120"><span region="Default">she can only relax<br/>once you're here.</span></p>
+      <p
+        begin="00:27:23.240"
+        end="00:27:25.320"><span region="Default">Mummy, I want to talk to you<br/>about something.</span></p>
+      <p
+        begin="00:27:25.760"
+        end="00:27:27.320"><span region="Default">Mix this properly, will you?</span></p>
+      <p
+        begin="00:27:27.440"
+        end="00:27:29.480"><span region="Default">Spend a few months with us,<br/>please!</span></p>
+      <p
+        begin="00:27:29.640"
+        end="00:27:31.000"><span region="Default">You'll get some rest too.</span></p>
+      <p
+        begin="00:27:31.080"
+        end="00:27:33.440"><span region="Default">How can I just<br/>leave everything here and come?</span></p>
+      <p
+        begin="00:27:33.800"
+        end="00:27:35.600"><span region="Default">Richa can manage the house.</span></p>
+      <p
+        begin="00:27:35.840"
+        end="00:27:36.920"><span region="Default">Right?</span></p>
+      <p
+        begin="00:27:37.520"
+        end="00:27:38.840"><span region="Default">Yes, of course.</span></p>
+      <p
+        begin="00:27:38.960"
+        end="00:27:41.480"><span region="Default">I'm learning how to make<br/>Galouti Kebabs today.</span></p>
+      <p
+        begin="00:27:41.760"
+        end="00:27:42.800"><span region="Default">Why don't you visit her?</span></p>
+      <p
+        begin="00:27:42.920"
+        end="00:27:45.120"><span region="Default">I'm sure she craves<br/>her mother's cooking.</span></p>
+      <p
+        begin="00:27:45.240"
+        end="00:27:46.680"><span region="Default">Thank you for saying that.</span></p>
+      <p
+        begin="00:27:47.120"
+        end="00:27:48.720"><span region="Default">I'll book the tickets then, Mom.</span></p>
+      <p
+        begin="00:27:48.840"
+        end="00:27:50.760"><span region="Default">I'll send you a list of things<br/>I want from there.</span></p>
+      <p
+        begin="00:28:01.520"
+        end="00:28:03.800"><span region="Default">The longer you soak the pumpkin,</span></p>
+      <p
+        begin="00:28:04.040"
+        end="00:28:05.720"><span region="Default">the softer the petha will be.</span></p>
+      <p
+        begin="00:28:26.240"
+        end="00:28:28.400"><span region="Default">Press it gently from the side.</span></p>
+      <p
+        begin="00:28:28.920"
+        end="00:28:31.160"><span region="Default">Quickly. We have lots to make.</span></p>
+      <p
+        begin="00:28:41.840"
+        end="00:28:42.800"><span region="Default">It's delicious!</span></p>
+      <p
+        begin="00:28:42.960"
+        end="00:28:44.960"><span region="Default">Add a little mustard oil<br/>once it's fully cooked.</span></p>
+      <p
+        begin="00:28:45.080"
+        end="00:28:47.360"><span region="Default">- How much?<br/>- A tablespoon or two.</span></p>
+      <p
+        begin="00:28:52.280"
+        end="00:28:53.960"><span region="Default">Here, give it to Papa.</span></p>
+      <p
+        begin="00:28:55.280"
+        end="00:28:56.600"><span region="Default">Papa, laddoos for you.</span></p>
+      <p
+        begin="00:29:38.600"
+        end="00:29:39.840"><span region="Default">You'll manage everything here?</span></p>
+      <p
+        begin="00:29:39.960"
+        end="00:29:42.080"><span region="Default">Shall we leave, Ma?<br/>We're getting late.</span></p>
+      <p
+        begin="00:29:42.480"
+        end="00:29:45.000"><span region="Default">- Take this. Keep it in your wallet.<br/>- OK.</span></p>
+      <p
+        begin="00:29:45.480"
+        end="00:29:46.800"><span region="Default">Let's go.</span></p>
+      <p
+        begin="00:30:21.080"
+        end="00:30:22.400"><span region="Default">Good morning, Papa.</span></p>
+      <p
+        begin="00:30:22.640"
+        end="00:30:23.880"><span region="Default">Here's your tea.</span></p>
+      <p
+        begin="00:30:24.320"
+        end="00:30:26.120"><span region="Default">I haven't cleared my stomach yet.</span></p>
+      <p
+        begin="00:30:28.400"
+        end="00:30:31.640"><span region="Default">Your mother-in-law gives me<br/>carom seed water every morning.</span></p>
+      <p
+        begin="00:30:40.280"
+        end="00:30:42.240"><span region="Default">Papa, your water.</span></p>
+      <p
+        begin="00:32:26.000"
+        end="00:32:29.000"><span region="Default">I cooked the vegetable<br/>with jaggery and tamarind today.</span></p>
+      <p
+        begin="00:32:29.360"
+        end="00:32:31.160"><span region="Default">Sweet food early in the morning?</span></p>
+      <p
+        begin="00:32:31.520"
+        end="00:32:32.640"><span region="Default">Great.</span></p>
+      <p
+        begin="00:32:35.000"
+        end="00:32:36.480"><span region="Default">- Are there no phulkas?<br/>- There are.</span></p>
+      <p
+        begin="00:32:36.680"
+        end="00:32:39.200"><span region="Default">Not rotis, I want phulkas.<br/>Hot off the stove.</span></p>
+      <p
+        begin="00:32:39.360"
+        end="00:32:40.280"><span region="Default">One minute.</span></p>
+      <p
+        begin="00:32:47.480"
+        end="00:32:49.080"><span region="Default">- My dear?<br/>- Yes?</span></p>
+      <p
+        begin="00:32:49.680"
+        end="00:32:51.600"><span region="Default">- Is there some curd?<br/>- Yes.</span></p>
+      <p
+        begin="00:32:52.880"
+        end="00:32:54.240"><span region="Default">Get me some, please.</span></p>
+      <p
+        begin="00:33:04.440"
+        end="00:33:06.720"><span region="Default">Richu, hurry up!</span></p>
+      <p
+        begin="00:33:07.160"
+        end="00:33:09.200"><span region="Default">- Papa's waiting.<br/>- Yes!</span></p>
+      <p
+        begin="00:33:18.440"
+        end="00:33:19.680"><span region="Default">- My dear...<br/>- Yes?</span></p>
+      <p
+        begin="00:33:19.800"
+        end="00:33:21.920"><span region="Default">This chutney isn't stone-ground,<br/>is it?</span></p>
+      <p
+        begin="00:33:22.880"
+        end="00:33:24.680"><span region="Default">No Papa, I made it in a mixer.</span></p>
+      <p
+        begin="00:33:26.040"
+        end="00:33:29.480"><span region="Default">Grinding chutney with the stone<br/>makes the hands burn, I know.</span></p>
+      <p
+        begin="00:33:30.080"
+        end="00:33:31.160"><span region="Default">Never mind.</span></p>
+      <p
+        begin="00:33:31.640"
+        end="00:33:33.920"><span region="Default">How much can you manage alone,<br/>after all.</span></p>
+      <p
+        begin="00:33:34.280"
+        end="00:33:35.960"><span region="Default">Your mother-in-law is used to it.</span></p>
+      <p
+        begin="00:33:46.160"
+        end="00:33:47.160"><span region="Default">Your husband is off to work, wifey!</span></p>
+      <p
+        begin="00:33:47.280"
+        end="00:33:49.040"><span region="Default">Give me a nice goodbye<br/>with a smile now.</span></p>
+      <p
+        begin="00:33:50.040"
+        end="00:33:51.320"><span region="Default">I smell like shit.</span></p>
+      <p
+        begin="00:33:51.480"
+        end="00:33:52.800"><span region="Default">You smell like the kitchen...</span></p>
+      <p
+        begin="00:33:53.120"
+        end="00:33:55.040"><span region="Default">And it's the sexiest smell<br/>in the world.</span></p>
+      <p
+        begin="00:33:55.280"
+        end="00:33:56.240"><span region="Default">Bye.</span></p>
+      <p
+        begin="00:35:07.440"
+        end="00:35:08.640"><span region="Default">Mutton for lunch.</span></p>
+      <p
+        begin="00:35:08.760"
+        end="00:35:10.040"><span region="Default">Saheb has sent it.</span></p>
+      <p
+        begin="00:35:36.560"
+        end="00:35:39.080"><span region="Default">I'm a dazzling beauty</span></p>
+      <p
+        begin="00:35:40.160"
+        end="00:35:42.480"><span region="Default">All eyes are on me</span></p>
+      <p
+        begin="00:35:43.520"
+        end="00:35:45.720"><span region="Default">Hold on to your heart</span></p>
+      <p
+        begin="00:35:46.320"
+        end="00:35:48.320"><span region="Default">Lest it slips free</span></p>
+      <p
+        begin="00:35:57.200"
+        end="00:35:59.600"><span region="Default">I'm a dazzling beauty</span></p>
+      <p
+        begin="00:36:05.240"
+        end="00:36:06.440"><span region="Default">Richa?</span></p>
+      <p
+        begin="00:36:08.720"
+        end="00:36:11.120"><span region="Default">Hold on to your heart</span></p>
+      <p
+        begin="00:36:11.480"
+        end="00:36:13.560"><span region="Default">Lest it slips free</span></p>
+      <p
+        begin="00:36:24.200"
+        end="00:36:25.400"><span region="Default">Richa?</span></p>
+      <p
+        begin="00:36:26.600"
+        end="00:36:28.800"><span region="Default">Of what use is beauty</span></p>
+      <p
+        begin="00:36:30.440"
+        end="00:36:34.560"><span region="Default">Bereft of loyalty</span></p>
+      <p
+        begin="00:36:42.920"
+        end="00:36:44.720"><span region="Default">Be a bit attentive, dear.</span></p>
+      <p
+        begin="00:36:44.960"
+        end="00:36:46.880"><span region="Default">I've been calling you for a while.</span></p>
+      <p
+        begin="00:36:47.240"
+        end="00:36:49.320"><span region="Default">Yes, Papa.<br/>Do you need anything?</span></p>
+      <p
+        begin="00:36:51.200"
+        end="00:36:53.240"><span region="Default">No. I'll take it myself.</span></p>
+      <p
+        begin="00:37:09.120"
+        end="00:37:09.960"><span region="Default">Set up my lunch.</span></p>
+      <p
+        begin="00:37:10.080"
+        end="00:37:12.680"><span region="Default">Sir, lunch wasn't ready.<br/>Shall I get order something?</span></p>
+      <p
+        begin="00:37:13.280"
+        end="00:37:15.600"><span region="Default">No, let it be.<br/>Get me a black coffee.</span></p>
+      <p
+        begin="00:37:16.400"
+        end="00:37:19.760"><span region="Default">The new bride is taking time<br/>to settle in, isn't it?</span></p>
+      <p
+        begin="00:37:20.960"
+        end="00:37:22.880"><span region="Default">- Get me some water.<br/>- Yes, Sir.</span></p>
+      <p
+        begin="00:37:39.320"
+        end="00:37:40.520"><span region="Default">Sorry, Papa.</span></p>
+      <p
+        begin="00:37:42.920"
+        end="00:37:44.480"><span region="Default">The meat took forever to cook.</span></p>
+      <p
+        begin="00:37:47.720"
+        end="00:37:49.400"><span region="Default">Even after four whistles.</span></p>
+      <p
+        begin="00:37:51.680"
+        end="00:37:53.600"><span region="Default">You made this in the cooker?</span></p>
+      <p
+        begin="00:37:53.960"
+        end="00:37:55.040"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:37:56.040"
+        end="00:37:59.000"><span region="Default">Then it's pulao, not biryani.</span></p>
+      <p
+        begin="00:37:59.760"
+        end="00:38:03.920"><span region="Default">Dum Pukht Biryani<br/>is cooked on a low flame.</span></p>
+      <p
+        begin="00:38:04.440"
+        end="00:38:05.720"><span region="Default">Nice and slow.</span></p>
+      <p
+        begin="00:38:06.080"
+        end="00:38:06.920"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:38:07.800"
+        end="00:38:08.960"><span region="Default">With patience.</span></p>
+      <p
+        begin="00:38:09.320"
+        end="00:38:11.600"><span region="Default">- Yes.<br/>- Layer by layer.</span></p>
+      <p
+        begin="00:38:12.000"
+        end="00:38:13.400"><span region="Default">Want some raita?</span></p>
+      <p
+        begin="00:38:18.240"
+        end="00:38:19.280"><span region="Default">Thank you.</span></p>
+      <p
+        begin="00:38:38.480"
+        end="00:38:40.440"><span region="Default">I work twelve hours everyday.</span></p>
+      <p
+        begin="00:38:40.800"
+        end="00:38:42.960"><span region="Default">I deserve lunch on time,<br/>at least.</span></p>
+      <p
+        begin="00:38:43.920"
+        end="00:38:45.920"><span region="Default">I barely get time to eat<br/>between patients.</span></p>
+      <p
+        begin="00:38:48.240"
+        end="00:38:50.280"><span region="Default">I survived on six black coffees today.</span></p>
+      <p
+        begin="00:38:54.320"
+        end="00:38:55.920"><span region="Default">Can I get dinner now?</span></p>
+      <p
+        begin="00:38:58.680"
+        end="00:39:00.360"><span region="Default">And hot phulkas, please.</span></p>
+      <p
+        begin="00:39:00.840"
+        end="00:39:04.320"><span region="Default">Meena, didn't you teach your assistant<br/>how to cook biryani in a pot?</span></p>
+      <p
+        begin="00:39:04.680"
+        end="00:39:06.600"><span region="Default">Make do with pulao<br/>for a few weeks, please.</span></p>
+      <p
+        begin="00:39:07.520"
+        end="00:39:09.680"><span region="Default">We'll manage for now, sure...</span></p>
+      <p
+        begin="00:39:10.200"
+        end="00:39:12.560"><span region="Default">But Richa must be taught<br/>how to run a house.</span></p>
+      <p
+        begin="00:39:12.800"
+        end="00:39:16.320"><span region="Default">At least tell her<br/>to dust the house properly.</span></p>
+      <p
+        begin="00:39:16.680"
+        end="00:39:18.480"><span region="Default">If my allergies escalate,</span></p>
+      <p
+        begin="00:39:18.720"
+        end="00:39:20.680"><span region="Default">I'll end up getting admitted<br/>in our own hospital!</span></p>
+      <p
+        begin="00:40:16.240"
+        end="00:40:17.960"><span region="Default">Hi, hello, namaste,<br/>Sat Sri Akal!</span></p>
+      <p
+        begin="00:40:18.080"
+        end="00:40:21.000"><span region="Default">Welcome back to your favourite channel,<br/>King Kalra's Kitchen!</span></p>
+      <p
+        begin="00:40:21.360"
+        end="00:40:24.360"><span region="Default">Today's special recipe is<br/>Dum Pukht biryani.</span></p>
+      <p
+        begin="00:40:24.680"
+        end="00:40:26.760"><span region="Default">Making Dum Pukht biryani<br/>is an art,</span></p>
+      <p
+        begin="00:40:27.000"
+        end="00:40:30.600"><span region="Default">which requires both<br/>technique and love.</span></p>
+      <p
+        begin="00:40:31.480"
+        end="00:40:34.960"><span region="Default">So first of all, to make<br/>a delicious, flavourful biryani:</span></p>
+      <p
+        begin="00:40:35.520"
+        end="00:40:39.960"><span region="Default">Marinate the chicken<br/>in ginger-garlic paste,</span></p>
+      <p
+        begin="00:40:40.200"
+        end="00:40:41.920"><span region="Default">curd and chutney.</span></p>
+      <p
+        begin="00:40:43.440"
+        end="00:40:44.440"><span region="Default">That's right!</span></p>
+      <p
+        begin="00:40:44.600"
+        end="00:40:46.480"><span region="Default">Now mix these three well.</span></p>
+      <p
+        begin="00:40:48.560"
+        end="00:40:51.680"><span region="Default">Boiling rice the right way<br/>is very important.</span></p>
+      <p
+        begin="00:40:52.040"
+        end="00:40:54.040"><span region="Default">Remember not to overcook the rice.</span></p>
+      <p
+        begin="00:40:54.400"
+        end="00:40:56.960"><span region="Default">Every grain of rice should be distinct.</span></p>
+      <p
+        begin="00:41:01.400"
+        end="00:41:03.600"><span region="Default">Onions are another<br/>important ingredient.</span></p>
+      <p
+        begin="00:41:03.960"
+        end="00:41:05.760"><span region="Default">They must be finely sliced.</span></p>
+      <p
+        begin="00:41:13.440"
+        end="00:41:14.400"><span region="Default">Just like that.</span></p>
+      <p
+        begin="00:41:18.440"
+        end="00:41:20.600"><span region="Default">Cook the chicken on low flame.</span></p>
+      <p
+        begin="00:41:20.760"
+        end="00:41:22.760"><span region="Default">Let it simmer gradually.</span></p>
+      <p
+        begin="00:41:24.360"
+        end="00:41:26.320"><span region="Default">Then in the pot,<br/>add one layer of chicken</span></p>
+      <p
+        begin="00:41:26.440"
+        end="00:41:27.600"><span region="Default">and then a layer of rice.</span></p>
+      <p
+        begin="00:41:27.720"
+        end="00:41:32.760"><span region="Default">Then another layer of chicken<br/>and another one of rice...</span></p>
+      <p
+        begin="00:41:35.640"
+        end="00:41:38.560"><span region="Default">Now seal the pot tight.</span></p>
+      <p
+        begin="00:41:39.680"
+        end="00:41:41.200"><span region="Default">You can relax now.</span></p>
+      <p
+        begin="00:41:41.440"
+        end="00:41:44.040"><span region="Default">Dum Pukht biryani<br/>will be ready in a bit.</span></p>
+      <p
+        begin="00:41:44.600"
+        end="00:41:47.240"><span region="Default">And don't forget<br/>the most important ingredient:</span></p>
+      <p
+        begin="00:41:49.480"
+        end="00:41:51.040"><span region="Default">A dollop of your love!</span></p>
+      <p
+        begin="00:42:21.680"
+        end="00:42:23.120"><span region="Default">How is it, Papa?</span></p>
+      <p
+        begin="00:42:26.840"
+        end="00:42:27.920"><span region="Default">Is there raita?</span></p>
+      <p
+        begin="00:42:28.120"
+        end="00:42:29.000"><span region="Default">Yes.</span></p>
+      <p
+        begin="00:42:42.080"
+        end="00:42:43.160"><span region="Default">It needs more salt.</span></p>
+      <p
+        begin="00:44:10.520"
+        end="00:44:12.600"><span region="Default">There's lots of leftover biryani<br/>from lunch.</span></p>
+      <p
+        begin="00:44:12.880"
+        end="00:44:14.480"><span region="Default">Let's have something light<br/>for dinner, please.</span></p>
+      <p
+        begin="00:44:14.640"
+        end="00:44:16.440"><span region="Default">But there's so much biryani left.</span></p>
+      <p
+        begin="00:44:16.680"
+        end="00:44:18.120"><span region="Default">I made it with so much love.</span></p>
+      <p
+        begin="00:44:18.320"
+        end="00:44:20.600"><span region="Default">Which is why I overate...</span></p>
+      <p
+        begin="00:44:21.160"
+        end="00:44:22.600"><span region="Default">Can we have kadhi-phulka?</span></p>
+      <p
+        begin="00:44:28.360"
+        end="00:44:29.960"><span region="Default">I have no help, Mom.</span></p>
+      <p
+        begin="00:44:30.320"
+        end="00:44:32.520"><span region="Default">Diwakar is tired by the time<br/>he's back from work,</span></p>
+      <p
+        begin="00:44:32.880"
+        end="00:44:34.240"><span region="Default">and the work in this house<br/>is never-ending.</span></p>
+      <p
+        begin="00:44:34.560"
+        end="00:44:36.400"><span region="Default">You have to learn<br/>to handle it, Richu.</span></p>
+      <p
+        begin="00:44:36.640"
+        end="00:44:37.880"><span region="Default">I'm trying.</span></p>
+      <p
+        begin="00:44:38.600"
+        end="00:44:41.080"><span region="Default">Papa doesn't even<br/>like anything I cook.</span></p>
+      <p
+        begin="00:44:42.280"
+        end="00:44:43.480"><span region="Default">Shall I ask them<br/>to hire a cook?</span></p>
+      <p
+        begin="00:44:43.600"
+        end="00:44:44.360"><span region="Default">Hush!</span></p>
+      <p
+        begin="00:44:44.600"
+        end="00:44:45.800"><span region="Default">You just got married.</span></p>
+      <p
+        begin="00:44:46.400"
+        end="00:44:47.760"><span region="Default">Adjust for a while.</span></p>
+      <p
+        begin="00:44:47.960"
+        end="00:44:50.800"><span region="Default">After some time,<br/>suggest it tactfully.</span></p>
+      <p
+        begin="00:44:51.640"
+        end="00:44:55.440"><span region="Default">I end up eating leftovers<br/>or throwing a ton of food.</span></p>
+      <p
+        begin="00:44:55.720"
+        end="00:44:57.200"><span region="Default">Can't you get the portions right?</span></p>
+      <p
+        begin="00:44:58.800"
+        end="00:45:00.160"><span region="Default">The portions are right, mom.</span></p>
+      <p
+        begin="00:45:00.440"
+        end="00:45:01.720"><span region="Default">It's pointless talking to you.</span></p>
+      <p
+        begin="00:45:01.840"
+        end="00:45:02.800"><span region="Default">OK, bye.</span></p>
+      <p
+        begin="00:45:16.920"
+        end="00:45:18.360"><span region="Default">- Yeah, Richu.<br/>- Mom...</span></p>
+      <p
+        begin="00:45:18.760"
+        end="00:45:20.560"><span region="Default">does the turmeric go<br/>in the curd or in the pan?</span></p>
+      <p
+        begin="00:45:25.200"
+        end="00:45:26.960"><span region="Default">No, I'm done. Thanks.</span></p>
+      <p
+        begin="00:47:30.080"
+        end="00:47:30.960"><span region="Default">Water?</span></p>
+      <p
+        begin="00:47:36.280"
+        end="00:47:37.160"><span region="Default">Done!</span></p>
+      <p
+        begin="00:47:37.960"
+        end="00:47:38.960"><span region="Default">Thank you.</span></p>
+      <p
+        begin="00:47:39.720"
+        end="00:47:41.560"><span region="Default">My mom doesn't wear a bindi.</span></p>
+      <p
+        begin="00:47:41.760"
+        end="00:47:44.720"><span region="Default">She says bindis are only<br/>for women with good luck.</span></p>
+      <p
+        begin="00:47:45.240"
+        end="00:47:46.280"><span region="Default">Why is that?</span></p>
+      <p
+        begin="00:47:46.560"
+        end="00:47:48.280"><span region="Default">Everyone has good luck.</span></p>
+      <p
+        begin="00:47:48.560"
+        end="00:47:49.640"><span region="Default">You don't know anything.</span></p>
+      <p
+        begin="00:47:49.760"
+        end="00:47:53.320"><span region="Default">Women without husbands<br/>have no luck.</span></p>
+      <p
+        begin="00:47:58.120"
+        end="00:47:59.440"><span region="Default">You're in Class 3, right?</span></p>
+      <p
+        begin="00:48:00.760"
+        end="00:48:02.240"><span region="Default">Do you know what<br/>a prime number is?</span></p>
+      <p
+        begin="00:48:03.400"
+        end="00:48:06.760"><span region="Default">A number that is unbreakable,<br/>except by itself.</span></p>
+      <p
+        begin="00:48:07.080"
+        end="00:48:08.560"><span region="Default">Five, seven...</span></p>
+      <p
+        begin="00:48:08.800"
+        end="00:48:10.600"><span region="Default">Eleven, thirteen.</span></p>
+      <p
+        begin="00:48:14.280"
+        end="00:48:16.480"><span region="Default">That's what your mom is.</span></p>
+      <p
+        begin="00:48:16.840"
+        end="00:48:18.120"><span region="Default">She's a solid Prime Number.</span></p>
+      <p
+        begin="00:48:18.320"
+        end="00:48:20.080"><span region="Default">So my mom has good luck?</span></p>
+      <p
+        begin="00:48:20.560"
+        end="00:48:21.520"><span region="Default">No.</span></p>
+      <p
+        begin="00:48:23.480"
+        end="00:48:25.080"><span region="Default">Because she herself<br/>is a good luck charm!</span></p>
+      <p
+        begin="00:48:26.640"
+        end="00:48:27.560"><span region="Default">Now hurry.</span></p>
+      <p
+        begin="00:48:27.840"
+        end="00:48:29.640"><span region="Default">Go, win and come back. OK?</span></p>
+      <p
+        begin="00:48:34.280"
+        end="00:48:35.320"><span region="Default">Come on, now.</span></p>
+      <p
+        begin="00:48:35.480"
+        end="00:48:36.720"><span region="Default">You'll get late.</span></p>
+      <p
+        begin="00:48:53.720"
+        end="00:48:54.880"><span region="Default">Diwakar!</span></p>
+      <p
+        begin="00:48:56.440"
+        end="00:48:57.440"><span region="Default">Diwakar!</span></p>
+      <p
+        begin="00:49:06.560"
+        end="00:49:07.400"><span region="Default">Hi.</span></p>
+      <p
+        begin="00:49:07.520"
+        end="00:49:08.960"><span region="Default">Look who finally answered!</span></p>
+      <p
+        begin="00:49:09.160"
+        end="00:49:10.720"><span region="Default">I thought you never will.</span></p>
+      <p
+        begin="00:49:11.040"
+        end="00:49:12.280"><span region="Default">I don't want to talk to you.</span></p>
+      <p
+        begin="00:49:12.480"
+        end="00:49:13.680"><span region="Default">Then why did you call?</span></p>
+      <p
+        begin="00:49:13.920"
+        end="00:49:15.120"><span region="Default">Because I have great news.</span></p>
+      <p
+        begin="00:49:15.320"
+        end="00:49:16.480"><span region="Default">Spill the beans, then!</span></p>
+      <p
+        begin="00:49:16.680"
+        end="00:49:18.440"><span region="Default">My performance<br/>has been selected in Kamaani.</span></p>
+      <p
+        begin="00:49:18.560"
+        end="00:49:20.240"><span region="Default">My first choreography credit!</span></p>
+      <p
+        begin="00:49:20.360"
+        end="00:49:21.360"><span region="Default">Wow!</span></p>
+      <p
+        begin="00:49:22.400"
+        end="00:49:24.240"><span region="Default">That's great news!</span></p>
+      <p
+        begin="00:49:24.600"
+        end="00:49:25.560"><span region="Default">When do rehearsals begin?</span></p>
+      <p
+        begin="00:49:25.680"
+        end="00:49:26.960"><span region="Default">We've already started.</span></p>
+      <p
+        begin="00:49:27.520"
+        end="00:49:30.160"><span region="Default">I was calling you since two weeks.<br/>You just didn't answer!</span></p>
+      <p
+        begin="00:49:30.280"
+        end="00:49:32.200"><span region="Default">So we went ahead<br/>and started rehearsals.</span></p>
+      <p
+        begin="00:49:33.160"
+        end="00:49:35.440"><span region="Default">We have to rehearse daily.</span></p>
+      <p
+        begin="00:49:35.720"
+        end="00:49:36.560"><span region="Default">Yes...</span></p>
+      <p
+        begin="00:49:37.280"
+        end="00:49:39.320"><span region="Default">It would be very tough<br/>for me to join you guys.</span></p>
+      <p
+        begin="00:49:39.600"
+        end="00:49:40.760"><span region="Default">I thought as much.</span></p>
+      <p
+        begin="00:49:40.960"
+        end="00:49:42.600"><span region="Default">But come watch<br/>our performance at least.</span></p>
+      <p
+        begin="00:49:42.720"
+        end="00:49:43.680"><span region="Default">Hey, please convince her!</span></p>
+      <p
+        begin="00:49:43.800"
+        end="00:49:45.360"><span region="Default">Hi, Richa. How are you?</span></p>
+      <p
+        begin="00:49:45.600"
+        end="00:49:46.800"><span region="Default">Do come with your husband.</span></p>
+      <p
+        begin="00:49:47.040"
+        end="00:49:48.640"><span region="Default">I don't want to get bored alone!</span></p>
+      <p
+        begin="00:49:50.680"
+        end="00:49:53.680"><span region="Default">Diwakar doesn't get any time off<br/>from the nursing home.</span></p>
+      <p
+        begin="00:49:54.440"
+        end="00:49:55.640"><span region="Default">Madam, it's a Sunday!</span></p>
+      <p
+        begin="00:49:55.880"
+        end="00:49:57.080"><span region="Default">No excuses.</span></p>
+      <p
+        begin="00:49:59.440"
+        end="00:50:01.000"><span region="Default">You put so much sugar<br/>in the tea!</span></p>
+      <p
+        begin="00:50:01.600"
+        end="00:50:02.960"><span region="Default">How will I lose weight?</span></p>
+      <p
+        begin="00:50:03.600"
+        end="00:50:05.960"><span region="Default">Richa, her diet plan<br/>changes every week.</span></p>
+      <p
+        begin="00:50:06.520"
+        end="00:50:08.000"><span region="Default">You tell me what to do!</span></p>
+      <p
+        begin="00:50:10.320"
+        end="00:50:11.600"><span region="Default">So it's a promise, right?</span></p>
+      <p
+        begin="00:50:14.320"
+        end="00:50:18.000"><span region="Default">Richu, you don't answer calls,<br/>you don't come for rehearsals,</span></p>
+      <p
+        begin="00:50:18.120"
+        end="00:50:20.680"><span region="Default">you're even off social media...<br/>You're OK, right?</span></p>
+      <p
+        begin="00:50:21.720"
+        end="00:50:22.840"><span region="Default">I'm fine.</span></p>
+      <p
+        begin="00:50:23.200"
+        end="00:50:25.520"><span region="Default">OK, come home for dinner<br/>after the performance.</span></p>
+      <p
+        begin="00:50:25.840"
+        end="00:50:27.440"><span region="Default">Like the good ol' days?</span></p>
+      <p
+        begin="00:50:27.920"
+        end="00:50:29.840"><span region="Default">- OK. OK, bye.<br/>- Bye!</span></p>
+      <p
+        begin="00:50:51.240"
+        end="00:50:53.040"><span region="Default">Papa, the performance<br/>I choreographed in school...</span></p>
+      <p
+        begin="00:50:53.160"
+        end="00:50:54.560"><span region="Default">Do you have a video of it?</span></p>
+      <p
+        begin="00:50:54.840"
+        end="00:50:55.640"><span region="Default">My dear...</span></p>
+      <p
+        begin="00:50:56.520"
+        end="00:50:58.000"><span region="Default">I'll call you back, Papa.</span></p>
+      <p
+        begin="00:50:58.120"
+        end="00:50:59.000"><span region="Default">Yes?</span></p>
+      <p
+        begin="00:50:59.120"
+        end="00:51:02.960"><span region="Default">The washing machine<br/>doesn't remove sweat stains.</span></p>
+      <p
+        begin="00:51:04.600"
+        end="00:51:06.560"><span region="Default">Two parts lemon juice,<br/>one part baking soda.</span></p>
+      <p
+        begin="00:51:06.680"
+        end="00:51:08.680"><span region="Default">Kitchen is the solution<br/>to every problem.</span></p>
+      <p
+        begin="00:51:09.160"
+        end="00:51:11.000"><span region="Default">- Yes, my dear.<br/>- I'll wash it.</span></p>
+      <p
+        begin="00:51:11.280"
+        end="00:51:13.800"><span region="Default">Be gentle. It's my favourite kurta.</span></p>
+      <p
+        begin="00:51:14.040"
+        end="00:51:15.480"><span region="Default">Yes, I'll take care.</span></p>
+      <p
+        begin="00:51:39.800"
+        end="00:51:42.040"><span region="Default">Diwakar. I texted you.</span></p>
+      <p
+        begin="00:51:42.400"
+        end="00:51:43.840"><span region="Default">You didn't call the plumber...</span></p>
+      <p
+        begin="00:51:45.120"
+        end="00:51:47.160"><span region="Default">A medical rep gave me<br/>this tablet.</span></p>
+      <p
+        begin="00:51:47.480"
+        end="00:51:49.520"><span region="Default">You take it.<br/>I already have one.</span></p>
+      <p
+        begin="00:51:51.280"
+        end="00:51:52.480"><span region="Default">The plumber hasn't come yet.</span></p>
+      <p
+        begin="00:51:52.680"
+        end="00:51:55.800"><span region="Default">And can we hire a maid<br/>to help with the household work?</span></p>
+      <p
+        begin="00:51:55.920"
+        end="00:51:57.080"><span region="Default">Why?</span></p>
+      <p
+        begin="00:51:57.680"
+        end="00:51:59.680"><span region="Default">Ved Prakash comes<br/>to mop and clean, right?</span></p>
+      <p
+        begin="00:52:00.120"
+        end="00:52:02.560"><span region="Default">Yes, but I want to<br/>start my own work.</span></p>
+      <p
+        begin="00:52:02.680"
+        end="00:52:04.760"><span region="Default">I can't find any time for that now.</span></p>
+      <p
+        begin="00:52:05.280"
+        end="00:52:06.480"><span region="Default">What work?</span></p>
+      <p
+        begin="00:52:09.120"
+        end="00:52:11.080"><span region="Default">You know I'm part of a dance troupe.</span></p>
+      <p
+        begin="00:52:11.360"
+        end="00:52:13.800"><span region="Default">Bubbles just got her own show<br/>in Kamaani.</span></p>
+      <p
+        begin="00:52:15.040"
+        end="00:52:17.560"><span region="Default">Does this job even pay?</span></p>
+      <p
+        begin="00:52:18.280"
+        end="00:52:19.880"><span region="Default">Or is it just for kicks?</span></p>
+      <p
+        begin="00:52:21.960"
+        end="00:52:24.120"><span region="Default">It will pay if I work on it.</span></p>
+      <p
+        begin="00:52:25.840"
+        end="00:52:28.560"><span region="Default">Richu, I've seen 50-60 patients<br/>through the day...</span></p>
+      <p
+        begin="00:52:28.800"
+        end="00:52:30.960"><span region="Default">And you're piling up on me<br/>as soon as I've come home.</span></p>
+      <p
+        begin="00:52:31.400"
+        end="00:52:33.000"><span region="Default">Will you let me catch a breath?</span></p>
+      <p
+        begin="00:53:48.920"
+        end="00:53:51.200"><span region="Default">Wifey, are you done?</span></p>
+      <p
+        begin="00:53:51.600"
+        end="00:53:53.800"><span region="Default">I have to wash the utensils.</span></p>
+      <p
+        begin="00:55:10.800"
+        end="00:55:12.560"><span region="Default">Where were you all night, Richu?</span></p>
+      <p
+        begin="00:55:13.160"
+        end="00:55:14.520"><span region="Default">I got my period.</span></p>
+      <p
+        begin="00:55:16.200"
+        end="00:55:17.120"><span region="Default">What?</span></p>
+      <p
+        begin="00:55:18.120"
+        end="00:55:19.440"><span region="Default">I mean, since when?</span></p>
+      <p
+        begin="00:55:19.920"
+        end="00:55:21.120"><span region="Default">Just now.</span></p>
+      <p
+        begin="00:55:22.960"
+        end="00:55:25.200"><span region="Default">I thought we were<br/>doing everything right...</span></p>
+      <p
+        begin="00:55:25.760"
+        end="00:55:27.320"><span region="Default">for you to get pregnant.</span></p>
+      <p
+        begin="00:55:28.960"
+        end="00:55:30.160"><span region="Default">Why are you staring at me?</span></p>
+      <p
+        begin="00:55:30.400"
+        end="00:55:31.720"><span region="Default">I'm kidding.</span></p>
+      <p
+        begin="00:55:32.040"
+        end="00:55:33.440"><span region="Default">Did you go to the kitchen?</span></p>
+      <p
+        begin="00:55:33.560"
+        end="00:55:35.480"><span region="Default">- No, I'm going now.<br/>- No need!</span></p>
+      <p
+        begin="00:55:35.720"
+        end="00:55:37.720"><span region="Default">Don't enter the kitchen<br/>for 4-5 days.</span></p>
+      <p
+        begin="00:55:38.160"
+        end="00:55:39.080"><span region="Default">Why?</span></p>
+      <p
+        begin="00:55:39.560"
+        end="00:55:41.040"><span region="Default">Because you need rest.</span></p>
+      <p
+        begin="00:55:41.520"
+        end="00:55:42.520"><span region="Default">You relax.</span></p>
+      <p
+        begin="00:55:42.640"
+        end="00:55:44.200"><span region="Default">I'll figure out breakfast.</span></p>
+      <p
+        begin="00:55:45.280"
+        end="00:55:46.400"><span region="Default">I'll be back.</span></p>
+      <p
+        begin="00:55:46.600"
+        end="00:55:48.800"><span region="Default">I need sanitary pads.</span></p>
+      <p
+        begin="00:55:49.560"
+        end="00:55:51.120"><span region="Default">The nurse will get them for you.</span></p>
+      <p
+        begin="00:56:37.680"
+        end="00:56:38.640"><span region="Default">Please relax!</span></p>
+      <p
+        begin="00:56:40.000"
+        end="00:56:41.080"><span region="Default">I'll do the dusting.</span></p>
+      <p
+        begin="00:56:41.880"
+        end="00:56:43.400"><span region="Default">Papa has a dust allergy.</span></p>
+      <p
+        begin="00:56:43.520"
+        end="00:56:46.280"><span region="Default">Don't worry.<br/>I'll make everything spick and span.</span></p>
+      <p
+        begin="00:56:46.480"
+        end="00:56:48.880"><span region="Default">Women in this house<br/>barely get rest, anyway.</span></p>
+      <p
+        begin="00:56:49.200"
+        end="00:56:50.600"><span region="Default">Take a break for five days.</span></p>
+      <p
+        begin="00:56:52.320"
+        end="00:56:53.600"><span region="Default">Are you a nurse at the clinic?</span></p>
+      <p
+        begin="00:56:53.760"
+        end="00:56:55.200"><span region="Default">No, I'm a sweeper there.</span></p>
+      <p
+        begin="00:56:55.560"
+        end="00:56:57.120"><span region="Default">But I can do first-aid.</span></p>
+      <p
+        begin="00:56:58.400"
+        end="00:57:00.600"><span region="Default">Can you find a maid<br/>to help at the house?</span></p>
+      <p
+        begin="00:57:00.840"
+        end="00:57:02.160"><span region="Default">I got so many of them.</span></p>
+      <p
+        begin="00:57:02.320"
+        end="00:57:03.640"><span region="Default">They all quit.</span></p>
+      <p
+        begin="00:57:04.280"
+        end="00:57:06.200"><span region="Default">People in this house<br/>crib a lot.</span></p>
+      <p
+        begin="00:57:09.160"
+        end="00:57:10.520"><span region="Default">I hate to say it, but...</span></p>
+      <p
+        begin="00:57:10.720"
+        end="00:57:14.720"><span region="Default">nitpicking, caste-discrimination...<br/>It's rampant here.</span></p>
+      <p
+        begin="00:57:15.360"
+        end="00:57:16.960"><span region="Default">I'm from a different caste, you see.</span></p>
+      <p
+        begin="00:57:17.360"
+        end="00:57:18.800"><span region="Default">I don't believe in all this.</span></p>
+      <p
+        begin="00:57:20.000"
+        end="00:57:21.600"><span region="Default">Or even in period-impurity.</span></p>
+      <p
+        begin="00:57:21.800"
+        end="00:57:23.120"><span region="Default">And you shouldn't, either!</span></p>
+      <p
+        begin="00:57:23.280"
+        end="00:57:26.720"><span region="Default">Besides, a woman like me<br/>can't afford five days off!</span></p>
+      <p
+        begin="00:57:27.080"
+        end="00:57:28.520"><span region="Default">I don't tell anyone<br/>when I'm on my period.</span></p>
+      <p
+        begin="00:57:28.800"
+        end="00:57:30.160"><span region="Default">Not that anyone asks me!</span></p>
+      <p
+        begin="00:57:32.280"
+        end="00:57:33.720"><span region="Default">You really are a prime number.</span></p>
+      <p
+        begin="00:57:34.040"
+        end="00:57:34.720"><span region="Default">What?</span></p>
+      <p
+        begin="00:57:36.200"
+        end="00:57:37.600"><span region="Default">Your daughter is lovely.</span></p>
+      <p
+        begin="00:57:37.760"
+        end="00:57:39.560"><span region="Default">She adores you!</span></p>
+      <p
+        begin="00:57:39.760"
+        end="00:57:41.920"><span region="Default">"I want to grow up<br/>to be like Richa Didi..."</span></p>
+      <p
+        begin="00:57:42.040"
+        end="00:57:45.560"><span region="Default">"Richa Didi this,<br/>Richa Didi that..."</span></p>
+      <p
+        begin="00:57:45.680"
+        end="00:57:47.760"><span region="Default">She sings your praises<br/>all day!</span></p>
+      <p
+        begin="00:57:50.600"
+        end="00:57:52.200"><span region="Default">Who will do the cooking?</span></p>
+      <p
+        begin="00:57:52.480"
+        end="00:57:54.360"><span region="Default">Me! Who else?</span></p>
+      <p
+        begin="00:57:54.760"
+        end="00:57:55.920"><span region="Default">Your father-in-law says:</span></p>
+      <p
+        begin="00:57:56.040"
+        end="00:57:57.840"><span region="Default">"The kitchen fire is very potent."</span></p>
+      <p
+        begin="00:57:57.960"
+        end="00:57:59.840"><span region="Default">"It cleanses all impurities!"</span></p>
+      <p
+        begin="00:58:10.320"
+        end="00:58:12.200"><span region="Default">Planks are creaking</span></p>
+      <p
+        begin="00:58:12.320"
+        end="00:58:14.000"><span region="Default">The boat's leaking</span></p>
+      <p
+        begin="00:58:14.240"
+        end="00:58:17.000"><span region="Default">How do we sail through, friend?</span></p>
+      <p
+        begin="00:58:18.160"
+        end="00:58:20.000"><span region="Default">No one to hear you whine</span></p>
+      <p
+        begin="00:58:20.120"
+        end="00:58:21.880"><span region="Default">As you wine and dine</span></p>
+      <p
+        begin="00:58:22.080"
+        end="00:58:24.880"><span region="Default">Are you OK, dear men?</span></p>
+      <p
+        begin="00:58:26.000"
+        end="00:58:27.880"><span region="Default">Silent are the sage</span></p>
+      <p
+        begin="00:58:28.000"
+        end="00:58:29.800"><span region="Default">While empty vessels rage</span></p>
+      <p
+        begin="00:58:29.920"
+        end="00:58:32.800"><span region="Default">Thus goes the old adage</span></p>
+      <p
+        begin="00:58:33.840"
+        end="00:58:36.840"><span region="Default">Splutter and jolt, rocks the boat</span></p>
+      <p
+        begin="00:58:37.760"
+        end="00:58:40.520"><span region="Default">Splutter and jolt, rocks the boat</span></p>
+      <p
+        begin="00:59:28.720"
+        end="00:59:31.040"><span region="Default">- How many days has it been?<br/>- Four, sir.</span></p>
+      <p
+        begin="00:59:53.240"
+        end="00:59:56.760"><span region="Default">This worn out tale<br/>fed to us since yore</span></p>
+      <p
+        begin="00:59:57.160"
+        end="00:59:59.160"><span region="Default">Didn't realise it was a sham</span></p>
+      <p
+        begin="01:00:01.080"
+        end="01:00:04.360"><span region="Default">King and queen,<br/>happily ever after</span></p>
+      <p
+        begin="01:00:05.040"
+        end="01:00:07.520"><span region="Default">Everyone fell for this scam</span></p>
+      <p
+        begin="01:00:08.120"
+        end="01:00:09.360"><span region="Default">Splutter and jolt</span></p>
+      <p
+        begin="01:00:12.040"
+        end="01:00:13.120"><span region="Default">Rocks the boat</span></p>
+      <p
+        begin="01:00:15.920"
+        end="01:00:17.880"><span region="Default">Splutter and jolt</span></p>
+      <p
+        begin="01:00:19.840"
+        end="01:00:20.640"><span region="Default">Rocks the boat</span></p>
+      <p
+        begin="01:00:20.760"
+        end="01:00:23.560"><span region="Default">Splutter and jolt, rocks the boat</span></p>
+      <p
+        begin="01:01:15.000"
+        end="01:01:16.440"><span region="Default">I'll do open surgery.</span></p>
+      <p
+        begin="01:01:16.560"
+        end="01:01:18.240"><span region="Default">It's the best option<br/>for malignant cases.</span></p>
+      <p
+        begin="01:01:18.680"
+        end="01:01:20.880"><span region="Default">What you need<br/>is a good anaesthetist.</span></p>
+      <p
+        begin="01:01:21.400"
+        end="01:01:23.200"><span region="Default">Speak to Dr. Pathak.</span></p>
+      <p
+        begin="01:01:24.920"
+        end="01:01:26.560"><span region="Default">His son just joined the clinic.</span></p>
+      <p
+        begin="01:01:27.080"
+        end="01:01:29.200"><span region="Default">Speak to the senior Dr. Pathak,<br/>trust me.</span></p>
+      <p
+        begin="01:01:29.360"
+        end="01:01:30.520"><span region="Default">How is it?</span></p>
+      <p
+        begin="01:01:32.040"
+        end="01:01:34.120"><span region="Default">The dal-peetha I made.<br/>Did you like it?</span></p>
+      <p
+        begin="01:01:34.360"
+        end="01:01:36.760"><span region="Default">Takes real talent to<br/>botch Mom's special recipe.</span></p>
+      <p
+        begin="01:01:38.520"
+        end="01:01:39.560"><span region="Default">I'm just kidding!</span></p>
+      <p
+        begin="01:01:40.200"
+        end="01:01:41.280"><span region="Default">It's fine.</span></p>
+      <p
+        begin="01:01:47.200"
+        end="01:01:49.480"><span region="Default">I want to discuss something<br/>with both of you.</span></p>
+      <p
+        begin="01:01:51.720"
+        end="01:01:52.720"><span region="Default">Sure, tell us.</span></p>
+      <p
+        begin="01:01:53.560"
+        end="01:01:55.680"><span region="Default">I'm thinking of applying for a job.</span></p>
+      <p
+        begin="01:01:55.880"
+        end="01:01:56.840"><span region="Default">Job?</span></p>
+      <p
+        begin="01:01:58.080"
+        end="01:01:59.680"><span region="Default">Why do you need a job?</span></p>
+      <p
+        begin="01:02:00.600"
+        end="01:02:01.680"><span region="Default">Papa's right.</span></p>
+      <p
+        begin="01:02:02.000"
+        end="01:02:04.400"><span region="Default">One workaholic is enough<br/>for this house, anyway.</span></p>
+      <p
+        begin="01:02:05.120"
+        end="01:02:06.120"><span region="Default">Right, Papa?</span></p>
+      <p
+        begin="01:02:08.240"
+        end="01:02:09.520"><span region="Default">What's the job?</span></p>
+      <p
+        begin="01:02:10.040"
+        end="01:02:11.800"><span region="Default">- Teaching.<br/>- Teaching?</span></p>
+      <p
+        begin="01:02:12.440"
+        end="01:02:13.440"><span region="Default">But what will you teach?</span></p>
+      <p
+        begin="01:02:13.560"
+        end="01:02:14.800"><span region="Default">I'll be a dance teacher.</span></p>
+      <p
+        begin="01:02:15.520"
+        end="01:02:17.240"><span region="Default">It's a part-time job<br/>at a school nearby.</span></p>
+      <p
+        begin="01:02:17.720"
+        end="01:02:18.640"><span region="Default">Dance teacher?</span></p>
+      <p
+        begin="01:02:18.760"
+        end="01:02:20.040"><span region="Default">I've danced since I was a kid.</span></p>
+      <p
+        begin="01:02:20.160"
+        end="01:02:21.720"><span region="Default">I've been teaching since four years.</span></p>
+      <p
+        begin="01:02:22.080"
+        end="01:02:23.800"><span region="Default">And I have my own dance troupe, too.</span></p>
+      <p
+        begin="01:02:24.040"
+        end="01:02:25.800"><span region="Default">But it's just a hobby, right?</span></p>
+      <p
+        begin="01:02:26.120"
+        end="01:02:27.800"><span region="Default">Who turns a hobby into a job?</span></p>
+      <p
+        begin="01:02:28.120"
+        end="01:02:30.760"><span region="Default">Yes, and it won't suit<br/>our family's reputation.</span></p>
+      <p
+        begin="01:02:36.360"
+        end="01:02:37.920"><span region="Default">The dal-peetha was OK.</span></p>
+      <p
+        begin="01:02:44.800"
+        end="01:02:45.720"><span region="Default">Listen...</span></p>
+      <p
+        begin="01:02:46.000"
+        end="01:02:47.240"><span region="Default">Don't apply now.</span></p>
+      <p
+        begin="01:02:49.080"
+        end="01:02:51.280"><span region="Default">I'll speak to Dad if you want.</span></p>
+      <p
+        begin="01:02:54.000"
+        end="01:02:57.280"><span region="Default">Besides, you'll have to quit<br/>after pregnancy anyway.</span></p>
+      <p
+        begin="01:02:58.400"
+        end="01:02:59.280"><span region="Default">Right?</span></p>
+      <p
+        begin="01:03:05.760"
+        end="01:03:06.840"><span region="Default">Smile.</span></p>
+      <p
+        begin="01:03:20.360"
+        end="01:03:22.040"><span region="Default">Richu, look who's here!</span></p>
+      <p
+        begin="01:03:22.240"
+        end="01:03:23.440"><span region="Default">We have guests!</span></p>
+      <p
+        begin="01:03:23.800"
+        end="01:03:24.320"><span region="Default">Yes?</span></p>
+      <p
+        begin="01:03:24.440"
+        end="01:03:27.200"><span region="Default">I got you organic mangoes,<br/>straight from the farm!</span></p>
+      <p
+        begin="01:03:28.000"
+        end="01:03:29.400"><span region="Default">Don't they look amazing!</span></p>
+      <p
+        begin="01:03:29.520"
+        end="01:03:31.960"><span region="Default">How did you remember<br/>to visit us today?</span></p>
+      <p
+        begin="01:03:32.240"
+        end="01:03:33.000"><span region="Default">I had a meeting in Delhi,</span></p>
+      <p
+        begin="01:03:33.120"
+        end="01:03:34.600"><span region="Default">so I thought, why not<br/>spend the night here!</span></p>
+      <p
+        begin="01:03:34.720"
+        end="01:03:36.680"><span region="Default">Just one night?<br/>Come on, we're family!</span></p>
+      <p
+        begin="01:03:36.920"
+        end="01:03:38.640"><span region="Default">No time, man!<br/>You know how it is.</span></p>
+      <p
+        begin="01:03:38.760"
+        end="01:03:41.520"><span region="Default">I got fresh sweets!<br/>Try some.</span></p>
+      <p
+        begin="01:03:44.640"
+        end="01:03:46.400"><span region="Default">Look who's here!</span></p>
+      <p
+        begin="01:03:46.760"
+        end="01:03:48.320"><span region="Default">I'm sure you don't<br/>recognise me.</span></p>
+      <p
+        begin="01:03:48.760"
+        end="01:03:50.960"><span region="Default">I bet she doesn't.<br/>Tell me who I am?</span></p>
+      <p
+        begin="01:03:51.600"
+        end="01:03:53.920"><span region="Default">Diwakar's cousin, Tunnu bhaiyya<br/>and your wife Binni bhabhi.</span></p>
+      <p
+        begin="01:03:54.200"
+        end="01:03:55.440"><span region="Default">Superb!</span></p>
+      <p
+        begin="01:03:56.760"
+        end="01:03:58.200"><span region="Default">That's our son, Guddu.</span></p>
+      <p
+        begin="01:03:58.400"
+        end="01:03:59.800"><span region="Default">Guddu, say hello to everyone.</span></p>
+      <p
+        begin="01:04:00.640"
+        end="01:04:02.920"><span region="Default">How about a cup of strong tea<br/>for everyone?</span></p>
+      <p
+        begin="01:04:03.040"
+        end="01:04:04.720"><span region="Default">I'll have a lemon shikanji.</span></p>
+      <p
+        begin="01:04:04.840"
+        end="01:04:06.720"><span region="Default">- It's too hot outside for tea.<br/>- Can't you have tea?</span></p>
+      <p
+        begin="01:04:06.840"
+        end="01:04:08.160"><span region="Default">How many things will she make?</span></p>
+      <p
+        begin="01:04:08.280"
+        end="01:04:10.880"><span region="Default">Don't worry.<br/>She can do it in a jiffy.</span></p>
+      <p
+        begin="01:04:11.280"
+        end="01:04:12.800"><span region="Default">What will you have, Guddu?</span></p>
+      <p
+        begin="01:04:13.080"
+        end="01:04:13.720"><span region="Default">Cold coffee!</span></p>
+      <p
+        begin="01:04:13.840"
+        end="01:04:15.720"><span region="Default">No cold coffee for you.<br/>Have a lemon shikanji!</span></p>
+      <p
+        begin="01:04:17.480"
+        end="01:04:18.640"><span region="Default">Richa?</span></p>
+      <p
+        begin="01:04:18.840"
+        end="01:04:20.400"><span region="Default">A hot coffee for me.</span></p>
+      <p
+        begin="01:04:40.480"
+        end="01:04:43.000"><span region="Default">This calls for a party!<br/>Right?</span></p>
+      <p
+        begin="01:04:43.520"
+        end="01:04:45.640"><span region="Default">To Tunnu bhaiyya,<br/>and his terrific idea.</span></p>
+      <p
+        begin="01:04:45.760"
+        end="01:04:47.920"><span region="Default">As always!</span></p>
+      <p
+        begin="01:04:49.520"
+        end="01:04:53.800"><span region="Default">It's sundown now.<br/>We're past the time for this, right?</span></p>
+      <p
+        begin="01:04:54.040"
+        end="01:04:56.360"><span region="Default">Now that she's made it,<br/>why don't you have it?</span></p>
+      <p
+        begin="01:04:56.480"
+        end="01:04:58.640"><span region="Default">We're having whiskey now!</span></p>
+      <p
+        begin="01:05:00.400"
+        end="01:05:01.440"><span region="Default">OK, fine.</span></p>
+      <p
+        begin="01:05:01.760"
+        end="01:05:04.320"><span region="Default">Since you put in so much effort,<br/>I'll have a taste of it.</span></p>
+      <p
+        begin="01:05:04.440"
+        end="01:05:05.560"><span region="Default">No thanks.</span></p>
+      <p
+        begin="01:05:12.280"
+        end="01:05:14.840"><span region="Default">Making shikanji is an art.</span></p>
+      <p
+        begin="01:05:16.920"
+        end="01:05:19.440"><span region="Default">Shikanji can't be made<br/>like lemonade.</span></p>
+      <p
+        begin="01:05:20.040"
+        end="01:05:21.000"><span region="Default">Right?</span></p>
+      <p
+        begin="01:05:21.440"
+        end="01:05:23.840"><span region="Default">The water must be<br/>chilled just right.</span></p>
+      <p
+        begin="01:05:24.080"
+        end="01:05:26.080"><span region="Default">The sugar must be perfect.</span></p>
+      <p
+        begin="01:05:26.240"
+        end="01:05:28.000"><span region="Default">A pinch of black salt,</span></p>
+      <p
+        begin="01:05:28.120"
+        end="01:05:29.480"><span region="Default">a pinch of cumin,</span></p>
+      <p
+        begin="01:05:29.680"
+        end="01:05:31.640"><span region="Default">and a hint of black pepper.</span></p>
+      <p
+        begin="01:05:32.120"
+        end="01:05:34.360"><span region="Default">That's a real shikanji.<br/>But, good attempt!</span></p>
+      <p
+        begin="01:05:34.480"
+        end="01:05:36.920"><span region="Default">This is a house,<br/>not a restaurant!</span></p>
+      <p
+        begin="01:05:37.520"
+        end="01:05:40.520"><span region="Default">A wife who earns<br/>always has an attitude!</span></p>
+      <p
+        begin="01:05:41.680"
+        end="01:05:43.720"><span region="Default">OK tell me,<br/>what would you like for dinner?</span></p>
+      <p
+        begin="01:05:43.920"
+        end="01:05:45.840"><span region="Default">- Dinner is already made.<br/>- Ved Prakash is getting mutton.</span></p>
+      <p
+        begin="01:05:45.960"
+        end="01:05:47.640"><span region="Default">Then I'll cook mutton curry tonight,</span></p>
+      <p
+        begin="01:05:47.760"
+        end="01:05:49.000"><span region="Default">followed by my special shikanji!</span></p>
+      <p
+        begin="01:05:49.200"
+        end="01:05:51.120"><span region="Default">The proper one.<br/>What say?</span></p>
+      <p
+        begin="01:05:51.280"
+        end="01:05:52.240"><span region="Default">No, no!</span></p>
+      <p
+        begin="01:05:52.360"
+        end="01:05:53.920"><span region="Default">Please let it be.<br/>We'll cook dinner.</span></p>
+      <p
+        begin="01:05:54.040"
+        end="01:05:55.960"><span region="Default">Chill out, Binny!</span></p>
+      <p
+        begin="01:05:56.320"
+        end="01:05:58.200"><span region="Default">You ladies relax,<br/>the men shall cook tonight!</span></p>
+      <p
+        begin="01:05:58.320"
+        end="01:05:59.040"><span region="Default">OK?</span></p>
+      <p
+        begin="01:05:59.160"
+        end="01:06:01.640"><span region="Default">Richa, I need 7-8 onions,<br/>finely chopped.</span></p>
+      <p
+        begin="01:06:01.920"
+        end="01:06:04.040"><span region="Default">A bit of ginger-garlic paste,</span></p>
+      <p
+        begin="01:06:04.360"
+        end="01:06:05.640"><span region="Default">5-6 tomatoes, chopped...</span></p>
+      <p
+        begin="01:06:05.800"
+        end="01:06:07.480"><span region="Default">Do you know how<br/>to marinate mutton?</span></p>
+      <p
+        begin="01:06:07.600"
+        end="01:06:09.880"><span region="Default">Binny, marinate it,<br/>will you?</span></p>
+      <p
+        begin="01:06:10.160"
+        end="01:06:11.960"><span region="Default">And call us in 30 minutes.</span></p>
+      <p
+        begin="01:06:12.320"
+        end="01:06:14.120"><span region="Default">Both brothers<br/>shall cook tonight!</span></p>
+      <p
+        begin="01:06:14.240"
+        end="01:06:16.480"><span region="Default">It's decided. Cheers!</span></p>
+      <p
+        begin="01:06:49.760"
+        end="01:06:51.040"><span region="Default">Oh God!</span></p>
+      <p
+        begin="01:06:52.120"
+        end="01:06:53.640"><span region="Default">This is exactly<br/>what I feared.</span></p>
+      <p
+        begin="01:06:53.920"
+        end="01:06:55.040"><span region="Default">Can I help you?</span></p>
+      <p
+        begin="01:06:55.160"
+        end="01:06:56.760"><span region="Default">No, I'll manage.</span></p>
+      <p
+        begin="01:06:56.960"
+        end="01:06:58.360"><span region="Default">You have to be up early<br/>tomorrow, anyway.</span></p>
+      <p
+        begin="01:06:58.480"
+        end="01:06:59.840"><span region="Default">- Are you sure?<br/>- Yes.</span></p>
+      <p
+        begin="01:07:00.440"
+        end="01:07:02.640"><span region="Default">You won't be used to<br/>this kitchen, anyway.</span></p>
+      <p
+        begin="01:07:02.880"
+        end="01:07:04.480"><span region="Default">Mummy! Mummy!</span></p>
+      <p
+        begin="01:07:04.760"
+        end="01:07:05.800"><span region="Default">I'm coming!</span></p>
+      <p
+        begin="01:07:12.520"
+        end="01:07:13.240"><span region="Default">Richu!</span></p>
+      <p
+        begin="01:07:13.360"
+        end="01:07:14.920"><span region="Default">Three shikanjis, quick!</span></p>
+      <p
+        begin="01:07:15.200"
+        end="01:07:16.200"><span region="Default">Richu?</span></p>
+      <p
+        begin="01:07:17.080"
+        end="01:07:18.200"><span region="Default">I'm getting it!</span></p>
+      <p
+        begin="01:08:41.440"
+        end="01:08:42.640"><span region="Default">Richa, dear?</span></p>
+      <p
+        begin="01:08:45.880"
+        end="01:08:47.000"><span region="Default">Are you going somewhere?</span></p>
+      <p
+        begin="01:08:49.440"
+        end="01:08:50.480"><span region="Default">Yes, Papa.</span></p>
+      <p
+        begin="01:08:50.760"
+        end="01:08:53.200"><span region="Default">I'm going for a job interview.</span></p>
+      <p
+        begin="01:08:54.680"
+        end="01:08:56.720"><span region="Default">Didn't I advise you<br/>against pursuing a job?</span></p>
+      <p
+        begin="01:08:58.600"
+        end="01:08:59.880"><span region="Default">Remember?</span></p>
+      <p
+        begin="01:09:00.360"
+        end="01:09:01.840"><span region="Default">You know, your mother-in-law...</span></p>
+      <p
+        begin="01:09:03.520"
+        end="01:09:05.240"><span region="Default">She has a PhD,</span></p>
+      <p
+        begin="01:09:05.640"
+        end="01:09:06.920"><span region="Default">in Economics.</span></p>
+      <p
+        begin="01:09:08.200"
+        end="01:09:12.520"><span region="Default">But her home and kids<br/>were always her first priority.</span></p>
+      <p
+        begin="01:09:13.520"
+        end="01:09:16.560"><span region="Default">Now look - Diwakar is a doctor,<br/>and Divya is well settled.</span></p>
+      <p
+        begin="01:09:17.240"
+        end="01:09:18.560"><span region="Default">It's a part-time job, Papa.</span></p>
+      <p
+        begin="01:09:18.680"
+        end="01:09:20.520"><span region="Default">I've already made<br/>lunch and breakfast</span></p>
+      <p
+        begin="01:09:20.640"
+        end="01:09:22.000"><span region="Default">and done the cleaning too.</span></p>
+      <p
+        begin="01:09:22.120"
+        end="01:09:24.120"><span region="Default">I'll manage both<br/>the job and house.</span></p>
+      <p
+        begin="01:09:24.720"
+        end="01:09:25.920"><span region="Default">We don't have kids yet-</span></p>
+      <p
+        begin="01:09:26.040"
+        end="01:09:28.560"><span region="Default">That's the problem<br/>with your generation.</span></p>
+      <p
+        begin="01:09:29.080"
+        end="01:09:31.320"><span region="Default">You underestimate<br/>the biological clock.</span></p>
+      <p
+        begin="01:09:32.920"
+        end="01:09:36.800"><span region="Default">"Richa Kumar,<br/>care of Dr Ashwin Kumar."</span></p>
+      <p
+        begin="01:09:36.920"
+        end="01:09:39.440"><span region="Default">That's the address you wrote<br/>in your application, right?</span></p>
+      <p
+        begin="01:09:43.320"
+        end="01:09:44.280"><span region="Default">So then...</span></p>
+      <p
+        begin="01:09:44.400"
+        end="01:09:47.560"><span region="Default">You're under my care,<br/>isn't it?</span></p>
+      <p
+        begin="01:09:59.320"
+        end="01:10:00.240"><span region="Default">Papa...</span></p>
+      <p
+        begin="01:11:37.560"
+        end="01:11:40.400"><span region="Default">You know, she's the reason<br/>I learnt how to dance!</span></p>
+      <p
+        begin="01:11:42.880"
+        end="01:11:45.200"><span region="Default">I pushed her<br/>to join the troupe!</span></p>
+      <p
+        begin="01:11:45.960"
+        end="01:11:48.400"><span region="Default">I'm doing solo choreography now,<br/>all thanks to her.</span></p>
+      <p
+        begin="01:11:49.240"
+        end="01:11:51.240"><span region="Default">And now, she herself has<br/>disappeared from the scene!</span></p>
+      <p
+        begin="01:11:51.440"
+        end="01:11:52.600"><span region="Default">When will you come back?</span></p>
+      <p
+        begin="01:11:52.720"
+        end="01:11:54.360"><span region="Default">We miss you so much!</span></p>
+      <p
+        begin="01:11:54.720"
+        end="01:11:56.000"><span region="Default">Yes, you should go.</span></p>
+      <p
+        begin="01:11:56.240"
+        end="01:11:57.880"><span region="Default">You can visit them<br/>once a week, at least.</span></p>
+      <p
+        begin="01:11:58.000"
+        end="01:11:58.720"><span region="Default">Really?</span></p>
+      <p
+        begin="01:11:58.840"
+        end="01:12:00.720"><span region="Default">Do you go to the clinic<br/>once a week?</span></p>
+      <p
+        begin="01:12:00.920"
+        end="01:12:02.000"><span region="Default">I wish!</span></p>
+      <p
+        begin="01:12:02.880"
+        end="01:12:04.040"><span region="Default">But that's my job.</span></p>
+      <p
+        begin="01:12:04.240"
+        end="01:12:05.920"><span region="Default">- And dancing is their job.<br/>- Exactly.</span></p>
+      <p
+        begin="01:12:06.040"
+        end="01:12:08.520"><span region="Default">Not just that -<br/>it's their divine calling.</span></p>
+      <p
+        begin="01:12:12.520"
+        end="01:12:13.920"><span region="Default">Hey, relax.</span></p>
+      <p
+        begin="01:12:15.360"
+        end="01:12:17.120"><span region="Default">Finish your wine.<br/>I'll clear this up.</span></p>
+      <p
+        begin="01:12:17.600"
+        end="01:12:18.560"><span region="Default">Wow!</span></p>
+      <p
+        begin="01:12:19.000"
+        end="01:12:20.680"><span region="Default">You're being so helpful here!</span></p>
+      <p
+        begin="01:12:22.400"
+        end="01:12:23.440"><span region="Default">So?</span></p>
+      <p
+        begin="01:12:24.440"
+        end="01:12:25.560"><span region="Default">Don't I help you at home?</span></p>
+      <p
+        begin="01:12:26.080"
+        end="01:12:27.200"><span region="Default">Help?</span></p>
+      <p
+        begin="01:12:27.840"
+        end="01:12:31.120"><span region="Default">Forget helping in the kitchen,<br/>he doesn't even budge!</span></p>
+      <p
+        begin="01:12:32.320"
+        end="01:12:34.120"><span region="Default">He comes to eat<br/>with his father</span></p>
+      <p
+        begin="01:12:34.320"
+        end="01:12:35.960"><span region="Default">and follows him out<br/>when he's done!</span></p>
+      <p
+        begin="01:12:38.600"
+        end="01:12:40.360"><span region="Default">'Richu, hot phulkas!'</span></p>
+      <p
+        begin="01:12:40.520"
+        end="01:12:41.840"><span region="Default">'Richu, shirt!'</span></p>
+      <p
+        begin="01:12:41.960"
+        end="01:12:43.480"><span region="Default">'Richu, tea!'</span></p>
+      <p
+        begin="01:12:44.840"
+        end="01:12:47.400"><span region="Default">I too work alone<br/>in the clinic.</span></p>
+      <p
+        begin="01:12:48.120"
+        end="01:12:49.320"><span region="Default">Do you help me there?</span></p>
+      <p
+        begin="01:12:49.440"
+        end="01:12:50.120"><span region="Default">Really?</span></p>
+      <p
+        begin="01:12:50.240"
+        end="01:12:52.240"><span region="Default">As if you'd let me<br/>go out and work?</span></p>
+      <p
+        begin="01:12:53.000"
+        end="01:12:55.400"><span region="Default">You found a cook and housemaid<br/>to work for free, after all!</span></p>
+      <p
+        begin="01:12:57.000"
+        end="01:12:58.280"><span region="Default">Guys, cassata?</span></p>
+      <p
+        begin="01:12:58.520"
+        end="01:12:59.640"><span region="Default">Especially for Richa.</span></p>
+      <p
+        begin="01:12:59.840"
+        end="01:13:01.800"><span region="Default">Yes, please.<br/>One big piece for me.</span></p>
+      <p
+        begin="01:13:02.200"
+        end="01:13:03.320"><span region="Default">It's her favourite.</span></p>
+      <p
+        begin="01:13:13.080"
+        end="01:13:14.320"><span region="Default">Are you drunk?</span></p>
+      <p
+        begin="01:13:15.120"
+        end="01:13:16.320"><span region="Default">What are you even saying?</span></p>
+      <p
+        begin="01:13:16.560"
+        end="01:13:18.920"><span region="Default">I married you to get<br/>a free cook and maid?</span></p>
+      <p
+        begin="01:13:22.800"
+        end="01:13:24.280"><span region="Default">I was kidding, Diwakar.</span></p>
+      <p
+        begin="01:13:24.480"
+        end="01:13:25.960"><span region="Default">Is this why<br/>you got me here?</span></p>
+      <p
+        begin="01:13:26.400"
+        end="01:13:28.760"><span region="Default">To insult me in front of<br/>your friend and her husband?</span></p>
+      <p
+        begin="01:13:29.560"
+        end="01:13:30.360"><span region="Default">Diwakar, please.</span></p>
+      <p
+        begin="01:13:30.560"
+        end="01:13:32.040"><span region="Default">I'm a respectable doctor.</span></p>
+      <p
+        begin="01:13:33.280"
+        end="01:13:34.720"><span region="Default">Is that how<br/>you'll talk about me?</span></p>
+      <p
+        begin="01:13:35.320"
+        end="01:13:36.560"><span region="Default">Please, can we talk later?</span></p>
+      <p
+        begin="01:13:36.960"
+        end="01:13:38.400"><span region="Default">- Guys?<br/>- Yes?</span></p>
+      <p
+        begin="01:13:38.880"
+        end="01:13:40.520"><span region="Default">Don't bother with the dishes.</span></p>
+      <p
+        begin="01:13:40.880"
+        end="01:13:41.960"><span region="Default">I'll load them in the dishwasher later.</span></p>
+      <p
+        begin="01:13:42.520"
+        end="01:13:44.320"><span region="Default">Yeah, OK.</span></p>
+      <p
+        begin="01:13:49.960"
+        end="01:13:51.560"><span region="Default">It's a huge piece.<br/>I won't be able to finish it.</span></p>
+      <p
+        begin="01:13:51.680"
+        end="01:13:52.640"><span region="Default">Why don't you both share it?</span></p>
+      <p
+        begin="01:13:52.840"
+        end="01:13:54.640"><span region="Default">Love grows stronger<br/>if you share a plate.</span></p>
+      <p
+        begin="01:13:57.720"
+        end="01:13:58.680"><span region="Default">Diwakar?</span></p>
+      <p
+        begin="01:13:58.960"
+        end="01:14:00.600"><span region="Default">No, I'm full.</span></p>
+      <p
+        begin="01:14:01.920"
+        end="01:14:03.000"><span region="Default">She can finish it.</span></p>
+      <p
+        begin="01:14:03.200"
+        end="01:14:05.000"><span region="Default">Of course, she can eat<br/>a whole box of cassata.</span></p>
+      <p
+        begin="01:14:05.160"
+        end="01:14:06.440"><span region="Default">Have it.</span></p>
+      <p
+        begin="01:14:09.400"
+        end="01:14:10.760"><span region="Default">For you, Babe.</span></p>
+      <p
+        begin="01:14:38.000"
+        end="01:14:39.040"><span region="Default">Diwakar?</span></p>
+      <p
+        begin="01:14:39.960"
+        end="01:14:43.200"><span region="Default">A couple shouldn't go to bed<br/>angry like this.</span></p>
+      <p
+        begin="01:14:48.240"
+        end="01:14:50.080"><span region="Default">Fight with me if you want,</span></p>
+      <p
+        begin="01:14:51.120"
+        end="01:14:52.760"><span region="Default">scold me, but talk to me.</span></p>
+      <p
+        begin="01:14:57.280"
+        end="01:14:59.600"><span region="Default">Do I really treat you like<br/>an unpaid housemaid?</span></p>
+      <p
+        begin="01:15:00.240"
+        end="01:15:03.240"><span region="Default">Can't we move on?<br/>No one even heard it.</span></p>
+      <p
+        begin="01:15:03.600"
+        end="01:15:04.800"><span region="Default">I did.</span></p>
+      <p
+        begin="01:15:11.400"
+        end="01:15:13.280"><span region="Default">Do you think you made a mistake?</span></p>
+      <p
+        begin="01:15:19.120"
+        end="01:15:20.720"><span region="Default">Then maybe, a sorry?</span></p>
+      <p
+        begin="01:15:22.120"
+        end="01:15:23.240"><span region="Default">Sorry.</span></p>
+      <p
+        begin="01:15:40.640"
+        end="01:15:42.080"><span region="Default">How was the ice cream?</span></p>
+      <p
+        begin="01:15:44.280"
+        end="01:15:45.520"><span region="Default">OK-OK.</span></p>
+      <p
+        begin="01:15:48.600"
+        end="01:15:49.720"><span region="Default">Just OK?</span></p>
+      <p
+        begin="01:15:52.720"
+        end="01:15:56.560"><span region="Default">You gobbled the whole thing,<br/>didn't even offer me a bite!</span></p>
+      <p
+        begin="01:17:21.000"
+        end="01:17:22.000"><span region="Default">Richa...</span></p>
+      <p
+        begin="01:17:22.680"
+        end="01:17:23.720"><span region="Default">Diwakar?</span></p>
+      <p
+        begin="01:17:23.840"
+        end="01:17:26.640"><span region="Default">Ved Prakash told me that<br/>the leakage problem is an old one.</span></p>
+      <p
+        begin="01:17:27.080"
+        end="01:17:28.760"><span region="Default">We'll have to change the entire pipeline.</span></p>
+      <p
+        begin="01:17:28.920"
+        end="01:17:30.480"><span region="Default">Please get someone to fix this.</span></p>
+      <p
+        begin="01:17:30.880"
+        end="01:17:33.680"><span region="Default">Please pack my bag,<br/>I'm leaving for a conference.</span></p>
+      <p
+        begin="01:17:48.040"
+        end="01:17:49.920"><span region="Default">It's Papa's birthday<br/>as soon as I'm back.</span></p>
+      <p
+        begin="01:17:50.240"
+        end="01:17:52.000"><span region="Default">His friends will be over for lunch.</span></p>
+      <p
+        begin="01:17:52.640"
+        end="01:17:54.400"><span region="Default">The food has to be kickass, OK?</span></p>
+      <p
+        begin="01:17:55.080"
+        end="01:17:56.440"><span region="Default">I'll work on the menu.</span></p>
+      <p
+        begin="01:17:57.960"
+        end="01:17:59.600"><span region="Default">The packing is done.<br/>Need anything else?</span></p>
+      <p
+        begin="01:18:00.840"
+        end="01:18:01.760"><span region="Default">Yes.</span></p>
+      <p
+        begin="01:18:02.720"
+        end="01:18:04.320"><span region="Default">I need something else<br/>from you.</span></p>
+      <p
+        begin="01:18:05.480"
+        end="01:18:07.040"><span region="Default">The taxi won't be here<br/>for another twenty minutes...</span></p>
+      <p
+        begin="01:18:07.160"
+        end="01:18:08.240"><span region="Default">Diwakar, please.</span></p>
+      <p
+        begin="01:18:08.680"
+        end="01:18:10.360"><span region="Default">Let's not waste<br/>your ovulation period.</span></p>
+      <p
+        begin="01:18:10.920"
+        end="01:18:12.120"><span region="Default">Diwakar, please!</span></p>
+      <p
+        begin="01:18:13.360"
+        end="01:18:14.320"><span region="Default">What happened?</span></p>
+      <p
+        begin="01:18:18.440"
+        end="01:18:19.480"><span region="Default">Is everything alright?</span></p>
+      <p
+        begin="01:18:23.240"
+        end="01:18:24.600"><span region="Default">What's wrong with you, Richa?</span></p>
+      <p
+        begin="01:18:26.520"
+        end="01:18:27.520"><span region="Default">What's the problem?</span></p>
+      <p
+        begin="01:18:32.040"
+        end="01:18:33.960"><span region="Default">I'm talking to you!<br/>What's going on?</span></p>
+      <p
+        begin="01:18:36.800"
+        end="01:18:38.520"><span region="Default">Is sex only to make babies?</span></p>
+      <p
+        begin="01:18:39.800"
+        end="01:18:40.920"><span region="Default">We're married...</span></p>
+      <p
+        begin="01:18:41.720"
+        end="01:18:43.000"><span region="Default">Family planning<br/>is important, right?</span></p>
+      <p
+        begin="01:18:43.360"
+        end="01:18:45.520"><span region="Default">Planning? Like this?</span></p>
+      <p
+        begin="01:18:46.280"
+        end="01:18:47.680"><span region="Default">By having mechanical sex?</span></p>
+      <p
+        begin="01:18:50.200"
+        end="01:18:51.240"><span region="Default">What do you mean?</span></p>
+      <p
+        begin="01:18:53.080"
+        end="01:18:54.920"><span region="Default">How do you not realise, Diwakar?</span></p>
+      <p
+        begin="01:18:55.520"
+        end="01:18:57.680"><span region="Default">I feel pain! Can't you see?</span></p>
+      <p
+        begin="01:18:58.760"
+        end="01:19:00.440"><span region="Default">So even sex with me<br/>is painful now?</span></p>
+      <p
+        begin="01:19:00.560"
+        end="01:19:01.440"><span region="Default">Yes!</span></p>
+      <p
+        begin="01:19:02.720"
+        end="01:19:04.040"><span region="Default">Sex shouldn't be a task.</span></p>
+      <p
+        begin="01:19:04.320"
+        end="01:19:06.200"><span region="Default">Like you finish,<br/>and it's 'task over'!</span></p>
+      <p
+        begin="01:19:07.920"
+        end="01:19:09.400"><span region="Default">Where's the intimacy, Diwakar?</span></p>
+      <p
+        begin="01:19:09.600"
+        end="01:19:10.880"><span region="Default">What about foreplay?</span></p>
+      <p
+        begin="01:19:11.640"
+        end="01:19:13.000"><span region="Default">I too have desires!</span></p>
+      <p
+        begin="01:19:14.160"
+        end="01:19:15.920"><span region="Default">You just get on top<br/>and start off!</span></p>
+      <p
+        begin="01:19:16.360"
+        end="01:19:18.480"><span region="Default">And the moment you're done...</span></p>
+      <p
+        begin="01:19:22.400"
+        end="01:19:23.240"><span region="Default">So...</span></p>
+      <p
+        begin="01:19:25.200"
+        end="01:19:26.760"><span region="Default">You're pretty experienced!</span></p>
+      <p
+        begin="01:19:27.600"
+        end="01:19:28.880"><span region="Default">Sex expert, eh?</span></p>
+      <p
+        begin="01:19:38.800"
+        end="01:19:39.960"><span region="Default">Desires...</span></p>
+      <p
+        begin="01:19:42.640"
+        end="01:19:44.480"><span region="Default">You think you're worth desiring?</span></p>
+      <p
+        begin="01:19:47.200"
+        end="01:19:48.720"><span region="Default">You stink of the kitchen!</span></p>
+      <p
+        begin="01:19:51.880"
+        end="01:19:53.760"><span region="Default">Have you looked into<br/>the mirror lately?</span></p>
+      <p
+        begin="01:19:55.720"
+        end="01:19:56.880"><span region="Default">"Mechanical sex!"</span></p>
+      <p
+        begin="01:20:12.360"
+        end="01:20:13.320"><span region="Default">Richa?</span></p>
+      <p
+        begin="01:20:15.720"
+        end="01:20:17.760"><span region="Default">I'm here to substitute<br/>for your mother-in-law today!</span></p>
+      <p
+        begin="01:20:17.920"
+        end="01:20:19.360"><span region="Default">I got you the Karwa Chauth<br/>morning meal.</span></p>
+      <p
+        begin="01:20:19.640"
+        end="01:20:20.920"><span region="Default">Namaste, Aunty.</span></p>
+      <p
+        begin="01:20:21.280"
+        end="01:20:23.520"><span region="Default">Have you decided what<br/>you'll wear tomorrow?</span></p>
+      <p
+        begin="01:20:23.840"
+        end="01:20:25.840"><span region="Default">Have a heavy meal tonight.</span></p>
+      <p
+        begin="01:20:26.080"
+        end="01:20:27.880"><span region="Default">Tomorrow, you can't<br/>even drink water.</span></p>
+      <p
+        begin="01:20:28.000"
+        end="01:20:29.000"><span region="Default">- Guddu...<br/>- Yes?</span></p>
+      <p
+        begin="01:20:29.120"
+        end="01:20:31.640"><span region="Default">You used to make<br/>fantastic sabudana khichdi, right?</span></p>
+      <p
+        begin="01:20:31.760"
+        end="01:20:33.240"><span region="Default">- Yes!<br/>- Please do make it tomorrow.</span></p>
+      <p
+        begin="01:20:33.520"
+        end="01:20:36.200"><span region="Default">Sure, I will.<br/>I've also brought guavas for you.</span></p>
+      <p
+        begin="01:20:36.400"
+        end="01:20:38.560"><span region="Default">- I'll make a curry out of them.<br/>- Superb.</span></p>
+      <p
+        begin="01:20:38.760"
+        end="01:20:40.160"><span region="Default">Richa, do me a favour.</span></p>
+      <p
+        begin="01:20:40.360"
+        end="01:20:42.360"><span region="Default">Chop the guavas for now.</span></p>
+      <p
+        begin="01:20:42.760"
+        end="01:20:43.640"><span region="Default">I'll go get mango powder.</span></p>
+      <p
+        begin="01:20:46.160"
+        end="01:20:48.000"><span region="Default">Why don't you just rest for a bit?<br/>I'll take care of this.</span></p>
+      <p
+        begin="01:20:48.120"
+        end="01:20:49.680"><span region="Default">I've come here to help you!</span></p>
+      <p
+        begin="01:20:49.880"
+        end="01:20:51.600"><span region="Default">I'm on mom-in-law duty,<br/>remember?</span></p>
+      <p
+        begin="01:21:05.080"
+        end="01:21:06.360"><span region="Default">Richa?</span></p>
+      <p
+        begin="01:21:06.760"
+        end="01:21:09.800"><span region="Default">The cleaner the kitchen,<br/>the more prosperous the home.</span></p>
+      <p
+        begin="01:21:10.080"
+        end="01:21:11.120"><span region="Default">Yes, Aunty.</span></p>
+      <p
+        begin="01:21:11.240"
+        end="01:21:13.240"><span region="Default">The entire pipeline<br/>needs to be changed.</span></p>
+      <p
+        begin="01:21:18.840"
+        end="01:21:19.800"><span region="Default">Eeks!</span></p>
+      <p
+        begin="01:21:19.920"
+        end="01:21:21.800"><span region="Default">The bottle's all greasy.</span></p>
+      <p
+        begin="01:21:24.640"
+        end="01:21:25.920"><span region="Default">- Aunty!<br/>- Yes?</span></p>
+      <p
+        begin="01:21:26.120"
+        end="01:21:27.640"><span region="Default">Here's the chicken<br/>for tonight's dinner.</span></p>
+      <p
+        begin="01:21:28.160"
+        end="01:21:31.400"><span region="Default">And peas for tomorrow<br/>and the day after.</span></p>
+      <p
+        begin="01:21:41.560"
+        end="01:21:42.520"><span region="Default">Richa...</span></p>
+      <p
+        begin="01:21:42.960"
+        end="01:21:44.560"><span region="Default">This is my chicken recipe.</span></p>
+      <p
+        begin="01:21:44.920"
+        end="01:21:46.840"><span region="Default">I love cooking.</span></p>
+      <p
+        begin="01:21:47.200"
+        end="01:21:50.040"><span region="Default">I taught your mother-in-law<br/>to cook, too.</span></p>
+      <p
+        begin="01:21:56.320"
+        end="01:21:57.880"><span region="Default">I love dancing.</span></p>
+      <p
+        begin="01:21:58.200"
+        end="01:21:59.280"><span region="Default">Dance?</span></p>
+      <p
+        begin="01:21:59.640"
+        end="01:22:01.000"><span region="Default">What dance?</span></p>
+      <p
+        begin="01:22:01.240"
+        end="01:22:02.120"><span region="Default">I'm a dancer.</span></p>
+      <p
+        begin="01:22:02.240"
+        end="01:22:03.920"><span region="Default">I have a dance troupe, too.</span></p>
+      <p
+        begin="01:22:04.280"
+        end="01:22:05.600"><span region="Default">Let me show you.</span></p>
+      <p
+        begin="01:22:07.040"
+        end="01:22:07.840"><span region="Default">Look.</span></p>
+      <p
+        begin="01:22:19.040"
+        end="01:22:20.600"><span region="Default">That must be Diwakar.</span></p>
+      <p
+        begin="01:22:21.880"
+        end="01:22:23.200"><span region="Default">Diwakar!</span></p>
+      <p
+        begin="01:22:24.600"
+        end="01:22:25.640"><span region="Default">Look at you.</span></p>
+      <p
+        begin="01:22:25.920"
+        end="01:22:28.400"><span region="Default">People gain weight after marriage,<br/>and you're just getting thinner!</span></p>
+      <p
+        begin="01:22:30.040"
+        end="01:22:32.920"><span region="Default">What can I do, Aunty -<br/>she hogs all the food!</span></p>
+      <p
+        begin="01:22:33.040"
+        end="01:22:37.000"><span region="Default">Please take your meds on time<br/>during the Karwa Chauth fast.</span></p>
+      <p
+        begin="01:22:37.120"
+        end="01:22:39.280"><span region="Default">Skipping medicines one day<br/>won't kill me!</span></p>
+      <p
+        begin="01:23:02.240"
+        end="01:23:04.840"><span region="Default">- Fasting is good for health.<br/>- Yes.</span></p>
+      <p
+        begin="01:23:05.800"
+        end="01:23:09.560"><span region="Default">All our traditions like Karwa Chauth<br/>are well thought out.</span></p>
+      <p
+        begin="01:23:10.320"
+        end="01:23:14.600"><span region="Default">Every tradition is backed<br/>with scientific reasoning.</span></p>
+      <p
+        begin="01:23:14.840"
+        end="01:23:16.520"><span region="Default">You're absolutely right.</span></p>
+      <p
+        begin="01:23:16.760"
+        end="01:23:19.400"><span region="Default">- Some tomato-jaggery chutney?<br/>- Yes, please.</span></p>
+      <p
+        begin="01:23:24.680"
+        end="01:23:27.320"><span region="Default">- Why don't you train her?<br/>- She'll learn eventually.</span></p>
+      <p
+        begin="01:23:54.640"
+        end="01:23:56.240"><span region="Default">- Are you OK?<br/>- Yes.</span></p>
+      <p
+        begin="01:23:56.440"
+        end="01:24:00.080"><span region="Default">- It's just my BP and diabetes.<br/>- I'll get your medicines.</span></p>
+      <p
+        begin="01:24:00.320"
+        end="01:24:02.440"><span region="Default">No way! No medicines.</span></p>
+      <p
+        begin="01:24:03.440"
+        end="01:24:04.720"><span region="Default">I'm fasting!</span></p>
+      <p
+        begin="01:24:05.200"
+        end="01:24:09.240"><span region="Default">Fasting shouldn't be compulsory.<br/>Take your medicine.</span></p>
+      <p
+        begin="01:24:09.360"
+        end="01:24:11.680"><span region="Default">I have no difficulty fasting!</span></p>
+      <p
+        begin="01:24:11.880"
+        end="01:24:13.280"><span region="Default">I've been doing it for years.</span></p>
+      <p
+        begin="01:24:13.440"
+        end="01:24:16.320"><span region="Default">Your generation has<br/>no will power!</span></p>
+      <p
+        begin="01:24:17.960"
+        end="01:24:19.600"><span region="Default">Focus on your own fast.</span></p>
+      <p
+        begin="01:24:22.920"
+        end="01:24:26.760"><span region="Default">Your mother-in-law told me<br/>you nibble at food while cooking?</span></p>
+      <p
+        begin="01:24:27.400"
+        end="01:24:30.840"><span region="Default">I hope you won't<br/>polish off all the paneer</span></p>
+      <p
+        begin="01:24:30.960"
+        end="01:24:32.680"><span region="Default">and just serve us<br/>plain gravy!</span></p>
+      <p
+        begin="01:24:33.400"
+        end="01:24:35.120"><span region="Default">Now go keep the medicine back.</span></p>
+      <p
+        begin="01:25:36.400"
+        end="01:25:39.080"><span region="Default">Look! Do I look like a prime number?</span></p>
+      <p
+        begin="01:25:40.520"
+        end="01:25:41.480"><span region="Default">Of course.</span></p>
+      <p
+        begin="01:25:41.600"
+        end="01:25:42.960"><span region="Default">You're a prime number, too!</span></p>
+      <p
+        begin="01:25:45.320"
+        end="01:25:46.280"><span region="Default">You think so?</span></p>
+      <p
+        begin="01:25:46.400"
+        end="01:25:47.200"><span region="Default">Yes!</span></p>
+      <p
+        begin="01:25:50.480"
+        end="01:25:52.560"><span region="Default">- Do you remember the prime numbers?<br/>- Yes.</span></p>
+      <p
+        begin="01:25:52.960"
+        end="01:25:55.160"><span region="Default">One, three, five,<br/>seven, eleven...</span></p>
+      <p
+        begin="01:25:55.400"
+        end="01:25:58.480"><span region="Default">Numbers that are unbreakable<br/>except by themselves.</span></p>
+      <p
+        begin="01:26:02.560"
+        end="01:26:03.600"><span region="Default">Richa!</span></p>
+      <p
+        begin="01:26:10.280"
+        end="01:26:11.440"><span region="Default">What's this?</span></p>
+      <p
+        begin="01:26:14.320"
+        end="01:26:16.160"><span region="Default">They're old videos, Diwakar.</span></p>
+      <p
+        begin="01:26:17.040"
+        end="01:26:18.640"><span region="Default">You know about them.</span></p>
+      <p
+        begin="01:26:20.040"
+        end="01:26:21.440"><span region="Default">I thought these were private.</span></p>
+      <p
+        begin="01:26:21.680"
+        end="01:26:24.360"><span region="Default">I'm not well-versed<br/>with social media.</span></p>
+      <p
+        begin="01:26:26.400"
+        end="01:26:27.680"><span region="Default">This doesn't look good.</span></p>
+      <p
+        begin="01:26:28.240"
+        end="01:26:29.400"><span region="Default">Delete them.</span></p>
+      <p
+        begin="01:26:37.320"
+        end="01:26:38.560"><span region="Default">I won't.</span></p>
+      <p
+        begin="01:26:39.800"
+        end="01:26:41.760"><span region="Default">If you want to live in this house,</span></p>
+      <p
+        begin="01:26:42.480"
+        end="01:26:44.040"><span region="Default">you have to follow its rules.</span></p>
+      <p
+        begin="01:26:46.080"
+        end="01:26:47.320"><span region="Default">Delete them, or-</span></p>
+      <p
+        begin="01:26:47.880"
+        end="01:26:48.920"><span region="Default">Or what?</span></p>
+      <p
+        begin="01:26:49.760"
+        end="01:26:50.760"><span region="Default">What will you do?</span></p>
+      <p
+        begin="01:27:38.760"
+        end="01:27:39.960"><span region="Default">Touch his feet.</span></p>
+      <p
+        begin="01:27:46.040"
+        end="01:27:47.520"><span region="Default">Give her a sip of water.</span></p>
+      <p
+        begin="01:27:55.040"
+        end="01:27:57.520"><span region="Default">Congratulations!<br/>Your first Karwa Chauth!</span></p>
+      <p
+        begin="01:27:57.960"
+        end="01:27:59.200"><span region="Default">Let's go sit.</span></p>
+      <p
+        begin="01:28:38.920"
+        end="01:28:39.920"><span region="Default">Diwakar!</span></p>
+      <p
+        begin="01:28:40.160"
+        end="01:28:41.560"><span region="Default">Aunty, at least stay<br/>for the party?</span></p>
+      <p
+        begin="01:28:41.680"
+        end="01:28:44.280"><span region="Default">No. My work here is done.</span></p>
+      <p
+        begin="01:28:44.400"
+        end="01:28:46.360"><span region="Default">I have my own household to run!</span></p>
+      <p
+        begin="01:28:57.280"
+        end="01:28:58.080"><span region="Default">Ved!</span></p>
+      <p
+        begin="01:28:59.080"
+        end="01:29:00.200"><span region="Default">Get more balloons.</span></p>
+      <p
+        begin="01:29:28.600"
+        end="01:29:30.360"><span region="Default">Mr Mehta, please come!</span></p>
+      <p
+        begin="01:29:30.760"
+        end="01:29:32.480"><span region="Default">Oh, you shouldn't have...</span></p>
+      <p
+        begin="01:29:33.040"
+        end="01:29:35.280"><span region="Default">- Thank you, thank you so much.<br/>- Many happy returns of the day!</span></p>
+      <p
+        begin="01:29:35.400"
+        end="01:29:37.280"><span region="Default">Mr Agarwal, how are you?</span></p>
+      <p
+        begin="01:29:37.400"
+        end="01:29:40.160"><span region="Default">You didn't have to...<br/>Thank you so much.</span></p>
+      <p
+        begin="01:29:40.280"
+        end="01:29:43.120"><span region="Default">So nice of you to come!<br/>Thank you.</span></p>
+      <p
+        begin="01:29:43.240"
+        end="01:29:45.360"><span region="Default">Beautiful flowers!<br/>Thank you so much.</span></p>
+      <p
+        begin="01:29:45.880"
+        end="01:29:47.960"><span region="Default">Take this.<br/>Where's the photographer?</span></p>
+      <p
+        begin="01:29:48.600"
+        end="01:29:49.960"><span region="Default">Where is he?</span></p>
+      <p
+        begin="01:29:50.280"
+        end="01:29:52.880"><span region="Default">Ved Prakash?<br/>Where's the photographer?</span></p>
+      <p
+        begin="01:29:53.600"
+        end="01:29:54.840"><span region="Default">Take a picture.</span></p>
+      <p
+        begin="01:29:55.600"
+        end="01:29:58.440"><span region="Default">Happy Birthday to you!</span></p>
+      <p
+        begin="01:29:58.640"
+        end="01:30:01.240"><span region="Default">You're 65, old man!</span></p>
+      <p
+        begin="01:30:37.560"
+        end="01:30:40.240"><span region="Default">If we all stand united,<br/>our country will be unbeatable!</span></p>
+      <p
+        begin="01:30:40.440"
+        end="01:30:41.040"><span region="Default">Absolutely.</span></p>
+      <p
+        begin="01:30:41.160"
+        end="01:30:44.240"><span region="Default">If that's the case,<br/>why are you moving abroad?</span></p>
+      <p
+        begin="01:30:44.360"
+        end="01:30:45.360"><span region="Default">Good question.</span></p>
+      <p
+        begin="01:30:45.560"
+        end="01:30:46.560"><span region="Default">It's too hot here.</span></p>
+      <p
+        begin="01:30:46.680"
+        end="01:30:49.160"><span region="Default">That reminds me...<br/>Shikanji? Shikanji?</span></p>
+      <p
+        begin="01:30:49.280"
+        end="01:30:50.040"><span region="Default">With gin?</span></p>
+      <p
+        begin="01:30:50.160"
+        end="01:30:53.240"><span region="Default">Not just gin,<br/>It goes with vodka, green chillies</span></p>
+      <p
+        begin="01:30:53.360"
+        end="01:30:54.760"><span region="Default">- Sweet, salted, you name it!<br/>- But Tunnu Bhaiyya...</span></p>
+      <p
+        begin="01:30:54.880"
+        end="01:30:56.400"><span region="Default">Let's do a show of hands.</span></p>
+      <p
+        begin="01:30:56.520"
+        end="01:30:57.800"><span region="Default">Anybody for shikanji?</span></p>
+      <p
+        begin="01:30:59.120"
+        end="01:31:01.760"><span region="Default">- One, two, three, four...<br/>- One for me, too!</span></p>
+      <p
+        begin="01:31:01.880"
+        end="01:31:04.600"><span region="Default">Everyone's thirsty now!</span></p>
+      <p
+        begin="01:31:08.360"
+        end="01:31:10.160"><span region="Default">Bhabhi, they've asked for<br/>nine glasses of lemonade.</span></p>
+      <p
+        begin="01:31:10.280"
+        end="01:31:11.680"><span region="Default">Two sweet and salted,<br/>three sweet,</span></p>
+      <p
+        begin="01:31:11.800"
+        end="01:31:14.200"><span region="Default">two salted, four without ice,<br/>and one with green chillies.</span></p>
+      <p
+        begin="01:31:42.040"
+        end="01:31:44.480"><span region="Default">Diwakar, check out this step!</span></p>
+      <p
+        begin="01:31:47.400"
+        end="01:31:49.000"><span region="Default">What are you doing,<br/>Tunnu Bhaiyya?</span></p>
+      <p
+        begin="01:31:50.080"
+        end="01:31:51.520"><span region="Default">Aren't you on social media?</span></p>
+      <p
+        begin="01:31:51.920"
+        end="01:31:53.840"><span region="Default">They're your wife's<br/>dance moves!</span></p>
+      <p
+        begin="01:32:02.240"
+        end="01:32:04.080"><span region="Default">Come on!</span></p>
+      <p
+        begin="01:32:22.160"
+        end="01:32:24.040"><span region="Default">Didn't I ask you<br/>to delete those videos?</span></p>
+      <p
+        begin="01:32:24.720"
+        end="01:32:26.560"><span region="Default">You've humiliated me<br/>in front of everyone!</span></p>
+      <p
+        begin="01:32:27.480"
+        end="01:32:29.120"><span region="Default">And where the hell<br/>is the shikanji!</span></p>
+      <p
+        begin="01:32:32.440"
+        end="01:32:33.720"><span region="Default">Everyone's been waiting!</span></p>
+      <p
+        begin="01:34:16.520"
+        end="01:34:19.280"><span region="Default">Have you gone crazy, Richa?<br/>You need a tight slap!</span></p>
+      <p
+        begin="01:35:30.000"
+        end="01:35:31.560"><span region="Default">Sweetie, that's your home now.</span></p>
+      <p
+        begin="01:35:31.760"
+        end="01:35:35.520"><span region="Default">Who walks out of their home<br/>over such a small issue?</span></p>
+      <p
+        begin="01:35:37.520"
+        end="01:35:40.360"><span region="Default">I'll come along with you.<br/>Just say sorry.</span></p>
+      <p
+        begin="01:35:41.000"
+        end="01:35:42.800"><span region="Default">Sis, when did you come?</span></p>
+      <p
+        begin="01:35:43.440"
+        end="01:35:44.880"><span region="Default">It's so hot outside.</span></p>
+      <p
+        begin="01:35:45.800"
+        end="01:35:48.440"><span region="Default">Calm down, Richu.</span></p>
+      <p
+        begin="01:35:49.280"
+        end="01:35:50.880"><span region="Default">Go, have a glass of cold water.</span></p>
+      <p
+        begin="01:35:51.920"
+        end="01:35:53.440"><span region="Default">And get one for your brother, too.</span></p>
+      <p
+        begin="01:35:53.720"
+        end="01:35:55.160"><span region="Default">- Go.<br/>- I won't.</span></p>
+      <p
+        begin="01:35:55.600"
+        end="01:35:57.400"><span region="Default">Why should I?<br/>Can't he get it himself?</span></p>
+      <p
+        begin="01:35:59.600"
+        end="01:36:02.000"><span region="Default">It's parents like you<br/>who spoil their sons rotten!</span></p>
+      <p
+        begin="01:36:02.320"
+        end="01:36:03.560"><span region="Default">What's the big deal, sweetie?</span></p>
+      <p
+        begin="01:36:03.680"
+        end="01:36:05.800"><span region="Default">Don't patronise me!<br/>I'm your daughter!</span></p>
+      <p
+        begin="01:36:06.480"
+        end="01:36:07.800"><span region="Default">Sweetie this, sweetie that!</span></p>
+      <p
+        begin="01:36:08.080"
+        end="01:36:10.720"><span region="Default">Daughters deserve the same<br/>love and respect as sons!</span></p>
+      <p
+        begin="01:37:05.280"
+        end="01:37:07.800"><span region="Default">Sorry, the first phulka<br/>got a bit burnt...</span></p>
+      <p
+        begin="01:37:08.560"
+        end="01:37:11.400"><span region="Default">It's alright.<br/>First attempts often go wrong.</span></p>
+      <p
+        begin="01:37:12.000"
+        end="01:37:13.920"><span region="Default">Second time's the charm!</span></p>
+      <p
+        begin="01:37:30.280"
+        end="01:37:34.000"><span region="Default">I've left it all behind</span></p>
+      <p
+        begin="01:37:35.800"
+        end="01:37:37.160"><span region="Default">Bindi.</span></p>
+      <p
+        begin="01:37:38.400"
+        end="01:37:41.360"><span region="Default">This journey is mine</span></p>
+      <p
+        begin="01:37:41.480"
+        end="01:37:43.080"><span region="Default">- Are you all ready?<br/>- Yes.</span></p>
+      <p
+        begin="01:37:43.200"
+        end="01:37:45.160"><span region="Default">Warm up a bit.</span></p>
+      <p
+        begin="01:37:46.200"
+        end="01:37:49.240"><span region="Default">Today I step into<br/>a world of my own</span></p>
+      <p
+        begin="01:37:49.360"
+        end="01:37:51.880"><span region="Default">Wow, who got you the bouquet?</span></p>
+      <p
+        begin="01:37:52.560"
+        end="01:37:54.760"><span region="Default">I got it. For myself.</span></p>
+      <p
+        begin="01:37:57.200"
+        end="01:37:59.880"><span region="Default">It was lost</span></p>
+      <p
+        begin="01:38:02.120"
+        end="01:38:04.920"><span region="Default">Left unknown</span></p>
+      <p
+        begin="01:38:07.720"
+        end="01:38:10.840"><span region="Default">A name of my own</span></p>
+      <p
+        begin="01:38:31.840"
+        end="01:38:34.560"><span region="Default">We will rise like a phoenix</span></p>
+      <p
+        begin="01:38:34.680"
+        end="01:38:36.760"><span region="Default">Each time we fall</span></p>
+      <p
+        begin="01:38:37.320"
+        end="01:38:40.200"><span region="Default">We will bloom into the spring</span></p>
+      <p
+        begin="01:38:40.320"
+        end="01:38:42.200"><span region="Default">We will give it our all</span></p>
+      <p
+        begin="01:38:43.400"
+        end="01:38:47.080"><span region="Default">Why not be your own soulmate?</span></p>
+      <p
+        begin="01:38:48.880"
+        end="01:38:52.840"><span region="Default">No one but you can own your fate</span></p>
+      <p
+        begin="01:38:53.440"
+        end="01:38:57.200"><span region="Default">Learn to trust your heart</span></p>
+      <p
+        begin="01:38:58.960"
+        end="01:39:01.640"><span region="Default">We'll rise like a phoenix</span></p>
+      <p
+        begin="01:39:01.760"
+        end="01:39:03.760"><span region="Default">Each time we fall</span></p>
+      <p
+        begin="01:39:04.440"
+        end="01:39:07.360"><span region="Default">We'll bloom into the spring</span></p>
+      <p
+        begin="01:39:07.480"
+        end="01:39:09.240"><span region="Default">We'll give it our all</span></p>
+      <p
+        begin="01:39:37.240"
+        end="01:39:39.560"><span region="Default">Obscuring your vision</span></p>
+      <p
+        begin="01:39:39.680"
+        end="01:39:42.000"><span region="Default">When darkness creeps in</span></p>
+      <p
+        begin="01:39:42.640"
+        end="01:39:44.960"><span region="Default">Illuminate your path</span></p>
+      <p
+        begin="01:39:45.080"
+        end="01:39:47.240"><span region="Default">With the light within</span></p>
+      <p
+        begin="01:39:47.800"
+        end="01:39:51.480"><span region="Default">You're a flame set ablaze</span></p>
+      <p
+        begin="01:39:51.840"
+        end="01:39:55.520"><span region="Default">You're the roar that resonates</span></p>
+      <p
+        begin="01:39:56.600"
+        end="01:40:00.000"><span region="Default">Far across every land</span></p>
+      <p
+        begin="01:40:01.320"
+        end="01:40:04.000"><span region="Default">We'll rise like a phoenix</span></p>
+      <p
+        begin="01:40:04.120"
+        end="01:40:06.080"><span region="Default">Each time we fall</span></p>
+      <p
+        begin="01:40:06.760"
+        end="01:40:09.760"><span region="Default">We'll bloom into the spring</span></p>
+      <p
+        begin="01:40:09.880"
+        end="01:40:11.800"><span region="Default">We'll give it our all</span></p>
+      <p
+        begin="01:40:36.920"
+        end="01:40:39.400"><span region="Default">For ages you held a fire</span></p>
+      <p
+        begin="01:40:39.520"
+        end="01:40:41.920"><span region="Default">Brewing within you</span></p>
+      <p
+        begin="01:40:42.280"
+        end="01:40:44.600"><span region="Default">Now it shows the path</span></p>
+      <p
+        begin="01:40:44.720"
+        end="01:40:47.200"><span region="Default">As you break out<br/>of your shadow</span></p>
+      <p
+        begin="01:40:47.720"
+        end="01:40:49.520"><span region="Default">Its sparks flickering</span></p>
+      <p
+        begin="01:40:50.400"
+        end="01:40:52.040"><span region="Default">Like the moon rising</span></p>
+      <p
+        begin="01:40:53.120"
+        end="01:40:55.280"><span region="Default">Look, behold</span></p>
+      <p
+        begin="01:40:55.800"
+        end="01:40:58.160"><span region="Default">A thing of such beauty</span></p>
+      <p
+        begin="01:40:58.280"
+        end="01:41:00.760"><span region="Default">We will rise like a phoenix</span></p>
+      <p
+        begin="01:41:00.880"
+        end="01:41:02.440"><span region="Default">Each time we fall</span></p>
+      <p
+        begin="01:41:03.480"
+        end="01:41:06.040"><span region="Default">We will bloom into the spring</span></p>
+      <p
+        begin="01:41:06.400"
+        end="01:41:08.160"><span region="Default">We will give it our all</span></p>
+    </div>
+  </body>
+</tt>
