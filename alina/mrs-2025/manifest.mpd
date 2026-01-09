@@ -613,20 +613,38 @@
         </SegmentTemplate>
       </Representation>
       <AudioChannelConfiguration schemeIdUri="urn:mpeg:mpegB:cicp:ChannelConfiguration" value="2"/>
-    </AdaptationSet>
-    <AdaptationSet lang="en" mimeType="text/vtt">
-      <Role schemeIdUri="urn:mpeg:dash:role" value="subtitle"/>
-      <Label>en</Label>
-      <Representation bandwidth="256" id="subtitle_en">
-        <BaseURL>manifest-en.vtt</BaseURL>
-      </Representation>
-    </AdaptationSet>
-    <AdaptationSet lang="en" mimeType="text/vtt">
-      <Role schemeIdUri="urn:mpeg:dash:role" value="subtitle"/>
-      <Label>en</Label>
-      <Representation bandwidth="256" id="subtitle_en">
-        <BaseURL>manifest-en.vtt</BaseURL>
-      </Representation>
-    </AdaptationSet>
-  </Period>
+
+<!-- Subtitles AdaptationSet for Malay -->
+<AdaptationSet
+    contentType="text"
+    lang="ms"
+    label="Bahasa Melayu"
+    mimeType="application/ttml+xml">
+
+    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+    <Representation id="textstream_ms_1" bandwidth="256">
+        <BaseURL>https://adamlink666.github.io/school/alina/mrs-2025/</BaseURL>
+        <SegmentList>
+            <SegmentURL media="subtitles_msa.ttml"/>
+        </SegmentList>
+    </Representation>
+</AdaptationSet>
+
+<!-- Subtitles AdaptationSet for English -->
+<AdaptationSet
+    contentType="text"
+    lang="en"
+    label="English"
+    mimeType="application/ttml+xml">
+
+    <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+    <Representation id="textstream_en_1" bandwidth="256">
+        <BaseURL>https://adamlink666.github.io/school/alina/mrs-2025/</BaseURL>
+        <SegmentList>
+            <SegmentURL media="subtitles_eng.ttml"/>
+        </SegmentList>
+    </Representation>
+</AdaptationSet>
+
+</Period>
 </MPD>
