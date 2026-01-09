@@ -625,7 +625,7 @@
 
     <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
     <Representation id="textstream_ms_1" bandwidth="256">
-        <BaseURL>https://adamlink666.github.io/school/alina/robinhood-2025/</BaseURL>
+        <BaseURL>https://adamlink666.github.io/school/alina/mrs-2025/</BaseURL>
         <SegmentList>
             <SegmentURL media="subtitles_msa.ttml"/>
         </SegmentList>
