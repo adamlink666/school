@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MPD xmlns:cenc="urn:mpeg:cenc:2013" xmlns:mspr="urn:microsoft:playready" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="urn:mpeg:dash:schema:mpd:2011" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd" minBufferTime="PT0H0M2.000S" mediaPresentationDuration="PT1H46M55.744S" type="static" profiles="urn:mpeg:dash:profile:isoff-live:2011">
   <Period start="PT0S" duration="PT1H46M55.744S">
-  <BaseURL>https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/</BaseURL>
     <AdaptationSet contentType="video" mimeType="video/mp4" maxWidth="1920" maxHeight="1080" maxFrameRate="25" segmentAlignment="true" startWithSAP="1" frameRate="25" scanType="progressive">
       <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" value="cenc" cenc:default_KID="0e1cf4f2-f8cb-3698-a2c6-017fb1cf886c"/>
       <ContentProtection schemeIdUri="urn:uuid:9a04f079-9840-4286-ab92-e65be0885f95" cenc:default_KID="0e1cf4f2-f8cb-3698-a2c6-017fb1cf886c">
@@ -13,7 +12,7 @@
       </ContentProtection>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <Representation id="240p_5362478a4247b20f8dc80c1f3a864e80" bandwidth="360000" codecs="avc1.4d401f" width="428" height="240">
-        <SegmentTemplate timescale="90000" initialization="manifest240p_5362478a4247b20f8dc80c1f3a864e80/240p_5362478a4247b20f8dc80c1f3a864e80init.mp4" media="manifest240p_5362478a4247b20f8dc80c1f3a864e80/240p_5362478a4247b20f8dc80c1f3a864e80_00000000$Number$.mp4" startNumber="1">
+        <SegmentTemplate timescale="90000" initialization="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifest240p_5362478a4247b20f8dc80c1f3a864e80/240p_5362478a4247b20f8dc80c1f3a864e80init.mp4" media="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifest240p_5362478a4247b20f8dc80c1f3a864e80/240p_5362478a4247b20f8dc80c1f3a864e80_00000000$Number$.mp4" startNumber="1">
           <SegmentTimeline>
             <S d="540000" r="1068" t="0"/>
             <S d="154800"/>
@@ -21,7 +20,7 @@
         </SegmentTemplate>
       </Representation>
       <Representation id="360p_321e36c9430ee1ef8e20997f6855c803" bandwidth="600000" codecs="avc1.4d401f" width="640" height="360">
-        <SegmentTemplate timescale="90000" initialization="manifest360p_321e36c9430ee1ef8e20997f6855c803/360p_321e36c9430ee1ef8e20997f6855c803init.mp4" media="manifest360p_321e36c9430ee1ef8e20997f6855c803/360p_321e36c9430ee1ef8e20997f6855c803_00000000$Number$.mp4" startNumber="1">
+        <SegmentTemplate timescale="90000" initialization="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifest360p_321e36c9430ee1ef8e20997f6855c803/360p_321e36c9430ee1ef8e20997f6855c803init.mp4" media="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifest360p_321e36c9430ee1ef8e20997f6855c803/360p_321e36c9430ee1ef8e20997f6855c803_00000000$Number$.mp4" startNumber="1">
           <SegmentTimeline>
             <S d="540000" r="1068" t="0"/>
             <S d="154800"/>
@@ -29,7 +28,7 @@
         </SegmentTemplate>
       </Representation>
       <Representation id="480p_5eebedd0d7c69b7d3af964ed0c3c8dfc" bandwidth="1100000" codecs="avc1.4d401f" width="854" height="480">
-        <SegmentTemplate timescale="90000" initialization="manifest480p_5eebedd0d7c69b7d3af964ed0c3c8dfc/480p_5eebedd0d7c69b7d3af964ed0c3c8dfcinit.mp4" media="manifest480p_5eebedd0d7c69b7d3af964ed0c3c8dfc/480p_5eebedd0d7c69b7d3af964ed0c3c8dfc_00000000$Number$.mp4" startNumber="1">
+        <SegmentTemplate timescale="90000" initialization="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifest480p_5eebedd0d7c69b7d3af964ed0c3c8dfc/480p_5eebedd0d7c69b7d3af964ed0c3c8dfcinit.mp4" media="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifest480p_5eebedd0d7c69b7d3af964ed0c3c8dfc/480p_5eebedd0d7c69b7d3af964ed0c3c8dfc_00000000$Number$.mp4" startNumber="1">
           <SegmentTimeline>
             <S d="540000" r="1068" t="0"/>
             <S d="154800"/>
@@ -37,7 +36,7 @@
         </SegmentTemplate>
       </Representation>
       <Representation id="576p_759b66bba2d7a2089fd1b4b8484ff4b0" bandwidth="1350000" codecs="avc1.4d4029" width="1024" height="576">
-        <SegmentTemplate timescale="90000" initialization="manifest576p_759b66bba2d7a2089fd1b4b8484ff4b0/576p_759b66bba2d7a2089fd1b4b8484ff4b0init.mp4" media="manifest576p_759b66bba2d7a2089fd1b4b8484ff4b0/576p_759b66bba2d7a2089fd1b4b8484ff4b0_00000000$Number$.mp4" startNumber="1">
+        <SegmentTemplate timescale="90000" initialization="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifest576p_759b66bba2d7a2089fd1b4b8484ff4b0/576p_759b66bba2d7a2089fd1b4b8484ff4b0init.mp4" media="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifest576p_759b66bba2d7a2089fd1b4b8484ff4b0/576p_759b66bba2d7a2089fd1b4b8484ff4b0_00000000$Number$.mp4" startNumber="1">
           <SegmentTimeline>
             <S d="540000" r="1068" t="0"/>
             <S d="154800"/>
@@ -45,7 +44,7 @@
         </SegmentTemplate>
       </Representation>
       <Representation id="720highp_102b06689d8f98234bbb702efea4ee99" bandwidth="2000000" codecs="avc1.4d4029" width="1280" height="720">
-        <SegmentTemplate timescale="90000" initialization="manifest720highp_102b06689d8f98234bbb702efea4ee99/720highp_102b06689d8f98234bbb702efea4ee99init.mp4" media="manifest720highp_102b06689d8f98234bbb702efea4ee99/720highp_102b06689d8f98234bbb702efea4ee99_00000000$Number$.mp4" startNumber="1">
+        <SegmentTemplate timescale="90000" initialization="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifest720highp_102b06689d8f98234bbb702efea4ee99/720highp_102b06689d8f98234bbb702efea4ee99init.mp4" media="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifest720highp_102b06689d8f98234bbb702efea4ee99/720highp_102b06689d8f98234bbb702efea4ee99_00000000$Number$.mp4" startNumber="1">
           <SegmentTimeline>
             <S d="540000" r="1068" t="0"/>
             <S d="154800"/>
@@ -53,7 +52,7 @@
         </SegmentTemplate>
       </Representation>
       <Representation id="1080lowp_e1ba9b12f3edf9e3de3603255a0ec813" bandwidth="3800000" codecs="avc1.640029" width="1920" height="1080">
-        <SegmentTemplate timescale="90000" initialization="manifest1080lowp_e1ba9b12f3edf9e3de3603255a0ec813/1080lowp_e1ba9b12f3edf9e3de3603255a0ec813init.mp4" media="manifest1080lowp_e1ba9b12f3edf9e3de3603255a0ec813/1080lowp_e1ba9b12f3edf9e3de3603255a0ec813_00000000$Number$.mp4" startNumber="1">
+        <SegmentTemplate timescale="90000" initialization="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifest1080lowp_e1ba9b12f3edf9e3de3603255a0ec813/1080lowp_e1ba9b12f3edf9e3de3603255a0ec813init.mp4" media="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifest1080lowp_e1ba9b12f3edf9e3de3603255a0ec813/1080lowp_e1ba9b12f3edf9e3de3603255a0ec813_00000000$Number$.mp4" startNumber="1">
           <SegmentTimeline>
             <S d="540000" r="1068" t="0"/>
             <S d="154800"/>
@@ -72,7 +71,7 @@
       </ContentProtection>
       <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
       <Representation id="Hindi" bandwidth="328400">
-        <SegmentTemplate timescale="90000" initialization="manifestHindi/Hindiinit.mp4" media="manifestHindi/Hindi_00000000$Number$.mp4" startNumber="1">
+        <SegmentTemplate timescale="90000" initialization="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifestHindi/Hindiinit.mp4" media="https://zee5vod.akamaized.net/drm1/titanfile/dash/MOVIES/V2PRIME/4K/SUPER_PREMIUM/DDPLUS/MRS/MRS_4K_10022025_hi_722d8cd517fda96a39d7abd6234dd506/manifestHindi/Hindi_00000000$Number$.mp4" startNumber="1">
           <SegmentTimeline>
             <S d="541440" t="0"/>
             <S d="539520" r="2"/>
