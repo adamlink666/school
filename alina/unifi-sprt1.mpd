@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<MPD profiles="urn:mpeg:dash:profile:isoff-live:2011" type="dynamic" availabilityStartTime="2026-01-10T15:04:53Z" minimumUpdatePeriod="PT4.0S" minBufferTime="PT4.0S" publishTime="2026-03-04T22:48:05.775Z" timeShiftBufferDepth="PT60.0S" suggestedPresentationDelay="PT4.0S" xmlns="urn:mpeg:dash:schema:mpd:2011" xmlns:cenc="urn:mpeg:cenc:2013" xmlns:hlit-scte35="urn:hlit:scte35:2020:1" xmlns:mspr="urn:microsoft:playready" xmlns:scte35="urn:scte:scte35:2014:xml+bin" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:mpeg:dash:schema:mpd:2011 DASH-MPD.xsd">
+  <BaseURL>https://unifi-live2.secureswiftcontent.com/Content/DASH/Live/channel(unifi1)/</BaseURL>
+	<Period start="P53DT7H22M27.0016844S" id="13779">
+		<AdaptationSet mimeType="video/mp4" startWithSAP="1" segmentAlignment="true" par="16:9">
+  <ContentProtection schemeIdUri="urn:uuid:e2719d58-a985-b3c9-781a-b030af78d30e">
+    <cenc:pssh>
+      AAAANHBzc2gAAAAAmgTweJBAAAABAAAAAQAAAAEAAAAS
+    </cenc:pssh>
+  </ContentProtection>
+			<ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011"
+      value="cenc"
+      cenc:default_KID="aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee"/>
+			
+			
+			<SegmentTemplate timescale="10000000" presentationTimeOffset="46057470016844" media="$RepresentationID$_Segment-$Time$.m4v" initialization="$RepresentationID$_init.m4i">
+				<SegmentTimeline>
+					<S t="46069450016844" d="40000000" r="14" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation width="480" height="270" frameRate="25" codecs="avc1.428016" scanType="progressive" sar="1:1" id="1768057480763item-01item" bandwidth="500000" />
+			<Representation width="640" height="360" frameRate="25" codecs="avc1.4d4020" scanType="progressive" sar="1:1" id="1768057480763item-02item" bandwidth="1000000" />
+			<Representation width="960" height="540" frameRate="25" codecs="avc1.4d4029" scanType="progressive" sar="1:1" id="1768057480763item-03item" bandwidth="2000000" />
+			<Representation width="1280" height="720" frameRate="25" codecs="avc1.640029" scanType="progressive" sar="1:1" id="1768057480763item-04item" bandwidth="3000000" />
+			<Representation width="1920" height="1080" frameRate="25" codecs="avc1.64002a" scanType="progressive" sar="1:1" id="1768057480763item-05item" bandwidth="4000000" />
+		</AdaptationSet>
+		<AdaptationSet mimeType="audio/mp4" startWithSAP="1" lang="eng" segmentAlignment="true">
+  <ContentProtection schemeIdUri="urn:uuid:e2719d58-a985-b3c9-781a-b030af78d30e">
+    <cenc:pssh>
+      AAAANHBzc2gAAAAAmgTweJBAAAABAAAAAQAAAAEAAAAS
+    </cenc:pssh>
+  </ContentProtection>
+			<ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011"
+      value="cenc"
+      cenc:default_KID="aaaaaaaa-bbbb-cccc-dddd-eeeeeeeeeeee"/>
+			
+			
+			<SegmentTemplate timescale="10000000" presentationTimeOffset="46057470016844" media="$RepresentationID$_Segment-$Time$.m4a" initialization="$RepresentationID$_init.m4i">
+				<SegmentTimeline>
+					<S t="46069450349733" d="39680000" />
+					<S t="46069490029733" d="40106667" />
+					<S t="46069530136400" d="40106666" />
+					<S t="46069570243066" d="40106667" />
+					<S t="46069610349733" d="39680000" />
+					<S t="46069650029733" d="40106667" />
+					<S t="46069690136400" d="40106666" />
+					<S t="46069730243066" d="40106667" />
+					<S t="46069770349733" d="39680000" />
+					<S t="46069810029733" d="40106667" />
+					<S t="46069850136400" d="40106666" />
+					<S t="46069890243066" d="40106667" />
+					<S t="46069930349733" d="39680000" />
+					<S t="46069970029733" d="40106667" />
+					<S t="46070010136400" d="40106666" />
+				</SegmentTimeline>
+			</SegmentTemplate>
+			<Representation audioSamplingRate="48000" codecs="mp4a.40.5" id="1768057480763item-06item" bandwidth="64000" />
+		</AdaptationSet>
+	</Period>
+</MPD>
