@@ -28,7 +28,10 @@
     
     <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
     <Representation id="textstream_ms_1" bandwidth="256">
-        <URL>https://cmgo-static.enhance.diagnal.com/d4f7b187-6530-40e2-b5e5-4574a9c484fc_subtitlecmgo657ne-zha-2mysrev3.ttml</URL>
+        <URL>https://cmgo-static.enhance.diagnal.com/</URL>
+        <SegmentList>
+            <SegmentURL media="d4f7b187-6530-40e2-b5e5-4574a9c484fc_subtitlecmgo657ne-zha-2mysrev3.ttml"/>
+        </SegmentList>
     </Representation>
 </AdaptationSet>
 
