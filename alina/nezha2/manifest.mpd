@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <MPD xmlns="urn:mpeg:dash:schema:mpd:2011" id="c2dc3aa0-9224-4b46-83ab-390356ef5dd9" profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264" type="static" mediaPresentationDuration="P0Y0M0DT2H24M11.000S" minBufferTime="P0Y0M0DT0H0M2.000S" xmlns:ns2="http://www.w3.org/1999/xlink">
   <Period id="5c80bd95-ea33-4fe4-b4fb-5753ad240e31">
+<BaseURL>https://vcdn.cmgo.com/cmgo657/00edb24a-b10e-42ea-9384-84f66e666a0c/</BaseURL>
     <AdaptationSet mimeType="video/mp4" segmentAlignment="true" par="16:9">
       <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" xmlns:cenc="urn:mpeg:cenc:2013" cenc:default_KID="e16719c3-2db6-520c-9ade-22b60869866a" value="cenc"/>
       <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
@@ -39,7 +40,7 @@
     
     <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
     <Representation id="textstream_ms_1" bandwidth="256">
-        <BaseURL>https://adamlink666.github.io/school/alina/nezha2-2025/</BaseURL>
+        <URL>https://adamlink666.github.io/school/alina/nezha2-2025/</URL>
         <SegmentList>
             <SegmentURL media="subtitles_msa.ttml"/>
         </SegmentList>
@@ -55,7 +56,7 @@
     
     <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
     <Representation id="textstream_en_1" bandwidth="256">
-        <BaseURL>https://adamlink666.github.io/school/alina/nezha2-2025/</BaseURL>
+        <URL>https://adamlink666.github.io/school/alina/nezha2-2025/</URL>
         <SegmentList>
             <SegmentURL media="subtitles_eng.ttml"/>
         </SegmentList>
@@ -71,7 +72,7 @@
     
     <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
     <Representation id="textstream_zh_1" bandwidth="256">
-        <BaseURL>https://adamlink666.github.io/school/alina/nezha2-2025/</BaseURL>
+        <URL>https://adamlink666.github.io/school/alina/nezha2-2025/</URL>
         <SegmentList>
             <SegmentURL media="subtitles_chi.ttml"/>
         </SegmentList>
