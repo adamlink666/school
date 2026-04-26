@@ -40,7 +40,7 @@
     
     <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
     <Representation id="textstream_ms_1" bandwidth="256">
-        <URL>https://adamlink666.github.io/school/alina/nezha2-2025/</URL>
+        <URL>https://adamlink666.github.io/school/alina/nezha2/</URL>
         <SegmentList>
             <SegmentURL media="subtitles_msa.ttml"/>
         </SegmentList>
@@ -56,7 +56,7 @@
     
     <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
     <Representation id="textstream_en_1" bandwidth="256">
-        <URL>https://adamlink666.github.io/school/alina/nezha2-2025/</URL>
+        <URL>https://adamlink666.github.io/school/alina/nezha2/</URL>
         <SegmentList>
             <SegmentURL media="subtitles_eng.ttml"/>
         </SegmentList>
@@ -72,7 +72,7 @@
     
     <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
     <Representation id="textstream_zh_1" bandwidth="256">
-        <URL>https://adamlink666.github.io/school/alina/nezha2-2025/</URL>
+        <URL>https://adamlink666.github.io/school/alina/nezha2/</URL>
         <SegmentList>
             <SegmentURL media="subtitles_chi.ttml"/>
         </SegmentList>
