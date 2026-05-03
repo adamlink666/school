@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" id="a8857c50-0a7a-4b2e-81e1-64851b240ca6" profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264" type="static" mediaPresentationDuration="P0Y0M0DT1H43M43.000S" minBufferTime="P0Y0M0DT0H0M2.000S" xmlns:ns2="http://www.w3.org/1999/xlink">
+  <Period id="524b0b52-0dfe-4dc9-afd2-d07cd1585c4a">
+  <BaseURL>https://vcdn.cmgo.com/cmgo91/d359e8c4-c145-4ea6-9788-9d9ab42b64f8/</BaseURL>   
+    <AdaptationSet mimeType="video/mp4" segmentAlignment="true" par="16:9">
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" xmlns:cenc="urn:mpeg:cenc:2013" cenc:default_KID="1426699d-9650-5891-b136-e7ced2f59d12" value="cenc"/>
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAhHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGQSEBQmaZ2WUFiRsTbnztL1nRIaJGY2YTc0MzFmLTlmYTYtNDJiZi1hNjEyLWRmNjZlOTNhNTA3NCIkMTQyNjY5OWQtOTY1MC01ODkxLWIxMzYtZTdjZWQyZjU5ZDEySOPclZsG</cenc:pssh>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <Representation id="6c26788f-fb16-4139-b0d2-a04b6022167d" bandwidth="3500000" width="1920" height="1080" codecs="avc1.4D4028" sar="1:1" frameRate="25">
+        <SegmentTemplate media="video/1080/3500000/widevine/segment_$Number$.m4s" startNumber="0" timescale="25000" duration="100000" initialization="video/1080/3500000/widevine/init.mp4"/>
+      </Representation>
+      <Representation id="a39b88ee-1b80-47fb-a083-fa88dda0ba8f" bandwidth="500000" width="960" height="540" codecs="avc1.4D401F" sar="1:1" frameRate="25">
+        <SegmentTemplate media="video/540/500000/widevine/segment_$Number$.m4s" startNumber="0" timescale="25000" duration="100000" initialization="video/540/500000/widevine/init.mp4"/>
+      </Representation>
+      <Representation id="60304459-2414-4b8d-9178-f891704813eb" bandwidth="1322875" width="1280" height="720" codecs="avc1.4D401F" sar="1:1" frameRate="25">
+        <SegmentTemplate media="video/720/1322875/widevine/segment_$Number$.m4s" startNumber="0" timescale="25000" duration="100000" initialization="video/720/1322875/widevine/init.mp4"/>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet mimeType="audio/mp4" segmentAlignment="true" lang="zh-mandarin">
+      <Label>Mandarin</Label>
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" xmlns:cenc="urn:mpeg:cenc:2013" cenc:default_KID="1426699d-9650-5891-b136-e7ced2f59d12" value="cenc"/>
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAhHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGQSEBQmaZ2WUFiRsTbnztL1nRIaJGY2YTc0MzFmLTlmYTYtNDJiZi1hNjEyLWRmNjZlOTNhNTA3NCIkMTQyNjY5OWQtOTY1MC01ODkxLWIxMzYtZTdjZWQyZjU5ZDEySOPclZsG</cenc:pssh>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="alternate"/>
+      <Representation id="db13b7db-9383-4545-9c08-72b9e94f1eea" bandwidth="128000" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <SegmentTemplate media="audio/zh-mandarin_1/widevine/segment_$Number$.m4s" startNumber="0" timescale="48000" duration="192000" initialization="audio/zh-mandarin_1/widevine/init.mp4"/>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet mimeType="audio/mp4" segmentAlignment="true" lang="zh-cantonese">
+      <Label>Cantonese</Label>
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <ContentProtection schemeIdUri="urn:mpeg:dash:mp4protection:2011" xmlns:cenc="urn:mpeg:cenc:2013" cenc:default_KID="1426699d-9650-5891-b136-e7ced2f59d12" value="cenc"/>
+      <ContentProtection schemeIdUri="urn:uuid:edef8ba9-79d6-4ace-a3c8-27dcd51d21ed">
+        <cenc:pssh xmlns:cenc="urn:mpeg:cenc:2013">AAAAhHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAAGQSEBQmaZ2WUFiRsTbnztL1nRIaJGY2YTc0MzFmLTlmYTYtNDJiZi1hNjEyLWRmNjZlOTNhNTA3NCIkMTQyNjY5OWQtOTY1MC01ODkxLWIxMzYtZTdjZWQyZjU5ZDEySOPclZsG</cenc:pssh>
+      </ContentProtection>
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <Representation id="29b5fc7c-c040-4104-8180-835a9674cb2b" bandwidth="128000" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <SegmentTemplate media="audio/zh-cantonese_0/widevine/segment_$Number$.m4s" startNumber="0" timescale="48000" duration="192000" initialization="audio/zh-cantonese_0/widevine/init.mp4"/>
+      </Representation>
+    </AdaptationSet>
+	
+    <AdaptationSet contentType="text" lang="ms" label="Bahasa Melayu" mimeType="application/ttml+xml">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <Representation id="textstream_ms_1" bandwidth="256">
+        <SegmentList>
+          <SegmentURL media="https://cmgo-static.enhance.diagnal.com/e6c6f807-360d-4147-a211-21c9892b0912_subtitlecmgo091ip-man-2mys.ttml"/>
+        </SegmentList>
+      </Representation>
+    </AdaptationSet>
+
+    <AdaptationSet contentType="text" lang="en" label="English" mimeType="application/ttml+xml">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <Representation id="textstream_en_1" bandwidth="256">
+        <SegmentList>
+          <SegmentURL media="https://cmgo-static.enhance.diagnal.com/79d080bf-092a-36e3-882d-607431cf4d5e_subtitlecmgo91ip-man-2gbr.ttml"/>
+        </SegmentList>
+      </Representation>
+    </AdaptationSet>
+
+    <AdaptationSet contentType="text" lang="zh" label="Chinese" mimeType="application/ttml+xml">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <Representation id="textstream_zh_1" bandwidth="256">
+        <SegmentList>
+          <SegmentURL media="https://cmgo-static.enhance.diagnal.com/f90f20b0-ef8c-37e5-8ae4-92abf3d33fab_subtitlecmgo91ip-man-2sim.ttml"/>
+        </SegmentList>
+      </Representation>
+    </AdaptationSet>	
+	
+  </Period>
+</MPD>
