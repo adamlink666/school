@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MPD xmlns="urn:mpeg:dash:schema:mpd:2011" id="e3c09162-ae46-4fe2-9cd5-57383877b7a4" profiles="urn:mpeg:dash:profile:isoff-live:2011,urn:com:dashif:dash264" type="static" mediaPresentationDuration="P0Y0M0DT0H1M25.000S" minBufferTime="P0Y0M0DT0H0M2.000S" xmlns:ns2="http://www.w3.org/1999/xlink">
+  <Period id="f2cc5765-df5e-4de2-b2e9-c6c7ffbfc8b4">
+  <BaseURL>https://vcdn.cmgo.com/cmgo816/ca2d003b-47ae-4ab8-a326-d96056b5aacd/</BaseURL>
+    <AdaptationSet mimeType="video/mp4" segmentAlignment="true" par="16:9">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="main"/>
+      <Representation id="236454f7-4d8f-4c3e-b133-66d885e320f7" bandwidth="500000" width="960" height="540" codecs="avc1.4D401F" sar="1:1" frameRate="25">
+        <SegmentTemplate media="video/540/500000/segment_$Number$.m4s" startNumber="0" timescale="25000" duration="100000" initialization="video/540/500000/init.mp4"/>
+      </Representation>
+      <Representation id="f25d4c01-32b7-4edb-b362-6cabb072c0bb" bandwidth="2840087" width="1920" height="1080" codecs="avc1.4D4028" sar="1:1" frameRate="25">
+        <SegmentTemplate media="video/1080/2840087/segment_$Number$.m4s" startNumber="0" timescale="25000" duration="100000" initialization="video/1080/2840087/init.mp4"/>
+      </Representation>
+      <Representation id="d74b8320-8aab-44a4-9a04-5369b66e168c" bandwidth="1191655" width="1280" height="720" codecs="avc1.4D401F" sar="1:1" frameRate="25">
+        <SegmentTemplate media="video/720/1191655/segment_$Number$.m4s" startNumber="0" timescale="25000" duration="100000" initialization="video/720/1191655/init.mp4"/>
+      </Representation>
+    </AdaptationSet>
+    <AdaptationSet mimeType="audio/mp4" segmentAlignment="true" lang="und">
+      <Label>Undefined</Label>
+      <AudioChannelConfiguration schemeIdUri="urn:mpeg:dash:23003:3:audio_channel_configuration:2011" value="2"/>
+      <Representation id="404388be-a4fc-45ad-989a-577e5e4846ae" bandwidth="128000" codecs="mp4a.40.2" audioSamplingRate="48000">
+        <SegmentTemplate media="audio/segment_$Number$.m4s" startNumber="0" timescale="48000" duration="192000" initialization="audio/init.mp4"/>
+      </Representation>
+    </AdaptationSet>
+	
+    <AdaptationSet contentType="text" lang="ms" label="Bahasa Melayu" mimeType="application/ttml+xml">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <Representation id="textstream_ms_1" bandwidth="256">
+        <SegmentList>
+          <SegmentURL media="https://cmgo-static.enhance.diagnal.com/7c5e2d83-f492-4a41-a797-61ec4adc6d15_subtitlecmgo816ip-man-4-the-finalemys.ttml"/>
+        </SegmentList>
+      </Representation>
+    </AdaptationSet>
+
+    <AdaptationSet contentType="text" lang="en" label="English" mimeType="application/ttml+xml">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <Representation id="textstream_en_1" bandwidth="256">
+        <SegmentList>
+          <SegmentURL media="https://cmgo-static.enhance.diagnal.com/be408416-a4ba-4476-9398-41f1c95f931c_subtitlecmgo816ip-man-4-the-finalegbr.ttml"/>
+        </SegmentList>
+      </Representation>
+    </AdaptationSet>
+
+    <AdaptationSet contentType="text" lang="zh" label="Chinese" mimeType="application/ttml+xml">
+      <Role schemeIdUri="urn:mpeg:dash:role:2011" value="subtitle" />
+      <Representation id="textstream_zh_1" bandwidth="256">
+        <SegmentList>
+          <SegmentURL media="https://cmgo-static.enhance.diagnal.com/57dac2f5-7ff2-4a98-828e-03df5b5388e1_subtitlecmgo816ip-man-4-the-finalesim.ttml"/>
+        </SegmentList>
+      </Representation>
+    </AdaptationSet>	
+	
+  </Period>
+</MPD>
